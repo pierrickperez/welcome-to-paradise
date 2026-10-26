@@ -365,6 +365,14 @@ def write_feed(episodes):
     ET.register_namespace("itunes", "http://www.itunes.com/dtds/podcast-1.0.dtd")
     rss = ET.Element("rss", version="2.0")
     channel = ET.SubElement(rss, "channel")
+    itunes_ns = "http://www.itunes.com/dtds/podcast-1.0.dtd"
+    ET.register_namespace("itunes", itunes_ns)
+
+    ET.SubElement(
+    channel,
+    f"{{{itunes_ns}}}image",
+    href=f"{BASE_URL}/cover.png"
+    )
 
     def add(parent, name, value):
         ET.SubElement(parent, name).text = str(value)
