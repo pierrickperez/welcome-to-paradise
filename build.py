@@ -22,7 +22,11 @@ SITE = ROOT / "docs"
 EPISODES = SITE / "episodes"
 TIMEZONE = ZoneInfo("Europe/Paris")
 MODEL = os.getenv("OPENAI_MODEL", "gpt-4.1-mini")
-VOICE = os.getenv("VOICE", "en-GB-RyanNeural")
+VOICE = os.getenv("VOICE", "en-GB-ThomasNeural")
+INTRO_VOICE = os.getenv("INTRO_VOICE", "en-US-GuyNeural")
+INTRO_RATE = os.getenv("INTRO_RATE", "+22%")
+INTRO_PITCH = os.getenv("INTRO_PITCH", "+35Hz")
+NARRATION_RATE = os.getenv("NARRATION_RATE", "-2%")
 BASE_URL = os.getenv("PODCAST_BASE_URL", "").strip().rstrip("/")
 MAX_EPISODES = 5
 FORCE_RUN = os.getenv("FORCE_RUN", "").lower() in ("true", "1", "yes")
@@ -298,19 +302,43 @@ def split_for_tts(text, limit=2300):
 
 
 async def generate_audio_async(narration, output_file):
+    """Use a theatrical original announcer intro and a separate British presenter."""
     output_file.parent.mkdir(parents=True, exist_ok=True)
+
+    # The editorial script begins with the programme name. Remove that one
+    # occurrence so the news presenter doesn't repeat the opening announcer.
+    narration = re.sub(
+        r"^\s*welcome to paradise\s*[!.:,—-]*\s*",
+        "",
+        narration,
+        count=1,
+        flags=re.IGNORECASE,
+    ).strip()
+    if not narration:
+        raise RuntimeError("Narration is empty after removing opening title")
+
     chunks = split_for_tts(narration)
     parts = []
     manifest = output_file.with_suffix(".concat.txt")
     try:
+        intro = output_file.parent / "_part_000_intro.mp3"
+        print("Generating theatrical opening (original voice, not actor imitation)")
+        await edge_tts.Communicate(
+            "Welcooome... to Paradise!",
+            INTRO_VOICE,
+            rate=INTRO_RATE,
+            pitch=INTRO_PITCH,
+        ).save(str(intro))
+        parts.append(intro)
+
         for i, chunk in enumerate(chunks, 1):
-            print(f"Generating audio segment {i}/{len(chunks)}")
+            print(f"Generating news audio segment {i}/{len(chunks)}")
             part = output_file.parent / f"_part_{i:03d}.mp3"
-            await edge_tts.Communicate(chunk, VOICE, rate="-4%").save(str(part))
+            await edge_tts.Communicate(
+                chunk, VOICE, rate=NARRATION_RATE
+            ).save(str(part))
             parts.append(part)
 
-        # The manifest is stored beside the MP3 parts; relative filenames
-        # avoid quoting/escaping issues with temporary directory paths.
         manifest.write_text(
             "".join(f"file '{part.name}'\n" for part in parts),
             encoding="utf-8",
