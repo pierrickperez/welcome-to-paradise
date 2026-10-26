@@ -25,7 +25,7 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
         
-        - name: Install FFmpeg
+      - name: Install FFmpeg
         run: |
           curl -fL --retry 3 \
             https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-amd64-static.tar.xz \
