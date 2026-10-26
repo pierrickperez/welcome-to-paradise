@@ -1,13 +1,13 @@
-"""Generate a short private-use news podcast from attributed RSS excerpts."""
+
 import asyncio
 import datetime as dt
 import email.utils
 import html
 import json
 import os
-from pathlib import Path
 import re
-import sys
+import subprocess
+from pathlib import Path
 from zoneinfo import ZoneInfo
 import xml.etree.ElementTree as ET
 
@@ -15,172 +15,607 @@ import edge_tts
 import feedparser
 from openai import OpenAI
 
-ROOT = Path(__file__).resolve().parents[1]
-SITE = ROOT / 'docs'
-EPISODES = SITE / 'episodes'
-PARIS = ZoneInfo('Europe/Paris')
+# ============================================================
+# WELCOME TO PARADISE — DAILY NEWS PODCAST
+# ============================================================
+
+ROOT = Path(__file__).resolve().parent
+SITE = ROOT / "docs"
+EPISODES = SITE / "episodes"
+
+TIMEZONE = ZoneInfo("Europe/Paris")
+MODEL = os.getenv("OPENAI_MODEL", "gpt-4.1-mini")
+VOICE = os.getenv("VOICE", "en-GB-RyanNeural")
+BASE_URL = os.getenv("PODCAST_BASE_URL", "").rstrip("/")
+MAX_EPISODES = 5
+
+# GitHub manual runs can use FORCE_RUN=true or FORCE_RUN=1.
+FORCE_RUN = os.getenv("FORCE_RUN", "").lower() in (
+    "true", "1", "yes"
+)
+
 FEEDS = {
-    'BBC World': 'https://feeds.bbci.co.uk/news/world/rss.xml',
-    'BBC Business': 'https://feeds.bbci.co.uk/news/business/rss.xml',
-    'France 24': 'https://www.france24.com/en/rss',
-    'The Guardian World': 'https://www.theguardian.com/world/rss',
-    'The Guardian Business': 'https://www.theguardian.com/uk/business/rss',
-    'The Guardian France': 'https://www.theguardian.com/world/france/rss',
+    "BBC World": "https://feeds.bbci.co.uk/news/world/rss.xml",
+    "BBC Business": "https://feeds.bbci.co.uk/news/business/rss.xml",
+    "France 24": "https://www.france24.com/en/rss",
+    "Guardian World": "https://www.theguardian.com/world/rss",
+    "Guardian Business": "https://www.theguardian.com/uk/business/rss",
+    "Guardian France": "https://www.theguardian.com/world/france/rss",
 }
-VOICE = os.getenv('VOICE', 'en-GB-RyanNeural')
-MODEL = os.getenv('OPENAI_MODEL', 'gpt-4.1-mini')
-MAX_EPISODES = int(os.getenv('MAX_EPISODES', '5'))
 
 
-def clean(s):
-    s = re.sub('<[^>]*>', ' ', str(s or ''))
-    return re.sub(r'\s+', ' ', html.unescape(s)).strip()
+def clean(value):
+    value = re.sub(r"<[^>]+>", " ", str(value or ""))
+    return re.sub(r"\s+", " ", html.unescape(value)).strip()
 
 
-def gather(now):
+# ============================================================
+# STEP 1 — COLLECT CURRENT NEWS
+# ============================================================
+
+def collect_news(now):
     stories = []
+
     for source, url in FEEDS.items():
         try:
-            parsed = feedparser.parse(url, request_headers={'User-Agent': 'WelcomeToParadisePersonalPodcast/1.0'})
-            for e in parsed.entries[:14]:
-                stamp = e.get('published_parsed') or e.get('updated_parsed')
-                if not stamp:
+            feed = feedparser.parse(
+                url,
+                request_headers={
+                    "User-Agent": "WelcomeToParadise/1.0"
+                },
+            )
+
+            for entry in feed.entries[:15]:
+                timestamp = (
+                    entry.get("published_parsed")
+                    or entry.get("updated_parsed")
+                )
+
+                if not timestamp:
                     continue
-                published = dt.datetime(*stamp[:6], tzinfo=dt.timezone.utc)
-                age = (now.astimezone(dt.timezone.utc) - published).total_seconds() / 3600
-                if not -2 <= age <= 40:
+
+                published = dt.datetime(
+                    *timestamp[:6],
+                    tzinfo=dt.timezone.utc,
+                )
+
+                age_hours = (
+                    now.astimezone(dt.timezone.utc) - published
+                ).total_seconds() / 3600
+
+                if not -2 <= age_hours <= 40:
                     continue
-                title = clean(e.get('title', ''))
-                link = e.get('link', '')
-                summary = clean(e.get('summary', ''))[:750]
-                if title and link:
-                    stories.append({'source': source, 'title': title, 'summary': summary,
-                                    'url': link, 'published': published.isoformat()})
-        except Exception as exc:
-            print(f'Warning: {source}: {exc}', file=sys.stderr)
-    dedup = {}
-    for item in stories:
-        key = re.sub(r'[^a-z0-9]', '', item['title'].lower())[:85]
-        dedup.setdefault(key, item)
-    return sorted(dedup.values(), key=lambda x: x['published'], reverse=True)[:65]
+
+                title = clean(entry.get("title"))
+                link = entry.get("link", "")
+
+                if not title or not link:
+                    continue
+
+                stories.append({
+                    "source": source,
+                    "title": title,
+                    "summary": clean(
+                        entry.get("summary", "")
+                    )[:750],
+                    "url": link,
+                    "published": published.isoformat(),
+                })
+
+        except Exception as error:
+            print(f"Feed warning ({source}): {error}")
+
+    unique = {}
+
+    for story in stories:
+        key = re.sub(
+            r"[^a-z0-9]", "", story["title"].lower()
+        )[:85]
+        unique.setdefault(key, story)
+
+    result = sorted(
+        unique.values(),
+        key=lambda story: story["published"],
+        reverse=True,
+    )[:65]
+
+    print(f"Collected {len(result)} news articles")
+
+    if len(result) < 8:
+        raise RuntimeError(
+            "Insufficient recent news articles. "
+            "Podcast publication cancelled."
+        )
+
+    return result
 
 
-def make_script(stories, now):
-    if len(stories) < 8:
-        raise RuntimeError(f'Only {len(stories)} recent RSS stories; refusing to publish an unreliable briefing.')
+# ============================================================
+# STEP 2 — WRITE THE JOURNALISTIC NARRATION
+# ============================================================
+
+def generate_script(stories, now):
     client = OpenAI()
-    prompt = f'''You are the careful editor of a PERSONAL, ENGLISH-LANGUAGE news podcast called Welcome to Paradise.
-Today is {now.strftime('%A %d %B %Y')} in Europe/Paris. Use ONLY the following RSS titles and summaries, NOT your background knowledge, for specific current events. They are headlines and excerpts, not complete reporting. Do not invent quotes, numbers, dates, motives, outcomes or details. Do not claim independent verification. Attribute major claims to the named outlet. Where excerpts lack enough information, say so or omit the story. Avoid sensationalism. Choose 4–6 consequential distinct stories; include France/Europe, world affairs, economics, and when supported by the inputs, consumer goods, hospitality or premium drinks. Do NOT force a drinks story when sources don't support one. Give fewer stories with deeper *cautious* context and practical implications, clearly separating inference from sourced fact. The last story should be a thoughtful deeper analysis grounded in the source headlines. No ungrounded predictions. Journalistic, calm British-English presenter style, fluid transitions. Start exactly with "Welcome to Paradise!" and a date-based introduction. End with what to watch next. Aim for 1200–1600 words; if sources are thin, be shorter instead of padding. Plain prose only: no headings, markdown, bullets or URLs in narration.
-Return valid JSON ONLY with keys: title (string), narration (string), summary (string, 100-160 words), source_indices (array of integer indices of source items actually used). Do not put citations inside narration. No copyrighted article passages beyond short quotes.
-RSS SOURCES:\n{json.dumps([dict(index=i, **s) for i,s in enumerate(stories)], ensure_ascii=False)}'''
-    response = client.chat.completions.create(model=MODEL, messages=[{'role': 'user', 'content': prompt}], response_format={'type': 'json_object'}, temperature=0.25)
-    data = json.loads(response.choices[0].message.content)
-    narration = data.get('narration', '').strip()
+
+    indexed_stories = [
+        {"index": i, **story}
+        for i, story in enumerate(stories)
+    ]
+
+    prompt = f"""
+You are the editor and presenter of an English-language
+personal news podcast called WELCOME TO PARADISE.
+
+DATE:
+{now.strftime("%A %d %B %Y")}
+
+EDITORIAL OBJECTIVE:
+Create a sophisticated, informative 10–15-minute news
+briefing for a business professional based in France.
+
+The listener works in international premium beverages,
+spirits, FMCG and hospitality.
+
+EDITORIAL BALANCE:
+- Important international developments
+- France and European affairs
+- Business, economics and financial markets
+- Consumer goods, hospitality and premium beverages
+- One deeper analytical story
+
+Select approximately 4–6 consequential stories.
+
+Prefer fewer stories with deeper context rather than
+a large number of superficial headlines.
+
+For each story explain:
+- What happened
+- Why it matters
+- Relevant background supported by the inputs
+- Potential implications
+- What to watch next
+
+FACTUAL ACCURACY:
+Use ONLY the provided RSS headlines and excerpts for
+claims about current events.
+
+These are summaries, not full articles.
+
+Never invent:
+- Facts or figures
+- Quotes
+- Election outcomes
+- Corporate announcements
+- Dates or developments
+- Details not supported by the supplied sources
+
+Attribute important claims to the news outlet.
+
+Clearly distinguish sourced facts from interpretation.
+If the information is insufficient, omit the story.
+
+Do not force a spirits or hospitality story if there
+is no relevant reporting.
+
+PRESENTATION STYLE:
+- Professional British broadcast journalist
+- Intelligent, calm and engaging
+- Natural spoken English
+- Smooth transitions
+- Subtle personality, without sensationalism
+- No bullet points in the spoken narration
+- No markdown or URLs in the narration
+
+OPENING:
+Begin exactly with:
+
+"Welcome to Paradise!"
+
+Then introduce the date and the day's most important
+stories in a natural broadcast-news style.
+
+ENDING:
+Finish with the most important things to watch next.
+
+TARGET LENGTH:
+1,200–1,600 spoken words, provided sufficient reporting.
+Do not pad the script with unsupported information.
+
+OUTPUT:
+Return valid JSON with exactly these fields:
+
+"title": episode title
+"narration": complete spoken script
+"summary": short written summary
+"source_indices": integer indices of articles used
+
+SOURCE ARTICLES:
+{json.dumps(indexed_stories, ensure_ascii=False)}
+"""
+
+    response = client.chat.completions.create(
+        model=MODEL,
+        messages=[
+            {"role": "user", "content": prompt}
+        ],
+        response_format={"type": "json_object"},
+        temperature=0.25,
+    )
+
+    data = json.loads(
+        response.choices[0].message.content
+    )
+
+    narration = data.get("narration", "").strip()
+
     if len(narration.split()) < 650:
-        raise RuntimeError('Narration too short; no episode published.')
-    used = [stories[i] for i in data.get('source_indices', []) if isinstance(i, int) and 0 <= i < len(stories)]
-    if len(used) < 3:
-        raise RuntimeError('Not enough traceable sources; no episode published.')
-    return data, used
+        raise RuntimeError(
+            "Generated narration is too short."
+        )
+
+    used_sources = []
+
+    for index in data.get("source_indices", []):
+        if isinstance(index, int) and 0 <= index < len(stories):
+            if stories[index] not in used_sources:
+                used_sources.append(stories[index])
+
+    if len(used_sources) < 3:
+        raise RuntimeError(
+            "Not enough traceable news sources."
+        )
+
+    print(
+        f"Script generated: {len(narration.split())} words"
+    )
+
+    return data, used_sources
 
 
-async def synthesize(text, output):
-    # Edge TTS is a free, unofficial interface to online voices; availability is not guaranteed.
-    # Split on sentence boundaries to keep individual requests manageable.
-    sentences = re.split(r'(?<=[.!?])\s+', text)
-    chunks, current = [], ''
+# ============================================================
+# STEP 3 — GENERATE FREE BRITISH-ENGLISH AUDIO
+# ============================================================
+
+async def generate_audio(narration, output_file):
+    sentences = re.split(
+        r"(?<=[.!?])\s+", narration
+    )
+
+    chunks = []
+    current = ""
+
     for sentence in sentences:
         if len(current) + len(sentence) > 2300 and current:
-            chunks.append(current.strip()); current = ''
-        current += sentence + ' '
+            chunks.append(current.strip())
+            current = ""
+
+        current += sentence + " "
+
     if current.strip():
         chunks.append(current.strip())
+
     parts = []
-    for i, chunk in enumerate(chunks):
-        part = output.with_name(f'_part_{i:02}.mp3')
-        await edge_tts.Communicate(chunk, VOICE, rate='-4%').save(str(part))
-        if part.stat().st_size < 1000:
-            raise RuntimeError(f'Audio part {i} was empty')
+
+    for index, chunk in enumerate(chunks):
+        part = output_file.with_name(
+            f"_audio_part_{index:02d}.mp3"
+        )
+
+        print(
+            f"Generating audio segment {index + 1}/{len(chunks)}"
+        )
+
+        speaker = edge_tts.Communicate(
+            chunk,
+            VOICE,
+            rate="-4%",
+        )
+
+        await speaker.save(str(part))
+
+        if not part.exists() or part.stat().st_size < 1000:
+            raise RuntimeError(
+                f"Audio segment {index + 1} failed."
+            )
+
         parts.append(part)
-    # MP3 stream concatenation is supported by ffmpeg concat demuxer for consistent streams.
-    import subprocess
-    manifest = output.with_suffix('.txt')
-    manifest.write_text(''.join(f"file '{p.resolve()}'\n" for p in parts), encoding='utf-8')
+
+    manifest = output_file.with_suffix(".txt")
+
+    manifest.write_text(
+        "".join(
+            f"file '{part.resolve()}'\n"
+            for part in parts
+        ),
+        encoding="utf-8",
+    )
+
     try:
-        subprocess.run(['ffmpeg', '-hide_banner', '-loglevel', 'error', '-y', '-f', 'concat', '-safe', '0', '-i', str(manifest), '-c:a', 'libmp3lame', '-b:a', '64k', str(output)], check=True)
+        subprocess.run(
+            [
+                "ffmpeg",
+                "-hide_banner",
+                "-loglevel", "error",
+                "-y",
+                "-f", "concat",
+                "-safe", "0",
+                "-i", str(manifest),
+                "-c:a", "libmp3lame",
+                "-b:a", "64k",
+                str(output_file),
+            ],
+            check=True,
+        )
     finally:
         manifest.unlink(missing_ok=True)
-        for p in parts: p.unlink(missing_ok=True)
+
+        for part in parts:
+            part.unlink(missing_ok=True)
+
+    print(f"Audio generated: {output_file}")
 
 
-def publish(now, data, sources, audio):
-    SITE.mkdir(exist_ok=True); EPISODES.mkdir(exist_ok=True)
-    date = now.strftime('%Y-%m-%d')
-    meta_path = EPISODES / f'{date}.json'
-    metadata = {'date': date, 'title': clean(data['title']), 'summary': clean(data['summary']),
-                'sources': sources, 'audio': f'episodes/{date}.mp3', 'created': now.isoformat()}
-    meta_path.write_text(json.dumps(metadata, ensure_ascii=False, indent=2), encoding='utf-8')
+# ============================================================
+# STEP 4 — CREATE THE PODCAST RSS FEED AND WEB PAGE
+# ============================================================
+
+def publish_episode(now, data, sources, audio_file):
+    SITE.mkdir(parents=True, exist_ok=True)
+    EPISODES.mkdir(parents=True, exist_ok=True)
+
+    date = now.strftime("%Y-%m-%d")
+
+    metadata = {
+        "date": date,
+        "title": clean(data["title"]),
+        "summary": clean(data["summary"]),
+        "sources": sources,
+        "audio": f"episodes/{date}.mp3",
+        "created": now.isoformat(),
+    }
+
+    metadata_file = EPISODES / f"{date}.json"
+
+    metadata_file.write_text(
+        json.dumps(metadata, indent=2, ensure_ascii=False),
+        encoding="utf-8",
+    )
+
     episodes = []
-    for file in EPISODES.glob('*.json'):
-        try: episodes.append(json.loads(file.read_text(encoding='utf-8')))
-        except Exception: pass
-    episodes.sort(key=lambda x: x['date'], reverse=True)
-    for old in episodes[MAX_EPISODES:]:
-        (EPISODES / f"{old['date']}.json").unlink(missing_ok=True)
-        (EPISODES / f"{old['date']}.mp3").unlink(missing_ok=True)
-    episodes = episodes[:MAX_EPISODES]
-    base = os.environ['PODCAST_BASE_URL'].rstrip('/')
-    rss = ET.Element('rss', version='2.0', attrib={'xmlns:itunes': 'http://www.itunes.com/dtds/podcast-1.0'})
-    ch = ET.SubElement(rss, 'channel')
-    for tag, value in [('title', 'Welcome to Paradise — Private Daily Briefing'),
-                       ('link', base + '/'), ('description', 'Personal English-language weekday news briefing. RSS excerpts are summarized by AI; verify primary sources.'),
-                       ('language', 'en'), ('copyright', 'Personal listening only')]:
-        ET.SubElement(ch, tag).text = value
-    ET.SubElement(ch, '{http://www.itunes.com/dtds/podcast-1.0}explicit').text = 'false'
-    for ep in episodes:
-        item = ET.SubElement(ch, 'item')
-        ET.SubElement(item, 'title').text = ep['title']
-        links = '\n'.join(f"{s['source']}: {s['title']} — {s['url']}" for s in ep['sources'])
-        ET.SubElement(item, 'description').text = ep['summary'] + '\n\nSources:\n' + links
-        url = base + '/' + ep['audio']
-        ET.SubElement(item, 'enclosure', url=url, length=str((SITE / ep['audio']).stat().st_size), type='audio/mpeg')
-        ET.SubElement(item, 'guid', isPermaLink='false').text = ep['date']
-        d = dt.datetime.fromisoformat(ep['created'])
-        ET.SubElement(item, 'pubDate').text = email.utils.format_datetime(d)
-    ET.ElementTree(rss).write(SITE / 'feed.xml', encoding='utf-8', xml_declaration=True)
-    cards = []
-    for ep in episodes:
-        links = ''.join(f'<li><a href="{html.escape(s["url"], quote=True)}" rel="noopener noreferrer">{html.escape(s["source"] + ": " + s["title"])}</a></li>' for s in ep['sources'])
-        cards.append(f'<article><h2>{html.escape(ep["title"])}</h2><small>{ep["date"]}</small><p>{html.escape(ep["summary"])}</p><audio controls preload="none" src="{html.escape(ep["audio"])}"></audio><details><summary>Sources</summary><ul>{links}</ul></details></article>')
-    page = f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Welcome to Paradise</title><style>body{{font-family:system-ui,-apple-system,sans-serif;max-width:720px;margin:45px auto;padding:0 20px;background:#10151c;color:#f2f4f6;line-height:1.6}}a{{color:#8fcbff}}article{{border-top:1px solid #394450;padding:20px 0}}audio{{width:100%}}small{{color:#aeb9c4}}details{{margin-top:15px}}h1{{font-size:2.3rem}}</style></head><body><h1>Welcome to Paradise</h1><p>Private-use daily news briefing · <a href="feed.xml">Podcast RSS feed</a></p><p>Automated AI summaries of attributed news-feed excerpts. Check original sources before relying on important claims. This URL is unlisted, not password protected.</p>{''.join(cards)}</body></html>'''
-    (SITE / 'index.html').write_text(page, encoding='utf-8')
-    (SITE / '.nojekyll').touch()
 
+    for file in EPISODES.glob("*.json"):
+        try:
+            episodes.append(
+                json.loads(file.read_text(encoding="utf-8"))
+            )
+        except Exception:
+            continue
+
+    episodes.sort(
+        key=lambda episode: episode["date"],
+        reverse=True,
+    )
+
+    # Keep a small archive for free GitHub Pages hosting.
+    for old in episodes[MAX_EPISODES:]:
+        (EPISODES / f"{old['date']}.json").unlink(
+            missing_ok=True
+        )
+        (EPISODES / f"{old['date']}.mp3").unlink(
+            missing_ok=True
+        )
+
+    episodes = episodes[:MAX_EPISODES]
+
+    # Generate RSS XML
+    ITUNES = "http://www.itunes.com/dtds/podcast-1.0"
+    ET.register_namespace("itunes", ITUNES)
+
+    rss = ET.Element("rss", version="2.0")
+    channel = ET.SubElement(rss, "channel")
+
+    channel_fields = {
+        "title": "Welcome to Paradise — Daily Global Briefing",
+        "link": BASE_URL + "/",
+        "description": (
+            "An English-language personal daily news podcast. "
+            "AI summaries based on attributed news-feed excerpts."
+        ),
+        "language": "en",
+    }
+
+    for tag, value in channel_fields.items():
+        ET.SubElement(channel, tag).text = value
+
+    ET.SubElement(
+        channel, f"{{{ITUNES}}}explicit"
+    ).text = "false"
+
+    for episode in episodes:
+        item = ET.SubElement(channel, "item")
+
+        ET.SubElement(
+            item, "title"
+        ).text = episode["title"]
+
+        source_text = "\n".join(
+            f"{source['source']}: {source['url']}"
+            for source in episode["sources"]
+        )
+
+        ET.SubElement(
+            item, "description"
+        ).text = episode["summary"] + "\n\n" + source_text
+
+        audio_url = BASE_URL + "/" + episode["audio"]
+        audio_path = SITE / episode["audio"]
+
+        ET.SubElement(
+            item,
+            "enclosure",
+            url=audio_url,
+            length=str(audio_path.stat().st_size),
+            type="audio/mpeg",
+        )
+
+        ET.SubElement(
+            item, "guid", isPermaLink="false"
+        ).text = episode["date"]
+
+        created = dt.datetime.fromisoformat(
+            episode["created"]
+        )
+
+        ET.SubElement(
+            item, "pubDate"
+        ).text = email.utils.format_datetime(created)
+
+    ET.ElementTree(rss).write(
+        SITE / "feed.xml",
+        encoding="utf-8",
+        xml_declaration=True,
+    )
+
+    # Generate a simple website with an audio player.
+    articles = []
+
+    for episode in episodes:
+        source_links = "".join(
+            (
+                '<li><a href="'
+                + html.escape(source["url"], quote=True)
+                + '">'
+                + html.escape(
+                    source["source"] + ": " + source["title"]
+                )
+                + "</a></li>"
+            )
+            for source in episode["sources"]
+        )
+
+        articles.append(f"""
+        <article>
+            <h2>{html.escape(episode["title"])}</h2>
+            <p>{episode["date"]}</p>
+            <audio controls preload="none"
+                   src="{html.escape(episode["audio"])}">
+            </audio>
+            <p>{html.escape(episode["summary"])}</p>
+            <details>
+                <summary>Sources</summary>
+                <ul>{source_links}</ul>
+            </details>
+        </article>
+        """)
+
+    page = f"""
+    <!doctype html>
+    <html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport"
+              content="width=device-width, initial-scale=1">
+        <title>Welcome to Paradise</title>
+        <style>
+            body {{
+                background: #111820;
+                color: #f4f4f4;
+                font-family: system-ui, sans-serif;
+                max-width: 750px;
+                margin: 50px auto;
+                padding: 20px;
+                line-height: 1.6;
+            }}
+            h1 {{ font-size: 2.5rem; }}
+            article {{
+                border-top: 1px solid #445;
+                padding: 25px 0;
+            }}
+            audio {{ width: 100%; }}
+            a {{ color: #9dcfff; }}
+        </style>
+    </head>
+    <body>
+        <h1>Welcome to Paradise</h1>
+        <p>Your daily global news briefing</p>
+        <p><a href="feed.xml">Subscribe to the podcast</a></p>
+        <p>AI-generated summaries of news-feed excerpts.
+        Consult the linked reporting for verification.</p>
+        {''.join(articles)}
+    </body>
+    </html>
+    """
+
+    (SITE / "index.html").write_text(
+        page,
+        encoding="utf-8",
+    )
+
+    (SITE / ".nojekyll").touch()
+
+    print("Podcast RSS feed and website generated.")
+
+
+# ============================================================
+# STEP 5 — MAIN AUTOMATION
+# ============================================================
 
 def main():
-    now = dt.datetime.now(PARIS)
-    if os.getenv('FORCE_RUN') != '1' and (now.weekday() >= 5 or now.hour not in (6, 7)):
-        print(f'Skipping: local time {now.isoformat()} outside weekday morning window')
+    now = dt.datetime.now(TIMEZONE)
+
+    print(f"Current Bordeaux time: {now.isoformat()}")
+    print(f"Manual override: {FORCE_RUN}")
+
+    # Manual GitHub Actions runs bypass the time restriction.
+    if not FORCE_RUN:
+        if now.weekday() >= 5 or now.hour not in (6, 7):
+            print(
+                "Skipping: outside weekday morning window."
+            )
+            return
+
+    if not os.getenv("OPENAI_API_KEY"):
+        raise RuntimeError(
+            "Missing OPENAI_API_KEY GitHub secret."
+        )
+
+    if not BASE_URL:
+        raise RuntimeError(
+            "Missing PODCAST_BASE_URL GitHub variable."
+        )
+
+    date = now.strftime("%Y-%m-%d")
+    audio_file = EPISODES / f"{date}.mp3"
+
+    if audio_file.exists() and not FORCE_RUN:
+        print("Today's episode already exists.")
         return
-    date = now.strftime('%Y-%m-%d')
-    if (EPISODES / f'{date}.mp3').exists() and os.getenv('FORCE_RUN') != '1':
-        print('Episode already exists today; skipping')
-        return
-    if not os.getenv('OPENAI_API_KEY') or not os.getenv('PODCAST_BASE_URL'):
-        raise RuntimeError('Set OPENAI_API_KEY and PODCAST_BASE_URL in GitHub repository secrets/variables.')
-    stories = gather(now)
-    print(f'Found {len(stories)} recent articles')
-    data, sources = make_script(stories, now)
-    EPISODES.mkdir(exist_ok=True, parents=True)
-    audio = EPISODES / f'{date}.mp3'
+
+    print("Starting Welcome to Paradise production.")
+
+    stories = collect_news(now)
+
+    data, sources = generate_script(stories, now)
+
+    EPISODES.mkdir(parents=True, exist_ok=True)
+
     try:
-        asyncio.run(synthesize(data['narration'], audio))
-        publish(now, data, sources, audio)
+        asyncio.run(
+            generate_audio(data["narration"], audio_file)
+        )
+
+        publish_episode(
+            now, data, sources, audio_file
+        )
+
     except Exception:
-        audio.unlink(missing_ok=True)
+        audio_file.unlink(missing_ok=True)
         raise
-    print(f'Created {audio} ({audio.stat().st_size} bytes)')
+
+    print("SUCCESS: Podcast episode created.")
+    print(f"MP3: {audio_file}")
+    print(f"Feed: {BASE_URL}/feed.xml")
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
