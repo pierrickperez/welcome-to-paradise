@@ -28,17 +28,76 @@ NARRATION_RATE = os.getenv("NARRATION_RATE", "-2%")
 BASE_URL = os.getenv("PODCAST_BASE_URL", "").strip().rstrip("/")
 MAX_EPISODES = 5
 FORCE_RUN = os.getenv("FORCE_RUN", "").lower() in ("true", "1", "yes")
-MAX_ARTICLES = 25
+MAX_ARTICLES = 40
+MAX_PER_PUBLISHER = 3
 MIN_FULL_ARTICLES = 5
 
+# (publisher, region, RSS URL). Regional selection prevents one country dominating.
 FEEDS = [
-    ("BBC World", "https://feeds.bbci.co.uk/news/world/rss.xml"),
-    ("BBC Business", "https://feeds.bbci.co.uk/news/business/rss.xml"),
-    ("France 24", "https://www.france24.com/en/rss"),
-    ("Guardian World", "https://www.theguardian.com/world/rss"),
-    ("Guardian Business", "https://www.theguardian.com/uk/business/rss"),
-    ("Guardian France", "https://www.theguardian.com/world/france/rss"),
+    ("BBC World", "UK", "https://feeds.bbci.co.uk/news/world/rss.xml"),
+    ("BBC Business", "UK", "https://feeds.bbci.co.uk/news/business/rss.xml"),
+    ("Guardian World", "UK", "https://www.theguardian.com/world/rss"),
+    ("Guardian Business", "UK", "https://www.theguardian.com/uk/business/rss"),
+    ("NPR World", "US", "https://feeds.npr.org/1004/rss.xml"),
+    ("NPR US", "US", "https://feeds.npr.org/1003/rss.xml"),
+    ("NBC News", "US", "https://feeds.nbcnews.com/nbcnews/public/news"),
+    ("New York Times World", "US", "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"),
+    ("France 24", "France", "https://www.france24.com/en/rss"),
+    ("Franceinfo", "France", "https://www.francetvinfo.fr/titres.rss"),
+    ("Le Monde", "France", "https://www.lemonde.fr/rss/une.xml"),
+    ("ANSA", "Italy", "https://www.ansa.it/sito/notizie/topnews/topnews_rss.xml"),
+    ("El Pais", "Spain", "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada"),
+    ("Deutsche Welle", "Europe", "https://rss.dw.com/xml/rss-en-all"),
+    ("Euronews", "Europe", "https://www.euronews.com/rss"),
+    ("Politico Europe", "Europe", "https://www.politico.eu/feed/"),
+    ("Al Jazeera", "World", "https://www.aljazeera.com/xml/rss/all.xml"),
+    ("CNBC", "Business", "https://www.cnbc.com/id/100003114/device/rss/rss.html"),
 ]
+
+# Use publisher families, not feed names, when applying diversity limits.
+def publisher_family(source):
+    if source.startswith("BBC "):
+        return "BBC"
+    if source.startswith("Guardian "):
+        return "Guardian"
+    if source.startswith("NPR "):
+        return "NPR"
+    return source
+
+
+def balanced_candidates(stories, limit=MAX_ARTICLES):
+    """Interleave regions and publishers; keep the newest items within each."""
+    from collections import defaultdict
+    groups = defaultdict(list)
+    for story in stories:
+        groups[story["region"]].append(story)
+    for items in groups.values():
+        items.sort(key=lambda s: s["published"], reverse=True)
+
+    # France and continental Europe get a modest head start, not a fixed quota.
+    order = ["France", "Europe", "US", "World", "UK", "Spain", "Italy", "Business"]
+    selected, counts, seen = [], defaultdict(int), set()
+    while len(selected) < limit:
+        progress = False
+        for region in order:
+            items = groups[region]
+            while items:
+                story = items.pop(0)
+                family = publisher_family(story["source"])
+                if counts[family] >= MAX_PER_PUBLISHER or story["url"] in seen:
+                    continue
+                selected.append(story)
+                counts[family] += 1
+                seen.add(story["url"])
+                progress = True
+                break
+            if len(selected) >= limit:
+                break
+        if not progress:
+            break
+    print("Selected research sources:", dict(counts))
+    return selected
+
 
 
 def clean_text(value):
@@ -51,7 +110,7 @@ def collect_news(now):
     stories = []
     seen = set()
 
-    for source, url in FEEDS:
+    for source, region, url in FEEDS:
         try:
             feed = feedparser.parse(url)
             for entry in feed.entries:
@@ -69,6 +128,7 @@ def collect_news(now):
                 seen.add(link)
                 stories.append({
                     "source": source,
+                    "region": region,
                     "title": title,
                     "url": link,
                     "published": published.isoformat(),
@@ -89,7 +149,7 @@ def collect_news(now):
 
 def enrich_news(stories):
     """Read accessible publisher articles; retain labelled RSS fallbacks."""
-    candidates = stories[:MAX_ARTICLES]
+    candidates = balanced_candidates(stories)
     results = [None] * len(candidates)
 
     def fetch_article(story):
@@ -138,12 +198,13 @@ def generate_script(stories, now):
         {
             "index": i,
             "source": story["source"],
+            "region": story["region"],
             "title": story["title"],
             "published": story["published"],
             "url": story["url"],
             "research_type": story["research_type"],
             "rss_summary": story["summary"],
-            "article_text": story["article_text"],
+            "article_text": story["article_text"][:4500],
         }
         for i, story in enumerate(stories)
     ]
@@ -178,10 +239,15 @@ def generate_script(stories, now):
         f"""Date in Paris: {now.strftime('%A, %d %B %Y')}.
         Plan a 12–15 minute episode of Welcome to Paradise using these sources.
         Choose exactly FIVE distinct editorial sections covering the most important
-        developments. Include world affairs, Europe/France, and business/economics
+        developments. Give France and continental Europe slightly more attention,
+        while prioritising genuinely important global stories. Include world affairs, Europe/France, and business/economics
         when genuinely supported. Section one should be the lead deep dive.
         Each section must have sufficient substantial reporting for 300–450 words.
         Prefer full_article evidence; distinguish claims from established facts.
+        Include meaningful perspectives from French, Spanish, Italian and US
+        publishers where relevant. Sources may be in French, Spanish or Italian;
+        interpret them accurately but write the podcast entirely in English.
+        Do not use country quotas or include minor stories just for balance.
         For each section give a heading, a brief angle, and 2–6 source_indices
         referring to the input articles. Avoid duplicate coverage of one event.
         If there is insufficient evidence for five sections, use fewer sections
@@ -227,7 +293,7 @@ def generate_script(stories, now):
         Use only the evidence below. If evidence cannot support the target,
         write less rather than fabricating. Do not repeat prior topics:
         {json.dumps(prior_headings, ensure_ascii=False)}
-        {'Begin exactly with Welcome to Paradise! and introduce the date.' if position == 0 else 'Do not repeat the podcast title or date.'}
+        {'Begin with the date and move directly into the lead news story. Do not say the programme name, welcome listeners, or describe the show: a prerecorded jingle has already done that.' if position == 0 else 'Do not repeat the podcast title or date.'}
         {'End with a brief natural sign-off.' if position == len(sections)-1 else 'Do not sign off.'}
         Return JSON with one key: narration.
         EVIDENCE: {json.dumps(evidence, ensure_ascii=False)}"""
@@ -253,8 +319,6 @@ def generate_script(stories, now):
         narration_parts.append(part)
 
     narration = "\n\n".join(narration_parts)
-    if not narration.lower().startswith("welcome to paradise"):
-        narration = "Welcome to Paradise!\n\n" + narration
     words = len(narration.split())
     print(f"Script generated: {words} words")
     print(f"OpenAI tokens: {total_input:,} input, {total_output:,} output")
@@ -299,15 +363,16 @@ def split_for_tts(text, limit=2300):
     return chunks
 
 
-
 async def generate_audio_async(narration, output_file):
-    """Combine the original Suno jingle with the British news narration."""
+    """Prepend the existing Suno recording, followed by British news narration."""
+    if not INTRO_FILE.is_file():
+        raise RuntimeError(
+            "Missing assets/intro.mp3. Upload your original Suno MP3 to "
+            "the assets folder at the repository root."
+        )
     output_file.parent.mkdir(parents=True, exist_ok=True)
 
-    if not INTRO_FILE.is_file():
-        raise RuntimeError(f"Suno intro not found: {INTRO_FILE}")
-
-    # Remove the old spoken programme welcome.
+    # Protect against older prompts accidentally repeating the show's title.
     narration = re.sub(
         r"^\s*welcome to paradise\s*[!.:,—-]*\s*",
         "",
@@ -315,19 +380,12 @@ async def generate_audio_async(narration, output_file):
         count=1,
         flags=re.IGNORECASE,
     ).strip()
-
     if not narration:
-        raise RuntimeError("News narration is empty")
+        raise RuntimeError("Narration is empty after removing opening title")
 
     chunks = split_for_tts(narration)
     parts = []
-    manifest = output_file.with_suffix(".concat.txt")
-
     try:
-        # Use the Suno recording instead of generating a TTS intro.
-        parts.append(INTRO_FILE)
-        print(f"Using original Suno jingle: {INTRO_FILE}")
-
         for i, chunk in enumerate(chunks, 1):
             print(f"Generating news audio segment {i}/{len(chunks)}")
             part = output_file.parent / f"_part_{i:03d}.mp3"
@@ -336,30 +394,31 @@ async def generate_audio_async(narration, output_file):
             ).save(str(part))
             parts.append(part)
 
-        # Build an FFmpeg concat manifest with absolute paths.
-        manifest.write_text(
-            "".join(
-                "file '" + str(part.resolve()).replace("'", "'\\''") + "'\n"
-                for part in parts
-            ),
-            encoding="utf-8",
-        )
-
-        subprocess.run(
-            [
-                "ffmpeg", "-hide_banner", "-loglevel", "error", "-y",
-                "-f", "concat", "-safe", "0", "-i", str(manifest),
-                "-c:a", "libmp3lame", "-b:a", "64k",
-                str(output_file),
-            ],
-            check=True,
-        )
+        # Decode and concatenate the Suno MP3 and TTS segments in order.
+        # The source jingle is used in full, without trimming or effects.
+        # Audio is encoded once into the final podcast MP3 so mismatched
+        # sample rates/channel layouts don't cause playback issues.
+        inputs = [INTRO_FILE, *parts]
+        command = ["ffmpeg", "-hide_banner", "-loglevel", "error", "-y"]
+        for source in inputs:
+            command.extend(["-i", str(source)])
+        filters = []
+        for i in range(len(inputs)):
+            filters.append(
+                f"[{i}:a:0]aresample=44100,aformat=sample_fmts=fltp:"
+                f"channel_layouts=stereo,asetpts=PTS-STARTPTS[a{i}]"
+            )
+        labels = "".join(f"[a{i}]" for i in range(len(inputs)))
+        filters.append(f"{labels}concat=n={len(inputs)}:v=0:a=1[out]")
+        command.extend([
+            "-filter_complex", ";".join(filters),
+            "-map", "[out]", "-c:a", "libmp3lame", "-b:a", "96k",
+            str(output_file),
+        ])
+        subprocess.run(command, check=True)
     finally:
-        manifest.unlink(missing_ok=True)
         for part in parts:
-            if part != INTRO_FILE:
-                part.unlink(missing_ok=True)
-
+            part.unlink(missing_ok=True)
 
 
 def generate_audio(narration, output_file):
@@ -367,14 +426,11 @@ def generate_audio(narration, output_file):
 
 
 def write_feed(episodes):
-    ET.register_namespace("itunes", "http://www.itunes.com/dtds/podcast-1.0.dtd")
+    itunes_ns = "http://www.itunes.com/dtds/podcast-1.0.dtd"
+    ET.register_namespace("itunes", itunes_ns)
     rss = ET.Element("rss", version="2.0")
     channel = ET.SubElement(rss, "channel")
-    ET.SubElement(
-        channel,
-        "{http://www.itunes.com/dtds/podcast-1.0.dtd}image",
-        href=f"{BASE_URL}/cover.png",
-    )
+    ET.SubElement(channel, f"{{{itunes_ns}}}image", href=f"{BASE_URL}/cover.png")
 
     def add(parent, name, value):
         ET.SubElement(parent, name).text = str(value)
@@ -428,8 +484,7 @@ def write_homepage(episodes):
 <style>body{font:17px/1.6 system-ui,sans-serif;max-width:780px;margin:55px auto;padding:0 22px;color:#202124;background:#fafafa}
 h1{font-size:2.4rem}article{background:white;padding:24px;margin:25px 0;border:1px solid #ddd;border-radius:14px}
 h2{margin:0}.date{color:#666}audio{width:100%;margin:12px 0}a{color:#1456a0}li{margin:8px 0}</style>
-</head><body><h1>Welcome to Paradise</h1><p>Your weekday global news briefing.</p>
-<p><img src="cover.png" alt="Welcome to Paradise cover" style="width:100%;max-width:340px;border-radius:14px"></p>
+</head><body><img src="cover.png" alt="Welcome to Paradise cover artwork" style="display:block;width:100%;max-width:360px;height:auto;margin:0 auto 24px;border-radius:16px"><h1>Welcome to Paradise</h1><p>Your weekday global news briefing.</p>
 <p><a href="feed.xml">Subscribe using the podcast RSS feed</a></p>
 """ + "\n".join(cards) + "</body></html>"
     (SITE / "index.html").write_text(page, encoding="utf-8")
