@@ -136,7 +136,7 @@ def collect_news(now):
 
 def generate_script(stories, now):
     api_key = os.environ["OPENAI_API_KEY"].strip()
-client = OpenAI(api_key=api_key)
+    client = OpenAI(api_key=api_key)
 
     indexed_stories = [
         {"index": i, **story}
