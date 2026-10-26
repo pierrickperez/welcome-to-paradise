@@ -1,80 +1,35 @@
 {
   "date": "2026-10-26",
-  "published": "2026-10-26T21:47:09.971718+01:00",
-  "title": "Welcome to Paradise: Monday 26 October 2026 Edition",
-  "summary": "In this edition, we explore the deeply troubling racist terrorist attack in the Yvelines region of France, the dramatic political comeback of Brazil's President Lula, the ongoing turmoil in French education with student protests and government responses, the significant developments in the AI sector with Anthropic's IPO filing, and a roundup of key global and business stories including Microsoft's workforce changes and the US midterm election dynamics.",
+  "published": "2026-10-26T21:59:44.525506+01:00",
+  "title": "Welcome to Paradise - Monday, 26 October 2026 Edition",
+  "summary": "An insightful 13-15 minute programme exploring key global and European stories with depth and variety. From a detailed investigation into the racist attack in Trappes, France, to the escalating tensions in the West Bank, a significant European defence stance on Ukraine, major moves in AI business, and a roundup of notable developments including French student protests and Brazil's election surprise.",
   "audio_url": "https://pierrickperez.github.io/welcome-to-paradise/episodes/2026-10-26.mp3",
-  "audio_bytes": 9553527,
+  "audio_bytes": 8403408,
   "sources": [
+    {
+      "source": "Franceinfo",
+      "title": "Attentat raciste à Trappes : des images de vidéosurveillance montrent le parcours du meurtrier dans une station-service",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/attentat-raciste-a-trappes-revelations-sur-le-parcours-du-meurtrier-presume_8254756.html#xtor=RSS-3-[lestitres]"
+    },
     {
       "source": "Franceinfo",
       "title": "Attentat raciste dans les Yvelines : la garde à vue du principal suspect, qui \"conteste le caractère raciste de ses crimes\", a repris",
       "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/direct-attentat-raciste-dans-les-yvelines-olivier-christen-procureur-du-parquet-national-antiterroriste-s-exprimera-en-fin-de-journee-lundi_8254480.html#xtor=RSS-3-[lestitres]"
     },
     {
+      "source": "Deutsche Welle",
+      "title": "UN sounds the alarm over Israel's West Bank military operation",
+      "url": "https://www.dw.com/en/un-sounds-the-alarm-over-israel-s-west-bank-military-operation/a-79770228?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
       "source": "New York Times World",
-      "title": "Lula Defeats Bolsonaro for Brazil Presidency, in Blow to Latin America’s Right",
-      "url": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-president-lula-bolsonaro.html"
-    },
-    {
-      "source": "El Pais",
-      "title": "Resultados de las elecciones en Brasil, en vivo | Bolsonaro anuncia que liderará la oposición a Lula, pero no admite la derrota",
-      "url": "https://elpais.com/america/2026-10-26/resultados-de-las-elecciones-en-brasil-en-vivo.html"
-    },
-    {
-      "source": "BBC World",
-      "title": "Lula wins fourth term in dramatic Brazil election comeback",
-      "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "France 24",
-      "title": "Comeback kid: How did Brazil veteran-leader Lula upset Bolsonaro?",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20261026-comeback-kid-how-did-brazil-veteran-leader-lula-upset-bolsonaro"
-    },
-    {
-      "source": "Franceinfo",
-      "title": "Mobilisation des lycéens : \"Les élèves vont voir leur vie changer\", assure Edouard Geffray, l'intersyndicale jeunesse appelle à poursuivre la mobilisation",
-      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-le-gouvernement-recoit-les-organisations-dans-l-apres-midi-et-promet-des-reponses-tres-concretes_8253718.html#xtor=RSS-3-[lestitres]"
-    },
-    {
-      "source": "Guardian World",
-      "title": "Protest leaders urge French pupils to keep barricading their schools",
-      "url": "https://www.theguardian.com/world/2026/oct/26/protest-leaders-urge-french-students-to-keep-barricading-their-schools"
+      "title": "Israel Has Committed Genocidal Acts in Gaza Since Cease-Fire, U.N. Human Rights Panel Says",
+      "url": "https://www.nytimes.com/2026/10/26/world/middleeast/un-human-rights-panel-israel-palestinians.html"
     },
     {
       "source": "Politico Europe",
-      "title": "French government fails to convince students to stop protests",
-      "url": "https://www.politico.eu/article/government-concessions-fail-to-convince-french-students-to-stop-protests/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-    },
-    {
-      "source": "Franceinfo",
-      "title": "\"Remplacement\" de Parcoursup, créations de postes, rénovation du bâti... Quelles sont les mesures annoncées par le gouvernement pour apaiser la colère lycéenne et étudiante ?",
-      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/quelles-sont-les-mesures-proposees-par-le-gouvernement-pour-apaiser-la-colere-lyceenne-et-etudiante_8254432.html#xtor=RSS-3-[lestitres]"
-    },
-    {
-      "source": "Le Monde",
-      "title": "Anthropic dépose son dossier d’introduction en Bourse, une étape clé pour le secteur",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/26/anthropic-depose-son-dossier-d-introduction-en-bourse-une-etape-cle-pour-le-secteur_6800841_3234.html"
-    },
-    {
-      "source": "CNBC",
-      "title": "Prediction market traders say an Anthropic IPO is near-certain this year after company filed with SEC",
-      "url": "https://www.cnbc.com/2026/10/26/prediction-markets-think-anthropic-ipo-near-certain-in-2026.html"
-    },
-    {
-      "source": "Euronews",
-      "title": "Anthropic's IPO filing shows off soaring revenues as the company warns of AI's 'risks to humanity'",
-      "url": "https://www.euronews.com/2026/10/26/anthropics-ipo-filing-shows-off-soaring-revenues-as-the-company-warns-of-ais-risks-to-huma"
-    },
-    {
-      "source": "BBC Business",
-      "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
-      "url": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "Deutsche Welle",
-      "title": "AI company Anthropic files its IPO in hopes of raising $100 billion",
-      "url": "https://www.dw.com/en/ai-company-anthropic-files-its-ipo-in-hopes-of-raising-100-billion/a-79768876?maca=en-rss-en-all-1573-xml-mrss"
+      "title": "European defense ministers warn Putin isn’t looking for peace",
+      "url": "https://www.politico.eu/article/european-defense-ministers-warn-putin-isnt-looking-for-peace/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
     },
     {
       "source": "Euronews",
@@ -82,19 +37,49 @@
       "url": "https://www.euronews.com/2026/10/26/microsoft-offers-around-60000-employees-voluntary-buyouts"
     },
     {
+      "source": "CNBC",
+      "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
+      "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html"
+    },
+    {
+      "source": "CNBC",
+      "title": "Meta, SpaceX, Anthropic stoke the AI funding frenzy. What it means for our stocks",
+      "url": "https://www.cnbc.com/investingclub/2026/10/26/meta-spacex-anthropic-stoke-the-ai-funding-frenzy-what-it-means-for-our-stocks.html"
+    },
+    {
+      "source": "Le Monde",
+      "title": "Anthropic dépose son dossier d’introduction en Bourse, une étape clé pour le secteur",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/26/anthropic-depose-son-dossier-d-introduction-en-bourse-une-etape-cle-pour-le-secteur_6800841_3234.html"
+    },
+    {
+      "source": "BBC Business",
+      "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
+      "url": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "Euronews",
+      "title": "Anthropic's IPO filing shows off soaring revenues as the company warns of AI's 'risks to humanity'",
+      "url": "https://www.euronews.com/2026/10/26/anthropics-ipo-filing-shows-off-soaring-revenues-as-the-company-warns-of-ais-risks-to-huma"
+    },
+    {
+      "source": "Franceinfo",
+      "title": "Parcoursup : ce qui pourrait changer dès cette année, selon les propositions du gouvernement",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/parcoursup-ce-qui-pourrait-changer-des-cette-annee-selon-les-propositions-du-gouvernement_8254804.html#xtor=RSS-3-[lestitres]"
+    },
+    {
       "source": "Guardian World",
-      "title": "Australian politics live: Lambie awaiting Hanson apology over cartoon; Liberal candidate’s husband allegedly attacked",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb"
+      "title": "Protest leaders urge French pupils to keep barricading their schools",
+      "url": "https://www.theguardian.com/world/2026/oct/26/protest-leaders-urge-french-students-to-keep-barricading-their-schools"
     },
     {
-      "source": "ANSA",
-      "title": "Flavio Bolsonaro, 'la polizia mi ha tolto il passaporto'",
-      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/26/flavio-bolsonaro-la-polizia-mi-ha-tolto-il-passaporto_79d74835-a94c-4db4-afdc-d9eeb3b698a3.html"
+      "source": "New York Times World",
+      "title": "Lula Defeats Bolsonaro for Brazil Presidency, in Blow to Latin America’s Right",
+      "url": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-president-lula-bolsonaro.html"
     },
     {
-      "source": "Deutsche Welle",
-      "title": "A bad omen? Syria bans women from university courses",
-      "url": "https://www.dw.com/en/a-bad-omen-syria-bans-women-from-university-courses/a-79769348?maca=en-rss-en-all-1573-xml-mrss"
+      "source": "BBC World",
+      "title": "Lula wins fourth term in dramatic Brazil election comeback",
+      "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "Al Jazeera",
@@ -107,9 +92,9 @@
       "url": "https://www.theguardian.com/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates"
     },
     {
-      "source": "NBC News",
-      "title": "Texas redistricting left these Latino voters confused, but will it impact midterm vote?",
-      "url": "https://www.nbcnews.com/politics/2026-election/texas-redistricting-left-latino-voters-confused-will-impact-midterm-vo-rcna605709"
+      "source": "BBC World",
+      "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+      "url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
