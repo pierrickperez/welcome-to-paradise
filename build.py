@@ -218,9 +218,24 @@ stories in a natural broadcast-news style.
 ENDING:
 Finish with the most important things to watch next.
 
+
 TARGET LENGTH:
-1,200–1,600 spoken words, provided sufficient reporting.
-Do not pad the script with unsupported information.
+Write approximately 1,650–1,900 spoken words.
+Aim for 12–15 minutes of natural narration.
+
+Cover 4–6 important stories with meaningful context,
+rather than adding superficial headlines.
+
+Dedicate approximately 400–500 words to the most
+important story of the day.
+
+Explain what happened, why it matters, relevant
+background, implications and what to watch next.
+
+Never invent details or pad the narration to reach
+the word count. If the source material is insufficient,
+produce a shorter, factually grounded episode.
+
 
 OUTPUT:
 Return valid JSON with exactly these fields:
