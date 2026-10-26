@@ -1,10 +1,10 @@
 {
   "date": "2026-10-26",
-  "published": "2026-10-26T19:04:30.330044+01:00",
-  "title": "Welcome to Paradise - Episode 26 October 2026",
-  "summary": "This episode covers major global and regional developments including the United Nations' concerns over Israel's displacement operations in Hebron, Brazil's historic presidential election comeback by Luiz Inácio Lula da Silva, Serbia's political transformation with the Student List movement's election victory, the UK's ongoing challenges with homelessness, and the financial and operational insights from AI firm Anthropic's IPO filing.",
+  "published": "2026-10-26T19:14:01.426359+01:00",
+  "title": "Welcome to Paradise - Episode Summary for Monday, 26 October 2026",
+  "summary": "This episode covers major global and regional developments including the UN's concerns over Israel's displacement operations in Hebron, Brazil's historic presidential election comeback by Luiz Inácio Lula da Silva, Serbia's Student List movement preparing to form government, Algeria's first foreign military deployment since 1973, and the financial insights from Anthropic's IPO filing.",
   "audio_url": "https://pierrickperez.github.io/welcome-to-paradise/episodes/2026-10-26.mp3",
-  "audio_bytes": 6428204,
+  "audio_bytes": 5641580,
   "sources": [
     {
       "source": "France 24",
@@ -22,19 +22,14 @@
       "url": "https://www.theguardian.com/news/audio/2026/oct/26/how-lula-beat-far-right-bolsonaro-in-brazil-the-latest"
     },
     {
-      "source": "France 24",
-      "title": "Brazil: What does Lula's re-election mean for the Amazon?",
-      "url": "https://www.france24.com/en/brazil-what-does-lula-s-re-election-mean-for-the-amazon"
-    },
-    {
       "source": "Guardian World",
       "title": "Brazil runoff as it happened: world leaders congratulate Lula on historic election win as Bolsonaro refuses to concede",
       "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula"
     },
     {
       "source": "France 24",
-      "title": "Leaders across Americas react to Brazil President Lula's re-election",
-      "url": "https://www.france24.com/en/leaders-across-americas-react-to-brazil-president-lula-s-re-election"
+      "title": "'Lula accustomed to negotiating tough bargains': Campaign promises collide with right-wing Congress",
+      "url": "https://www.france24.com/en/lula-accustomed-to-negotiating-tough-bargains-campaign-promises-collide-with-right-wing-congress"
     },
     {
       "source": "BBC World",
@@ -42,19 +37,24 @@
       "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss"
     },
     {
+      "source": "France 24",
+      "title": "Brazil: What does Lula's re-election mean for the Amazon?",
+      "url": "https://www.france24.com/en/brazil-what-does-lula-s-re-election-mean-for-the-amazon"
+    },
+    {
+      "source": "France 24",
+      "title": "Leaders across Americas react to Brazil President Lula's re-election",
+      "url": "https://www.france24.com/en/leaders-across-americas-react-to-brazil-president-lula-s-re-election"
+    },
+    {
       "source": "Guardian World",
       "title": "Serbia’s Student List preparing for talks on forming government despite no clear leader",
       "url": "https://www.theguardian.com/world/2026/oct/26/serbia-student-list-preparing-for-talks-on-forming-government-despite-no-clear-leader"
     },
     {
-      "source": "Guardian World",
-      "title": "‘Local services are vital’: Former rough sleepers on what helped them off the streets",
-      "url": "https://www.theguardian.com/society/2026/oct/26/homeless-people-summit-andy-burnham-need-help"
-    },
-    {
-      "source": "Guardian World",
-      "title": "No 10 plays down UK joining EU single market after Burnham suggests referendum would be needed – as it happened",
-      "url": "https://www.theguardian.com/politics/live/2026/oct/26/andy-burnham-labour-brexit-eu-homelessness-immigration-budget-rosebank-reform-latest-news-updates"
+      "source": "BBC World",
+      "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC Business",
