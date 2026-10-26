@@ -1,15 +1,15 @@
 {
   "date": "2026-10-26",
-  "published": "2026-10-26T19:14:01.426359+01:00",
+  "published": "2026-10-26T20:01:51.134373+01:00",
   "title": "Welcome to Paradise - Episode Summary for Monday, 26 October 2026",
-  "summary": "This episode covers major global and regional developments including the UN's concerns over Israel's displacement operations in Hebron, Brazil's historic presidential election comeback by Luiz Inácio Lula da Silva, Serbia's Student List movement preparing to form government, Algeria's first foreign military deployment since 1973, and the financial insights from Anthropic's IPO filing.",
+  "summary": "This episode covers major global and regional developments including Brazil's historic presidential election, escalating tensions in the Middle East, significant weather events in the UK and Southern California, UK political clarifications on EU relations, and the financial outlook of AI firm Anthropic.",
   "audio_url": "https://pierrickperez.github.io/welcome-to-paradise/episodes/2026-10-26.mp3",
-  "audio_bytes": 5641580,
+  "audio_bytes": 5965100,
   "sources": [
     {
-      "source": "France 24",
-      "title": "UN cites 'ethnic cleansing' concerns around Israel's Palestinian displacement operation in Hebron",
-      "url": "https://www.france24.com/en/middle-east/20261026-un-cites-ethnic-cleansing-concerns-around-israel-palestinian-displacement-operation-hebron"
+      "source": "BBC World",
+      "title": "Lula wins fourth term in dramatic Brazil election comeback",
+      "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "Guardian World",
@@ -18,28 +18,8 @@
     },
     {
       "source": "Guardian World",
-      "title": "How Lula beat far-right Bolsonaro in Brazil – The Latest",
-      "url": "https://www.theguardian.com/news/audio/2026/oct/26/how-lula-beat-far-right-bolsonaro-in-brazil-the-latest"
-    },
-    {
-      "source": "Guardian World",
       "title": "Brazil runoff as it happened: world leaders congratulate Lula on historic election win as Bolsonaro refuses to concede",
       "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula"
-    },
-    {
-      "source": "France 24",
-      "title": "'Lula accustomed to negotiating tough bargains': Campaign promises collide with right-wing Congress",
-      "url": "https://www.france24.com/en/lula-accustomed-to-negotiating-tough-bargains-campaign-promises-collide-with-right-wing-congress"
-    },
-    {
-      "source": "BBC World",
-      "title": "Lula wins fourth term in dramatic Brazil election comeback",
-      "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "France 24",
-      "title": "Brazil: What does Lula's re-election mean for the Amazon?",
-      "url": "https://www.france24.com/en/brazil-what-does-lula-s-re-election-mean-for-the-amazon"
     },
     {
       "source": "France 24",
@@ -47,14 +27,39 @@
       "url": "https://www.france24.com/en/leaders-across-americas-react-to-brazil-president-lula-s-re-election"
     },
     {
-      "source": "Guardian World",
-      "title": "Serbia’s Student List preparing for talks on forming government despite no clear leader",
-      "url": "https://www.theguardian.com/world/2026/oct/26/serbia-student-list-preparing-for-talks-on-forming-government-despite-no-clear-leader"
+      "source": "France 24",
+      "title": "Brazil: What does Lula's re-election mean for the Amazon?",
+      "url": "https://www.france24.com/en/brazil-what-does-lula-s-re-election-mean-for-the-amazon"
     },
     {
-      "source": "BBC World",
-      "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss"
+      "source": "Guardian World",
+      "title": "How Lula beat far-right Bolsonaro in Brazil – The Latest",
+      "url": "https://www.theguardian.com/news/audio/2026/oct/26/how-lula-beat-far-right-bolsonaro-in-brazil-the-latest"
+    },
+    {
+      "source": "France 24",
+      "title": "UN cites 'ethnic cleansing' concerns around Israel's Palestinian displacement operation in Hebron",
+      "url": "https://www.france24.com/en/middle-east/20261026-un-cites-ethnic-cleansing-concerns-around-israel-palestinian-displacement-operation-hebron"
+    },
+    {
+      "source": "Guardian World",
+      "title": "Major clean-up under way after two storms cause havoc in Britain",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/26/power-cuts-storm-boelo-austen-uk"
+    },
+    {
+      "source": "Guardian World",
+      "title": "Southern California prepares for flooding amid forecast of ‘record-breaking tides’",
+      "url": "https://www.theguardian.com/us-news/2026/oct/26/southern-california-flooding-tides"
+    },
+    {
+      "source": "Guardian World",
+      "title": "No 10 clarifies Andy Burnham’s stance on freedom of movement",
+      "url": "https://www.theguardian.com/politics/2026/oct/26/andy-burnham-brexit-eu-freedom-of-movement"
+    },
+    {
+      "source": "Guardian World",
+      "title": "No 10 plays down UK joining EU single market after Burnham suggests referendum would be needed – as it happened",
+      "url": "https://www.theguardian.com/politics/live/2026/oct/26/andy-burnham-labour-brexit-eu-homelessness-immigration-budget-rosebank-reform-latest-news-updates"
     },
     {
       "source": "BBC Business",
