@@ -23,9 +23,7 @@ EPISODES = SITE / "episodes"
 TIMEZONE = ZoneInfo("Europe/Paris")
 MODEL = os.getenv("OPENAI_MODEL", "gpt-4.1-mini")
 VOICE = os.getenv("VOICE", "en-GB-ThomasNeural")
-INTRO_VOICE = os.getenv("INTRO_VOICE", "en-US-GuyNeural")
-INTRO_RATE = os.getenv("INTRO_RATE", "+22%")
-INTRO_PITCH = os.getenv("INTRO_PITCH", "+35Hz")
+INTRO_FILE = ROOT / "assets" / "intro.mp3"
 NARRATION_RATE = os.getenv("NARRATION_RATE", "-2%")
 BASE_URL = os.getenv("PODCAST_BASE_URL", "").strip().rstrip("/")
 MAX_EPISODES = 5
@@ -301,12 +299,15 @@ def split_for_tts(text, limit=2300):
     return chunks
 
 
+
 async def generate_audio_async(narration, output_file):
-    """Use a theatrical original announcer intro and a separate British presenter."""
+    """Combine the original Suno jingle with the British news narration."""
     output_file.parent.mkdir(parents=True, exist_ok=True)
 
-    # The editorial script begins with the programme name. Remove that one
-    # occurrence so the news presenter doesn't repeat the opening announcer.
+    if not INTRO_FILE.is_file():
+        raise RuntimeError(f"Suno intro not found: {INTRO_FILE}")
+
+    # Remove the old spoken programme welcome.
     narration = re.sub(
         r"^\s*welcome to paradise\s*[!.:,—-]*\s*",
         "",
@@ -314,22 +315,18 @@ async def generate_audio_async(narration, output_file):
         count=1,
         flags=re.IGNORECASE,
     ).strip()
+
     if not narration:
-        raise RuntimeError("Narration is empty after removing opening title")
+        raise RuntimeError("News narration is empty")
 
     chunks = split_for_tts(narration)
     parts = []
     manifest = output_file.with_suffix(".concat.txt")
+
     try:
-        intro = output_file.parent / "_part_000_intro.mp3"
-        print("Generating theatrical opening (original voice, not actor imitation)")
-        await edge_tts.Communicate(
-            "Welcooome... to Paradise!",
-            INTRO_VOICE,
-            rate=INTRO_RATE,
-            pitch=INTRO_PITCH,
-        ).save(str(intro))
-        parts.append(intro)
+        # Use the Suno recording instead of generating a TTS intro.
+        parts.append(INTRO_FILE)
+        print(f"Using original Suno jingle: {INTRO_FILE}")
 
         for i, chunk in enumerate(chunks, 1):
             print(f"Generating news audio segment {i}/{len(chunks)}")
@@ -339,22 +336,30 @@ async def generate_audio_async(narration, output_file):
             ).save(str(part))
             parts.append(part)
 
+        # Build an FFmpeg concat manifest with absolute paths.
         manifest.write_text(
-            "".join(f"file '{part.name}'\n" for part in parts),
+            "".join(
+                "file '" + str(part.resolve()).replace("'", "'\\''") + "'\n"
+                for part in parts
+            ),
             encoding="utf-8",
         )
+
         subprocess.run(
             [
                 "ffmpeg", "-hide_banner", "-loglevel", "error", "-y",
                 "-f", "concat", "-safe", "0", "-i", str(manifest),
-                "-c:a", "libmp3lame", "-b:a", "64k", str(output_file),
+                "-c:a", "libmp3lame", "-b:a", "64k",
+                str(output_file),
             ],
             check=True,
         )
     finally:
         manifest.unlink(missing_ok=True)
         for part in parts:
-            part.unlink(missing_ok=True)
+            if part != INTRO_FILE:
+                part.unlink(missing_ok=True)
+
 
 
 def generate_audio(narration, output_file):
@@ -365,6 +370,11 @@ def write_feed(episodes):
     ET.register_namespace("itunes", "http://www.itunes.com/dtds/podcast-1.0.dtd")
     rss = ET.Element("rss", version="2.0")
     channel = ET.SubElement(rss, "channel")
+    ET.SubElement(
+        channel,
+        "{http://www.itunes.com/dtds/podcast-1.0.dtd}image",
+        href=f"{BASE_URL}/cover.png",
+    )
 
     def add(parent, name, value):
         ET.SubElement(parent, name).text = str(value)
@@ -419,6 +429,7 @@ def write_homepage(episodes):
 h1{font-size:2.4rem}article{background:white;padding:24px;margin:25px 0;border:1px solid #ddd;border-radius:14px}
 h2{margin:0}.date{color:#666}audio{width:100%;margin:12px 0}a{color:#1456a0}li{margin:8px 0}</style>
 </head><body><h1>Welcome to Paradise</h1><p>Your weekday global news briefing.</p>
+<p><img src="cover.png" alt="Welcome to Paradise cover" style="width:100%;max-width:340px;border-radius:14px"></p>
 <p><a href="feed.xml">Subscribe using the podcast RSS feed</a></p>
 """ + "\n".join(cards) + "</body></html>"
     (SITE / "index.html").write_text(page, encoding="utf-8")
