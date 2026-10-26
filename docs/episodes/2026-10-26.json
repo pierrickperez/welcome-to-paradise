@@ -1,15 +1,35 @@
 {
   "date": "2026-10-26",
-  "published": "2026-10-26T21:32:16.851749+01:00",
-  "title": "Welcome to Paradise - Episode Plan for Monday, 26 October 2026",
-  "summary": "This episode covers key global and European developments including the deepening crisis in French education protests, the landmark Brazilian presidential election, the anticipated IPO of AI giant Anthropic, escalating tensions and military support in Ukraine, and the racially motivated attack in France's Yvelines region. The episode balances significant European and French news with important global stories, providing diverse perspectives from French, Spanish, Italian, and US sources.",
+  "published": "2026-10-26T21:47:09.971718+01:00",
+  "title": "Welcome to Paradise: Monday 26 October 2026 Edition",
+  "summary": "In this edition, we explore the deeply troubling racist terrorist attack in the Yvelines region of France, the dramatic political comeback of Brazil's President Lula, the ongoing turmoil in French education with student protests and government responses, the significant developments in the AI sector with Anthropic's IPO filing, and a roundup of key global and business stories including Microsoft's workforce changes and the US midterm election dynamics.",
   "audio_url": "https://pierrickperez.github.io/welcome-to-paradise/episodes/2026-10-26.mp3",
-  "audio_bytes": 9595219,
+  "audio_bytes": 9553527,
   "sources": [
     {
       "source": "Franceinfo",
       "title": "Attentat raciste dans les Yvelines : la garde à vue du principal suspect, qui \"conteste le caractère raciste de ses crimes\", a repris",
       "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/direct-attentat-raciste-dans-les-yvelines-olivier-christen-procureur-du-parquet-national-antiterroriste-s-exprimera-en-fin-de-journee-lundi_8254480.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "source": "New York Times World",
+      "title": "Lula Defeats Bolsonaro for Brazil Presidency, in Blow to Latin America’s Right",
+      "url": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-president-lula-bolsonaro.html"
+    },
+    {
+      "source": "El Pais",
+      "title": "Resultados de las elecciones en Brasil, en vivo | Bolsonaro anuncia que liderará la oposición a Lula, pero no admite la derrota",
+      "url": "https://elpais.com/america/2026-10-26/resultados-de-las-elecciones-en-brasil-en-vivo.html"
+    },
+    {
+      "source": "BBC World",
+      "title": "Lula wins fourth term in dramatic Brazil election comeback",
+      "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "France 24",
+      "title": "Comeback kid: How did Brazil veteran-leader Lula upset Bolsonaro?",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20261026-comeback-kid-how-did-brazil-veteran-leader-lula-upset-bolsonaro"
     },
     {
       "source": "Franceinfo",
@@ -32,34 +52,14 @@
       "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/quelles-sont-les-mesures-proposees-par-le-gouvernement-pour-apaiser-la-colere-lyceenne-et-etudiante_8254432.html#xtor=RSS-3-[lestitres]"
     },
     {
-      "source": "El Pais",
-      "title": "Resultados de las elecciones en Brasil, en vivo | Trump, sobre el triunfo de Lula: “Me pareció otra elección amañada”",
-      "url": "https://elpais.com/america/2026-10-26/resultados-de-las-elecciones-en-brasil-en-vivo.html"
-    },
-    {
-      "source": "New York Times World",
-      "title": "Lula Defeats Bolsonaro for Brazil Presidency, in Blow to Latin America’s Right",
-      "url": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-president-lula-bolsonaro.html"
-    },
-    {
-      "source": "BBC World",
-      "title": "Lula wins fourth term in dramatic Brazil election comeback",
-      "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "France 24",
-      "title": "Comeback kid: How did Brazil veteran-leader Lula upset Bolsonaro?",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20261026-comeback-kid-how-did-brazil-veteran-leader-lula-upset-bolsonaro"
+      "source": "Le Monde",
+      "title": "Anthropic dépose son dossier d’introduction en Bourse, une étape clé pour le secteur",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/26/anthropic-depose-son-dossier-d-introduction-en-bourse-une-etape-cle-pour-le-secteur_6800841_3234.html"
     },
     {
       "source": "CNBC",
       "title": "Prediction market traders say an Anthropic IPO is near-certain this year after company filed with SEC",
       "url": "https://www.cnbc.com/2026/10/26/prediction-markets-think-anthropic-ipo-near-certain-in-2026.html"
-    },
-    {
-      "source": "Le Monde",
-      "title": "Anthropic dépose son dossier d’introduction en Bourse, une étape clé pour le secteur",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/26/anthropic-depose-son-dossier-d-introduction-en-bourse-une-etape-cle-pour-le-secteur_6800841_3234.html"
     },
     {
       "source": "Euronews",
@@ -77,14 +77,39 @@
       "url": "https://www.dw.com/en/ai-company-anthropic-files-its-ipo-in-hopes-of-raising-100-billion/a-79768876?maca=en-rss-en-all-1573-xml-mrss"
     },
     {
-      "source": "Politico Europe",
-      "title": "European defense ministers warn Putin isn’t looking for peace",
-      "url": "https://www.politico.eu/article/european-defense-ministers-warn-putin-isnt-looking-for-peace/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+      "source": "Euronews",
+      "title": "Microsoft offers around 60,000 employees voluntary buyouts",
+      "url": "https://www.euronews.com/2026/10/26/microsoft-offers-around-60000-employees-voluntary-buyouts"
     },
     {
-      "source": "New York Times World",
-      "title": "Civilian Suffering Was Goal of Russian Strikes in Ukraine, U.N. Panel Says",
-      "url": "https://www.nytimes.com/2026/10/26/world/europe/russia-ukraine-energy-strikes-un.html"
+      "source": "Guardian World",
+      "title": "Australian politics live: Lambie awaiting Hanson apology over cartoon; Liberal candidate’s husband allegedly attacked",
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb"
+    },
+    {
+      "source": "ANSA",
+      "title": "Flavio Bolsonaro, 'la polizia mi ha tolto il passaporto'",
+      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/26/flavio-bolsonaro-la-polizia-mi-ha-tolto-il-passaporto_79d74835-a94c-4db4-afdc-d9eeb3b698a3.html"
+    },
+    {
+      "source": "Deutsche Welle",
+      "title": "A bad omen? Syria bans women from university courses",
+      "url": "https://www.dw.com/en/a-bad-omen-syria-bans-women-from-university-courses/a-79769348?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "‘Deflections’: Abdul El-Sayed responds to Trump’s anti-Muslim attacks",
+      "url": "https://www.aljazeera.com/news/2026/10/26/deflections-abdul-el-sayed-responds-to-trumps-anti-muslim-attacks?traffic_source=rss"
+    },
+    {
+      "source": "Guardian World",
+      "title": "Republican and Democratic ex-governors issue rare joint endorsement for South Carolina Senate candidate – US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates"
+    },
+    {
+      "source": "NBC News",
+      "title": "Texas redistricting left these Latino voters confused, but will it impact midterm vote?",
+      "url": "https://www.nbcnews.com/politics/2026-election/texas-redistricting-left-latino-voters-confused-will-impact-midterm-vo-rcna605709"
     }
   ]
 }
