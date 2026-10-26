@@ -1,0 +1,4 @@
+feedparser==6.0.12
+openai>=1.70,<3
+edge-tts>=7.0,<9
+python-dateutil>=2.9,<3
