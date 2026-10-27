@@ -1,71 +1,151 @@
 {
   "date": "2026-10-27",
-  "published": "2026-10-27T11:51:16.427922+01:00",
-  "title": "Key Global Developments: Israel Election, Ukraine Defense, Middle East Tensions, and More",
-  "summary": "Today’s episode covers Israel’s pivotal election amid ongoing regional conflicts, Ukraine’s advances and challenges in drone defense, escalating Middle East tensions following Jordan’s strikes on Syria, and significant geopolitical security concerns in the UK. Additional stories include the impact of diplomatic efforts on oil prices and a major AI company’s IPO filing.",
+  "published": "2026-10-27T13:15:00.765946+01:00",
+  "title": "Global Morning Briefing — 27 October 2026",
+  "summary": "The day's major world, European, business and technology news in 15 concise stories.",
   "audio_url": "https://pierrickperez.github.io/welcome-to-paradise/episodes/2026-10-27.mp3",
-  "audio_bytes": 6613184,
+  "audio_bytes": 4709798,
   "transcript_url": "https://pierrickperez.github.io/welcome-to-paradise/transcripts/2026-10-27.txt",
   "sources": [
+    {
+      "source": "New York Times World",
+      "title": "2 Right-Wingers Who Broke With Netanyahu Could Bid to Unseat Him",
+      "url": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-avigdor-liberman-naftali-bennett.html"
+    },
+    {
+      "source": "ANSA",
+      "title": "Uomo con un coltello si avvicina a Yair Golan a Tel Aviv",
+      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/27/uomo-con-un-coltello-si-avvicina-a-yair-golan-a-tel-aviv_10eb6f97-1a43-412e-b173-5349dafd7ec6.html"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Former PLO official says Netanyahu-Eisenkot coalition could be possible",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/former-plo-official-says-netanyahu-eisenkot-coalition-could-be-possible?traffic_source=rss"
+    },
     {
       "source": "Guardian World",
       "title": "Israel election live: polls open in most consequential vote in country’s history",
       "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates"
     },
     {
-      "source": "BBC World",
-      "title": "What does Israel's election mean for Gaza and the wider world?",
-      "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "France 24",
-      "title": "Netanyahu's political survival on the line as Israel heads to the polls",
-      "url": "https://www.france24.com/en/netanyahu-s-political-survival-on-the-line-as-israel-heads-to-the-polls"
-    },
-    {
-      "source": "BBC World",
-      "title": "Israel heads to polls for pivotal election defined by security and democracy",
-      "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "Euronews",
-      "title": "Ukraine improves jet-powered drone interception rates, but Starlink disruptions threaten progress",
-      "url": "https://www.euronews.com/2026/10/27/ukraine-improves-jet-powered-drone-interception-rates-but-starlink-disruptions-threaten-pr"
+      "source": "El Pais",
+      "title": "Netanyahu se juega su futuro en unas elecciones decisivas para todo Oriente Próximo",
+      "url": "https://elpais.com/internacional/2026-10-27/netanyahu-se-juega-su-futuro-en-unas-elecciones-decisivas-para-todo-oriente-proximo.html"
     },
     {
       "source": "Franceinfo",
-      "title": "La Jordanie frappe la Syrie après l'attaque contre une église et affirme avoir tué 20 personnnes, Damas recense sept morts",
-      "url": "https://www.franceinfo.fr/monde/revolte-en-syrie/la-jordanie-frappe-la-syrie-apres-l-attaque-contre-une-eglise-provoquant-la-mort-de-huit-personnes-dont-trois-enfants_8255299.html#xtor=RSS-3-[lestitres]"
+      "title": "\"Ce propos était maladroit\" : Kylian Mbappé présente ses excuses à la Chine après avoir déclenché une polémique à cause d'une plaisanterie sur Mao Zedong",
+      "url": "https://www.franceinfo.fr/sports/foot/kylian-mbappe/jce-propos-etait-maladroit-kylian-mbappe-presente-ses-excuses-a-la-chine-apres-avoir-declenche-une-polemique-a-cause-d-une-plaisanterie-sur-mao-zedong_8255830.html#xtor=RSS-3-[lestitres]"
     },
     {
-      "source": "New York Times World",
-      "title": "2 British Men Charged Over RAF Fairford Incident",
-      "url": "https://www.nytimes.com/2026/10/27/world/europe/raf-fairford-charges-uk-air-base-us-iran.html"
-    },
-    {
-      "source": "Guardian World",
-      "title": "Two men charged over alleged plot to assist Iran after RAF Fairford incident",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/27/two-men-charged-raf-fairford"
-    },
-    {
-      "source": "CNBC",
-      "title": "Oil prices seesaw amid renewed diplomatic efforts to end Mideast conflict",
-      "url": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html"
-    },
-    {
-      "source": "France 24",
-      "title": "Anthropic files for mammoth IPO as revenues and losses mount",
-      "url": "https://www.france24.com/en/tv-shows/business/20261027-anthropic-files-for-mammoth-ipo-as-revenues-and-losses-mount"
-    },
-    {
-      "source": "Politico Europe",
-      "title": "Kylian Mbappé dropped by Chinese brands over ‘dictator’ comment",
-      "url": "https://www.politico.eu/article/kylian-mbappe-dropped-by-chinese-brands-over-dictator-comment/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+      "source": "Euronews",
+      "title": "Football: Chinese sponsors drop Mbappé over Mao Zedong joke",
+      "url": "https://www.euronews.com/2026/10/27/football-chinese-sponsors-drop-mbappe-over-mao-zedong-joke"
     },
     {
       "source": "BBC World",
-      "title": "Mbappé dropped by major Chinese brands as backlash grows over Mao joke",
+      "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
       "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "El Pais",
+      "title": "La televisión china suspende las emisiones de LaLiga tras la polémica con un meme y Mbappé, que se refirió a Mao Zedong como “dictador”",
+      "url": "https://elpais.com/deportes/futbol/2026-10-27/la-television-estatal-china-suspende-las-emisiones-de-laliga-tras-la-polemica-con-mbappe-y-su-gobierno-destaca-que-ha-herido-los-sentimientos-nacionales.html"
+    },
+    {
+      "source": "NBC News",
+      "title": "Memes, Mao and Mbappé: Chinese brands drop soccer star in fury over ‘dictator’ joke",
+      "url": "https://www.nbcnews.com/world/asia/china-kylian-mbappe-mao-zedong-memes-brands-la-liga-rcna605873"
+    },
+    {
+      "source": "BBC World",
+      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
+      "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "Franceinfo",
+      "title": "Vladimir Poutine accuse l'Union européenne et l'Otan de prolonger la guerre en Ukraine, lors d'un appel avec des dirigeants nordiques",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vladimir-poutine-accuse-l-union-europeenne-et-l-otan-de-prolonger-la-guerre-en-ukraine-lors-d-un-appel-avec-des-dirigeants-nordiques_8255782.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "source": "El Pais",
+      "title": "Los líderes de Finlandia y Noruega llaman a Putin para buscar una salida a la guerra en Ucrania",
+      "url": "https://elpais.com/internacional/2026-10-27/los-lideres-de-finlandia-y-noruega-llaman-a-putin-para-buscar-una-salida-a-la-guerra-en-ucrania.html"
+    },
+    {
+      "source": "Deutsche Welle",
+      "title": "DR Congo reports over 10,000 Ebola cases as the outbreak spreads abroad, with no approved vaccine or specific treatment for the Bundibugyo virus",
+      "url": "https://www.dw.com/en/dr-congo-reports-over-10-000-ebola-cases-as-the-outbreak-spreads-abroad-with-no-approved-vaccine-or-specific-treatment-for-the-bundibugyo-virus/a-79773667?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+      "source": "France 24",
+      "title": "US midterms: Trump escalates anti-Muslim attacks against Democratic Senate candidate Abdul El-Sayed",
+      "url": "https://www.france24.com/en/video/20261027-us-midterms-trump-escalates-anti-muslim-attacks-against-democratic-senate-candidate-abdul-el-sayed"
+    },
+    {
+      "source": "NPR World",
+      "title": "Democrats have a midterm edge, poll shows. And, Israelis vote in high-stakes election",
+      "url": "https://www.npr.org/2026/10/27/g-s1-150052/up-first-newsletter-midterms-polling-data-voter-fraud-israel-prime-minister-elections"
+    },
+    {
+      "source": "Guardian World",
+      "title": "‘I’m still innocent,’ says Comey as Trump calls him a ‘dirty cop’ – US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/27/comey-trump-rubio-texas-vance-israel-midterms-politics-latest-news-updates"
+    },
+    {
+      "source": "BBC World",
+      "title": "Ex-FBI chief James Comey faces federal charges for third time",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "New York Times World",
+      "title": "Jordan Says Its Deadly Strikes in Syria Targeted Islamic State",
+      "url": "https://www.nytimes.com/2026/10/27/world/middleeast/jordan-syria-strikes-attack.html"
+    },
+    {
+      "source": "France 24",
+      "title": "South Africa suspends asylum applications after recent unrest",
+      "url": "https://www.france24.com/en/video/20261027-south-africa-suspends-asylum-applications-after-recent-unrest"
+    },
+    {
+      "source": "Politico Europe",
+      "title": "French MPs will vote on Sánchez-style amnesty plan for undocumented workers",
+      "url": "https://www.politico.eu/article/france-vote-amnesty-plan-undocumented-workers/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+      "source": "Guardian Business",
+      "title": "HSBC profits surge 32%, sparking fresh calls for bank taxes in the budget – business live",
+      "url": "https://www.theguardian.com/business/live/2026/oct/27/hsbc-shareholders-profits-surge-32-percent-bank-tax-budget-stock-markets-cost-cutting-latest-news-updates"
+    },
+    {
+      "source": "CNBC",
+      "title": "Boeing narrows third-quarter loss as defense sales rise, but focus remains on 737 Max production",
+      "url": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html"
+    },
+    {
+      "source": "Le Monde",
+      "title": "Journalistes brutalisés au congrès du RN : la presse doit pouvoir travailler librement, alertent 44 sociétés de journalistes",
+      "url": "https://www.lemonde.fr/politique/article/2026/10/27/journalistes-brutalises-au-congres-du-rn-la-presse-doit-pouvoir-travailler-librement-alertent-44-societes-de-journalistes_6801268_823448.html"
+    },
+    {
+      "source": "ANSA",
+      "title": "Ue propone riforma di Frontex, 'braccio operativo per i rimpatri'",
+      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/27/ue-propone-riforma-di-frontex-braccio-operativo-per-i-rimpatri_f59b6236-9ca5-46f9-bce7-e24b6baf6b73.html"
+    },
+    {
+      "source": "NBC News",
+      "title": "Powerful King Tides Flood Coastal Communities on Both Coasts",
+      "url": "https://www.today.com/video/powerful-king-tides-flood-coastal-communities-on-both-coasts-272310341936"
+    },
+    {
+      "source": "ANSA",
+      "title": "Attacchi hacker alla Camera. Prese di mira caselle mail, anche quella di Meloni",
+      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/27/attacchi-hacker-alla-camera.-prese-di-mira-caselle-mail-anche-quella_a750198b-cc8b-4726-8161-0ae4dd00c1ea.html"
+    },
+    {
+      "source": "Euronews",
+      "title": "To the moon and beyond: Astronauts Chris Hadfield and Victor Glover on why the 'New Space race matters",
+      "url": "https://www.euronews.com/video/2026/10/27/to-the-moon-and-beyond-astronauts-chris-hadfield-and-victor-glover-on-why-the-new-space-ra"
     }
   ]
 }
