@@ -1,25 +1,30 @@
 {
   "date": "2026-10-27",
-  "published": "2026-10-27T13:56:24.114999+01:00",
+  "published": "2026-10-27T14:04:00.496971+01:00",
   "title": "Global Morning Briefing — 27 October 2026",
-  "summary": "The day's international, European, business and technology news in 11 verified stories.",
+  "summary": "The day's international, European, business and technology news in 8 verified stories.",
   "audio_url": "https://pierrickperez.github.io/welcome-to-paradise/episodes/2026-10-27.mp3",
-  "audio_bytes": 6982451,
+  "audio_bytes": 5157746,
   "transcript_url": "https://pierrickperez.github.io/welcome-to-paradise/transcripts/2026-10-27.txt",
   "sources": [
-    {
-      "source": "CNBC",
-      "title": "Israel election puts Netanyahu’s wartime leadership on the line as Trump urges voters to return him to power",
-      "url": "https://www.cnbc.com/2026/10/26/israel-election-netanyahu-iran-gaza-palestine.html"
-    },
     {
       "source": "Guardian World",
       "title": "Israel goes to the polls in most consequential election in its history – live updates",
       "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates"
     },
     {
+      "source": "Al Jazeera",
+      "title": "Ebola cases in DR Congo surpass 10,000 in fastest-growing outbreak",
+      "url": "https://www.aljazeera.com/news/2026/10/27/ebola-cases-in-dr-congo-surpass-10000-in-fastest-growing-outbreak?traffic_source=rss"
+    },
+    {
+      "source": "Deutsche Welle",
+      "title": "DR Congo reports over 10,000 Ebola cases as the outbreak spreads abroad, with no approved vaccine or specific treatment for the Bundibugyo virus",
+      "url": "https://www.dw.com/en/dr-congo-reports-over-10-000-ebola-cases-as-the-outbreak-spreads-abroad-with-no-approved-vaccine-or-specific-treatment-for-the-bundibugyo-virus/a-79773667?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
       "source": "Guardian World",
-      "title": "Finnish and Norwegian leaders hold rare ‘frank and substantive’ call with Putin on Ukraine – Europe live",
+      "title": "Rare call with Putin on Ukraine was ‘substantive’ but ‘significant differences’ remain, say Finnish and Norwegian leaders – Europe live",
       "url": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates"
     },
     {
@@ -33,34 +38,9 @@
       "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vladimir-poutine-accuse-l-union-europeenne-et-l-otan-de-prolonger-la-guerre-en-ukraine-lors-d-un-appel-avec-des-dirigeants-nordiques_8255782.html#xtor=RSS-3-[lestitres]"
     },
     {
-      "source": "Deutsche Welle",
-      "title": "DR Congo reports over 10,000 Ebola cases as the outbreak spreads abroad, with no approved vaccine or specific treatment for the Bundibugyo virus",
-      "url": "https://www.dw.com/en/dr-congo-reports-over-10-000-ebola-cases-as-the-outbreak-spreads-abroad-with-no-approved-vaccine-or-specific-treatment-for-the-bundibugyo-virus/a-79773667?maca=en-rss-en-all-1573-xml-mrss"
-    },
-    {
       "source": "Al Jazeera",
-      "title": "Ebola cases in DR Congo surpass 10,000 in fastest-growing outbreak",
-      "url": "https://www.aljazeera.com/news/2026/10/27/ebola-cases-in-dr-congo-surpass-10000-in-fastest-growing-outbreak?traffic_source=rss"
-    },
-    {
-      "source": "BBC Business",
-      "title": "Minimum wage increase set to slow for 18-20 year-olds",
-      "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "CNBC",
-      "title": "World Bank's Banga: Availability of capital 'not really an issue' as AI demand drives up borrowing costs",
-      "url": "https://www.cnbc.com/2026/10/27/world-bank-president-ajay-banga.html"
-    },
-    {
-      "source": "BBC World",
-      "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
-      "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "Euronews",
-      "title": "Football: Mbappé apologises for 'ill-judged' joke about China's Mao Zedong that led several brands to drop him",
-      "url": "https://www.euronews.com/2026/10/27/football-chinese-sponsors-drop-mbappe-over-mao-zedong-joke"
+      "title": "Kylian Mbappe apologises after ‘dictator’ comment angers Chinese fans",
+      "url": "https://www.aljazeera.com/sports/2026/10/27/kylian-mbappe-apologises-after-dictator-comment-angers-chinese-fans?traffic_source=rss"
     },
     {
       "source": "NBC News",
@@ -68,19 +48,14 @@
       "url": "https://www.nbcnews.com/world/asia/china-kylian-mbappe-mao-zedong-memes-brands-la-liga-rcna605873"
     },
     {
-      "source": "NPR World",
-      "title": "Democrats have a midterm edge, poll shows. And, Israelis vote in high-stakes election",
-      "url": "https://www.npr.org/2026/10/27/g-s1-150052/up-first-newsletter-midterms-polling-data-voter-fraud-israel-prime-minister-elections"
-    },
-    {
-      "source": "ANSA",
-      "title": "Ue propone riforma di Frontex, 'braccio operativo per i rimpatri'",
-      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/27/ue-propone-riforma-di-frontex-braccio-operativo-per-i-rimpatri_f59b6236-9ca5-46f9-bce7-e24b6baf6b73.html"
+      "source": "Euronews",
+      "title": "Football: Mbappé apologises for 'ill-judged' joke about China's Mao Zedong that led several brands to drop him",
+      "url": "https://www.euronews.com/2026/10/27/football-chinese-sponsors-drop-mbappe-over-mao-zedong-joke"
     },
     {
       "source": "CNBC",
-      "title": "Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North America",
-      "url": "https://www.cnbc.com/2026/10/27/coca-cola-ko-q3-2026-earnings.html"
+      "title": "World Bank's Banga: Availability of capital 'not really an issue' as AI demand drives up borrowing costs",
+      "url": "https://www.cnbc.com/2026/10/27/world-bank-president-ajay-banga.html"
     },
     {
       "source": "Deutsche Welle",
@@ -88,9 +63,19 @@
       "url": "https://www.dw.com/en/germany-s-merz-says-erosion-of-global-order-means-middle-powers-in-europe-and-asia-must-be-more-assertive/live-79772992?maca=en-rss-en-all-1573-xml-mrss"
     },
     {
-      "source": "France 24",
-      "title": "'Get the Flock out': Americans respond to AI cameras in bipartisan backlash",
-      "url": "https://www.france24.com/en/americas/20261027-united-states-get-the-flock-out-americans-respond-to-ai-cameras-in-bipartisan-backlash-midterm-elections"
+      "source": "Politico Europe",
+      "title": "French government mulled blocking social networks and mobile internet amid protests",
+      "url": "https://www.politico.eu/article/french-government-mulled-blocking-social-network-amid-protests/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+      "source": "BBC World",
+      "title": "Ex-FBI chief James Comey faces federal charges for third time",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "Guardian World",
+      "title": "‘I’m still innocent,’ says Comey as Trump calls him a ‘dirty cop’ – US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/27/comey-trump-rubio-texas-vance-israel-midterms-politics-latest-news-updates"
     }
   ]
 }
