@@ -1,100 +1,71 @@
 {
   "date": "2026-10-27",
-  "published": "2026-10-27T07:21:20.153813+01:00",
-  "title": "Welcome to Paradise - Tuesday, 27 October 2026 Edition",
-  "summary": "An insightful edition covering breakthrough cancer treatment in France, the tense Israeli legislative elections, Switzerland's upcoming firework ban referendum, HSBC's financial results amid economic uncertainties, and a roundup of key global and European developments.",
+  "published": "2026-10-27T11:51:16.427922+01:00",
+  "title": "Key Global Developments: Israel Election, Ukraine Defense, Middle East Tensions, and More",
+  "summary": "Today’s episode covers Israel’s pivotal election amid ongoing regional conflicts, Ukraine’s advances and challenges in drone defense, escalating Middle East tensions following Jordan’s strikes on Syria, and significant geopolitical security concerns in the UK. Additional stories include the impact of diplomatic efforts on oil prices and a major AI company’s IPO filing.",
   "audio_url": "https://pierrickperez.github.io/welcome-to-paradise/episodes/2026-10-27.mp3",
-  "audio_bytes": 8632241,
+  "audio_bytes": 6613184,
+  "transcript_url": "https://pierrickperez.github.io/welcome-to-paradise/transcripts/2026-10-27.txt",
   "sources": [
-    {
-      "source": "Franceinfo",
-      "title": "Cancer de la prostate : un nouveau traitement permet de prolonger de deux ans la survie des patients présentant des métastases, selon une étude",
-      "url": "https://www.franceinfo.fr/sante/cancer/cancer-de-la-prostate-un-nouveau-traitement-permet-de-prolonger-de-deux-ans-la-survie-des-patients-presentant-des-metastases-selon-une-etude_8255137.html#xtor=RSS-3-[lestitres]"
-    },
-    {
-      "source": "ANSA",
-      "title": "Israele, aperti i seggi per il rinnovo della Knesset",
-      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/27/israele-aperti-i-seggi-per-il-rinnovo-della-knesset_4702a02c-f927-45a4-97ff-e07e4d05c058.html"
-    },
-    {
-      "source": "Franceinfo",
-      "title": "Elections législatives en Israël : très critiqué, le Premier ministre Benyamin Nétanyahou joue sa survie politique dans les urnes",
-      "url": "https://www.franceinfo.fr/monde/israel/direct-elections-legislatives-en-israel-tres-critique-le-premier-ministre-benyamin-netanyahou-joue-sa-survie-politique-dans-les-urnes_8254444.html#xtor=RSS-3-[lestitres]"
-    },
-    {
-      "source": "New York Times World",
-      "title": "Two Candidates, Two Israels, One Nation in the Balance",
-      "url": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-identity.html"
-    },
-    {
-      "source": "Deutsche Welle",
-      "title": "Israel election: Israelis vote for 1st time since October 7 terror attack",
-      "url": "https://www.dw.com/en/israel-election-israelis-vote-for-1st-time-since-october-7-terror-attack/live-79713839?maca=en-rss-en-all-1573-xml-mrss"
-    },
-    {
-      "source": "New York Times World",
-      "title": "Here’s the latest.",
-      "url": "https://www.nytimes.com/live/2026/10/27/world/israel-elections/heres-the-latest"
-    },
     {
       "source": "Guardian World",
       "title": "Israel election live: polls open in most consequential vote in country’s history",
       "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates"
     },
     {
-      "source": "France 24",
-      "title": "Israel votes in first election since October 7 attack as Netanyahu faces crucial test",
-      "url": "https://www.france24.com/en/middle-east/20261027-israel-election-2026-netanyahu-october-7"
+      "source": "BBC World",
+      "title": "What does Israel's election mean for Gaza and the wider world?",
+      "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "source": "Politico Europe",
-      "title": "Parlamentswahl in Israel: Hoffnung auf einen Neuanfang?",
-      "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/parlamentswahl-in-israel-hoffnung-auf-einen-neuanfang/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+      "source": "France 24",
+      "title": "Netanyahu's political survival on the line as Israel heads to the polls",
+      "url": "https://www.france24.com/en/netanyahu-s-political-survival-on-the-line-as-israel-heads-to-the-polls"
+    },
+    {
+      "source": "BBC World",
+      "title": "Israel heads to polls for pivotal election defined by security and democracy",
+      "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "Euronews",
-      "title": "Animal panic and air pollution: Why Switzerland is set to vote on a nationwide firework ban",
-      "url": "https://www.euronews.com/2026/10/27/animal-panic-and-air-pollution-why-switzerland-is-set-to-vote-on-a-nationwide-firework-ban"
-    },
-    {
-      "source": "CNBC",
-      "title": "HSBC announces share buyback of up to $1 billion as third-quarter profit meets estimates",
-      "url": "https://www.cnbc.com/2026/10/27/hsbc-third-quarter-profit-.html"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Could US midterms reshape Pakistan’s relationship with Washington?",
-      "url": "https://www.aljazeera.com/news/2026/10/27/could-us-midterms-reshape-pakistans-relationship-with-washington?traffic_source=rss"
-    },
-    {
-      "source": "NPR World",
-      "title": "Local ceasefire brokered by Melania Trump starts in southern Ukraine",
-      "url": "https://www.npr.org/2026/10/27/g-s1-150037/russia-ukraine-war"
+      "title": "Ukraine improves jet-powered drone interception rates, but Starlink disruptions threaten progress",
+      "url": "https://www.euronews.com/2026/10/27/ukraine-improves-jet-powered-drone-interception-rates-but-starlink-disruptions-threaten-pr"
     },
     {
       "source": "Franceinfo",
-      "title": "Le parti de Flavio Bolsonaro reconnaît finalement la réélection de Lula à la présidence du Brésil",
-      "url": "https://www.franceinfo.fr/monde/bresil/le-parti-de-flavio-bolsonaro-reconnait-finalement-la-reelection-de-lula-a-la-presidence-du-bresil_8255176.html#xtor=RSS-3-[lestitres]"
+      "title": "La Jordanie frappe la Syrie après l'attaque contre une église et affirme avoir tué 20 personnnes, Damas recense sept morts",
+      "url": "https://www.franceinfo.fr/monde/revolte-en-syrie/la-jordanie-frappe-la-syrie-apres-l-attaque-contre-une-eglise-provoquant-la-mort-de-huit-personnes-dont-trois-enfants_8255299.html#xtor=RSS-3-[lestitres]"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Why has France struggled to address students’ demands?",
-      "url": "https://www.aljazeera.com/news/2026/10/27/why-has-france-struggled-to-address-students-demands?traffic_source=rss"
-    },
-    {
-      "source": "BBC Business",
-      "title": "Will the Budget pass Burnham's Makerfield test?",
-      "url": "https://www.bbc.co.uk/news/articles/cqzjx1e9ylv1o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "BBC Business",
-      "title": "Budget 2026: 'Surrey is a lovely place - but it can be stressful'",
-      "url": "https://www.bbc.co.uk/news/articles/c6e3xk7klnkwo?at_medium=RSS&at_campaign=rss"
+      "source": "New York Times World",
+      "title": "2 British Men Charged Over RAF Fairford Incident",
+      "url": "https://www.nytimes.com/2026/10/27/world/europe/raf-fairford-charges-uk-air-base-us-iran.html"
     },
     {
       "source": "Guardian World",
-      "title": "Australian politics live: Bridget McKenzie fears MPs will ‘retreat from the public square’ following alleged attack on Helen Haines",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb"
+      "title": "Two men charged over alleged plot to assist Iran after RAF Fairford incident",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/27/two-men-charged-raf-fairford"
+    },
+    {
+      "source": "CNBC",
+      "title": "Oil prices seesaw amid renewed diplomatic efforts to end Mideast conflict",
+      "url": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html"
+    },
+    {
+      "source": "France 24",
+      "title": "Anthropic files for mammoth IPO as revenues and losses mount",
+      "url": "https://www.france24.com/en/tv-shows/business/20261027-anthropic-files-for-mammoth-ipo-as-revenues-and-losses-mount"
+    },
+    {
+      "source": "Politico Europe",
+      "title": "Kylian Mbappé dropped by Chinese brands over ‘dictator’ comment",
+      "url": "https://www.politico.eu/article/kylian-mbappe-dropped-by-chinese-brands-over-dictator-comment/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+      "source": "BBC World",
+      "title": "Mbappé dropped by major Chinese brands as backlash grows over Mao joke",
+      "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
