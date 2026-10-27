@@ -1,0 +1,467 @@
+[
+  {
+    "story": "Israel holds critical general election amid ongoing Middle East conflict",
+    "narration": "Israeli voters participated in a general election on Tuesday, October 27, 2026, marking the country's first election since the Hamas attacks on October 7, 2023. These attacks resulted in around 1,200 deaths and over 250 abductions. The Palestinian Ministry of Health reports that Israel's subsequent military campaign in Gaza has caused more than 74,500 deaths. Voter turnout was notably high, reaching 16.68% by 10am local time, the highest at that hour since 1981, with over 1.2 million Israelis casting ballots, an increase compared to the previous election in 2022. By midday, turnout rose to 31.5%, the highest by that time since 1977. Prime Minister Benjamin Netanyahu, leader of the right-wing Likud party, is seeking to maintain his position amid this election. He urged right-wing voters to participate, describing the situation as an 'emergency hour' to prevent gains by left-wing parties.",
+    "claims": [
+      {
+        "fact": "Israeli voters cast their votes in a general election on Tuesday, October 27, 2026.",
+        "source_index": 31,
+        "excerpt": "Israeli voters will head to the polls Tuesday in an election with implications beyond the country’s borders."
+      },
+      {
+        "fact": "This is Israel’s first election since Hamas’ Oct. 7, 2023, attacks, which killed around 1,200 people and saw more than 250 abducted.",
+        "source_index": 31,
+        "excerpt": "It is Israel’s first election since Hamas’ Oct. 7, 2023, attacks, which killed around 1,200 people and saw more than 250 abducted."
+      },
+      {
+        "fact": "The Palestinian Ministry of Health says Israel’s subsequent military campaign in Gaza has killed more than 74,500 people.",
+        "source_index": 31,
+        "excerpt": "The Palestinian Ministry of Health says Israel’s subsequent military campaign in Gaza has killed more than 74,500 people."
+      },
+      {
+        "fact": "Voter turnout in the election reached 16.68% by 10am local time, the highest level recorded at that hour since 1981.",
+        "source_index": 52,
+        "excerpt": "Citing figures released by the Central Elections Committee, the Israeli newspaper Ynet is reporting that voter turnout in the election reached 16.68% by 10am local time (8am GMT), the highest level recorded at that hour since 1981."
+      },
+      {
+        "fact": "Over 1.2 million Israelis had cast their ballots by 10am, a rise of 0.78 percentage points compared with the same stage of the previous election in 2022.",
+        "source_index": 52,
+        "excerpt": "Over 1.2m Israelis had cast their ballots by 10am, according to the data, a rise of 0.78 percentage points compared with the same stage of the previous election in 2022."
+      },
+      {
+        "fact": "By noon, 31.5% of Israelis voted, the highest voter turnout by midday since 1977.",
+        "source_index": 52,
+        "excerpt": "The new data showing that 31.5% of Israelis voted by noon, the highest voter turnout by midday since 1977."
+      },
+      {
+        "fact": "Prime Minister Benjamin Netanyahu, leader of the right-wing Likud party, is fighting for his political survival in this election.",
+        "source_index": 52,
+        "excerpt": "Benjamin Netanyahu, who is fighting for his political survival, has just cast his ballot in Jerusalem."
+      },
+      {
+        "fact": "Netanyahu urged right-wing voters to vote, calling this an 'emergency hour' to counter left electoral gains.",
+        "source_index": 52,
+        "excerpt": "In a post on X this morning, the Israeli prime minister wrote “right-wing voters, this is an emergency hour” as he urged them to get out and vote to counter any left electoral gains."
+      }
+    ],
+    "source_urls": [
+      "https://www.cnbc.com/2026/10/26/israel-election-netanyahu-iran-gaza-palestine.html",
+      "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates"
+    ]
+  },
+  {
+    "story": "Ukraine war diplomacy: Finland and Norway hold direct talks with Putin amid European divisions",
+    "narration": "Finnish President Alexander Stubb and Norwegian Prime Minister Jonas Gahr Støre held a 90-minute phone call with Russian President Vladimir Putin, which was described as frank and substantive. The Finnish and Norwegian leaders spoke solely on behalf of their own countries and did not represent Europe as a whole. During the conversation, Putin stated that a just and lasting peace in Ukraine would only be possible by fully considering Russia's interests. He also accused the European Union and NATO of prolonging the conflict through their confrontational policies. Meanwhile, Prime Minister Støre emphasized that Norway and Finland support Ukraine's right to self-defense. President Stubb highlighted that ending the war requires direct discussions. The extended call exceeded the initially allocated 20 minutes, reflecting the complexity of the issues discussed.",
+    "claims": [
+      {
+        "fact": "The Finnish and Norwegian leaders spoke on behalf of their own countries only and did not represent Europe as a whole.",
+        "source_index": 12,
+        "excerpt": "Curiously, the statement noted that “Stubb and Støre took the call as leaders of their respective countries and did not speak on the behalf of Europe as a whole.”"
+      },
+      {
+        "fact": "The call lasted 90 minutes, much longer than the initially allocated 20 minutes, and was described as 'frank and substantive'.",
+        "source_index": 12,
+        "excerpt": "He and Stubb had been initially given only 20 minutes to talk to Putin, but ended up speaking for 90 minutes, in a conversation he described as “substantive, focused on the issues at hand, and professional.”"
+      },
+      {
+        "fact": "Norwegian Prime Minister Jonas Gahr Støre emphasized that Norway and Finland stand with Ukraine and support its right to self-defense.",
+        "source_index": 12,
+        "excerpt": "“We stand with Ukraine, defend its right to self-defence, and emphasise the need for a diplomatic path to end this war in a lasting and just manner,” he said."
+      },
+      {
+        "fact": "Finnish President Alexander Stubb described the conversation with Putin as 'frank and substantive' and stressed that ending the war requires direct discussions.",
+        "source_index": 1,
+        "excerpt": "Stubb described the conversation as \"frank and substantive.\" Kremlin spokesman Dmitry Peskov confirmed the call, the first between the three leaders. \"The outcome of this war will have a direct impact on our and the broader European security. Ending the war requires direct discussions,\" Stubb said."
+      },
+      {
+        "fact": "Russian President Vladimir Putin said that a 'just and lasting peace' in Ukraine would only be possible by fully taking into account Russia's interests.",
+        "source_index": 60,
+        "excerpt": "Lors de cet appel, le dirigeant russe a par ailleurs souligné qu'une \"paix juste et durable\" ne serait possible qu'en tenant \"pleinement\" compte des intérêts de la Russie, a fait savoir le Kremlin dans un communiqué relatant cet échange téléphonique."
+      },
+      {
+        "fact": "Putin accused the European Union and NATO of prolonging the war in Ukraine through their policy of confrontation.",
+        "source_index": 60,
+        "excerpt": "Vladimir Poutine a estimé, mardi 27 octobre, que la \"politique de confrontation\" que mèneraient à l'encontre de son pays l'Union européenne et l'Otan entraînait un \"prolongement\" des combats en Ukraine."
+      }
+    ],
+    "source_urls": [
+      "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates",
+      "https://www.dw.com/en/denmark-s-frederiksen-criticizes-finland-and-norway-for-calling-putin-without-coordinating-with-allies-despite-consultation-with-ukraine/a-79776208?maca=en-rss-en-all-1573-xml-mrss",
+      "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vladimir-poutine-accuse-l-union-europeenne-et-l-otan-de-prolonger-la-guerre-en-ukraine-lors-d-un-appel-avec-des-dirigeants-nordiques_8255782.html#xtor=RSS-3-[lestitres]"
+    ]
+  },
+  {
+    "story": "DR Congo Ebola outbreak surpasses 10,000 cases with high fatality rate and no approved vaccine",
+    "narration": "Confirmed Ebola cases in the Democratic Republic of Congo have now surpassed 10,000, with government data reporting 10,060 cases and 4,887 deaths. The outbreak, caused by the Bundibugyo virus, was declared on May 15 and is noted for being the fastest-growing Ebola outbreak in history, according to the Africa Centres for Disease Control and Prevention. This strain is rare and currently has no approved vaccine or specific treatment. Nearly half of those infected in the DRC have died. The virus has also spread beyond the DRC's borders, with Kenya confirming nine infections, including two deaths, after a patient travelled from the DRC through Uganda to Nairobi. Nigeria has reported an infection in a Swiss woman, the wife of a Swiss diplomat, who became ill after visiting Uganda. Health authorities continue to monitor the situation closely as the outbreak evolves.",
+    "claims": [
+      {
+        "fact": "Confirmed Ebola cases in the Democratic Republic of Congo (DRC) have surpassed 10,000 as the outbreak continues to spread across the country and beyond its borders.",
+        "source_index": 3,
+        "excerpt": "Confirmed Ebola cases in the Democratic Republic of the Congo (DRC) have surpassed 10,000 as the outbreak continues to spread across the country and beyond its borders."
+      },
+      {
+        "fact": "Government data released on Tuesday put confirmed cases at 10,060 and deaths at 4,887.",
+        "source_index": 3,
+        "excerpt": "Government data released on Tuesday put confirmed cases at 10,060 and deaths at 4,887."
+      },
+      {
+        "fact": "The outbreak, declared on May 15, is caused by the Bundibugyo virus, a rare Ebola strain for which no vaccine or treatment has been approved.",
+        "source_index": 3,
+        "excerpt": "The outbreak, declared on May 15, is caused by the Bundibugyo virus, a rare Ebola strain for which no vaccine or treatment has been approved."
+      },
+      {
+        "fact": "The outbreak involves the Bundibugyo virus, for which there is no approved vaccine or specific treatment.",
+        "source_index": 73,
+        "excerpt": "The outbreak involves the Bundibugyo virus, for which there is no approved vaccine or specific treatment."
+      },
+      {
+        "fact": "The Africa Centres for Disease Control and Prevention has described it as the fastest-growing Ebola outbreak in history.",
+        "source_index": 73,
+        "excerpt": "The Africa Centres for Disease Control and Prevention has described it as the fastest-growing Ebola outbreak in history."
+      },
+      {
+        "fact": "Nearly half of the 10,060 confirmed to have the virus have died, according to data from the DRC’s Ministry of Public Health.",
+        "source_index": 3,
+        "excerpt": "It is the fastest-growing Ebola outbreak in the country’s history and nearly half of the 10,060 confirmed to have the virus have died, according to data from the DRC’s Ministry of Public Health."
+      },
+      {
+        "fact": "Kenya has confirmed nine infections, including two deaths, after a patient traveled from DR Congo through Uganda to the capital, Nairobi.",
+        "source_index": 73,
+        "excerpt": "Kenya has confirmed nine infections, including two deaths, after a patient traveled from DR Congo through Uganda to the capital, Nairobi."
+      },
+      {
+        "fact": "Nigeria also confirmed an infection in a Swiss woman, the wife of a Swiss diplomat, who fell ill after visiting Uganda.",
+        "source_index": 73,
+        "excerpt": "Nigeria also confirmed an infection in a Swiss woman, the wife of a Swiss diplomat, who fell ill after visiting Uganda."
+      }
+    ],
+    "source_urls": [
+      "https://www.dw.com/en/dr-congo-reports-over-10-000-ebola-cases-as-the-outbreak-spreads-abroad-with-no-approved-vaccine-or-specific-treatment-for-the-bundibugyo-virus/a-79773667?maca=en-rss-en-all-1573-xml-mrss",
+      "https://www.aljazeera.com/news/2026/10/27/ebola-cases-in-dr-congo-surpass-10000-in-fastest-growing-outbreak?traffic_source=rss"
+    ]
+  },
+  {
+    "story": "UK Chancellor John Healey announces minimum wage increase slowdown for young workers in upcoming Budget",
+    "narration": "Chancellor John Healey is set to announce new pay rates in the upcoming Budget on Wednesday. The National Minimum Wage for 18-to-20 year-olds is expected to increase by 3.9%, from £10.85 to approximately £11.27 per hour. This rise is smaller than the increases seen in the previous two years, when Labour raised the rate to fulfil a manifesto commitment. Meanwhile, the National Living Wage for older workers, currently £12.71 an hour, is also set to rise by 3.9% to £13.20. Additionally, the government will freeze fuel duty once again and maintain the 5p duty discount. Plans are also in place to remove import taxes on certain food items, which could save households up to £21 annually.",
+    "claims": [
+      {
+        "fact": "Chancellor John Healey will reveal the new pay rates in the Budget on Wednesday.",
+        "source_index": 4,
+        "excerpt": "Chancellor John Healey will reveal the new pay rates in the Budget on Wednesday, while also announcing measures to give families what he is calling \"breathing space\" with the cost of living."
+      },
+      {
+        "fact": "The minimum wage is set to rise but 18-to-20 year-olds are expected to see lower increases than in previous years.",
+        "source_index": 4,
+        "excerpt": "The minimum wage is set to rise but 18-to-20 year-olds are expected to see lower increases than in previous years, the BBC understands."
+      },
+      {
+        "fact": "The National Minimum Wage for 18-to-20 year-olds is likely to rise by 3.9% from £10.85 an hour to around £11.27.",
+        "source_index": 4,
+        "excerpt": "The Times reported that the National Minimum Wage for 18-to-20 year-olds is likely to rise by 3.9% from £10.85 an hour to around £11.27."
+      },
+      {
+        "fact": "The increase for younger workers is lower than that seen in the previous two years, when Labour raised the rate to meet a manifesto promise.",
+        "source_index": 4,
+        "excerpt": "However, the increase for younger workers is lower than that seen in the previous two years, when Labour raised the rate to meet a manifesto promise that it would remove \"discriminatory age bands\" with all adults entitled to the same minimum wage\"."
+      },
+      {
+        "fact": "The National Living Wage for older workers is currently £12.71 an hour and is set to rise by 3.9% to £13.20.",
+        "source_index": 4,
+        "excerpt": "Even after the reported rise, the rate remains below the National Living Wage for older workers, which is currently £12.71 an hour. It is set to rise by 3.9% to £13.20, the Times said."
+      },
+      {
+        "fact": "The government will also freeze fuel duty again in the Budget and continue the 5p duty discount.",
+        "source_index": 4,
+        "excerpt": "The government will also freeze fuel duty again in the Budget, the BBC understands. The 5p duty discount is also set to continue."
+      },
+      {
+        "fact": "The government plans to remove import taxes on some food items, potentially saving households up to £21 per year.",
+        "source_index": 4,
+        "excerpt": "The government is also planning to end the so-called cliff-edge for those receiving carer's allowance payments. It says removing tariffs from 100 food items could save households up to £21 per year - or 40p a week - when combined with existing tariff suspensions that were introduced in June."
+      }
+    ],
+    "source_urls": [
+      "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss"
+    ]
+  },
+  {
+    "story": "World Bank President Ajay Banga states capital availability is sufficient despite rising AI-driven borrowing costs",
+    "narration": "World Bank President Ajay Banga has stated that capital remains available despite concerns that artificial intelligence could push interest rates higher. Speaking to CNBC, Banga highlighted that the World Bank mobilised $112 billion last year, nearly three times the amount recorded three years earlier. He explained that emerging markets are not experiencing the same hesitancy because investments are primarily directed towards infrastructure projects such as bridges and roads. Banga also clarified that the private capital overseen by the World Bank does not go to governments. While he believes artificial intelligence will be transformative and profitable, he acknowledged that there will be challenges ahead.",
+    "claims": [
+      {
+        "fact": "World Bank President Ajay Banga said on Tuesday that capital remained available despite concerns of artificial intelligence sending interest rates higher.",
+        "source_index": 7,
+        "excerpt": "World Bank President Ajay Banga said on Tuesday that capital remained available despite concerns of artificial intelligence sending interest rates higher."
+      },
+      {
+        "fact": "Banga said the World Bank mobilized $112 billion last year, around three times higher than the amount recorded three years prior.",
+        "source_index": 7,
+        "excerpt": "Banga said the World Bank mobilized $112 billion last year, around three times higher than the amount recorded three years prior."
+      },
+      {
+        "fact": "Banga told CNBC that emerging markets are not running into the same hesitancy because the investments focus more on infrastructure like bridges and roads.",
+        "source_index": 7,
+        "excerpt": "Banga told CNBC that emerging markets are not running into the same hesitancy because the investments focus more on infrastructure like bridges and roads."
+      },
+      {
+        "fact": "The World Bank leader also said that the private capital it oversees does not go to governments.",
+        "source_index": 7,
+        "excerpt": "The World Bank leader also said that the private capital it oversees does not go to governments."
+      },
+      {
+        "fact": "Banga said, \"In general, I still believe that AI is going to be transformative and profitable,\" but acknowledged bumps in the road ahead.",
+        "source_index": 7,
+        "excerpt": "\"In general, I still believe that AI is going to be transformative and profitable,\" Banga said. \"But everybody sees bumps in the road from here to there, and no one knows when the next bump will come.\""
+      }
+    ],
+    "source_urls": [
+      "https://www.cnbc.com/2026/10/27/world-bank-president-ajay-banga.html"
+    ]
+  },
+  {
+    "story": "Kylian Mbappé apologizes for controversial joke about Mao Zedong after Chinese backlash and brand drops",
+    "narration": "Kylian Mbappé has apologised for comments he made about the late Chinese leader Mao Zedong, which led to several Chinese brands ending their partnerships with him. The footballer referred to a meme involving a 'Chinese dictator' during an interview on the French talk show The Bridge. Following the backlash, brands including Mengniu and Dongpeng severed ties with Mbappé. La Liga also issued an apology, expressing regret for the offence caused to Chinese fans. Mbappé said his comment was \"ill-judged\" and that he now understands it hurt many people in China and Chinese communities worldwide. China's foreign ministry spokesperson Lin Jian stated that words and deeds hurting the feelings of the Chinese people would face opposition from all sectors of Chinese society.",
+    "claims": [
+      {
+        "fact": "Kylian Mbappé apologized for \"ill-judged\" comments he made about late Chinese leader Mao Zedong which led to him being dropped by several Chinese brands.",
+        "source_index": 75,
+        "excerpt": "Kylian Mbappé has apologised for \"ill-judged\" comments he made about late Chinese leader Mao Zedong which led to him being dropped by several Chinese brands."
+      },
+      {
+        "fact": "Mbappé reportedly told French talk show The Bridge the meme \"that makes me laugh the most, it's the one where there's a video of a guy, I think it's a Chinese dictator...\"",
+        "source_index": 75,
+        "excerpt": "Mbappé had reportedly told French talk show The Bridge the meme \"that makes me laugh the most, it's the one where there's a video of a guy, I think it's a Chinese dictator...\""
+      },
+      {
+        "fact": "Several Chinese brands including Mengniu and Dongpeng ended their partnerships with Mbappé following the backlash.",
+        "source_index": 49,
+        "excerpt": "Energy-drink maker Dongpeng and dairy group Mengniu both ended their partnerships with the Real Madrid forward with immediate effect."
+      },
+      {
+        "fact": "La Liga apologized for Mbappé's comments, saying it \"deeply regrets the offence that Kylian Mbappé's recent comments have caused among Chinese fans\".",
+        "source_index": 75,
+        "excerpt": "Spain's La Liga also apologised, saying it \"deeply regrets the offence that Kylian Mbappé's recent comments have caused among Chinese fans\"."
+      },
+      {
+        "fact": "Mbappé said in a statement: \"My comment was ill-judged, and I now understand that it hurt many people in China and in Chinese communities around the world. I apologise to everyone my words have upset.\"",
+        "source_index": 75,
+        "excerpt": "\"My comment was ill-judged, and I now understand that it hurt many people in China and in Chinese communities around the world,\" Mbappé said in a statement. \"I apologise to everyone my words have upset.\""
+      },
+      {
+        "fact": "The backlash began after a clip circulated online Monday showing Mbappé's interview on The Bridge where he referred to a meme involving a 'Chinese dictator' with his face superimposed on Mao.",
+        "source_index": 42,
+        "excerpt": "The companies did not specify Mbappé’s missteps, but the statements came after a clip circulated widely on social media Monday showing an interview last spring with the French online talk show “The Bridge.” Mbappé is often depicted jokingly online as a dictator because of his outsize presence on and off the field. Fans have created memes comparing him to a number of authoritarian historical figures, including Mao. In the clip, Mbappé was asked which meme was his favorite. “A video someone made of a guy… I think he was a Chinese dictator,” he said. The clip then shows Mbappé’s face superimposed on an image of Mao, whom Mbappé did not mention by name."
+      },
+      {
+        "fact": "China's foreign ministry spokesperson Lin Jian said: \"Words and deeds that hurt the feelings of the Chinese people will naturally be met with opposition from all sectors of Chinese society.\"",
+        "source_index": 75,
+        "excerpt": "China's foreign ministry has also weighed in, with spokesperson Lin Jian saying: \"We have noted the relevant reports. Words and deeds that hurt the feelings of the Chinese people will naturally be met with opposition from all sectors of Chinese society.\""
+      }
+    ],
+    "source_urls": [
+      "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+      "https://www.euronews.com/2026/10/27/football-chinese-sponsors-drop-mbappe-over-mao-zedong-joke",
+      "https://www.nbcnews.com/world/asia/china-kylian-mbappe-mao-zedong-memes-brands-la-liga-rcna605873"
+    ]
+  },
+  {
+    "story": "US Democrats hold slight midterm election edge as voting nears, with key Senate races drawing attention",
+    "narration": "Democrats are currently favoured to gain control of the U.S. House in the upcoming midterm elections, holding an 8-point advantage among likely voters on the generic congressional ballot. President Trump's approval rating has seen a slight improvement, now sitting at 40%. Meanwhile, economic concerns remain significant, with one in three Americans facing financial hardships and four in ten reporting that their personal finances are worsening. Issues influencing voter priorities vary, with preserving democracy resonating strongly among Democrats and independents, while immigration is the top concern for MAGA supporters. These factors are shaping the political landscape as the midterms approach.",
+    "claims": [
+      {
+        "fact": "Democrats hold significant advantages in the midterm elections and are favored to gain control of the U.S. House.",
+        "source_index": 58,
+        "excerpt": "A new NPR/PBS News/Marist poll reveals that Democrats hold significant advantages in the midterm elections and are favored to gain control of the U.S. House."
+      },
+      {
+        "fact": "Democrats hold an 8-point advantage among likely voters on the generic congressional ballot.",
+        "source_index": 58,
+        "excerpt": "Democrats hold an 8-point advantage among likely voters on the generic congressional ballot, indicating a strong position, NPR's Domenico Montanaro tells Up First."
+      },
+      {
+        "fact": "President Trump's approval rating sits at 40%, which is a slight improvement.",
+        "source_index": 58,
+        "excerpt": "President Trump remains unpopular. His approval rating sits at 40%, which is a slight improvement."
+      },
+      {
+        "fact": "One in three Americans face financial hardships, and four in 10 say their personal finances are worsening.",
+        "source_index": 58,
+        "excerpt": "The poll highlights key issues influencing voters; one in three Americans face financial hardships, and four in 10 say their personal finances are worsening."
+      },
+      {
+        "fact": "Preserving democracy resonates with Democrats and independents, while immigration ranks as the top issue for MAGA supporters.",
+        "source_index": 58,
+        "excerpt": "Preserving democracy resonates with Democrats and independents, while immigration ranks as the top issue for MAGA supporters."
+      }
+    ],
+    "source_urls": [
+      "https://www.npr.org/2026/10/27/g-s1-150052/up-first-newsletter-midterms-polling-data-voter-fraud-israel-prime-minister-elections"
+    ]
+  },
+  {
+    "story": "European Commission proposes reform of Frontex with new reserve force of 17,000 agents for deportations",
+    "narration": "The European Commission has proposed a reform of Frontex, the EU agency responsible for external border control. The reform aims to make Frontex the main operational arm of the EU's migrant return policy. Under the proposal, the permanent corps of Frontex will be increased to 30,000 agents. Additionally, the Commission plans to create a 'Return Reserve' of 17,000 agents who will remain available to member states and can be deployed when needed. Other measures include establishing a Quick Reaction Force for crisis situations, an online monitoring centre to identify potential border threats, and a return coordination centre to streamline operations. These changes are intended to enhance the EU's capacity to manage its external borders and migrant returns more effectively.",
+    "claims": [
+      {
+        "fact": "The European Commission proposed the reform of Frontex, the EU agency for external border control.",
+        "source_index": 30,
+        "excerpt": "La Commissione europea ha proposto la riforma di Frontex, l'agenzia Ue per il controllo delle frontiere esterne."
+      },
+      {
+        "fact": "The reform aims to transform Frontex into the main operational arm of the migrant return policy.",
+        "source_index": 30,
+        "excerpt": "Al centro dell'iniziativa, la trasformazione dell'agenzia nel \"braccio operativo principale\" della politica di rimpatrio dei migranti."
+      },
+      {
+        "fact": "The permanent corps of Frontex will be strengthened up to 30,000 agents.",
+        "source_index": 30,
+        "excerpt": "Tra le novità, il potenziamento fino a 30 mila agenti del 'Corpo permanente' che comprenderà una nuova 'Riserva europea per le frontiere e i rimpatri'."
+      },
+      {
+        "fact": "The Commission foresees an additional 17,000 agents for the so-called 'Return Reserve'.",
+        "source_index": 30,
+        "excerpt": "Per la cosiddetta 'Return Reserve' la Commissione prevede 17 mila agenti in più, che rimarranno a disposizione degli Stati membri e potranno essere dispiegati quando necessario."
+      },
+      {
+        "fact": "The new reserve agents will remain at the disposal of member states and can be deployed when necessary.",
+        "source_index": 30,
+        "excerpt": "che rimarranno a disposizione degli Stati membri e potranno essere dispiegati quando necessario."
+      },
+      {
+        "fact": "Other initiatives include a Quick Reaction Force for crisis situations, an online monitoring center for potential border threats, and a return coordination center.",
+        "source_index": 30,
+        "excerpt": "Tra le altre iniziative, una 'Quick Reaction Force' per intervenire in situazioni di crisi, un nuovo 'Centro di monitoraggio online' per l'individuazione di potenziali minacce alle frontiere e un 'Centro di coordinamento dei rimpatri'."
+      }
+    ],
+    "source_urls": [
+      "https://www.ansa.it/sito/notizie/topnews/2026/10/27/ue-propone-riforma-di-frontex-braccio-operativo-per-i-rimpatri_f59b6236-9ca5-46f9-bce7-e24b6baf6b73.html"
+    ]
+  },
+  {
+    "story": "Coca-Cola raises earnings outlook despite weak North American demand, shares up 32% this year",
+    "narration": "Coca-Cola has raised its full-year earnings forecast for the third consecutive quarter, expecting comparable earnings per share to grow by at least 11%, up from a previous estimate of 9 to 10%. The company reported a third-quarter net income of $4.01 billion, or 93 cents per share, up from $3.7 billion, or 86 cents per share, a year earlier. Net sales increased by 7% to $13.4 billion, with organic revenue also rising 7%. Unit case volume grew 5% for the second quarter in a row, driven by demand outside North America, where volume was flat due to holiday timing and product shortages. Shares rose about 1% in premarket trading.",
+    "claims": [
+      {
+        "fact": "Coca-Cola on Tuesday raised its full-year outlook for the third straight quarter, despite lackluster demand in its home market.",
+        "source_index": 47,
+        "excerpt": "Coca-Cola on Tuesday raised its full-year outlook for the third straight quarter, despite lackluster demand in its home market."
+      },
+      {
+        "fact": "For the full year, Coke now expects comparable earnings per share to grow at least 11%, up from its prior forecast of an increase in the range of 9% to 10%.",
+        "source_index": 47,
+        "excerpt": "For the full year, Coke now expects comparable earnings per share to grow at least 11%, up from its prior forecast of an increase in the range of 9% to 10%."
+      },
+      {
+        "fact": "Shares of the company rose about 1% in premarket trading.",
+        "source_index": 47,
+        "excerpt": "Shares of the company rose about 1% in premarket trading."
+      },
+      {
+        "fact": "Coke reported third-quarter net income attributable to shareholders of $4.01 billion, or 93 cents per share, up from $3.7 billion, or 86 cents per share, a year earlier.",
+        "source_index": 47,
+        "excerpt": "Coke reported third-quarter net income attributable to shareholders of $4.01 billion, or 93 cents per share, up from $3.7 billion, or 86 cents per share, a year earlier."
+      },
+      {
+        "fact": "Net sales rose 7% to $13.4 billion. Coke's organic revenue, which strips out acquisitions, divestitures and foreign currency, also rose 7% in the quarter.",
+        "source_index": 47,
+        "excerpt": "Net sales rose 7% to $13.4 billion. Coke's organic revenue, which strips out acquisitions, divestitures and foreign currency, also rose 7% in the quarter."
+      },
+      {
+        "fact": "For the second straight quarter, the company's unit case volume increased 5%, helped by higher demand outside of North America.",
+        "source_index": 47,
+        "excerpt": "For the second straight quarter, the company's unit case volume increased 5%, helped by higher demand outside of North America."
+      },
+      {
+        "fact": "Coke's home market reported flat volume. However, the company's North American business would have reported volume growth if not for the timing of the Fourth of July holiday and the months-long shortage of Topo Chico.",
+        "source_index": 47,
+        "excerpt": "Coke's home market reported flat volume. However, the company's North American business would have reported volume growth if not for the timing of the Fourth of July holiday and the months-long shortage of Topo Chico, a sparkling water brand Coke owns, CFO John Murphy told CNBC."
+      }
+    ],
+    "source_urls": [
+      "https://www.cnbc.com/2026/10/27/coca-cola-ko-q3-2026-earnings.html"
+    ]
+  },
+  {
+    "story": "Germany's Chancellor Merz calls for more assertive middle powers in Europe and Asia amid global order erosion",
+    "narration": "German Chancellor Friedrich Merz has called on European and Asian nations to find their place amid a changing global order. He stressed the need to assert interests in an international environment shaped by renewed great-power rivalry. Merz highlighted the stability offered by Germany and Europe as a counterpoint to unpredictable tariffs and trade restrictions. Europe aims to expand partnerships to increase free trade based on open competition, reliability, and a rules-based order. He also advocated for a new free-trade agreement between the EU and the Trans-Pacific Partnership. Merz and Singapore's Prime Minister Lawrence Wong agreed to enhance cooperation in security, trade, investment, sustainable energy, and artificial intelligence.",
+    "claims": [
+      {
+        "fact": "German Chancellor Friedrich Merz said it was up to European and Asian nations to find their spot amid a changing global order.",
+        "source_index": 85,
+        "excerpt": "In Singapore, to start a four-day business-oriented trip that will also bring him to Japan and South Korea, Chancellor Friedrich Merz said it was up to European and Asian nations to find their spot amid a changing global order."
+      },
+      {
+        "fact": "Merz said, \"We must assert our interests in an international environment shaped by renewed great-power rivalry.\"",
+        "source_index": 85,
+        "excerpt": "\"We must assert our interests in an international environment shaped by renewed great-power rivalry,\" Merz said."
+      },
+      {
+        "fact": "Merz emphasized the stability offered by Germany and the rest of Europe as a deliberate counterpoint to unpredictable tariffs and trade restrictions.",
+        "source_index": 85,
+        "excerpt": "With a view to unpredictable tariffs imposed by the United States under President Donald Trump and trade restrictions from China, Merz emphasized the stability offered by Germany and the rest of Europe. \"This is a deliberate counterpoint to what we are currently seeing."
+      },
+      {
+        "fact": "Europe sought to expand partnerships to increase free trade with open competition, reliability and a rules-based order.",
+        "source_index": 85,
+        "excerpt": "We want to do things differently, and we want to show that there is a better way,\" Merz said, adding that Europe sought to expand partnerships to increase free trade with open competition, reliability and a rules-based order."
+      },
+      {
+        "fact": "Merz called for increased international investment and cooperation, stating, \"Under the federal government I lead, investment opportunities will be continuously improved.\"",
+        "source_index": 85,
+        "excerpt": "\"Under the federal government I lead, investment opportunities will be continuously improved,\" Merz said following a meeting with Singapore Prime Minister Lawrence Wong."
+      },
+      {
+        "fact": "Merz called for a new free-trade agreement between the 27-member European Union and the Trans-Pacific Partnership (CPTPP), which includes 12 countries across five continents.",
+        "source_index": 85,
+        "excerpt": "The German leader called for a new free-trade agreement between the 27-member European Union and the Trans-Pacific Partnership (CPTPP), comprising 12 countries across five continents, including Australia, Canada, Japan, Mexico and the United Kingdom."
+      },
+      {
+        "fact": "Merz and Singapore Prime Minister Lawrence Wong agreed their nations would work to expand cooperation in security and defense as well as trade, investment, sustainable energy and artificial intelligence.",
+        "source_index": 85,
+        "excerpt": "Merz and Wong agreed their nations would work to expand cooperation in security and defense as well as trade, investment, sustainable energy and artificial intelligence."
+      }
+    ],
+    "source_urls": [
+      "https://www.dw.com/en/germany-s-merz-says-erosion-of-global-order-means-middle-powers-in-europe-and-asia-must-be-more-assertive/live-79772992?maca=en-rss-en-all-1573-xml-mrss"
+    ]
+  },
+  {
+    "story": "AI-driven surveillance cameras spark bipartisan backlash and citizen campaigns across the United States",
+    "narration": "AI-driven Flock cameras, produced by an Atlanta-based company, are being installed across the US, raising concerns and sparking bipartisan, citizen-led campaigns ahead of the 2026 midterm elections. These cameras scan licence plates and record details such as location, time, car models, and bumper stickers. In Cherokee County, with around 260,000 residents, there have been notable cases of law enforcement officials misusing the technology. A September report by The Washington Post revealed that at least 100 police employees nationwide faced accusations of unauthorised use. Flock Safety states the cameras aid crime fighting by linking vehicle sightings and supporting investigations. Opposition is visible on social media, with videos showing how to block camera lenses and images of protest signs on the devices.",
+    "claims": [
+      {
+        "fact": "AI-driven Flock cameras made by an Atlanta-based company are sprouting up across the US, sparking alarm and bipartisan, citizen-driven campaigns as the new technology emerges as a 2026 midterm campaign issue.",
+        "source_index": 64,
+        "excerpt": "AI-driven Flock cameras made by an Atlanta-based company are sprouting up across the US, sparking alarm and bipartisan, citizen-driven campaigns as the new technology emerges as a 2026 midterm campaign issue."
+      },
+      {
+        "fact": "Flock cameras scan licence plates and capture, analyse and store details of passing vehicles, including location, time, car models and bumper stickers.",
+        "source_index": 64,
+        "excerpt": "The cameras scan licence plates and capture, analyse and store details of passing vehicles, including location, time, car models and bumper stickers."
+      },
+      {
+        "fact": "In Cherokee County, a county with a population of around 260,000, there have been a number of high-profile cases of breaches involving law enforcement officials misusing Flock cameras.",
+        "source_index": 64,
+        "excerpt": "In Cherokee – a county with a population of around 260,000 – alone, there have been a number of high-profile cases of breaches that have made headlines in recent months. The suspects in most cases are, or have been, law enforcement officials with a duty to protect the people."
+      },
+      {
+        "fact": "At least 100 police department employees across the US were charged with or accused of misusing licence-plate readers for unauthorised purposes, according to a September report by The Washington Post.",
+        "source_index": 64,
+        "excerpt": "At least 100 police department employees across the US were charged with or accused of misusing licence-plate readers for unauthorised purposes, according to a September report by The Washington Post."
+      },
+      {
+        "fact": "Flock Safety says the cameras help law enforcement officials fight crime by connecting vehicle sightings across jurisdictions to uncover patterns, strengthen investigations, and securely collaborate with trusted partners.",
+        "source_index": 64,
+        "excerpt": "Flock Safety says the cameras help law enforcement officials fight crime by connecting “vehicle sightings across jurisdictions to uncover patterns, strengthen investigations, and securely collaborate with trusted partners”, according to the company website."
+      },
+      {
+        "fact": "On social media, videos show opponents how to place signs to block Flock camera lenses and photographs of “Get the Flock out” signs on the cameras flood the internet.",
+        "source_index": 64,
+        "excerpt": "On social media, videos show opponents how to place signs, attached to household items such as mops and rakes, to block Flock camera lenses. Photographs of “Get the Flock out” signs on the cameras flood the internet."
+      }
+    ],
+    "source_urls": [
+      "https://www.france24.com/en/americas/20261027-united-states-get-the-flock-out-americans-respond-to-ai-cameras-in-bipartisan-backlash-midterm-elections"
+    ]
+  }
+]
