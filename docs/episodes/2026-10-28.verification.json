@@ -1,0 +1,504 @@
+[
+  {
+    "story": "Unclear outcome from high stakes Israeli election with Netanyahu and opposition blocs tied",
+    "narration": "Exit polls indicate a deadlock in Israel's parliamentary elections, with Benjamin Netanyahu's governing bloc and the opposition led by Gadi Eisenkot each projected to win 51 seats, falling short of the 61 needed for a majority. Voter turnout reached over 77%, the highest in more than twenty years. Palestinian parties are expected to increase their Knesset representation significantly, potentially securing up to 18 seats, compared to 10 previously. With half the votes counted, Netanyahu's bloc holds 56 seats, the opposition 49, and Palestinian parties 15. Netanyahu has ruled out forming a coalition with Arab parties, a stance shared by Eisenkot and his allies. Early Wednesday, Netanyahu addressed supporters, emphasising Likud as the largest party and advocating for a strong right-wing government. Eisenkot responded by stating the public voted against Netanyahu and urged him to retire from politics.",
+    "claims": [
+      {
+        "fact": "Exit polls show Benjamin Netanyahu’s governing bloc tied with the opposition grouping led by Gadi Eisenkot on 51 seats each, short of the 61 seats needed to form a majority coalition government.",
+        "source_index": 52,
+        "excerpt": "The polls published by Israel’s major TV networks show Benjamin Netanyahu’s governing bloc tied with the opposition grouping led by Gadi Eisenkot on 51 seats each, short of the 61 seats needed to form a majority coalition government."
+      },
+      {
+        "fact": "Voter turnout surged to the highest level in more than two decades, with more than 77% of eligible voters casting a ballot.",
+        "source_index": 52,
+        "excerpt": "Voter turnout surged to the highest level in more than two decades, underscoring the stakes of an election that has been labelled the most important in the country’s history. More than 77% of eligible voters cast a ballot, according to Israel’s central elections committee"
+      },
+      {
+        "fact": "Palestinian parties are projected to dramatically increase their representation in the Knesset, with predictions they could win as many as 18 seats, up from 10.",
+        "source_index": 52,
+        "excerpt": "The Palestinian parties are projected to dramatically increase their representation in the Knesset, with predictions they could win as many as 18 seats, up from 10."
+      },
+      {
+        "fact": "After counting 50% of votes, Netanyahu’s bloc is credited with 56 seats, opposition bloc with 49 seats, and Palestinian parties with 15 seats.",
+        "source_index": 8,
+        "excerpt": "Après le dépouillement de la moitié des suffrages exprimés, Benjamin Nétanyahou et ses alliés sont crédités de 56 sièges sur les 120 que compte la Knesset, contre 49 pour le bloc de l'opposition et 15 pour les partis arabes"
+      },
+      {
+        "fact": "Netanyahu ruled out including Arab parties in a governing coalition, and Eisenkot and his partners have balked at the idea too.",
+        "source_index": 10,
+        "excerpt": "Mr. Netanyahu effectively ruled out including them in a governing coalition, and Mr. Eisenkot and his partners have balked at the idea, too."
+      },
+      {
+        "fact": "Netanyahu addressed supporters early Wednesday morning saying Likud is the largest party and called for a strong right-wing government.",
+        "source_index": 52,
+        "excerpt": "Netanyahu took the stage at a post-election rally in Jerusalem just after 3am, telling his supporters official results will show that “Likud is the largest party in Israel”. He told his supporters that the country must “establish a strong, right-wing national government”"
+      },
+      {
+        "fact": "Eisenkot told supporters that the public voted against Netanyahu and called on him to retire from politics.",
+        "source_index": 52,
+        "excerpt": "Eisenkot told cheering supporters in Tel Aviv that the “Israeli public has voted against Netanyahu’s service as Israel’s prime minister … a worthy leader would have accepted the people’s non-confidence and announced today his retirement from politics.”"
+      }
+    ],
+    "source_urls": [
+      "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
+      "https://www.franceinfo.fr/monde/israel/direct-elections-en-israel-le-camp-de-benjamin-netanyahou-legerement-en-tete-apres-50-des-bulletins-depouilles-selon-la-commission-electorale_8256712.html#xtor=RSS-3-[lestitres]",
+      "https://www.nytimes.com/live/2026/10/27/world/israel-elections"
+    ]
+  },
+  {
+    "story": "Ukraine's underground pipeline operation near Kupiansk inflicts losses on Russian forces",
+    "narration": "Ukrainian forces have successfully infiltrated Russian positions near Kupiansk in a carefully planned operation known as Operation Veles. The mission involved the National Guard's 2nd Khartiia Corps and other Ukrainian units advancing through underground pipeline infrastructure. This approach was combined with simultaneous above-ground attacks and coordinated drone strikes. The operation resulted in the elimination of more than 100 Russian troops and the capture of over 30 others. The 2nd Khartiia Corps revealed details of the operation on 22 October, stating that it disrupted Russian attempts to infiltrate Ukrainian positions around Kupiansk. The city of Kupiansk, located in northeastern Ukraine, remains strategically important and has been a focal point of Russian offensive efforts. This operation has strengthened Kyiv's position in the area and inflicted significant losses on Russian forces.",
+    "claims": [
+      {
+        "fact": "Ukrainian forces infiltrated enemy positions near Kupiansk in a carefully planned operation that inflicted significant losses and strengthened Kyiv's position in the area.",
+        "source_index": 49,
+        "excerpt": "Turning a tactic previously used by Russian troops against them, Ukrainian forces infiltrated enemy positions near Kupiansk in a carefully planned operation that inflicted significant losses and strengthened Kyiv's position in the area."
+      },
+      {
+        "fact": "The operation, codenamed Operation Veles, saw Ukrainian soldiers infiltrate Russian positions through underground pipelines infrastructure.",
+        "source_index": 49,
+        "excerpt": "Codenamed Operation Veles, the mission saw Ukrainian soldiers infiltrate Russian positions through underground pipelines infrastructure, with Volodymyr Zelenskyy revealing on Tuesday that more than 100 Russian troops had been eliminated and over 30 captured."
+      },
+      {
+        "fact": "More than 100 Russian troops had been eliminated and over 30 captured during Operation Veles.",
+        "source_index": 49,
+        "excerpt": "Volodymyr Zelenskyy revealing on Tuesday that more than 100 Russian troops had been eliminated and over 30 captured."
+      },
+      {
+        "fact": "The operation was carried out by the National Guard's 2nd Khartiia Corps alongside other Ukrainian units.",
+        "source_index": 49,
+        "excerpt": "Carried out by the National Guard's 2nd Khartiia Corps alongside other Ukrainian units, the operation combined an underground advance with simultaneous attacks above ground and coordinated drone strikes."
+      },
+      {
+        "fact": "The operation combined an underground advance with simultaneous attacks above ground and coordinated drone strikes.",
+        "source_index": 49,
+        "excerpt": "Carried out by the National Guard's 2nd Khartiia Corps alongside other Ukrainian units, the operation combined an underground advance with simultaneous attacks above ground and coordinated drone strikes."
+      },
+      {
+        "fact": "The 2nd Khartiia Corps first disclosed details of Operation Veles on 22 October, saying the mission had disrupted Russian attempts to infiltrate Ukrainian positions around Kupiansk.",
+        "source_index": 49,
+        "excerpt": "The 2nd Khartiia Corps first disclosed details of Operation Veles on 22 October, saying the mission had disrupted Russian attempts to infiltrate Ukrainian positions around Kupiansk."
+      },
+      {
+        "fact": "Kupiansk is a strategically important city in northeastern Ukraine that has remained a focus of Russian offensive operations.",
+        "source_index": 49,
+        "excerpt": "The operation carries wider significance for the battle around Kupiansk, a strategically important city in northeastern Ukraine that has remained a focus of Russian offensive operations."
+      }
+    ],
+    "source_urls": [
+      "https://www.euronews.com/2026/10/28/inside-ukraines-extraordinary-underground-pipeline-operation-against-russian-forces-near-k"
+    ]
+  },
+  {
+    "story": "Trump administration ends Biden-era methane emission restrictions on oil and gas drilling",
+    "narration": "President Donald Trump said Tuesday that his administration is \"terminating\" a Biden-era rule aimed at cutting methane emissions from oil and gas drilling. Speaking at a campaign rally in Lubbock, Texas, Trump stated that the change would save companies and consumers billions of dollars and unlock 210 million barrels of oil. He criticized the previous regulations for negatively impacting small operators. EPA Administrator Lee Zeldin previewed the changes last month, saying they would eliminate the agency's \"Super Emitter Program,\" which requires companies to investigate and repair major methane releases from oil and natural gas facilities. The Biden methane rule was announced during a 2023 U.N. climate conference and was projected to prevent an estimated 58 million tons of methane emissions by 2038. Methane is responsible for about a third of planet-warming greenhouse gas emissions, scientists estimate. The rollback primarily affects low-producing wells, which produce about 7% to 8% of U.S. natural gas but could account for about 50% of methane leaks into the atmosphere.",
+    "claims": [
+      {
+        "fact": "President Donald Trump said Tuesday that his administration is \"terminating\" a Biden-era rule that aimed to cut planet-warming emissions of methane from oil and gas drilling.",
+        "source_index": 2,
+        "excerpt": "President Donald Trump said Tuesday that his administration is \"terminating\" a Biden-era rule that aimed to cut planet-warming emissions of methane from oil and gas drilling."
+      },
+      {
+        "fact": "Trump said during a campaign rally in Texas that the change would save companies and consumers billions of dollars and unlock 210 million barrels of oil.",
+        "source_index": 2,
+        "excerpt": "Trump said during a campaign rally in Texas that the change would save companies and consumers billions of dollars and unlock 210 million barrels of oil."
+      },
+      {
+        "fact": "Trump said during Tuesday's rally in Lubbock for Texas Republican Senate candidate Ken Paxton that Biden's plan \"crushed the small operators\" with crippling regulations.",
+        "source_index": 2,
+        "excerpt": "Trump said during Tuesday's rally in Lubbock for Texas Republican Senate candidate Ken Paxton that Biden's plan \"crushed the small operators\" with crippling regulations."
+      },
+      {
+        "fact": "EPA Administrator Lee Zeldin previewed the changes last month, saying they would eliminate the agency's \"Super Emitter Program\" that requires companies to investigate and repair major methane releases from oil and natural gas facilities.",
+        "source_index": 2,
+        "excerpt": "Environmental Protection Agency Administrator Lee Zeldin previewed the changes last month, saying they would eliminate the agency's \"Super Emitter Program\" that requires companies to investigate and repair major methane releases from oil and natural gas facilities."
+      },
+      {
+        "fact": "Trump said during Tuesday's rally that he is \"officially terminating Biden's expensive and unnecessary methane regulations to save consumers and energy producers $45 billion in costs.\"",
+        "source_index": 2,
+        "excerpt": "\"I'm officially terminating Biden's expensive and unnecessary methane regulations to save consumers and energy producers $45 billion in costs,\" Trump said."
+      },
+      {
+        "fact": "The Biden methane rule was announced during a 2023 U.N. climate conference and was projected to prevent an estimated 58 million tons of methane emissions by 2038.",
+        "source_index": 2,
+        "excerpt": "The Biden methane rule was announced by officials including former Vice President Kamala Harris during a 2023 U.N. climate conference in the United Arab Emirates. Federal officials under Biden said it would prevent an estimated 58 million tons (52.6 million metric tonnes) of methane emissions by 2038"
+      },
+      {
+        "fact": "Methane is responsible for about a third of planet-warming greenhouse gas emissions, scientists estimate.",
+        "source_index": 2,
+        "excerpt": "Methane is responsible for about a third of planet-warming greenhouse gas emissions, scientists estimate."
+      },
+      {
+        "fact": "The low-producing wells affected by the rollback produce about 7% to 8% of U.S. natural gas but could account for about 50% of methane leaks into the atmosphere.",
+        "source_index": 74,
+        "excerpt": "The low-producing wells the rollback would affect (also called stripper wells) produce about 7% to 8% of U.S. natural gas, but they could account for about 50% of the methane that leaks into the atmosphere, research suggests."
+      }
+    ],
+    "source_urls": [
+      "https://www.npr.org/2026/10/28/g-s1-150299/trump-methane-restrictions",
+      "https://www.nbcnews.com/science/climate-change/trump-methane-rules-leaks-emissions-oil-gas-rcna605983"
+    ]
+  },
+  {
+    "story": "Oil prices rise due to Houthi attacks on Saudi Arabian refinery raising supply concerns",
+    "narration": "Oil prices rose on Wednesday as investors considered the possibility of an extended and expanding conflict in the Middle East. This followed an attack by Tehran-backed Houthis on Saudi Arabia's largest refinery. Brent crude futures increased by $1.50, or 1.32%, reaching $115.59 per barrel, while U.S. West Texas Intermediate crude futures went up by $1.47, or 1.47%, to $101.37 per barrel. The Houthis announced on Tuesday that they had targeted the Ras Tanura refinery in Saudi Arabia with a ballistic missile, raising concerns about a potential escalation in the regional conflict.",
+    "claims": [
+      {
+        "fact": "Oil prices climbed Wednesday as investors weighed the prospect of a prolonged and widening Middle East conflict after Tehran-backed Houthis attacked Saudi Arabia's largest refinery.",
+        "source_index": 23,
+        "excerpt": "Oil prices climbed Wednesday as investors weighed the prospect of a prolonged and widening Middle East conflict after Tehran-backed Houthis attacked Saudi Arabia's largest refinery."
+      },
+      {
+        "fact": "International benchmark Brent crude futures rose $1.50, or 1.32%, to $115.59 per barrel, while U.S. West Texas Intermediate crude futures gained $1.47, or 1.47%, to $101.37 per barrel.",
+        "source_index": 23,
+        "excerpt": "International benchmark Brent crude futures rose $1.50, or 1.32%, to $115.59 per barrel, while U.S. West Texas Intermediate crude futures gained $1.47, or 1.47%, to $101.37 per barrel."
+      },
+      {
+        "fact": "The Houthis said on Tuesday they had attacked Saudi Arabia's Ras Tanura refinery with a ballistic missile, raising worries of an escalation in the regional conflict.",
+        "source_index": 23,
+        "excerpt": "The Houthis said on Tuesday they had attacked Saudi Arabia's Ras Tanura refinery with a ballistic missile, raising worries of an escalation in the regional conflict."
+      }
+    ],
+    "source_urls": [
+      "https://www.cnbc.com/2026/10/28/oil-price-today-wti-brent-hormuz.html"
+    ]
+  },
+  {
+    "story": "Climate change declared a global health emergency urged by experts as health harms accelerate",
+    "narration": "Nearly 150 researchers from over 30 countries are urging for climate change to be declared a global health emergency. According to the Lancet Countdown report, climate change caused more than half a million heat-related deaths in 2023 alone, and nearly three million since 2016—equivalent to the population of Wales. Heat waves and droughts pushed nearly 128 million more people into food insecurity in 2024 compared to the 1981–2010 average. The economic impact of heat in Asia and Africa reached 3.9% and 3.2% of GDP respectively, far higher than in Europe and the Americas. Heat wiped out 573 billion potential working hours in 2025, with farmworkers most affected. Despite this, fossil fuels still account for 80% of global energy, causing air pollution linked to 2.73 million deaths annually.",
+    "claims": [
+      {
+        "fact": "Nearly 150 researchers from more than 30 countries are calling for climate change to be declared a \"global health emergency.\"",
+        "source_index": 85,
+        "excerpt": "As heat deaths, drought and food insecurity accelerate worldwide, nearly 150 researchers from more than 30 countries are calling for climate change to be declared a \"global health emergency.\""
+      },
+      {
+        "fact": "Climate change was responsible for more than half a million heat deaths in 2023 alone and nearly 3 million since 2016.",
+        "source_index": 85,
+        "excerpt": "Yet, climate change was responsible for more than half a million heat deaths in 2023 alone and nearly 3 million since 2016."
+      },
+      {
+        "fact": "Heat wiped out 573 billion potential working hours in 2025, with farmworkers bearing the brunt.",
+        "source_index": 85,
+        "excerpt": "Heat wiped out 573 billion potential working hours in 2025, with farmworkers bearing the brunt."
+      },
+      {
+        "fact": "Heat waves and droughts pushed nearly 128 million more people into food insecurity in 2024, compared with the 1981–2010 average.",
+        "source_index": 85,
+        "excerpt": "Heat waves and droughts pushed nearly 128 million more people into food insecurity in 2024, compared with the 1981–2010 average."
+      },
+      {
+        "fact": "The economic toll of heat in Asia and Africa reached 3.9% and 3.2% of GDP respectively, compared with 0.2% for Europe and 1.5% for the Americas.",
+        "source_index": 24,
+        "excerpt": "Sur le plan géographique, l'Asie du Sud-Est et l'Afrique, les plus durement touchées, auraient ainsi perdu l'équivalent de 3,9% et 3,2% de leur PIB respectivement, contre 0,2% pour l'Europe et 1,5% pour le continent américain."
+      },
+      {
+        "fact": "The Lancet Countdown report associates 146 researchers from 30 countries to evaluate climate change's health consequences.",
+        "source_index": 24,
+        "excerpt": "Cette dixième édition du rapport associe 146 chercheurs de 30 pays pour évaluer les conséquences du changement climatique sur la santé de la population mondiale."
+      },
+      {
+        "fact": "The number of heat-related deaths linked to climate change is nearly 3 million in eight years, equivalent to the population of Wales.",
+        "source_index": 24,
+        "excerpt": "\"Le nombre de morts liés à la chaleur est de trois millions en seulement huit ans, c’est l'équivalent de la population du Pays de Galles qui a disparu à cause de la chaleur\", explique le professeur Ollie Jay"
+      },
+      {
+        "fact": "Fossil fuels still represent 80% of the world's energy, causing air pollution responsible for 2.73 million deaths per year.",
+        "source_index": 24,
+        "excerpt": "ces derniers représentent encore 80% de l'énergie mondiale, causant une pollution atmosphérique qui fait \"2,73 millions de morts par an\"."
+      }
+    ],
+    "source_urls": [
+      "https://www.dw.com/en/experts-urge-global-health-emergency-as-climate-harms-accelerate/a-79773232?maca=en-rss-en-all-1573-xml-mrss",
+      "https://www.franceinfo.fr/environnement/crise-climatique/le-changement-climatique-doit-devenir-urgence-sanitaire-mondiale-selon-le-rapport-the-lancet-countdown_8256397.html#xtor=RSS-3-[lestitres]"
+    ]
+  },
+  {
+    "story": "US midterm elections intensify with Trump holding rallies in Texas and GOP senator endorsing Democrat in Alaska",
+    "narration": "President Donald Trump held a rally at the Lubbock Memorial Civic Center in Texas to support Republican Senate candidate Ken Paxton. During the event, Trump referred to his opponent, Democratic candidate James Talarico, derisively as “Talafreako.” Trump also brought out his secretary of state, Marco Rubio, who spoke and received one of the biggest rounds of applause. On the same day, James Talarico held a separate rally in Lubbock, attracting over 4,000 attendees. At his rally, Talarico accused Ken Paxton of corruption and being a Trump sycophant. Earlier on October 27, 2026, Trump held another rally in Corpus Christi, Texas, as part of his campaign efforts.",
+    "claims": [
+      {
+        "fact": "President Donald Trump held a rally at the Lubbock Memorial Civic Center in Texas to boost Republican Senate candidate Ken Paxton on October 27, 2026.",
+        "source_index": 58,
+        "excerpt": "Less than 3 miles away, a similar scene unfolded for Trump, who held a rally at the expansive Lubbock Memorial Civic Center as he sought to boost the Republican Senate candidate, state Attorney General Ken Paxton."
+      },
+      {
+        "fact": "Democratic Senate candidate James Talarico held a rally in Lubbock, Texas, on October 27, 2026, attracting a crowd with more than 4,000 people signed up to attend.",
+        "source_index": 58,
+        "excerpt": "More than 4,000 people signed up to attend the event Tuesday night, according to his campaign."
+      },
+      {
+        "fact": "Trump brought out his secretary of state, Marco Rubio, who spoke at the Lubbock rally and received one of the biggest rounds of applause.",
+        "source_index": 58,
+        "excerpt": "In a new move, Trump brought out his secretary of state, Marco Rubio, who won one of the biggest rounds of applause of everyone Trump introduced."
+      },
+      {
+        "fact": "Trump referred to James Talarico derisively as “Talafreako” during his rally in Lubbock, Texas.",
+        "source_index": 58,
+        "excerpt": "Minutes into his speech, Trump referred to him derisively as “Talafreako.”"
+      },
+      {
+        "fact": "James Talarico accused Ken Paxton of corruption and being a Trump sycophant during his rally in Lubbock, Texas.",
+        "source_index": 58,
+        "excerpt": "Talarico repeatedly cast Paxton as corrupt and as a Trump sycophant."
+      },
+      {
+        "fact": "Trump held two rallies in Texas on October 27, 2026, including one in Corpus Christi and another in Lubbock.",
+        "source_index": 58,
+        "excerpt": "Paxton has leaned on Trump’s advocacy. Trump has visited Texas three times this month, holding a pair of rallies Tuesday."
+      }
+    ],
+    "source_urls": [
+      "https://www.nbcnews.com/politics/2026-election/james-talarico-faces-trump-dueling-texas-rallies-elections-final-days-rcna605629"
+    ]
+  },
+  {
+    "story": "Jio Platforms shares soar over 21% on trading debut after record IPO in India",
+    "narration": "Shares of Jio Platforms surged by 21.4% on their trading debut following a record-breaking initial public offering. The company offered 270 million shares at 1,119 rupees each, raising 302 billion rupees, equivalent to 3.2 billion US dollars, marking India's largest-ever IPO. The public issue was oversubscribed more than 22 times, with institutional investors driving demand. Akash Ambani noted that the IPO was fully subscribed within 95 minutes of opening on October 21. Shares were last trading at 1,357 rupees. Reliance Industries holds over 66% of Jio Platforms, while Meta Platforms' affiliate Jaadhu Holdings owns nearly 10%, and Google International holds 7.7%. Prominent global funds including BlackRock, Capital Group, and GIC participated in the anchor book portion of the fundraising.",
+    "claims": [
+      {
+        "fact": "Jio Platforms' shares rose 21.4% on their trading debut Wednesday after a record initial public offering.",
+        "source_index": 31,
+        "excerpt": "Jio Platforms' shares rose 21.4% on their trading debut Wednesday after a record initial public offering that was lapped up by retail as well as institutional investors."
+      },
+      {
+        "fact": "Jio had offered 270 million shares in the IPO priced at 1,119 rupees apiece, raising 302 billion rupees ($3.2 billion) in the country's largest-ever IPO.",
+        "source_index": 31,
+        "excerpt": "India's largest telecom and digital services player had offered 270 million shares in the IPO priced at 1,119 rupees apiece, raising 302 billion rupees ($3.2 billion) in the country's largest-ever IPO."
+      },
+      {
+        "fact": "The public issue was subscribed more than 22 times, with institutional investors leading the demand.",
+        "source_index": 31,
+        "excerpt": "The public issue was subscribed more than 22 times, with institutional investors leading the demand, according to data from the BSE."
+      },
+      {
+        "fact": "The IPO was fully subscribed within 95 minutes of its opening on Oct. 21, Akash Ambani said.",
+        "source_index": 31,
+        "excerpt": "The IPO was fully subscribed within 95 minutes of its opening on Oct. 21, Akash Ambani, managing director of Jio Platforms and heir of the Indian billionaire Mukesh Ambani, said ahead of the listing."
+      },
+      {
+        "fact": "Shares were last trading at 1,357 rupees.",
+        "source_index": 31,
+        "excerpt": "Shares were last trading at 1,357 rupees."
+      },
+      {
+        "fact": "Reliance Industries owns more than a 66% stake in Jio Platforms, Meta Platforms' affiliate Jaadhu Holdings owns nearly 10%, and Google International owns 7.7%.",
+        "source_index": 31,
+        "excerpt": "Indian billionaire Mukesh Ambani's flagship company, Reliance Industries, owns more than a 66% stake in Jio Platforms, followed by Meta Platforms' affiliate Jaadhu Holdings that owns nearly 10% and Google International, which owns 7.7%, as per LSEG data."
+      },
+      {
+        "fact": "Leading global funds such as BlackRock, Capital Group and GIC participated in Jio's anchor book portion of the total fundraise.",
+        "source_index": 31,
+        "excerpt": "Leading global funds such as BlackRock, Capital Group and GIC participated in Jio's anchor book portion of the total fundraise, which is set aside for large institutional investors before the IPO opens for public bidding."
+      }
+    ],
+    "source_urls": [
+      "https://www.cnbc.com/2026/10/28/jio-ipo-india-listing-.html"
+    ]
+  },
+  {
+    "story": "Human rights groups oppose UAE diplomat Lana Nusseibeh's bid for UN Secretary-General over Sudan paramilitary funding claims",
+    "narration": "Human rights groups have called on countries to reject Lana Nusseibeh's candidacy for UN secretary general, citing allegations that the UAE funds Sudan's paramilitary Rapid Support Forces. The UAE denies these accusations. Nusseibeh, 48, aims to become the first woman to lead the United Nations. Ken Roth, head of Human Rights Watch, described her as \"utterly inappropriate\" for the role due to her denial of the UAE's involvement with the RSF. Kate Ferguson, co-director of the British NGO Protection Approaches, raised concerns about Nusseibeh's independence from the UAE government. Nusseibeh previously served as the UAE's permanent representative to the UN from 2013 to 2024, becoming the first woman to hold that position.",
+    "claims": [
+      {
+        "fact": "Human rights groups on Tuesday urged countries to reject UAE diplomat Lana Nusseibeh’s bid to become UN secretary general citing allegations that Abu Dhabi funds Sudan’s paramilitary Rapid Support Forces.",
+        "source_index": 84,
+        "excerpt": "Human rights groups on Tuesday urged countries to reject UAE diplomat Lana Nusseibeh’s bid to become UN secretary general citing allegations that Abu Dhabi funds Sudan’s paramilitary Rapid Support Forces."
+      },
+      {
+        "fact": "The UAE denies the accusations that it funds Sudan’s paramilitary Rapid Support Forces.",
+        "source_index": 84,
+        "excerpt": "The UAE denies the accusations."
+      },
+      {
+        "fact": "Nusseibeh, 48, is seeking to become the first woman to lead the United Nations.",
+        "source_index": 84,
+        "excerpt": "Nusseibeh, 48, is seeking to become the first woman to lead the United Nations."
+      },
+      {
+        "fact": "Ken Roth, head of Human Rights Watch, said Lana Nusseibeh is utterly inappropriate as a candidate for UN Secretary General due to her denial of UAE's role in arming and supporting the RSF.",
+        "source_index": 84,
+        "excerpt": "\"I think that Lana Nusseibeh is utterly inappropriate as a candidate for UN Secretary General,\" Ken Roth, head of Human Rights Watch, told journalists. \"Not just once, but repeatedly she has been asked about the UAE's role in arming and supporting the RSF and she just blatantly denies it without regard to the facts,\" he added."
+      },
+      {
+        "fact": "Kate Ferguson, co-director of the British NGO Protection Approaches, expressed concerns about Nusseibeh's independence from the UAE government.",
+        "source_index": 84,
+        "excerpt": "Kate Ferguson, co-director of the British NGO Protection Approaches, also raised concerns. \"There is not, as far as I have seen, sufficient evidence that this candidate is independent from the state from which she comes,\" she said."
+      },
+      {
+        "fact": "Nusseibeh served as the UAE's permanent representative to the UN from 2013 to 2024, the first woman to hold the post.",
+        "source_index": 84,
+        "excerpt": "Nusseibeh is seasoned diplomat who has also served as the UAE's permanent representative to the UN from 2013 to 2024, the first woman to hold the post."
+      }
+    ],
+    "source_urls": [
+      "https://www.france24.com/en/americas/20261028-lana-nusseibeh-un-chief-uae-sudan-rights-groups"
+    ]
+  },
+  {
+    "story": "Egypt orders closure of independent news site Mada Masr amid press freedom concerns",
+    "narration": "An Egyptian court has ordered the closure of independent news website Mada Masr after convicting its editor-in-chief, Lina Attalah, of operating without a license. Attalah was detained for several hours following the verdict before being released after paying a fine of 3 million Egyptian pounds, the maximum penalty for the offense. Mada Masr, founded in 2013, is known for investigating corruption, human rights violations, and the military's role. The website has been blocked in Egypt since 2017, with its license application rejected since 2018. Mada Masr plans to appeal the closure order. The ruling has drawn condemnation from 119 rights organizations and media outlets including Amnesty International, Human Rights Watch, and the Committee to Protect Journalists.",
+    "claims": [
+      {
+        "fact": "An Egyptian court ordered the closure of independent news website Mada Masr after convicting its editor-in-chief, Lina Attalah, of operating without a license.",
+        "source_index": 88,
+        "excerpt": "An Egyptian court on Tuesday ordered the closure of independent news website Mada Masr after convicting its editor-in-chief, Lina Attalah, of operating without a license."
+      },
+      {
+        "fact": "Lina Attalah was detained for several hours following the verdict before being released after paying a fine.",
+        "source_index": 88,
+        "excerpt": "Attalah, one of Egypt's most prominent journalists, was detained for several hours following the verdict before being released after paying a fine."
+      },
+      {
+        "fact": "The court imposed a fine of 3 million Egyptian pounds (around $53,400; €48,112), the maximum penalty for the offense, and ordered the website to shut down and its equipment to be confiscated.",
+        "source_index": 88,
+        "excerpt": "The court imposed a fine of 3 million Egyptian pounds (around $53,400; €48,112), the maximum penalty for the offense. It also ordered the website to shut down and its equipment to be confiscated."
+      },
+      {
+        "fact": "Mada Masr was founded in 2013 and is one of Egypt's few remaining independent news outlets known for investigating corruption, human rights violations and the military's role.",
+        "source_index": 88,
+        "excerpt": "Mada Masr, founded in 2013, is one of Egypt's few remaining independent news outlets. It is known for investigating corruption, human rights violations and the military's powerful role in the country."
+      },
+      {
+        "fact": "Mada Masr plans to appeal the closure order after Attalah's release.",
+        "source_index": 88,
+        "excerpt": "She was released after Mada Masr paid the fine, her lawyer Hassan al-Azhari confirmed. The outlet plans to appeal the closure order."
+      },
+      {
+        "fact": "Mada Masr has faced years of legal battles, with its website blocked inside Egypt since 2017 and its license application rejected without response since 2018.",
+        "source_index": 88,
+        "excerpt": "Mada Masr has faced years of legal battles with Egyptian authorities, who have blocked access to its website inside the country since 2017. The outlet says it first applied for a license in 2018 but received no response."
+      },
+      {
+        "fact": "The ruling drew widespread international condemnation from 119 rights organizations and media outlets including Amnesty International, Human Rights Watch, and the Committee to Protect Journalists.",
+        "source_index": 88,
+        "excerpt": "A coalition of 119 rights organizations and media outlets, including Amnesty International, Human Rights Watch and the Committee to Protect Journalists (CPJ), described the prosecution as an \"unprecedented attack on press freedom.\""
+      }
+    ],
+    "source_urls": [
+      "https://www.dw.com/en/egypt-orders-closure-of-independent-news-site-mada-masr/a-79781842?maca=en-rss-en-all-1573-xml-mrss"
+    ]
+  },
+  {
+    "story": "Australia plans to ban AI chatbots creating 'emotional intimacy' under new digital duty of care laws",
+    "narration": "The federal government plans to ban AI chatbots that create \"emotional intimacy,\" as part of the digital duty of care bill passed by the House of Representatives on Wednesday. The bill, which will be debated in the Senate in the coming weeks, aims to require platforms to prohibit material that simulates emotional intimacy and fosters a child's dependence on it instead of human relationships. Prime Minister Anthony Albanese said stories of people identifying chatbots as their best friends are a wake-up call for parliament. The bill also mandates an opt-out feature for social media algorithms and content suggestions, aiming to ensure a safe online environment for all Australians.",
+    "claims": [
+      {
+        "fact": "The federal government wants to ban AI chatbots which seek to create “emotional intimacy”.",
+        "source_index": 75,
+        "excerpt": "The federal government wants to ban AI chatbots which seek to create “emotional intimacy” after prime minister Anthony Albanese raised the alarm in a heartfelt speech about children treating these agents as their “best friend”."
+      },
+      {
+        "fact": "The digital duty of care bill passed the House of Representatives on Wednesday and will be debated by the Senate in coming weeks.",
+        "source_index": 75,
+        "excerpt": "The digital duty of care bill passed the House of Representatives on Wednesday and will be debated by the Senate in coming weeks."
+      },
+      {
+        "fact": "The government hopes to pass the bill by the end of 2026, but its pathway through the upper house remains unclear.",
+        "source_index": 75,
+        "excerpt": "The government hopes to pass the bill by the end of 2026, but its pathway through the upper house remains unclear."
+      },
+      {
+        "fact": "The bill would require platforms to ban “material or conduct that simulates emotional intimacy and encourages or fosters a child’s dependence on it in place of human relationships”.",
+        "source_index": 75,
+        "excerpt": "the government accepted amendments from crossbencher Kate Chaney which would add certain AI chatbot activity to the list of harms, requiring platforms to ban “material or conduct that simulates emotional intimacy and encourages or fosters a child’s dependence on it in place of human relationships”."
+      },
+      {
+        "fact": "Prime minister Anthony Albanese said: “the stories we hear about people identifying a chatbot, a non-person as their best friend, should be a huge wake up call for every member of this parliament to be prepared to act.”",
+        "source_index": 75,
+        "excerpt": "In an emotional address on Tuesday night, where he again implored the Coalition to consider voting for the bill, Albanese said: “the stories we hear about people identifying a chatbot, a non-person as their best friend, should be a huge wake up call for every member of this parliament to be prepared to act.”"
+      },
+      {
+        "fact": "The bill would place “an overarching obligation” on tech platforms “to provide a safe online environment for all Australians”.",
+        "source_index": 75,
+        "excerpt": "Labor said it would place “an overarching obligation” on tech platforms “to provide a safe online environment for all Australians” and replace a range of existing online codes and standards with a broader duty-of-care requirement to protect users from certain “harmful” content."
+      },
+      {
+        "fact": "The bill would require social media platforms to offer an “opt-out” feature for its algorithm and suggested content.",
+        "source_index": 75,
+        "excerpt": "It would also require social media platforms to offer an “opt-out” feature for its algorithm and suggested content."
+      }
+    ],
+    "source_urls": [
+      "https://www.theguardian.com/australia-news/2026/oct/28/emotional-intimacy-ai-chatbots-ban-digital-duty-of-care-laws-australian-politics"
+    ]
+  },
+  {
+    "story": "France adopts expanded 'casseurs payeurs' law targeting social benefits and protest restrictions amid ongoing unrest",
+    "narration": "The French Senate has adopted and expanded the 'casseurs-payeurs' law, introducing financial solidarity for individuals who knowingly participate in groups causing damage or remain in disorderly crowds after police warnings, with a cap of 10,000 euros per person. The law, passed with 229 votes in favor and 105 against, includes new security measures such as administrative bans on protesting, increased penalties, judicial drones, algorithmic video surveillance, and evictions from social housing. Interior Minister Laurent Nuñez plans to refer the law's extensions to the Council of State for review. The law follows disturbances after PSG's European championship victory, which damaged over 2,500 shops.",
+    "claims": [
+      {
+        "fact": "The 'casseurs-payeurs' law was adopted and expanded by the French Senate on October 28, 2026.",
+        "source_index": 32,
+        "excerpt": "Érigé comme une \"urgence\" face aux violences du 17 octobre, le projet de loi \"casseurs-payeurs\" a été adopté et nettement élargi mercredi 28 octobre au Sénat"
+      },
+      {
+        "fact": "The law creates financial solidarity for anyone who \"sciemment participé\" to a group formed to commit damage or who remains in a crowd disturbing public order despite two police warnings, with a limit of 10,000 euros per person.",
+        "source_index": 32,
+        "excerpt": "Dans sa mesure phare, le projet de loi crée une solidarité financière pour toute personne ayant \"sciemment participé\" à un groupement formé en vue de commettre des dégradations ou pour ceux qui se maintiendraient dans un \"attroupement\" susceptible de troubler l'ordre public, malgré deux sommations des forces de l'ordre. L'Etat pourrait donc se retourner y compris contre les auteurs indirects des dégradations, dans une limite de 10 000 euros par personne."
+      },
+      {
+        "fact": "The Senate added numerous security measures such as new administrative bans on protesting, increased penalties, use of judicial drones and algorithmic video surveillance, and evictions from social housing for troublemakers.",
+        "source_index": 32,
+        "excerpt": "Nouvelles interdictions administratives de manifester, peines complémentaires d'interdiction de territoire pour les étrangers, aggravation du quantum des peines, utilisation facilitée de \"drones judiciaires\" ou de la vidéoprotection algorithmique, expulsions de logements sociaux pour les fauteurs de trouble... Tout au long de la nuit, le Sénat a nettement durci le texte"
+      },
+      {
+        "fact": "The Senate adopted the law with 229 votes in favor and 105 against, supported by the Rassemblement national and opposed by the left.",
+        "source_index": 32,
+        "excerpt": "Le Sénat l'a adopté dans la nuit à 229 voix contre 105, avec le soutien du Rassemblement national et malgré la vive opposition de la gauche"
+      },
+      {
+        "fact": "Interior Minister Laurent Nuñez announced he would refer the extensions of the law to the Council of State to verify if the balance between solidarity and reparation is respected.",
+        "source_index": 32,
+        "excerpt": "Laurent Nuñez a annoncé qu'il saisirait le Conseil d'Etat sur ces extensions, pour vérifier si \"l'équilibre entre solidarité et réparation\" était bien respecté."
+      },
+      {
+        "fact": "The law was elaborated after the disturbances following the European championship victory of PSG and initially contained five articles.",
+        "source_index": 32,
+        "excerpt": "Élaboré durant l'été après les débordements ayant suivi le sacre européen du PSG, le texte contenait initialement cinq articles."
+      },
+      {
+        "fact": "More than 2,500 shops were affected by recent damages according to the French Chambers of Commerce and Industry.",
+        "source_index": 32,
+        "excerpt": "avec plus de 2 500 commerces touchés selon le décompte des chambres de commerce et d'industrie en France (CCI France)."
+      }
+    ],
+    "source_urls": [
+      "https://www.franceinfo.fr/politique/prestations-sociales-saisies-nouvelles-interdictions-de-manifester-le-projet-de-loi-casseurs-payeurs-adopte-et-elargi-au-senat-en-plein-c-ur-de-la-contestation_8256748.html#xtor=RSS-3-[lestitres]"
+    ]
+  },
+  {
+    "story": "Cost of living crisis impacts Europe with families turning to swaps and pre-loved clothes projects",
+    "narration": "A community project in Sheffield is offering clothing for as little as 50p to support families struggling with the cost of living. The Echo project, based at York House in Manor Top, sells pre-loved items including coats, shoes, sportswear, and school uniforms. It is run by Manor and Castle Development Trust alongside Uni-Recycle, a community interest company that collects and redistributes school uniforms at low prices. The project also provides affordable trainers and gym wear to help people overcome barriers to physical activity. York House serves as a community hub for socialising and activities like crafting.",
+    "claims": [
+      {
+        "fact": "A community project is offering clothing for as little as 50p to help families who are struggling with the cost of living.",
+        "source_index": 44,
+        "excerpt": "A community project is offering clothing for as little as 50p to help families who are struggling with the cost of living."
+      },
+      {
+        "fact": "The Echo project, based at York House in Manor Top, Sheffield, sells pre-loved clothing, including coats, shoes, sportswear and school uniforms.",
+        "source_index": 44,
+        "excerpt": "The Echo project, based at York House in Manor Top, Sheffield, sells pre-loved clothing, including coats, shoes, sportswear and school uniforms."
+      },
+      {
+        "fact": "The project is run by Manor and Castle Development Trust in collaboration with community interest company Uni-Recycle, which collects and redistributes school uniforms at low prices.",
+        "source_index": 44,
+        "excerpt": "The project is run by Manor and Castle Development Trust in collaboration with community interest company Uni-Recycle, which collects and redistributes school uniforms at low prices."
+      },
+      {
+        "fact": "The Echo project also helps people overcome barriers to physical activity by providing affordable trainers and gym wear.",
+        "source_index": 44,
+        "excerpt": "As well as offering affordable, good-quality clothing, the Echo project on City Road helps people overcome barriers to taking part in physical activity. The trust's chief executive, Lucy Warren, said the cost of trainers and gym wear could prevent some people from getting involved."
+      },
+      {
+        "fact": "York House, where the Echo project is based, is described as a place where people can meet, socialise, build friendships, and participate in activities like crafting.",
+        "source_index": 44,
+        "excerpt": "Dale also described York House as a place where people could meet, socialise and build friendships. \"You can come in and look for a blouse but actually while you are here you get offered a cup of tea, you can sit and do some crafting,\" she said."
+      }
+    ],
+    "source_urls": [
+      "https://www.bbc.co.uk/news/articles/c687z58lljwpo?at_medium=RSS&at_campaign=rss"
+    ]
+  }
+]

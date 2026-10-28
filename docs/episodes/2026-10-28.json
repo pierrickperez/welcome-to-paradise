@@ -1,0 +1,91 @@
+{
+  "date": "2026-10-28",
+  "published": "2026-10-28T07:24:58.313362+01:00",
+  "title": "Global Morning Briefing — 28 October 2026",
+  "summary": "The day's international, European, business and technology news in 12 verified stories.",
+  "audio_url": "https://pierrickperez.github.io/welcome-to-paradise/episodes/2026-10-28.mp3",
+  "audio_bytes": 7727881,
+  "transcript_url": "https://pierrickperez.github.io/welcome-to-paradise/transcripts/2026-10-28.txt",
+  "sources": [
+    {
+      "source": "Guardian World",
+      "title": "Israel election results live: vote count underway as exit polls point to tie between Netanyahu and Eisenkot blocs",
+      "url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news"
+    },
+    {
+      "source": "Franceinfo",
+      "title": "Elections en Israël : le camp de Benyamin Nétanyahou légèrement en tête après 50% des bulletins dépouillés, selon la Commission électorale",
+      "url": "https://www.franceinfo.fr/monde/israel/direct-elections-en-israel-le-camp-de-benjamin-netanyahou-legerement-en-tete-apres-50-des-bulletins-depouilles-selon-la-commission-electorale_8256712.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "source": "New York Times World",
+      "title": "Rivals in Israel Election Strike Tone of Triumph, but Outcome Is Far From Clear",
+      "url": "https://www.nytimes.com/live/2026/10/27/world/israel-elections"
+    },
+    {
+      "source": "Euronews",
+      "title": "Inside Ukraine's extraordinary underground pipeline operation against Russian forces near Kupiansk",
+      "url": "https://www.euronews.com/2026/10/28/inside-ukraines-extraordinary-underground-pipeline-operation-against-russian-forces-near-k"
+    },
+    {
+      "source": "NPR US",
+      "title": "Trump says he's ending restrictions on climate-warming methane from oil drilling",
+      "url": "https://www.npr.org/2026/10/28/g-s1-150299/trump-methane-restrictions"
+    },
+    {
+      "source": "NBC News",
+      "title": "Trump says he’ll roll back Biden-era methane rules for oil and gas companies",
+      "url": "https://www.nbcnews.com/science/climate-change/trump-methane-rules-leaks-emissions-oil-gas-rcna605983"
+    },
+    {
+      "source": "CNBC",
+      "title": "Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries",
+      "url": "https://www.cnbc.com/2026/10/28/oil-price-today-wti-brent-hormuz.html"
+    },
+    {
+      "source": "Deutsche Welle",
+      "title": "Experts urge 'global health emergency' as climate harms accelerate",
+      "url": "https://www.dw.com/en/experts-urge-global-health-emergency-as-climate-harms-accelerate/a-79773232?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+      "source": "Franceinfo",
+      "title": "Le changement climatique doit devenir \"urgence sanitaire mondiale\", selon le rapport The Lancet Countdown",
+      "url": "https://www.franceinfo.fr/environnement/crise-climatique/le-changement-climatique-doit-devenir-urgence-sanitaire-mondiale-selon-le-rapport-the-lancet-countdown_8256397.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "source": "NBC News",
+      "title": "James Talarico faces off against Trump in dueling Texas rallies in election’s final days",
+      "url": "https://www.nbcnews.com/politics/2026-election/james-talarico-faces-trump-dueling-texas-rallies-elections-final-days-rcna605629"
+    },
+    {
+      "source": "CNBC",
+      "title": "Meta- and Google-backed Jio Platforms’ shares soar over 21% on trading debut after record IPO",
+      "url": "https://www.cnbc.com/2026/10/28/jio-ipo-india-listing-.html"
+    },
+    {
+      "source": "France 24",
+      "title": "Rights groups oppose UAE’s Lana Nusseibeh for UN chief over Sudan claims",
+      "url": "https://www.france24.com/en/americas/20261028-lana-nusseibeh-un-chief-uae-sudan-rights-groups"
+    },
+    {
+      "source": "Deutsche Welle",
+      "title": "Egypt orders closure of independent news site Mada Masr",
+      "url": "https://www.dw.com/en/egypt-orders-closure-of-independent-news-site-mada-masr/a-79781842?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+      "source": "Guardian World",
+      "title": "‘Emotional intimacy’ from AI chatbots would be banned under Australia’s digital duty of care laws",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/28/emotional-intimacy-ai-chatbots-ban-digital-duty-of-care-laws-australian-politics"
+    },
+    {
+      "source": "Franceinfo",
+      "title": "Prestations sociales saisies, nouvelles interdictions de manifester... Le projet de loi \"casseurs payeurs\" adopté et élargi au Sénat, en plein cœur de la contestation",
+      "url": "https://www.franceinfo.fr/politique/prestations-sociales-saisies-nouvelles-interdictions-de-manifester-le-projet-de-loi-casseurs-payeurs-adopte-et-elargi-au-senat-en-plein-c-ur-de-la-contestation_8256748.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "source": "BBC Business",
+      "title": "Pre-loved clothes project sells items for 50p",
+      "url": "https://www.bbc.co.uk/news/articles/c687z58lljwpo?at_medium=RSS&at_campaign=rss"
+    }
+  ]
+}
