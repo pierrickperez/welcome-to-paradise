@@ -26,18 +26,13 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      
       - name: Install FFmpeg
         run: |
-          curl -fL --retry 3 \
-            https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-amd64-static.tar.xz \
-            -o /tmp/ffmpeg.tar.xz
-          mkdir -p /tmp/ffmpeg-static
-          tar -xJf /tmp/ffmpeg.tar.xz -C /tmp/ffmpeg-static
-          FFMPEG_PATH=$(find /tmp/ffmpeg-static -type f -name ffmpeg | head -n 1)
-          test -n "$FFMPEG_PATH"
-          sudo cp "$FFMPEG_PATH" /usr/local/bin/ffmpeg
-          sudo chmod +x /usr/local/bin/ffmpeg
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
           ffmpeg -version
+
 
       - name: Generate podcast
         env:
