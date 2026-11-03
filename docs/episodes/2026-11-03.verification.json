@@ -1,0 +1,446 @@
+[
+  {
+    "story": "US limited military strikes on Iran's Qeshm Island on eve of US midterm elections",
+    "narration": "The U.S. military conducted limited strikes on Iran's Qeshm Island on Monday, targeting surface-to-air missiles reportedly used against U.S. assets. Iranian state media confirmed that five explosions were heard on the island. These strikes were described by U.S. officials as acts of self-defense in response to Iran's ongoing efforts to target maritime shipping and American assets. The timing of the strikes is notable, occurring on the eve of the U.S. midterm elections. This development contrasts with earlier statements from President Donald Trump, who had said the U.S. would not launch strikes on Iran before Tuesday's elections. The situation remains fluid as both sides monitor the impact of these actions.",
+    "claims": [
+      {
+        "fact": "The U.S. military carried out limited strikes Monday on Iran’s Qeshm Island.",
+        "source_index": 26,
+        "excerpt": "The U.S. military carried out limited strikes Monday on Iran’s Qeshm Island, according to two U.S. officials."
+      },
+      {
+        "fact": "The strikes came on the eve of crucial U.S. midterm elections.",
+        "source_index": 26,
+        "excerpt": "The officials said the U.S. attacks, which came on the eve of crucial U.S. midterm elections and as the Middle East is anxious about the possibility of a return to all-out war, were not a resumption of major combat operations in Iran."
+      },
+      {
+        "fact": "The U.S. strikes were described as self-defense in response to Iran’s ongoing efforts to target maritime shipping and U.S. assets.",
+        "source_index": 26,
+        "excerpt": "They described the attacks as self-defense in response to Iran’s ongoing efforts to target maritime shipping and U.S. assets."
+      },
+      {
+        "fact": "Iranian state media reported that five explosions were heard Monday on Qeshm Island.",
+        "source_index": 26,
+        "excerpt": "Iranian state media reported that five explosions were heard Monday on Qeshm Island."
+      },
+      {
+        "fact": "The strikes targeted surface-to-air missiles being used against U.S. assets.",
+        "source_index": 4,
+        "excerpt": "The strikes – first reported by the Wall Street Journal (WSJ) – targeted surface to air missiles being used against US assets, according to Reuters and the Associated Press."
+      },
+      {
+        "fact": "President Donald Trump had said the U.S. would not launch strikes on Iran before Tuesday’s midterm elections.",
+        "source_index": 26,
+        "excerpt": "President Donald Trump had said the U.S. would not launch strikes on Iran before Tuesday’s midterm elections."
+      }
+    ],
+    "source_urls": [
+      "https://www.nbcnews.com/world/iran/us-conducted-defensive-strikes-iranian-targets-strait-hormuz-us-offici-rcna607161",
+      "https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island"
+    ]
+  },
+  {
+    "story": "US midterm elections underway with control of Congress at stake",
+    "narration": "US voters are heading to the polls today for the midterm elections, with all 435 House of Representatives seats and 35 Senate seats up for grabs. Democrats are widely projected to retake control of the House, needing to gain three seats to do so. However, control of the Senate remains uncertain, as Senate Democrats require a net gain of four seats to secure a majority. More than 230 million eligible voters across the country can cast their ballots. Polling stations open earliest in Vermont at 5am local time, with voting closing at various times across states, including 8pm in Michigan and Iowa, and 7pm in Kansas. In Michigan, a notable development has occurred with Representative Haley Stevens endorsing Republican Mike Rogers over the Democratic candidate Abdul Al-Sayed in the Senate race.",
+    "claims": [
+      {
+        "fact": "US voters head to the polls Tuesday to vote in the US midterm elections with Democrats widely projected to retake control of the House, though control of the Senate remains up in the air.",
+        "source_index": 24,
+        "excerpt": "US voters head to the polls Tuesday to vote in the US midterm elections with Democrats widely projected to retake control of the House, though control of the Senate remains up in the air."
+      },
+      {
+        "fact": "They will need to gain three seats in the House and four in the Senate to overtake the Republican majority.",
+        "source_index": 24,
+        "excerpt": "They will need to gain three seats in the House and four in the Senate to overtake the Republican majority."
+      },
+      {
+        "fact": "More than 230 million eligible voters across the United States can head to the polls on Tuesday to decide who will represent them in Congress.",
+        "source_index": 43,
+        "excerpt": "More than 230 million eligible voters across the United States can head to the polls on Tuesday to decide who will represent them in Congress."
+      },
+      {
+        "fact": "All 435 House of Representatives seats and 35 of the Senate’s 100 seats are being contested.",
+        "source_index": 43,
+        "excerpt": "All 435 House of Representatives seats and 35 of the Senate’s 100 seats are being contested."
+      },
+      {
+        "fact": "The first polls are set to open in Vermont at 5am (10:00 GMT).",
+        "source_index": 43,
+        "excerpt": "The first polls are set to open in Vermont at 5am (10:00 GMT)."
+      },
+      {
+        "fact": "Voting in Michigan closes at 8pm and in Kansas at 7pm local time (both 01:00 GMT on Wednesday), while polls in Iowa close at 8pm (02:00 GMT on Wednesday).",
+        "source_index": 43,
+        "excerpt": "Voting in Michigan closes at 8pm and in Kansas at 7pm local time (both 01:00 GMT on Wednesday), while polls in Iowa close at 8pm (02:00 GMT on Wednesday)."
+      },
+      {
+        "fact": "Senate Democrats need a net gain of four seats to reach a majority. House Democrats need three seats for a majority.",
+        "source_index": 43,
+        "excerpt": "Senate Democrats need a net gain of four seats to reach a majority. House Democrats need three seats for a majority."
+      },
+      {
+        "fact": "A high-profile Democratic defection shook Michigan's Senate race as Representative Haley Stevens threw her support behind Republican candidate Mike Rogers rather than backing the Democratic candidate, Abdul Al-Sayed.",
+        "source_index": 24,
+        "excerpt": "A high-profile Democratic defection shook Michigan's Senate race as Representative Haley Stevens threw her support behind Republican candidate Mike Rogers rather than backing the Democratic candidate, Abdul Al-Sayed, who beat her in the primary race."
+      }
+    ],
+    "source_urls": [
+      "https://www.france24.com/en/americas/20261103-live-americans-head-to-the-polls-to-vote-in-us-midterm-elections",
+      "https://www.aljazeera.com/news/2026/11/3/what-time-do-polls-open-and-close-in-the-us-midterm-elections-2026?traffic_source=rss"
+    ]
+  },
+  {
+    "story": "North Korea denies involvement in record $6.3 billion Binance cryptocurrency hack",
+    "narration": "North Korea has denied involvement in the $6.3 billion Binance hack, describing the accusation as a 'grave political provocation.' Kim Yo Jong, sister of North Korean leader Kim Jong Un, criticised the FBI's attribution of the attack to the North Korea-linked hacking group TraderTraitor. The FBI, alongside blockchain analytics firms Elliptic and Chainalysis, has linked the Binance hack and stolen funds to actors connected to North Korea. Binance has responded by progressively reopening withdrawals for additional crypto assets across more networks following the incident. The company has covered approximately 95% of the affected amount, with the remaining 5% consisting of less liquid tokens. Kim Yo Jong accused the US of misleading international public opinion by portraying cybercrimes worldwide as the work of North Korea, calling the accusations 'absurd rhetoric' and a 'sinister attempt' to damage Pyongyang's public image.",
+    "claims": [
+      {
+        "fact": "North Korea denied involvement in the $6.3 billion Binance hack, calling the accusation a 'grave political provocation.'",
+        "source_index": 7,
+        "excerpt": "North Korea rejected allegations linking Pyongyang to the estimated $6.3 billion Binance hack, calling the accusation a “grave political provocation,” according to state media."
+      },
+      {
+        "fact": "Kim Yo Jong, sister of North Korean leader Kim Jong Un, denounced the FBI's attribution of the attack to North Korea-linked hacking group TraderTraitor.",
+        "source_index": 7,
+        "excerpt": "Kim Yo Jong, sister of North Korean leader Kim Jong Un, denounced the FBI's attribution of the attack to North Korea-linked hacking group TraderTraitor, Yohnap reported Tuesday, citing the state-run Korean Central News Agency."
+      },
+      {
+        "fact": "The FBI and blockchain analytics firms including Elliptic and Chainalysis have linked the Binance hack and stolen funds to North Korea-linked actors.",
+        "source_index": 7,
+        "excerpt": "Blockchain analytics firms including Elliptic and Chainalysis have also linked the attack and subsequent movement of the stolen funds to North Korea-linked actors."
+      },
+      {
+        "fact": "Binance said it would begin progressively reopening withdrawals for additional crypto assets across more networks following the hack.",
+        "source_index": 7,
+        "excerpt": "Separately, Binance said Tuesday it would begin progressively reopening withdrawals for additional crypto assets across more networks, expanding its phased restoration of services following last week's hack."
+      },
+      {
+        "fact": "Kim Yo Jong accused the US of misleading international public opinion by portraying cybercrimes worldwide as the work of North Korea.",
+        "source_index": 7,
+        "excerpt": "She accused Washington of misleading international public opinion by portraying cybercrimes around the world as the work of North Korea."
+      },
+      {
+        "fact": "Binance has covered about 95% of the affected amount from the hack, with the remaining 5% consisting of less liquid tokens.",
+        "source_index": 7,
+        "excerpt": "Binance added it has covered about 95% of the affected amount, with the remaining 5% consisting of less liquid tokens that take longer to source."
+      },
+      {
+        "fact": "Kim Yo Jong called the US accusations 'absurd rhetoric' and a 'sinister attempt' to damage Pyongyang's public image.",
+        "source_index": 12,
+        "excerpt": "Kim Yo Jong, a top Democratic People's Republic of Korea official and the sister of leader Kim Jong Un, said on Tuesday that the accusations are another \"sinister attempt\" by the US to damage Pyongyang's public image."
+      }
+    ],
+    "source_urls": [
+      "https://www.cnbc.com/2026/11/03/north-korea-binance-elliptic-chainalysis.html",
+      "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss"
+    ]
+  },
+  {
+    "story": "Reserve Bank of Australia raises interest rates to 4.85%, highest in 18 years, to combat inflation",
+    "narration": "The Reserve Bank of Australia has raised its benchmark cash rate by 25 basis points to 4.85%, the highest level since November 2008. This decision, announced at the end of a two-day monetary policy meeting, marks the fifth rate increase this year. RBA governor Michele Bullock acknowledged the move was \"not the news that many Australians want to hear,\" but said it was necessary to prevent \"even worse pain down the track.\" The decision was a split one, with six board members voting for the increase and three opting to hold. Economists polled by Reuters had expected the rise. Following the announcement, the Australian stock market ended higher, reflecting investor confidence in the central bank's action.",
+    "claims": [
+      {
+        "fact": "The Reserve Bank of Australia raised its benchmark cash rate by 25 basis points to 4.85% on Tuesday, the highest level since November 2008.",
+        "source_index": 23,
+        "excerpt": "Australia's central bank raised its benchmark cash rate by 25 basis points to 4.85% on Tuesday, the highest level since November 2008."
+      },
+      {
+        "fact": "The Reserve Bank board ended its two-day meeting on monetary policy on Tuesday with a 25 basis point rise in the cash interest rate to 4.85%.",
+        "source_index": 20,
+        "excerpt": "The Reserve Bank board ended its two-day meeting on monetary policy on Tuesday with a 25 basis point rise in the cash interest rate to 4.85%."
+      },
+      {
+        "fact": "The RBA governor, Michele Bullock, said it was “not the news that many Australians want to hear”, but it would prevent “even worse pain down the track”.",
+        "source_index": 20,
+        "excerpt": "The RBA governor, Michele Bullock, said it was “not the news that many Australians want to hear”, but it would prevent “even worse pain down the track”."
+      },
+      {
+        "fact": "The decision to raise interest rates for a fifth time this year will face inevitable accusations the RBA is pushing the country into an economic downturn.",
+        "source_index": 20,
+        "excerpt": "The decision to raise interest rates for a fifth time this year will face inevitable accusations the RBA is pushing the country into an economic downturn."
+      },
+      {
+        "fact": "The move was a split decision, with six members voting for the increase and three opting for a hold.",
+        "source_index": 23,
+        "excerpt": "In its statement, the RBA said that the move was a split decision, with six members voting for the increase and three opting for a hold."
+      },
+      {
+        "fact": "The Reserve Bank of Australia's move was in line with expectations from economists polled by Reuters, and marked its fifth rate increase this year.",
+        "source_index": 23,
+        "excerpt": "The Reserve Bank of Australia's move was in line with expectations from economists polled by Reuters, and marked its fifth rate increase this year."
+      },
+      {
+        "fact": "The Australian stock market ended higher after the central bank did what it was expected to do and hiked interest rates for the fifth time this calendar year.",
+        "source_index": 20,
+        "excerpt": "The Australian stock market ended higher after the central bank did what it was expected to do and hiked interest rates for the fifth time this calendar year."
+      }
+    ],
+    "source_urls": [
+      "https://www.theguardian.com/australia-news/live/2026/nov/03/rba-interest-rates-meeting-today-latest-news-australia-reserve-bank-cash-rate-announcement-decision-live-updates",
+      "https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html"
+    ]
+  },
+  {
+    "story": "Japan announces $500 billion defense plan over five years focusing on drones and US weapons",
+    "narration": "Japan is considering a defence spending plan of nearly 500 billion dollars over five years, which would almost double current defence investments and enhance its military capabilities. The new funds are expected to finance purchases such as large quantities of drones. In the fiscal year 2025, Japan bought US weapons through the Foreign Military Sales programme for about 993 billion yen, an increase of approximately 110 billion yen from the previous year. Major acquisitions included stealth fighters F-35A and F-35B, costing 222.7 billion yen, and KC-46A refuelling aircraft for 222.4 billion yen. Prime Minister Sanae Takaichi aims to strengthen the Tokyo-Washington alliance amid rising regional tensions.",
+    "claims": [
+      {
+        "fact": "Japan is considering a defense spending plan of nearly 500 billion dollars over five years.",
+        "source_index": 30,
+        "excerpt": "il governo guidato dalla premier conservatrice Sanae Takaichi sta valutando un piano di spesa per la difesa da quasi 500 miliardi di dollari in cinque anni"
+      },
+      {
+        "fact": "The plan would almost double current defense investments and strengthen Japan's military capabilities.",
+        "source_index": 30,
+        "excerpt": "che quasi raddoppierebbe gli investimenti rispetto all'attuale programmazione e rafforzerebbe le capacità militari del Paese"
+      },
+      {
+        "fact": "New funds are expected to finance purchases such as large quantities of drones.",
+        "source_index": 30,
+        "excerpt": "Secondo le fonti, i nuovi fondi dovrebbero finanziare acquisti come grandi quantità di droni"
+      },
+      {
+        "fact": "In fiscal year 2025, Japan purchased US weapons through the Foreign Military Sales program for about 993 billion yen, an increase of about 110 billion yen from the previous year.",
+        "source_index": 30,
+        "excerpt": "In base ai dati diffusi dal ministero della Difesa giapponese, nell'anno fiscale 2025 Tokyo ha acquistato armi statunitensi attraverso il programma Foreign Military Sales (Fms) per circa 993 miliardi di yen, in aumento di circa 110 miliardi rispetto all'anno precedente"
+      },
+      {
+        "fact": "Major purchases include stealth fighters F-35A and F-35B totaling 222.7 billion yen, and KC-46A refueling aircraft for 222.4 billion yen.",
+        "source_index": 30,
+        "excerpt": "Tra gli acquisti principali figurano i caccia stealth F-35A e F-35B, per un totale di 222,7 miliardi di yen, e gli aerei rifornitori KC-46A, per 222,4 miliardi"
+      },
+      {
+        "fact": "Prime Minister Sanae Takaichi aims to strengthen the Tokyo-Washington alliance amid increasing regional tensions.",
+        "source_index": 30,
+        "excerpt": "La leader giapponese punta a rafforzare l'asse Tokyo-Washington in un contesto regionale sempre più teso, segnalando una rinnovata disponibilità ad allinearsi alle richieste statunitensi su difesa e sicurezza"
+      }
+    ],
+    "source_urls": [
+      "https://www.ansa.it/sito/notizie/topnews/2026/11/03/giappone-piano-difesa-da-500-miliardi-di-dollari-in-cinque-anni_484287d3-9f53-4013-807f-c414536fef08.html"
+    ]
+  },
+  {
+    "story": "Thousands of European troops to rehearse post-war Ukraine deployment in Poland",
+    "narration": "Around 2,800 troops from 10 European countries will take part in the first exercise of the Multinational Force - Ukraine in southeast Poland later this month. The exercise, named Koalicja, will run from 9 to 22 November near the Ukrainian border. The largest group of soldiers, 1,100, will come from France, with the UK contributing 300 troops. Other participating countries include Belgium, Estonia, Germany, Lithuania, the Netherlands, Poland, Spain and Sweden. Only light equipment such as drones will be used for anti-drone and self-defence drills, with no heavy weaponry or tanks deployed. Established in 2025, the MNF-U has its operational headquarters in Paris. The exercise is not a NATO operation and involves minimal US participation, aiming to test rapid deployment capabilities to support Ukraine post-conflict.",
+    "claims": [
+      {
+        "fact": "Around 2,800 troops from 10 European countries will stage the first exercise of a new multinational force in support of Ukraine in Poland later this month.",
+        "source_index": 17,
+        "excerpt": "Around 2,800 troops from 10 European countries will stage the first exercise of a new multinational force in support of Ukraine in Poland later this month, London and Paris said on Tuesday."
+      },
+      {
+        "fact": "The exercise is scheduled to last from 9-22 November in southeast Poland not far from the Ukrainian border.",
+        "source_index": 17,
+        "excerpt": "The exercise is scheduled to last from 9-22 November in southeast Poland not far from the Ukrainian border, involving 2,800 troops."
+      },
+      {
+        "fact": "The largest contingent of 1,100 troops will come from France, with the UK deploying 300 soldiers.",
+        "source_index": 17,
+        "excerpt": "The largest contingent of 1,100 troops will come from France, with the UK deploying 300 soldiers."
+      },
+      {
+        "fact": "The Multinational Force - Ukraine (MNF-U) was set up in 2025 and already has an operational headquarters in Paris.",
+        "source_index": 17,
+        "excerpt": "The force, which was set up in 2025 and already has an operational headquarters in Paris, is not a NATO operation and has little US involvement."
+      },
+      {
+        "fact": "The exercise will involve troops from Belgium, Estonia, Germany, France, Lithuania, the Netherlands, Poland, Spain, Sweden and the UK.",
+        "source_index": 17,
+        "excerpt": "It will involve troops from Belgium, Estonia, Germany, France, Lithuania, the Netherlands, Poland, Spain, Sweden and the UK in air and land operations around the town of Nowa Deba, some 100 kilometres west of the Ukrainian border, the joint statement said."
+      },
+      {
+        "fact": "Only light equipment, such as drones, will be deployed in Poland for anti-drone and self-defence exercises, rather than heavy weaponry, and no tanks will be deployed.",
+        "source_index": 17,
+        "excerpt": "It is expected that only light equipment, such as drones, will be deployed in Poland for anti-drone and self-defence exercises, rather than heavy weaponry, and that no tanks will be deployed."
+      },
+      {
+        "fact": "The exercise is not a NATO operation and has little US involvement.",
+        "source_index": 17,
+        "excerpt": "The force, which was set up in 2025 and already has an operational headquarters in Paris, is not a NATO operation and has little US involvement."
+      },
+      {
+        "fact": "The exercise is called Koalicja (\"Coalition\" in Polish) and aims to test the speed and efficiency at which several nations can deploy forces to support Ukraine once hostilities have finished.",
+        "source_index": 17,
+        "excerpt": "But the extent and duration of the exercise, dubbed Koalicja (\"Coalition\" in Polish), risks antagonising Russia, with Moscow still showing little appetite to settle for peace.\n\"The exercise will allow the testing of the speed and efficiency at which several nations can deploy forces on land, sea and air to support Ukraine once hostilities have finished,\" the joint statement released by the French defence ministry said."
+      }
+    ],
+    "source_urls": [
+      "https://www.euronews.com/2026/11/03/thousands-of-troops-from-europe-to-rehearse-post-war-ukraine-deployment-in-poland"
+    ]
+  },
+  {
+    "story": "Garment workers in Bangladesh protest demanding higher minimum wages amid economic hardship",
+    "narration": "Garment workers in Bangladesh have continued their protests for a third day, demanding a minimum wage increase to 30,000 taka, more than double the current 12,500 taka. On Sunday, police used tear gas and stun grenades to disperse demonstrators in the Jamgora area near Dhaka, arresting dozens. The Bangladesh Garment Manufacturers and Exporters Association reported disruptions at 529 factories, affecting nearly a million workers. The government has formed a six-member wage board to review the demands. Approximately four million garment workers, half of them women, are involved in the protests. The last minimum wage revision was in December 2023, but inflation has continued to rise. Worker Laili Begum earns around 15,000 taka monthly, increasing with overtime, yet struggles to meet basic needs.",
+    "claims": [
+      {
+        "fact": "Garment workers in Bangladesh protested demanding a minimum wage of 30,000 taka ($241), more than double the current wage of 12,500 taka ($102).",
+        "source_index": 11,
+        "excerpt": "That disparity – worsened by rising inflation and the growing cost of living – pushed the workers to strike and hit the streets on Saturday to demand a minimum wage of 30,000 taka ($241), more than double the current wage of 12,500 taka ($102)."
+      },
+      {
+        "fact": "On Sunday, police fired tear gas and stun grenades to disperse protesters and arrested dozens during a protest in the Jamgora part of the Ashulia industrial area near Dhaka.",
+        "source_index": 11,
+        "excerpt": "On Sunday, Begum joined one such protest in the Jamgora part of the Ashulia industrial area on the outskirts of the capital Dhaka, with the police firing tear gas and stun grenades to disperse the protesters, and arresting dozens of them."
+      },
+      {
+        "fact": "The Bangladesh Garment Manufacturers and Exporters Association said demonstrations disrupted operations at 529 factories on Sunday and affected nearly a million workers.",
+        "source_index": 11,
+        "excerpt": "The Bangladesh Garment Manufacturers and Exporters Association said the demonstrations disrupted operations at 529 factories on Sunday and affected nearly a million workers."
+      },
+      {
+        "fact": "The government announced the formation of a six-member wage board to review the workers’ demands on Sunday.",
+        "source_index": 11,
+        "excerpt": "Later that day, the government announced the formation of a six-member wage board to review the workers’ demands."
+      },
+      {
+        "fact": "Workers continued protests for a third straight day on Monday, blocking the Dhaka-Tangail highway and clashing with police in northern Dhaka’s Gazipur and Mirpur districts.",
+        "source_index": 11,
+        "excerpt": "But that did not stop the garment workers from returning to the streets for a third straight day on Monday. In northern Dhaka’s Gazipur area, the workers blocked the Dhaka-Tangail highway, and vandalised and torched several vehicles, while clashes with police were reported from the neighbouring Mirpur district."
+      },
+      {
+        "fact": "The last revision of the minimum wage in the garment sector took place in December 2023, and inflation has continued to climb since then.",
+        "source_index": 11,
+        "excerpt": "The last revision of the minimum wage in the garment sector took place in December 2023. Since then, prices have continued to climb. Official data put annual inflation at 8.34 percent in September, including 7.22 percent for food and 9.30 percent for non-food expenses."
+      },
+      {
+        "fact": "Approximately four million garment factory workers in Bangladesh, half of them women, are involved in the protests.",
+        "source_index": 11,
+        "excerpt": "Begum is among approximately four million garment factory workers in Bangladesh, half of them women. They are now protesting for better wages."
+      },
+      {
+        "fact": "Garment worker Laili Begum earns around 15,000 taka ($121) a month, rising to 18,000–20,000 taka ($145–$161) with overtime, but struggles to afford basic needs.",
+        "source_index": 11,
+        "excerpt": "An experienced sewing operator at Virtual Bottoms Limited, a ready-made garments factory near Bangladesh’s capital Dhaka, Begum earns around 15,000 taka ($121) a month, which sometimes rises to 18,000–20,000 taka ($145–$161) when she works overtime."
+      }
+    ],
+    "source_urls": [
+      "https://www.aljazeera.com/news/2026/11/3/going-hungry-garment-workers-in-bangladesh-say-wages-barely-cover-needs?traffic_source=rss"
+    ]
+  },
+  {
+    "story": "UK doubles wait time for permanent residency to 10 years with exemptions for care workers",
+    "narration": "The United Kingdom has revised its immigration rules, doubling the time most foreign workers must wait to qualify for permanent residency to 10 years. Previously, permanent residency was granted after five years. Home Secretary Shabana Mahmood said hundreds of thousands of care workers will be exempt from the hardline rules, able to settle after five years if they meet visa conditions and earn at least £25,000 a year. People earning over £50,000 can still apply after five years, and those earning more than £125,000 after three years. Refugees arriving through new safe and legal routes can settle after five years, while others face waits of up to 20 years, reduced to 10 if they work or study. Illegal arrivals may wait up to 30 years. The new rules apply retroactively to workers already in the country, with an estimated 1.4 million people expected to receive settled status between 2026 and 2030.",
+    "claims": [
+      {
+        "fact": "The United Kingdom has revised its immigration rules, doubling the time most foreign workers must wait to qualify for permanent residency to 10 years.",
+        "source_index": 51,
+        "excerpt": "The United Kingdom has revised its immigration rules, doubling the time most foreign workers must wait to qualify for permanent residency to 10 years and making refugees who arrive on “small boats” wait as long as 30 years."
+      },
+      {
+        "fact": "Home Secretary Shabana Mahmood said hundreds of thousands of care workers will be exempt from the hardline rules.",
+        "source_index": 51,
+        "excerpt": "Home Secretary Shabana Mahmood, speaking in Parliament on Monday, said hundreds of thousands of care workers will be exempt from the hardline rules, offering a concession amid a political outcry within the governing Labour Party."
+      },
+      {
+        "fact": "Permanent residency has been granted after five years until now.",
+        "source_index": 51,
+        "excerpt": "Permanent residency, known in the UK as indefinite leave to remain, carries the right to work, study, use the free National Health Service and claim welfare benefits. Until now, it has been granted after five years."
+      },
+      {
+        "fact": "People who earn more than 50,000 pounds a year will still be able to apply after five years, and those earning more than 125,000 pounds after three years.",
+        "source_index": 51,
+        "excerpt": "People who earn more than 50,000 pounds a year ($67,000) will still be able to apply after five years, and those earning more than 125,000 pounds ($167,500) after three. Everyone else will be placed on the 10-year path."
+      },
+      {
+        "fact": "Care workers will be able to settle after five years if they have met visa conditions and earn at least 25,000 pounds a year.",
+        "source_index": 51,
+        "excerpt": "Under the revised plan, care workers will be able to settle after five years if they have met the conditions of their visas and earn at least 25,000 pounds ($33,500) a year."
+      },
+      {
+        "fact": "Refugees arriving through new safe and legal routes can settle after five years; others face 20 years, reduced to 10 if they work or study; illegal arrivals may wait up to 30 years.",
+        "source_index": 51,
+        "excerpt": "As for refugees, those who arrive through one of the government’s “new safe and legal routes” will be able to settle after five years, she said. For other refugees, the standard wait will become 20 years, reduced to 10 years for those who work or study. Anyone who arrived by an “illegal method”, such as by small boat, could wait up to 30 years for settlement, she said."
+      },
+      {
+        "fact": "The new rules will apply retroactively to workers already in the country.",
+        "source_index": 51,
+        "excerpt": "The rules will apply retroactively to workers already in the country."
+      },
+      {
+        "fact": "The government estimates that as many as 1.4 million people will receive settled status between 2026 and 2030.",
+        "source_index": 51,
+        "excerpt": "In total, the government estimates that as many as 1.4 million people will receive settled status between 2026 and 2030."
+      }
+    ],
+    "source_urls": [
+      "https://www.aljazeera.com/news/2026/11/3/uk-to-double-wait-for-permanent-residency-with-exemptions-for-care-workers?traffic_source=rss"
+    ]
+  },
+  {
+    "story": "Denmark pushes for EU-wide ban on fast-growing 'turbo chickens' amid animal welfare concerns",
+    "narration": "The Danish government is seeking a national ban on the Ross 308 breed, known as the turbo chicken, and aims to extend this prohibition across Europe. This breed, common in Danish poultry production, grows from about 50 grams to 2 kilograms in just 33 days. Christian Rabjerg Madsen, Denmark’s minister for nature and animal welfare, discourages Danes from buying turbo chickens and supports a ban at both national and EU levels. The proposal has cross-party support in Denmark. Industry experts stress that any ban must include imported chickens to improve animal welfare. Britta Riis of Animal Protection Denmark describes turbo chickens as a \"deeply unethical and grotesque form of breeding\" causing systematic suffering.",
+    "claims": [
+      {
+        "fact": "The Danish government is pursuing a national ban on “turbo chickens” and is calling for the fast-growing breed to be prohibited across Europe.",
+        "source_index": 59,
+        "excerpt": "The Danish government is pursuing a national ban on “turbo chickens” and is calling for the fast-growing breed to be prohibited across Europe."
+      },
+      {
+        "fact": "The Ross 308 breed, labelled the turbo chicken, is the most widespread in Danish poultry production and grows from about 50 grams to 2kg in just 33 days.",
+        "source_index": 59,
+        "excerpt": "The Ross 308 breed, labelled the turbo chicken, is the most widespread in Danish poultry production. It grows from about 50 grams to 2kg in just 33 days."
+      },
+      {
+        "fact": "Denmark’s minister for nature and animal welfare, Christian Rabjerg Madsen, said he discouraged Danes from buying turbo chickens and wants to work for a national and EU-level ban.",
+        "source_index": 59,
+        "excerpt": "Denmark’s minister for nature and animal welfare, Christian Rabjerg Madsen, said he discouraged Danes from buying turbo chickens, telling the broadcaster: “I want to work for a national ban. But it’s clear that this is something that needs to be investigated both legally and economically.” He added: “Now we will work for a national ban, we will work for a ban at EU level.”"
+      },
+      {
+        "fact": "The proposal for the ban on turbo chickens is gaining political momentum and cross-party support in Denmark.",
+        "source_index": 59,
+        "excerpt": "The proposal for the ban on turbo chickens is gaining political momentum and attracting cross-party support in Denmark."
+      },
+      {
+        "fact": "Industry figures warn that any ban must include imported chickens to be effective, as otherwise animal welfare would not benefit.",
+        "source_index": 59,
+        "excerpt": "Klement Hinkbøl Ribergaard, the chief executive of chicken producer Danpo, said: “If Denmark alone bans the production of fast-growing chickens while shops, restaurants and consumers in the Danish market can continue to buy imported, fast-growing chicken of more or less questionable quality, we risk a situation in which animal welfare certainly does not benefit.”"
+      },
+      {
+        "fact": "According to Eurogroup for Animals, 95% of chickens in the EU are raised in intensive systems and bred to produce the cheapest amount of meat possible.",
+        "source_index": 59,
+        "excerpt": "According to Eurogroup for Animals, 95% of chickens in the bloc are now raised in intensive systems and bred to produce the cheapest amount of meat possible, creating a “race to the bottom”."
+      },
+      {
+        "fact": "Britta Riis, chief executive of Animal Protection Denmark, called turbo chickens a “deeply unethical and grotesque form of breeding” causing systematic abuse and suffering.",
+        "source_index": 59,
+        "excerpt": "Britta Riis, chief executive of Animal Protection Denmark, said turbo chickens were the result of a “deeply unethical and grotesque form of breeding” that led to “systematic abuse” and considerable suffering for the birds."
+      }
+    ],
+    "source_urls": [
+      "https://www.theguardian.com/world/2026/nov/03/denmark-pushes-for-eu-ban-on-turbo-chickens-as-secret-footage-causes-outrage"
+    ]
+  },
+  {
+    "story": "Committee to Protect Journalists highlights attacks on journalists as precursor to broader rights violations",
+    "narration": "Jodie Ginsberg, Chief Executive Officer of the Committee to Protect Journalists, has highlighted the rising global death toll among media workers. She emphasises that the killing of journalists is not only an attack on those reporting the news but also undermines the public's right to know, institutional accountability, and democratic foundations. Ginsberg warns of a growing normalization of harassment, intimidation, and violence against journalists, alongside a persistent failure to hold perpetrators accountable. She stresses that allowing killers of journalists to go unpunished creates conditions for further attacks.",
+    "claims": [
+      {
+        "fact": "Jodie Ginsberg is the Chief Executive Officer of the Committee to Protect Journalists (CPJ).",
+        "source_index": 64,
+        "excerpt": "Jodie Ginsberg, Chief Executive Officer of the Committee to Protect Journalists (CPJ)."
+      },
+      {
+        "fact": "The killing of journalists is not simply an assault on those who report the news but an attack on the public's right to know, institutional accountability, and democratic foundations.",
+        "source_index": 64,
+        "excerpt": "The killing of journalists is not simply an assault on those who report the news, explains Ginsberg. It is an attack on the public's right to know, on institutional accountability and, ultimately, on the democratic foundations of society."
+      },
+      {
+        "fact": "The global death toll among media workers continues to rise.",
+        "source_index": 64,
+        "excerpt": "As the global death toll among media workers continues to rise, a deeper crisis is emerging: the normalization of harassment, intimidation and violence against journalists and the persistent failure to hold perpetrators accountable."
+      },
+      {
+        "fact": "There is a normalization of harassment, intimidation, and violence against journalists and a persistent failure to hold perpetrators accountable.",
+        "source_index": 64,
+        "excerpt": "a deeper crisis is emerging: the normalization of harassment, intimidation and violence against journalists and the persistent failure to hold perpetrators accountable."
+      },
+      {
+        "fact": "If killers of journalists are allowed to get away with murder, it creates conditions for more attacks.",
+        "source_index": 64,
+        "excerpt": "“If killers of journalists are allowed to literally get away with murder, that creates the conditions in which we see more and more of those attacks,” warns Ginsberg."
+      }
+    ],
+    "source_urls": [
+      "https://www.france24.com/en/video/20261103-cpj-attacks-on-journalists-almost-always-precede-attacks-on-other-rights-to-broader-population"
+    ]
+  }
+]
