@@ -1,0 +1,357 @@
+[
+  {
+    "story": "US judge temporarily blocks construction of Trump's triumphal arch in Washington after federal panel approval",
+    "narration": "A US federal judge has temporarily blocked the construction of former President Donald Trump's proposed 250-foot memorial arch in Washington for two weeks. The temporary restraining order was issued by US District Judge Tanya Chutkan on Friday. The National Capital Planning Commission had approved the plans for the arch in an 8-4 vote after a nine-hour hearing. The proposed arch would stand 250 feet tall, making it taller than the Arc de Triomphe in Paris, which is about 50 metres high. The project faces opposition from politicians, veterans, and architects who argue that the arch would overshadow the view between the Lincoln Memorial and Arlington National Cemetery. The restraining order follows lawsuits filed by the District of Columbia, Virginia, Vietnam veterans, and an architectural historian.",
+    "claims": [
+      {
+        "fact": "A US federal judge temporarily blocked construction of Trump's proposed 250-foot memorial arch in Washington for two weeks.",
+        "source_index": 1,
+        "excerpt": "A United States federal judge on Friday blocked President Donald Trump's administration from breaking ground on a proposed 250-foot (76-meter) memorial arch for two weeks"
+      },
+      {
+        "fact": "The temporary restraining order was issued by US District Judge Tanya Chutkan on Friday.",
+        "source_index": 4,
+        "excerpt": "The temporary restraining order was issued by US district judge Tanya Chutkan in the early hours of Friday."
+      },
+      {
+        "fact": "The National Capital Planning Commission approved Trump's 250-foot-high arch plans in an 8-4 vote after a nine-hour hearing.",
+        "source_index": 4,
+        "excerpt": "It followed a series of steps taken on Thursday by the government, including the final approval of the 250-foot-high (76-meter) arch by the National Capital Planning Commission in an 8-4 vote after a nine-hour hearing"
+      },
+      {
+        "fact": "The arch would be 250 feet (76 meters) tall, taller than the Arc de Triomphe in Paris which is about 50 meters.",
+        "source_index": 14,
+        "excerpt": "Il piano prevede la realizzazione di un arco alto oltre 76 metri - decisamente più imponente dell'Arco di trionfo di Parigi, a cui si ispira e che raggiunge circa 50 metri."
+      },
+      {
+        "fact": "The arch project faces opposition from politicians, veterans, and architects who argue it would overshadow the view between the Lincoln Memorial and Arlington National Cemetery.",
+        "source_index": 14,
+        "excerpt": "A causa delle sue dimensioni imponenti, l'arco finirebbe per oscurare la prospettiva tra il Lincoln Memorial e il cimitero nazionale di Arlington, dove riposano centinaia di migliaia di militari americani."
+      },
+      {
+        "fact": "The temporary restraining order was granted following lawsuits from the District of Columbia, Virginia, Vietnam veterans, and an architectural historian.",
+        "source_index": 4,
+        "excerpt": "In issuing the delay, Chutkan granted the request of the latest plaintiffs in lawsuits challenging the arch. Chutkan also consolidated lawsuits from the District of Columbia and Virginia with a group of Vietnam veterans and an architectural historian."
+      }
+    ],
+    "source_urls": [
+      "https://www.dw.com/en/us-judge-temporarily-blocks-trump-s-arch-project-after-panel-approval/a-79871690?maca=en-rss-en-all-1573-xml-mrss",
+      "https://www.theguardian.com/us-news/2026/nov/06/judge-temporarily-halts-work-trump-triumphal-arch-washington",
+      "https://www.ansa.it/sito/notizie/topnews/2026/11/06/usa-giudice-federale-blocca-progetto-arco-di-trionfo-a-washington-voluto-da-trump_f98a367e-d0ec-4bea-902b-fc631ed2465d.html"
+    ]
+  },
+  {
+    "story": "Democrats win US midterm elections, gaining control of Congress with implications for Ukraine and US policy",
+    "narration": "The Democratic Party has gained control of the US Congress following the 2026 midterm elections, flipping eight additional House seats to strengthen their majority. This shift is expected to lead to more aggressive investigations into executive agencies, including the Justice Department. Ukrainian President Volodymyr Zelensky has expressed hope that the Democrats' victory will result in increased military and financial support for Ukraine. However, former President Donald Trump has pledged to use his veto power extensively, which may limit the Democrats' ability to pass new sanctions against Russia. The newly elected Democrats will officially take office on January 3, 2027.",
+    "claims": [
+      {
+        "fact": "Democrats have gained control of Congress in the 2026 US midterm elections.",
+        "source_index": 20,
+        "excerpt": "Right now, Democrats have a 106-seat majority as we await final results."
+      },
+      {
+        "fact": "Democrats flipped another eight House seats, strengthening their majority in the lower chamber.",
+        "source_index": 20,
+        "excerpt": "Democrats flipped another eight House seats, strengthening their majority in the lower chamber. Democrats are now leading Republicans 253 to 157, with 25 races left to call"
+      },
+      {
+        "fact": "Democrats are expected to use their power in taking control of Congress to aggressively investigate executive agencies, including the justice department.",
+        "source_index": 20,
+        "excerpt": "Democrats are expected to use their power in taking control of Congress to aggressively investigate executive agencies, including the justice department."
+      },
+      {
+        "fact": "Kiev hopes that the Democrats' victory and control of Congress will lead to increased military and financial support for Ukraine.",
+        "source_index": 48,
+        "excerpt": "Le passage du Sénat et de la Chambre des représentants aux mains du Parti démocrate laisse espérer, selon le dirigeant, un soutien militaire et financier accru qui pourrait \"influencer\" la Russie"
+      },
+      {
+        "fact": "The Democrats' win in Congress is seen by Ukrainian President Volodymyr Zelensky as a source of hope for stronger support.",
+        "source_index": 48,
+        "excerpt": "\"Il y a donc maintenant de l'espoir, puisqu'il existe cet équilibre des forces, et que nous serons davantage soutenus\", a estimé le président ukrainien"
+      },
+      {
+        "fact": "Donald Trump has promised to use his veto power extensively, which could limit the Democrats' ability to pass new sanctions against Russia.",
+        "source_index": 48,
+        "excerpt": "Les démocrates font néanmoins face à un obstacle de taille : le veto présidentiel, que Donald Trump a promis d'utiliser à foison. \"Je serai monsieur Veto\", a récemment prévenu le dirigeant"
+      },
+      {
+        "fact": "The Democrats will take office starting January 3, 2027.",
+        "source_index": 48,
+        "excerpt": "Les nouveaux élus, qui ne siégeront qu'à partir du 3 janvier, sont plutôt favorables à l'Ukraine."
+      }
+    ],
+    "source_urls": [
+      "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+      "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/il-y-a-donc-maintenant-de-l-espoir-que-pourrait-changer-pour-l-ukraine-la-victoire-des-democrates-aux-midterms-2026-aux-etats-unis_8269337.html#xtor=RSS-3-[lestitres]"
+    ]
+  },
+  {
+    "story": "Paraguay's president Santiago Peña resigns amid banking crisis linked to Ueno Bank collapse",
+    "narration": "Paraguay’s rightwing president, Santiago Peña, resigned on Thursday following a political and financial crisis that led to the collapse of the country’s banking system. The crisis intensified last Monday when the central bank ordered Ueno Bank into resolution due to insolvency, freezing deposits of three million customers and leaving many families without access to funds for essentials. Ueno Bank, which rapidly grew under Peña’s leadership from an obscure digital bank to one of Paraguay’s largest lenders, reportedly served about 60% of the adult population. Peña, in office since August 2023 with a term until 2028, faced impeachment proceedings supported by lawmakers who unanimously voted to launch them over allegations of misconduct and conflicts of interest linked to his previous shareholding in Ueno Holding. The bank managed between $800 million and $850 million in deposits from state and pension funds, raising concerns about the intertwining of public money and private business. Opposition senator Rafael Filizzola described the case as \"the biggest fraud carried out from political power in the democratic era.\"",
+    "claims": [
+      {
+        "fact": "Paraguay’s rightwing president, Santiago Peña, resigned on Thursday after a political and financial crisis collapsed the South American country’s banking system in recent days.",
+        "source_index": 28,
+        "excerpt": "Paraguay’s rightwing president, Santiago Peña, resigned on Thursday after a political and financial crisis collapsed the South American country’s banking system in recent days."
+      },
+      {
+        "fact": "Last Monday, the central bank ordered Ueno into resolution over insolvency, freezing the deposits of 3 million customers, leaving hundreds of thousands of families without access to money for food and basic daily expenses.",
+        "source_index": 28,
+        "excerpt": "Last Monday, the central bank ordered Ueno into resolution over insolvency, freezing the deposits of 3 million customers, leaving hundreds of thousands of families without access to money for food and basic daily expenses."
+      },
+      {
+        "fact": "Ueno Bank, which in just a few years under Peña went from an obscure digital bank to one of the country’s largest lenders, claiming to have about 60% of Paraguay’s adult population as customers.",
+        "source_index": 28,
+        "excerpt": "At the centre of the crisis is Ueno Bank, which in just a few years under Peña went from an obscure digital bank to one of the country’s largest lenders, claiming to have about 60% of Paraguay’s adult population as customers."
+      },
+      {
+        "fact": "In power since August 2023 and with a term running until 2028, the 47-year-old economist was already facing impeachment proceedings that had broad support.",
+        "source_index": 28,
+        "excerpt": "In power since August 2023 and with a term running until 2028, the 47-year-old economist was already facing impeachment proceedings that had broad support."
+      },
+      {
+        "fact": "Lawmakers voted unanimously on Thursday to launch impeachment proceedings against Peña over the crisis, alleging misconduct and a conflict of interest in dealings with the bank to which he is tied.",
+        "source_index": 28,
+        "excerpt": "Thousands of Paraguayans gathered outside Congress on Thursday to protest against Peña. Lawmakers voted unanimously on Thursday to launch impeachment proceedings against Peña over the crisis, alleging misconduct and a conflict of interest in dealings with the bank to which he is tied."
+      },
+      {
+        "fact": "The bank came to manage between $800m and $850m in deposits from state and pension entities, including retirement funds, prompting criticism over conflicts of interest because of Peña’s previous shareholding ties to Ueno Holding.",
+        "source_index": 28,
+        "excerpt": "The bank came to manage between $800m and $850m in deposits from state and pension entities, including retirement funds, prompting criticism over conflicts of interest because of Peña’s previous shareholding ties to Ueno Holding."
+      },
+      {
+        "fact": "Peña said that, as an economist, he had merely made an “investment”, but that he had already disposed of all his shares.",
+        "source_index": 28,
+        "excerpt": "Peña said that, as an economist, he had merely made an “investment”, but that he had already disposed of all his shares."
+      },
+      {
+        "fact": "Opposition senator Rafael Filizzola called the case “the biggest fraud carried out from political power in the democratic era … This is a bank created from political power, to use public money for private businesses linked to political power, with the president of the republic at the head of it.”",
+        "source_index": 28,
+        "excerpt": "Opposition senator Rafael Filizzola called the case “the biggest fraud carried out from political power in the democratic era … This is a bank created from political power, to use public money for private businesses linked to political power, with the president of the republic at the head of it,” he told 1020 AM radio."
+      }
+    ],
+    "source_urls": [
+      "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns"
+    ]
+  },
+  {
+    "story": "Singapore Airlines announces over $2 billion investment to update business and first-class experience",
+    "narration": "Singapore Airlines is rolling out new onboard seating, dining, and entertainment options as part of an over S$2 billion ($1.6 billion) investment. New premium cabin seats for long-haul flights will progressively debut on the Airbus A350 long-haul and ultra-long-range planes in mid-2027. First-class seats will come with 32-inch 4K high-definition screens, Bang and Olufsen noise-cancelling headphones, and options for passengers to book double bed and face-to-face dining configurations. Seating in business class will come outfitted with 22-inch 4K screens, wireless charging, and Bluetooth audio connectivity. The new products will also debut with the Boeing 777-9 aircraft when they come into service with Singapore Airlines. Singapore Airlines faces a long-running delay to the delivery of new Boeing 777-9 planes, originally slated for 2021, with an uncertain delivery date. Minor refreshes will be added to premium economy and economy classes, including an extra inch of reclining space and new upholstery, with new 4K seatback entertainment monitors on incoming 777-9 aircraft. The announcement was made on November 6, 2026, following a media briefing on November 4 by SIA Chief Commercial Officer Lee Lik Hsin.",
+    "claims": [
+      {
+        "fact": "Singapore Airlines is rolling out new onboard seating, dining and entertainment options as part of an over S$2 billion ($1.6 billion) investment.",
+        "source_index": 15,
+        "excerpt": "Singapore Airlines is rolling out new onboard seating, dining and entertainment options as part of an over S$2 billion ($1.6 billion) investment to keep up with rivals from around the world."
+      },
+      {
+        "fact": "New premium cabin seats for long-haul flights will progressively debut on the Airbus A350 long-haul and ultra-long-range planes in mid-2027.",
+        "source_index": 15,
+        "excerpt": "The cornerstone of this investment: new premium cabin seats for its long-haul flights, which will progressively debut on the Airbus A350 long-haul and ultra-long-range planes in mid-2027."
+      },
+      {
+        "fact": "First-class seats will come with 32-inch 4K high-definition screens, Bang and Olufsen noise-cancelling headphones and options for passengers to book double bed and face-to-face dining configurations.",
+        "source_index": 15,
+        "excerpt": "First-class seats will come with 32-inch 4K high-definition screens, Bang and Olufsen noise-cancelling headphones and options for passengers to book double bed and face-to-face dining configurations."
+      },
+      {
+        "fact": "Seating in business class will come outfitted with 22-inch 4K screens, wireless charging and Bluetooth audio connectivity.",
+        "source_index": 15,
+        "excerpt": "Seating in business class will come outfitted with 22-inch 4K screens, wireless charging and Bluetooth audio connectivity."
+      },
+      {
+        "fact": "The new products will also debut with the Boeing 777-9 aircraft when they come into service with Singapore Airlines.",
+        "source_index": 15,
+        "excerpt": "These products will also debut with the 777-9 aircraft when they come into service with SIA."
+      },
+      {
+        "fact": "Singapore Airlines faces a long-running delay to the delivery of new Boeing 777-9 planes, originally slated for 2021, now uncertain delivery date.",
+        "source_index": 15,
+        "excerpt": "These retrofits to the A350 aircraft also come as SIA grapples with a long-running delay to the delivery of new Boeing 777-9 planes, which were slated to come in 2021 and now faces an uncertain date as to when it will take delivery of the aircraft."
+      },
+      {
+        "fact": "Minor refreshes will be added to premium economy and economy classes, including an extra inch of reclining space and new upholstery, with new 4K seatback entertainment monitors on incoming 777-9 aircraft.",
+        "source_index": 15,
+        "excerpt": "Minor refreshes will be added to other classes, such as an extra inch of reclining space in premium economy cabins, and new upholstery in economy class. Both will also come with new 4K seatback entertainment monitors, but the new features for economy and premium economy seats will only be on the incoming 777-9 aircraft."
+      },
+      {
+        "fact": "The announcement was made on November 6, 2026, following a media briefing on November 4 by SIA Chief Commercial Officer Lee Lik Hsin.",
+        "source_index": 15,
+        "excerpt": "Speaking at a media briefing on Nov 4, SIA Chief Commercial officer Lee Lik Hsin said that the decision to bring the products to the A350 was due to the delays with the 777-9."
+      }
+    ],
+    "source_urls": [
+      "https://www.cnbc.com/2026/11/06/singapore-airlines-new-first-business-class-a350-starlink.html"
+    ]
+  },
+  {
+    "story": "France's national anti-terror prosecutor reports rising investigations into violent radical far-right groups",
+    "narration": "The French national anti-terror prosecutor has reported a rise in investigations related to violent radical far-right groups. Olivier Christen, speaking on RTL on November 3, 2026, confirmed that the number of procedures linked to these groups is increasing. This follows a violent radical far-right attack on October 23, 2026, in Trappes and La Verrière, which resulted in the death of a 26-year-old black Frenchman and left seven others injured, four seriously. Since its creation, the national anti-terror prosecutor's office has judged 14 procedures related to violent radical far-right groups, including one before a special juvenile court. While jihadist terrorism remains the main terrorism threat in France, the violent radical far-right threat is on the rise.",
+    "claims": [
+      {
+        "fact": "The number of investigations opened by the French national anti-terror prosecutor (Pnat) related to violent radical far-right groups has never been higher.",
+        "source_index": 24,
+        "excerpt": "Le nombre d'enquêtes ouvertes par le Pnat en lien avec cette mouvance n'a jamais été aussi élevé."
+      },
+      {
+        "fact": "On November 3, 2026, Olivier Christen, the national anti-terror prosecutor, stated on RTL that the number of procedures linked to violent radical far-right groups is increasing.",
+        "source_index": 24,
+        "excerpt": "\"Le nombre de procédures liées à l'ultradroite radicale violente est en croissance depuis quelques années.\" C'est le constat que le procureur national antiterroriste, Olivier Christen, a dressé, mardi 3 novembre, sur RTL."
+      },
+      {
+        "fact": "The violent radical far-right attack on October 23, 2026, in Trappes and La Verrière killed a 26-year-old black Frenchman and injured seven others, four seriously.",
+        "source_index": 24,
+        "excerpt": "Le magistrat est revenu sur l'attentat raciste du 23 octobre, à Trappes et à La Verrière (Yvelines), qui a tué un Français noir de 26 ans, Pengo Bossio Wangi, et blessé sept autres personnes, dont quatre grièvement."
+      },
+      {
+        "fact": "Since its creation, the Pnat has judged 14 procedures related to violent radical far-right groups, including one before a special juvenile court.",
+        "source_index": 24,
+        "excerpt": "Le Pnat précise en revanche que, depuis sa création, 14 procédures relatives à l'ultradroite radicale violente ont été jugées, dont une affaire devant une cour d'assises spéciale des mineurs."
+      },
+      {
+        "fact": "The violent radical far-right threat is increasing in France, although jihadist terrorism remains the main terrorism threat.",
+        "source_index": 24,
+        "excerpt": "Si \"la menace principale\" en matière de terrorisme en France reste \"jihadiste\", celle liée à \"l'ultradroite radicale violente\" est en augmentation, a affirmé Olivier Christen."
+      }
+    ],
+    "source_urls": [
+      "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/un-nombre-de-procedures-en-croissance-pourquoi-le-parquet-national-antiterroriste-se-saisit-de-plus-en-plus-d-affaires-liees-a-l-ultradroite-radicale-violente_8267705.html#xtor=RSS-3-[lestitres]"
+    ]
+  },
+  {
+    "story": "Ukraine President Zelenskyy urges Latin American leaders at Ibero-American Summit to assist in repairing Ukraine's power grid",
+    "narration": "Ukrainian President Volodymyr Zelenskyy has called on Latin American leaders to urgently assist in repairing Ukraine's power grid, which has been extensively damaged by Russian attacks. Speaking at the 30th Ibero-American Summit in Madrid, Zelenskyy highlighted that every power plant in Ukraine has suffered damage. He requested technical equipment including transformers, power cables, electronic devices, and diesel and gas generators to maintain the country's infrastructure. Zelenskyy urged leaders to support Ukraine by facilitating connections with their companies to expedite the delivery of these supplies. The summit, which brought together 22 mainly Spanish- and Portuguese-speaking Latin American nations, also heard Zelenskyy's appeal for leaders to condemn what he described as Russian \"mass killings\" carried out through bombings and drones.",
+    "claims": [
+      {
+        "fact": "Ukrainian President Volodymyr Zelenskyy on Thursday urged Latin American leaders to send help \"as soon as possible\" to save his country's power grid from relentless Russian attacks.",
+        "source_index": 57,
+        "excerpt": "Ukrainian President Volodymyr Zelenskyy on Thursday urged Latin American leaders to send help \"as soon as possible\" to save his country's power grid from relentless Russian attacks."
+      },
+      {
+        "fact": "Speaking at the Ibero-American Summit in Madrid, Zelenskyy urged leaders to help Ukraine obtain the necessary equipment to repair its power grid that got damaged from Russian attacks.",
+        "source_index": 57,
+        "excerpt": "Speaking at the Ibero-American Summit in Madrid, Zelenskyy urged leaders to help Ukraine obtain the necessary equipment to repair its power grid that got damaged from Russian attacks."
+      },
+      {
+        "fact": "Zelenskyy said every power plant in Ukraine has been damaged \"in one way or another by attacks\".",
+        "source_index": 57,
+        "excerpt": "Speaking at a summt in Madrid, Zelenskyy said every power plant in Ukraine has been damaged \"in one way or another by attacks\"."
+      },
+      {
+        "fact": "Zelenskyy called on leaders across the region to speak out against what he described as Russian \"mass killings\" that it carries out through bombings and drones.",
+        "source_index": 57,
+        "excerpt": "Speaking at the summit, Zelenskyy called on leaders across the region to speak out against what he described as Russian \"mass killings\" that it carries out throughbombings and drones."
+      },
+      {
+        "fact": "The Ukrainian president set out the urgent need for technical equipment, such as transformers, power cables, electronic equipment and diesel and gas generators to maintain the country's infrastructure.",
+        "source_index": 57,
+        "excerpt": "The Ukrainian president, who thanked Spain for its continued support, set out the urgent need for technical equipment, such as transformers, power cables, electronic equipment and diesel and gas generators to maintain the country's infrastructure."
+      },
+      {
+        "fact": "The summit brought together a 22-nation group of mainly Latin American Spanish- and Portuguese-speaking countries.",
+        "source_index": 57,
+        "excerpt": "The summit brought together a 22-nation group of mainly Latin American Spanish- and Portuguese-speaking countries."
+      },
+      {
+        "fact": "Zelenskyy said, \"We need equipment that works with our power grid and we need it fast. So please support directly to have connections with your companies, with your productions and get these supplies to Ukraine as quick as possible,\" at the 30th Ibero-American summit.",
+        "source_index": 57,
+        "excerpt": "\"We need equipment that works with our power grid and we need it fast. So please support directly to have connections with your companies, with your productions and get these supplies to Ukraine as quick as possible,\" Zelenskyy said at the 30th Ibero-American summit."
+      }
+    ],
+    "source_urls": [
+      "https://www.euronews.com/2026/11/06/zelenskyy-urges-latin-american-leaders-to-help-repair-ukraines-power-grid"
+    ]
+  },
+  {
+    "story": "Energy minister in Great Britain urges suppliers to help households tackle unpaid bills ahead of winter",
+    "narration": "An energy minister has told the bosses of Great Britain’s biggest energy suppliers to do more to help households get on top of their unpaid energy bills this winter. Energy bosses were summoned to a roundtable meeting on Thursday to discuss the government’s plan to pay down the energy debts of about 2.4 million of the hardest-hit households. The government plans to spend almost £2.5 billion to help write off the country’s record high energy debts. The minister for energy consumers, Polly Billington, told energy company bosses that suppliers would still need to play a “crucial role” in tackling problem debt alongside the government’s support package. Suppliers are expected to proactively identify customers under financial strain and offer help such as debt payment plans or debt advice services. The government is backing the use of smart meters and smart pre-pay meters to help households track spending and avoid arrears. The meeting was attended by senior leaders from the largest six energy suppliers, Energy UK, National Energy Action, and five consumer advice groups including Citizens Advice.",
+    "claims": [
+      {
+        "fact": "An energy minister has told the bosses of Great Britain’s biggest energy suppliers to do more to help households get on top of their unpaid energy bills this winter.",
+        "source_index": 63,
+        "excerpt": "An energy minister has told the bosses of Great Britain’s biggest energy suppliers to do more to help households get on top of their unpaid energy bills this winter, before the government spends almost £2.5bn to help write off the country’s record high debts."
+      },
+      {
+        "fact": "Energy bosses were summoned to a roundtable meeting on Thursday to discuss the government’s plan to pay down the energy debts of about 2.4m of the hardest-hit households.",
+        "source_index": 63,
+        "excerpt": "Energy bosses were summoned to a roundtable meeting on Thursday to discuss the government’s plan to pay down the energy debts of about 2.4m of the hardest-hit households."
+      },
+      {
+        "fact": "The government plans to spend almost £2.5bn to help write off the country’s record high energy debts.",
+        "source_index": 63,
+        "excerpt": "before the government spends almost £2.5bn to help write off the country’s record high debts."
+      },
+      {
+        "fact": "The minister for energy consumers, Polly Billington, told energy company bosses that suppliers would still need to play a “crucial role” in tackling problem debt alongside the government’s support package.",
+        "source_index": 63,
+        "excerpt": "The minister for energy consumers, Polly Billington, is understood to have told bosses from energy companies including Octopus Energy, British Gas and EDF Energy that suppliers would still need to play a “crucial role” in tackling the longstanding issue of problem debt alongside the government’s multibillion-pound support package."
+      },
+      {
+        "fact": "Suppliers are expected to proactively identify customers under financial strain and offer help such as debt payment plans or debt advice services.",
+        "source_index": 63,
+        "excerpt": "Suppliers are expected to proactively identify customers who may be under financial strain and offer help such as debt payment plans or pointing them in the direction of debt advice services."
+      },
+      {
+        "fact": "The government is backing the use of smart meters and smart pre-pay meters to help households track spending and avoid arrears.",
+        "source_index": 63,
+        "excerpt": "The government has backed the use of smart meters and smart pre-pay meters to help households track their spending and avoid getting into arrears."
+      },
+      {
+        "fact": "The meeting was attended by senior leaders from the largest six energy suppliers, Energy UK, National Energy Action, and five consumer advice groups including Citizens Advice.",
+        "source_index": 63,
+        "excerpt": "The meeting was attended by senior leaders from the largest six energy suppliers, and representatives from the industry trade association Energy UK, the fuel poverty charity National Energy Action, and five consumer advice groups including Citizens Advice."
+      },
+      {
+        "fact": "The average household currently pays about £50 a year on their energy bill to service unpaid energy bills across the market.",
+        "source_index": 63,
+        "excerpt": "The average household currently pays about £50 a year on their energy bill to service unpaid energy bills across the market, but this would be likely to rise without action to shrink the debt pile."
+      },
+      {
+        "fact": "The government believes the one-off energy debt relief scheme and new measures could save all households about £130 on average over the next 10 years.",
+        "source_index": 63,
+        "excerpt": "The government believes that the one-off energy debt relief scheme, and new measures to keep debt from building up again in future, could save all households about £130 on average over the next 10 years."
+      }
+    ],
+    "source_urls": [
+      "https://www.theguardian.com/business/2026/nov/06/minister-energy-suppliers-help-households-unpaid-bills-debt-relief"
+    ]
+  },
+  {
+    "story": "India's stock market outperforms amid global AI market downturn, seen as a potential AI hedge",
+    "narration": "India's stock market has attracted renewed interest from foreign investors, who have shifted from net sellers to net buyers in recent days, investing over $2.3 billion according to NSDL data. Rajiv Batra told CNBC that India has emerged as an 'AI hedge' for portfolios looking to diversify from crowded AI trades. Despite a broader sell-off on Wall Street, India's benchmark indexes traded higher, supported by earnings growth of more than 20% among listed companies. Consensus earnings per share estimates have also been revised up slightly for 2026 and 2027. India currently trades at a forward price-to-earnings ratio of 18.6 times, higher than China and Brazil. Batra noted that if foreign investors neutralize their underweight positions, net inflows could reach around $115 billion.",
+    "claims": [
+      {
+        "fact": "India has emerged as an 'AI hedge' for portfolios trimming or diversifying out of crowded AI trades,\" Batra said.",
+        "source_index": 7,
+        "excerpt": "\"India has emerged as an 'AI hedge' for portfolios trimming or diversifying out of crowded AI trades,\" Batra said."
+      },
+      {
+        "fact": "Foreign investors, which net sold more than $31 billion until October of this year, have turned net buyers over the past four days, investing over $2.3 billion, according to data from NSDL.",
+        "source_index": 7,
+        "excerpt": "Foreign investors, which net sold more than $31 billion until October of this year, have turned net buyers over the past four days, investing over $2.3 billion, according to data from NSDL."
+      },
+      {
+        "fact": "Earnings growth of listed Indian companies is tracking at more than 20%, and consensus earnings per share estimates have been revised up 0.5% for 2026 and 0.6% for 2027 over the past month.",
+        "source_index": 7,
+        "excerpt": "As per data shared by JPMorgan, earnings growth of listed Indian companies is tracking at more than 20%, and consensus earnings per share estimates have been revised up 0.5% for 2026 and 0.6% for 2027 over the past month."
+      },
+      {
+        "fact": "India's benchmark indexes bucked the trend to trade higher while major Asian markets tracked a sell-off on Wall Street overnight.",
+        "source_index": 7,
+        "excerpt": "On Friday, as major Asian markets tracked a sell-off on Wall Street overnight, India's benchmark indexes bucked the trend to trade higher."
+      },
+      {
+        "fact": "India is trading at a rolling 12-month forward price-to-earnings of 18.6 times, higher than China's 9.3x and Brazil's 7.9x, the report showed.",
+        "source_index": 7,
+        "excerpt": "India is trading at a rolling 12-month forward price-to-earnings of 18.6 times, higher than China's 9.3x and Brazil's 7.9x, the report showed."
+      },
+      {
+        "fact": "If these foreign long only investor groups were to neutralize their underweight in Indian equities, this could translate into potential net inflows of around $115 billion,\" Rajiv Batra told CNBC.",
+        "source_index": 7,
+        "excerpt": "\"If these foreign long only investor groups were to neutralize their underweight in Indian equities, this could translate into potential net inflows of around $115 billion,\" Rajiv Batra, head of Asia and co-head of global emerging markets equity strategy at JPMorgan, told CNBC."
+      }
+    ],
+    "source_urls": [
+      "https://www.cnbc.com/2026/11/06/india-ai-tech-hedge-nifty50.html"
+    ]
+  }
+]
