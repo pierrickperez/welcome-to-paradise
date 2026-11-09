@@ -1,0 +1,400 @@
+[
+  {
+    "story": "Krakow shooting suspect dies after attack killing at least six",
+    "narration": "A gunman suspected of killing six people in Krakow has died in hospital. The shooting began shortly before 15:00 local time in Krakow's busy Main Market Square. Six people – four women and two men – were confirmed killed in the attack. Among the victims, four were Polish nationals, while a British national and an Austrian woman were also among those killed. Following the attack, police searched the gunman's house and found three bodies – two women and one man – identified as his 53-year-old father, 52-year-old mother, and 21-year-old sister. The suspect was shot within three minutes of the attack beginning, which prevented a further massacre. In total, sixteen people, including five foreigners, two police officers, and the attacker, were taken to hospital.",
+    "claims": [
+      {
+        "fact": "A gunman suspected of killing six people in Krakow has died in hospital.",
+        "source_index": 4,
+        "excerpt": "A gunman suspected of killing six people in Krakow has died in hospital, Polish police say."
+      },
+      {
+        "fact": "The shooting began shortly before 15:00 local time (14:00 GMT) in Krakow's busy Main Market Square.",
+        "source_index": 4,
+        "excerpt": "After the shooting, which began shortly before 15:00 local time (14:00 GMT) in Krakow's busy Main Market Square, police identified the attacker as a 24-year-old Polish man but did not confirm his name."
+      },
+      {
+        "fact": "Six people - four women and two men - are confirmed to have been killed in the attack.",
+        "source_index": 4,
+        "excerpt": "Six people - four women and two men - are confirmed to have been killed in the attack."
+      },
+      {
+        "fact": "Four victims are Polish, while a British national and an Austrian woman were also killed.",
+        "source_index": 4,
+        "excerpt": "Four victims are Polish, while a British national and an Austrian woman were also killed."
+      },
+      {
+        "fact": "Three bodies - two women and one man - were found at the gunman's house when it was searched after the attack.",
+        "source_index": 4,
+        "excerpt": "Poland's Prime Minister Donald Tusk said three bodies - two women and one man - were found at the gunman's house when it was searched after the attack."
+      },
+      {
+        "fact": "The three victims found at the gunman's home were identified as his 53-year-old father, 52-year-old mother and 21-year-old sister.",
+        "source_index": 4,
+        "excerpt": "On Sunday, Polish police confirmed those three victims had been identified as the alleged gunman's 53-year-old father, 52-year-old mother and his sister, who was 21 years old."
+      },
+      {
+        "fact": "The suspect was shot within three minutes of the attack beginning, preventing a further massacre.",
+        "source_index": 4,
+        "excerpt": "Armed officers raced to the scene and engaged in a gunfight with the suspect, who was shot within three minutes of the attack beginning, preventing a further massacre, officials said."
+      },
+      {
+        "fact": "Sixteen people, including five foreigners, two police officers and the attacker, were taken to hospital.",
+        "source_index": 4,
+        "excerpt": "Sixteen people, including five foreigners, two police officers and the attacker, were taken to hospital."
+      }
+    ],
+    "source_urls": [
+      "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss"
+    ]
+  },
+  {
+    "story": "COP31 climate talks open amid calls for global cooperation",
+    "narration": "COP31 is underway with around 200 countries participating to maintain and strengthen global cooperation on climate change. Turkey is advocating for the '35-by-35' Global Electrification Pledge, aiming to increase electricity's share of global energy demand to 35% by 2035. Murat Kurum, COP31 president and Turkey’s Environment Minister, stated that electrification is key to achieving energy security and reducing emissions. Climate finance remains a significant topic of discussion, with particular focus on funding for adaptation and addressing loss and damage in vulnerable countries, which is expected to be a contested issue during the conference.",
+    "claims": [
+      {
+        "fact": "COP31 aims to maintain and strengthen global cooperation on climate change.",
+        "source_index": 0,
+        "excerpt": "L'objectif de cette conférence est de maintenir la coopération mondiale sur le climat, voire de la renforcer."
+      },
+      {
+        "fact": "About 200 countries are participating in COP31.",
+        "source_index": 0,
+        "excerpt": "Ils sont 200 cette année."
+      },
+      {
+        "fact": "Turkey is pushing the '35-by-35' Global Electrification Pledge to raise electricity's share of global energy demand to 35% by 2035.",
+        "source_index": 33,
+        "excerpt": "Türkiye asking countries to commit to a ‘35-by-35’ target, raising the global share of energy demand by electricity to 35 per cent, up from around 20 per cent, by 2035."
+      },
+      {
+        "fact": "COP31 president and Turkey’s Environment Minister Murat Kurum said electrification is the answer to energy security and emissions reduction.",
+        "source_index": 51,
+        "excerpt": "“Electrification is the answer. It protects communities from volatile global markets and cuts emissions.”"
+      },
+      {
+        "fact": "Climate finance, especially funding for adaptation and loss and damage in vulnerable countries, is expected to be a contested issue at COP31.",
+        "source_index": 33,
+        "excerpt": "Money is expected to be one of the most contested issues in Antalya, particularly to fund adaptation and loss and damage in countries most vulnerable to climate disasters, like developing nations and small island states."
+      }
+    ],
+    "source_urls": [
+      "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/cop31-les-cop-restent-utiles-dans-un-moment-ou-le-climat-est-parfois-absent-des-priorites-politiques-estime-le-reseau-action-climat_8274098.html#xtor=RSS-3-[lestitres]",
+      "https://www.euronews.com/2026/11/09/we-will-not-lower-our-ambition-everything-you-need-to-know-on-day-one-of-the-cop31-climate",
+      "https://www.aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open?traffic_source=rss"
+    ]
+  },
+  {
+    "story": "US President Trump says deportation policy was 'too tough' and hurt midterms",
+    "narration": "US President Donald Trump has acknowledged that his deportation policy for undocumented immigrants was \"too tough\" for voters, suggesting it contributed to Republican losses in the recent midterm elections. In an interview on CBS' \"60 Minutes,\" which aired on Sunday, Mr Trump said his approach to removing undocumented immigrants who had not committed crimes was overly harsh. He indicated that mass deportations hurt his party's performance in the elections. Despite this, Mr Trump promoted Stephen Miller, the architect of the mass deportation policy, to White House chief of staff on Friday. The President also expressed willingness to work with Democrats in the new Congress to craft an immigration deal, stating, \"The deal would be we would work something out. And I think it's something — I think that's something that's actually doable.\"",
+    "claims": [
+      {
+        "fact": "US President Donald Trump said that his deportation policy for undocumented immigrants was \"too tough\" for voters and he can work with the Democrats in the new Congress to craft an immigration deal.",
+        "source_index": 25,
+        "excerpt": "US President Donald Trump on Sunday said that his deportation policy for undocumented immigrants was \"too tough\" for voters and he can work with the Democrats in the new Congress to craft an immigration deal."
+      },
+      {
+        "fact": "Trump said his deportation policy may have been part of the reason Republicans lost control of the House and Senate in the midterm election.",
+        "source_index": 25,
+        "excerpt": "Speaking during his first major interview since his party lost control of the House and Senate in the midterm election, Trump said his deportation policy may have been part of the reason Republicans lost."
+      },
+      {
+        "fact": "Trump said his policies had been overly harsh in removing undocumented immigrants who hadn’t committed crimes.",
+        "source_index": 34,
+        "excerpt": "Trump said his policies had been overly harsh in removing undocumented immigrants who hadn’t committed crimes."
+      },
+      {
+        "fact": "Trump said in an interview on CBS’ “60 Minutes” that aired Sunday that mass deportations hurt him during the midterm elections.",
+        "source_index": 34,
+        "excerpt": "President Donald Trump conceded that his immigration policies were “too tough,” saying in an interview on CBS’ “60 Minutes” that aired Sunday that mass deportations hurt him during the midterm elections."
+      },
+      {
+        "fact": "Trump on Friday promoted Stephen Miller, who conceived of the mass deportation policy enacted since Trump returned to office, to White House chief of staff.",
+        "source_index": 34,
+        "excerpt": "Trump on Friday promoted Stephen Miller, who conceived of the mass deportation policy enacted since Trump returned to office, to White House chief of staff, replacing Susie Wiles."
+      },
+      {
+        "fact": "Trump said he can find a way to work with the Democrats and that \"The deal would be we would work something out. And I think it's something — I think that's something that's actually doable.\"",
+        "source_index": 25,
+        "excerpt": "In his interview to CBS that aired on Sunday, Trump said that he can find a way to work with the Democrats. \"The deal would be we would work something out. And I think it's something — I think that's something that's actually doable,\" he said in the interview."
+      }
+    ],
+    "source_urls": [
+      "https://www.dw.com/en/us-president-donald-trump-says-deportation-policy-was-too-tough-for-voters/a-79895321?maca=en-rss-en-all-1573-xml-mrss",
+      "https://www.nbcnews.com/politics/trump-administration/trump-says-deportations-tough-hurt-midterms-rcna608208"
+    ]
+  },
+  {
+    "story": "Europe faces cyberattacks and bomb threats testing critical infrastructure",
+    "narration": "Last week, hackers remotely manipulated refrigeration systems at supermarkets across Europe, forcing retailers to discard spoiled food and exposing vulnerabilities in everyday infrastructure. On Monday, supermarkets in Belgium, Luxembourg, Sweden, and the Netherlands found that refrigeration systems had been set to as much as 50 degrees Celsius. French blood-bank refrigeration systems were subsequently targeted in what appeared to be a similar incident. A wave of suspected hoax bomb threats disrupted dozens of flights across the continent, forcing diversions and, in some cases, fighter jet escorts. The week culminated with bomb threats targeting European news outlets, including the U.K.'s Sky News and Irish public broadcaster RTÉ. Authorities have not established who was behind the attacks or whether they were connected. Defense and security experts warn that disruption to everyday services can have consequences far beyond the immediate economic damage amid ongoing geopolitical tensions in Europe.",
+    "claims": [
+      {
+        "fact": "Hackers remotely manipulated refrigeration systems at supermarkets across Europe last week, forcing retailers to discard spoiled food and exposing vulnerabilities in everyday infrastructure.",
+        "source_index": 7,
+        "excerpt": "Hackers remotely manipulated refrigeration systems at supermarkets across Europe last week, forcing retailers to discard spoiled food and exposing vulnerabilities in everyday infrastructure."
+      },
+      {
+        "fact": "French blood-bank refrigeration systems were subsequently targeted in what appeared to be a similar incident, while a wave of suspected hoax bomb threats disrupted dozens of flights across the continent.",
+        "source_index": 7,
+        "excerpt": "French blood-bank refrigeration systems were subsequently targeted in what appeared to be a similar incident, while a wave of suspected hoax bomb threats disrupted dozens of flights across the continent, forcing diversions and, in some cases, fighter jet escorts."
+      },
+      {
+        "fact": "On Monday, supermarkets in Belgium, Luxembourg, Sweden and the Netherlands found that refrigeration systems had been set to as much as 50 degrees Celsius, or 122 degrees Fahrenheit.",
+        "source_index": 7,
+        "excerpt": "On Monday, supermarkets in Belgium, Luxembourg, Sweden and the Netherlands found that refrigeration systems had been set to as much as 50 degrees Celsius, or 122 degrees Fahrenheit, affecting retailers including Ahold Delhaize, IKEA, Colruyt Group and Carrefour."
+      },
+      {
+        "fact": "The week culminated with bomb threats targeting European news outlets, including the U.K.'s Sky News and Irish public broadcaster RTÉ.",
+        "source_index": 7,
+        "excerpt": "The week culminated with bomb threats targeting European news outlets, including the U.K.'s Sky News and Irish public broadcaster RTÉ."
+      },
+      {
+        "fact": "The incidents come against a backdrop of heightened geopolitical tensions and domestic unrest across parts of Europe, with civilian infrastructure potentially becoming an increasingly attractive target for hostile actors.",
+        "source_index": 7,
+        "excerpt": "The incidents come against a backdrop of heightened geopolitical tensions and domestic unrest across parts of Europe, with civilian infrastructure potentially becoming an increasingly attractive target for hostile actors."
+      },
+      {
+        "fact": "While authorities have not established who was behind the attacks or whether they were connected, defense and security experts warn that disruption to everyday services can have consequences far beyond the immediate economic damage.",
+        "source_index": 7,
+        "excerpt": "While authorities have not established who was behind the attacks or whether they were connected, defense and security experts warn that disruption to everyday services can have consequences far beyond the immediate economic damage."
+      },
+      {
+        "fact": "Cyberattacks have become more common over the past decade as societies have become more digital and vulnerable systems have become easier to access.",
+        "source_index": 7,
+        "excerpt": "Cyberattacks have become more common over the past decade as societies have become more digital and vulnerable systems have become easier to access, Blix said."
+      },
+      {
+        "fact": "A wave of suspected hoax bomb threats disrupted dozens of flights across the continent, forcing diversions and, in some cases, fighter jet escorts.",
+        "source_index": 7,
+        "excerpt": "a wave of suspected hoax bomb threats disrupted dozens of flights across the continent, forcing diversions and, in some cases, fighter jet escorts."
+      }
+    ],
+    "source_urls": [
+      "https://www.cnbc.com/2026/11/09/europe-fridge-hacks-bomb-threats-cyberattack.html"
+    ]
+  },
+  {
+    "story": "China's wholesale inflation hits highest in over four years",
+    "narration": "China's producer prices rose at their fastest pace since June 2022, accelerating for the third consecutive month. The Producer Price Index for October reached 5.7%, surpassing economists' expectations of 5.3%, according to a Reuters poll. This increase was largely driven by a sharp rise in prices within the mining and raw materials sectors. Meanwhile, consumer inflation in China slowed to 0.7% in October, marking its first deceleration after two months of consecutive increases. Following the release of this data, the mainland Chinese CSI 300 index gained 0.56%.",
+    "claims": [
+      {
+        "fact": "China's producer prices grew at the fastest rate since June 2022, accelerating for the third month in a row.",
+        "source_index": 15,
+        "excerpt": "Producer prices in China grew at the fastest rate since June 2022, accelerating for the third month in a row."
+      },
+      {
+        "fact": "The PPI for October came in at 5.7%, compared to the 5.3% expected by economists polled by Reuters.",
+        "source_index": 15,
+        "excerpt": "The PPI for October came in at 5.7%, compared to the 5.3% expected by economists polled by Reuters."
+      },
+      {
+        "fact": "The increase was driven by a sharp rise in prices in the mining and raw materials industries.",
+        "source_index": 15,
+        "excerpt": "The increase was driven by a sharp rise in prices in the mining and raw materials industries."
+      },
+      {
+        "fact": "Consumer inflation in China slowed to 0.7% in October, its first deceleration after two straight months of increases.",
+        "source_index": 15,
+        "excerpt": "Consumer inflation in China slowed to 0.7% in October, its first deceleration after two straight months of increases."
+      },
+      {
+        "fact": "The mainland Chinese CSI 300 index gained 0.56% after the data release.",
+        "source_index": 15,
+        "excerpt": "The mainland Chinese CSI 300 index gained 0.56% after the data release."
+      }
+    ],
+    "source_urls": [
+      "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html"
+    ]
+  },
+  {
+    "story": "Israel's future uncertain after recent vote amid ongoing regional violence",
+    "narration": "The Netanyahu bloc holds 53 seats in the 120-member Knesset, falling short of the 61 needed to form a government. Anti-Netanyahu lawmakers control 67 seats, while Palestinian parties secured 19 seats. The ongoing corruption trial against Netanyahu is expected to last a long time. In 2020, Netanyahu broke a rotation agreement with Benny Gantz, leading to new elections which Netanyahu won. If no government is formed, new elections will be held in six months, with Netanyahu remaining in office but with limited authority.",
+    "claims": [
+      {
+        "fact": "The Netanyahu bloc has been reduced to a minority of 53 members in the 120-member Knesset.",
+        "source_index": 11,
+        "excerpt": "From holding a solid majority in the 120-member Knesset, the Netanyahu bloc has been reduced to a minority of 53 members."
+      },
+      {
+        "fact": "Anti-Netanyahu lawmakers hold 67 seats in the Knesset.",
+        "source_index": 11,
+        "excerpt": "Anti-Netanyahu lawmakers, by contrast, hold 67 seats."
+      },
+      {
+        "fact": "To form a government, a bloc needs to have the support of at least 61 members of the Knesset.",
+        "source_index": 11,
+        "excerpt": "To form a government, a bloc needs to have the support of at least 61 members of the Knesset."
+      },
+      {
+        "fact": "Palestinian parties secured 19 seats in the Knesset.",
+        "source_index": 11,
+        "excerpt": "Working with Palestinian parties, which secured 19 seats, is out of the question for him."
+      },
+      {
+        "fact": "Netanyahu's corruption trial is ongoing and will last a very long time.",
+        "source_index": 11,
+        "excerpt": "Given that Netanyahu’s corruption trial is destined to go on for a very long time, the rotation would make it impossible for Netanyahu to be part of a government under Eisenkot as prime minister."
+      },
+      {
+        "fact": "Netanyahu broke a rotation agreement with Benny Gantz in 2020, leading to new elections which Netanyahu won.",
+        "source_index": 11,
+        "excerpt": "In 2020, without any hesitation, he broke a rotation agreement with Benny Gantz, who had naively believed that after two years he would be the prime minister. This resulted in new elections, which Netanyahu won."
+      },
+      {
+        "fact": "If no government is formed, new elections will be held in six months with Netanyahu remaining in office with limited authority.",
+        "source_index": 11,
+        "excerpt": "Finally, a very possible scenario is that neither of the two blocs would be able to form a government, which would mean new elections in six months. Netanyahu and his government would remain in office until the new polls, albeit with more limited authority."
+      },
+      {
+        "fact": "The future government of Israel will continue violent policies in Gaza, the West Bank, and the region.",
+        "source_index": 11,
+        "excerpt": "whoever forms the next government of Israel will continue the incremental genocide in Gaza, the intensified ethnic cleansing in the West Bank and the aggressive policies towards the region."
+      },
+      {
+        "fact": "The Israeli elections on October 27 saw unprecedented galvanisation among Palestinian voters in Israel and liberal Jewish Israelis living abroad.",
+        "source_index": 11,
+        "excerpt": "his relative defeat in the October 27 elections had a lot to do with the unprecedented galvanisation among the Palestinian voters in Israel and the more liberal Jewish Israelis living abroad who came back home in huge numbers to vote."
+      }
+    ],
+    "source_urls": [
+      "https://www.aljazeera.com/opinions/2026/11/9/what-is-next-for-israel?traffic_source=rss"
+    ]
+  },
+  {
+    "story": "Smog worsens air quality in New Delhi during Diwali celebrations",
+    "narration": "Heavy smog has blanketed New Delhi following firecracker celebrations during Diwali, the Hindu festival of lights, which took place across India on Sunday. The Air Quality Index in several parts of the city exceeded 350 on Monday morning, categorised as \"severe\" and posing significant health risks. New Delhi, home to 30 million people, consistently ranks among the world's most polluted capital cities. According to India's Ministry of Environment, Forest and Climate Change, vehicles contribute 23 percent of the city's winter pollution, while biomass burning accounts for 20 percent. The firecrackers lit during Diwali have worsened the seasonal pollution crisis in the Indian capital.",
+    "claims": [
+      {
+        "fact": "Heavy smog has blanketed New Delhi after firecrackers lit up the Indian capital during Diwali celebrations, worsening the seasonal pollution crisis.",
+        "source_index": 35,
+        "excerpt": "Heavy smog has blanketed New Delhi after firecrackers lit up the Indian capital during Diwali celebrations, worsening the seasonal pollution crisis."
+      },
+      {
+        "fact": "Diwali, the Hindu festival of lights, was celebrated across India on Sunday with firecrackers throughout Sunday evening in New Delhi.",
+        "source_index": 35,
+        "excerpt": "Diwali, the Hindu festival of lights, was celebrated across India on Sunday. Despite restrictions on fireworks, New Delhi residents celebrated the festival of lights with firecrackers throughout Sunday evening, releasing smoke and fine particulate matter into the atmosphere."
+      },
+      {
+        "fact": "On Monday morning, the Air Quality Index exceeded 350 in several parts of New Delhi, categorised as “severe” and posing significant health risks.",
+        "source_index": 35,
+        "excerpt": "On Monday morning, the Air Quality Index exceeded 350 in several parts of the capital, categorised as “severe” and posing significant health risks, according to the World Health Organization’s (WHO) recommended exposure thresholds."
+      },
+      {
+        "fact": "New Delhi is home to 30 million people and persistently ranks among the world’s most polluted capital cities.",
+        "source_index": 35,
+        "excerpt": "New Delhi, home to 30 million people, persistently ranks among the world’s most polluted capital cities."
+      },
+      {
+        "fact": "Vehicles account for 23 percent of New Delhi’s winter pollution, while biomass burning contributes 20 percent, according to India’s Ministry of Environment, Forest and Climate Change.",
+        "source_index": 35,
+        "excerpt": "Vehicles account for 23 percent of New Delhi’s winter pollution, while biomass burning, including farm stubble fires, contributes 20 percent, according to India’s Ministry of Environment, Forest and Climate Change."
+      }
+    ],
+    "source_urls": [
+      "https://www.aljazeera.com/news/2026/11/9/smog-blankets-new-delhi-as-diwali-firecrackers-worsen-air-quality?traffic_source=rss"
+    ]
+  },
+  {
+    "story": "Starbucks plans major UK expansion with 7,500 new hires",
+    "narration": "Starbucks has announced plans to recruit 7,500 new baristas across the UK over the next five years. The recruitment drive will concentrate on the Midlands, northern England, Wales, and Scotland. These new hires are intended to staff 500 new coffee shops that Starbucks aims to open nationwide by 2031. Darren King, who runs Starbucks UK, said the company is committed to helping more young people access these roles by making entry-level positions as accessible as possible.",
+    "claims": [
+      {
+        "fact": "Starbucks has set out plans to hire 7,500 new baristas over the next five years.",
+        "source_index": 71,
+        "excerpt": "Starbucks has set out plans to hire 7,500 new baristas over the next five years, in a boost to youth employment as the chain pins hopes for future growth on the north of the country."
+      },
+      {
+        "fact": "The hiring spree would focus on the Midlands, north of England, Wales and Scotland.",
+        "source_index": 71,
+        "excerpt": "The US coffee shop chain, which employs more than 18,000 people in the UK, said the hiring spree would focus on the Midlands, north of England, Wales and Scotland, as it targets growth north of the M25."
+      },
+      {
+        "fact": "The roles are expected to staff 500 new coffee shops which Starbucks hopes to open across the country by 2031.",
+        "source_index": 71,
+        "excerpt": "The roles are expected to staff 500 new coffee shops which Starbucks hopes to open across the country by 2031."
+      },
+      {
+        "fact": "Darren King, who runs Starbucks UK, said: “We’re deeply focused on how we can help more young people into these positions, starting by making entry-level roles as accessible as possible.”",
+        "source_index": 71,
+        "excerpt": "Darren King, who runs Starbucks UK, said: “We’re deeply focused on how we can help more young people into these positions, starting by making entry-level roles as accessible as possible.”"
+      }
+    ],
+    "source_urls": [
+      "https://www.theguardian.com/business/2026/nov/09/starbucks-hire-7500-staff-uk-expansion-plan"
+    ]
+  },
+  {
+    "story": "Marseille wins fifth consecutive Ligue 1 match, climbing to 4th place",
+    "narration": "Marseille secured a 2-1 victory over Lens in the final game of Ligue 1 matchday 10. This win marks Marseille's fifth consecutive victory in the league. As a result, Olympique de Marseille now sit fourth in the Ligue 1 table.",
+    "claims": [
+      {
+        "fact": "Marseille beat Lens (2-1) in the final game of Ligue 1 matchday 10.",
+        "source_index": 24,
+        "excerpt": "Marseille beat Lens (2-1) in the final game of Ligue 1 matchday 10."
+      },
+      {
+        "fact": "Thanks to this result, OM are 4th in the table.",
+        "source_index": 24,
+        "excerpt": "Thanks to this result, OM are 4th in the table."
+      },
+      {
+        "fact": "Marseille win five in a row in Ligue 1.",
+        "source_index": 24,
+        "excerpt": "Marseille defeat RC Lens as they win five in a row in Ligue 1"
+      }
+    ],
+    "source_urls": [
+      "https://www.france24.com/en/tv-shows/sports/20261109-marseille-defeat-rc-lens-as-they-win-five-in-a-row-in-ligue-1"
+    ]
+  },
+  {
+    "story": "Lando Norris wins Sao Paulo Grand Prix; Mercedes clinch constructors title",
+    "narration": "Lando Norris won the Sao Paulo Grand Prix from pole position, finishing 14.602 seconds ahead of Max Verstappen, who impressively climbed from 21st on the grid to second place. This victory marked Norris's 14th career win and 50th podium. The race took place on a wet track, with rain at both the start and end. Mercedes secured their ninth Formula One constructors world championship at this event, needing just three points more than Ferrari to clinch the title. Lewis Hamilton finished ninth in his 400th race at the Sao Paulo Grand Prix.",
+    "claims": [
+      {
+        "fact": "Lando Norris won the Sao Paulo Grand Prix from pole position.",
+        "source_index": 27,
+        "excerpt": "Mercedes have secured their ninth Formula One constructors world championship and completed a title double in a wet Sao Paulo Grand Prix won by McLaren’s Lando Norris from pole position for the second year in a row."
+      },
+      {
+        "fact": "Mercedes secured their ninth Formula One constructors world championship at the Sao Paulo Grand Prix.",
+        "source_index": 27,
+        "excerpt": "Mercedes have secured their ninth Formula One constructors world championship and completed a title double in a wet Sao Paulo Grand Prix won by McLaren’s Lando Norris from pole position for the second year in a row."
+      },
+      {
+        "fact": "The Sao Paulo Grand Prix took place on a wet track with rain at the start and end of the race.",
+        "source_index": 27,
+        "excerpt": "Red Bull’s Max Verstappen finished second, putting on a masterclass from 21st on the grid due to engine penalties in a race that started and ended in the rain."
+      },
+      {
+        "fact": "Max Verstappen finished second in the Sao Paulo Grand Prix after starting 21st on the grid.",
+        "source_index": 27,
+        "excerpt": "Red Bull’s Max Verstappen finished second, putting on a masterclass from 21st on the grid due to engine penalties in a race that started and ended in the rain."
+      },
+      {
+        "fact": "Lando Norris achieved his 14th career win and 50th podium at the Sao Paulo Grand Prix.",
+        "source_index": 27,
+        "excerpt": "“It was a very tough race, very, very tough,” Norris, the 2025 world champion, said of his 14th career win and 50th podium as well as his team’s first victory since August when he won the Dutch Grand Prix."
+      },
+      {
+        "fact": "Mercedes needed to score only three points more than Ferrari to clinch the constructors title at Sao Paulo.",
+        "source_index": 27,
+        "excerpt": "Mercedes had needed to score only three points more than Ferrari to clinch the title, and the Italian team never threatened to prolong the fight on a treacherous track with Charles Leclerc eighth after a post-race penalty demoted him one place and Lewis Hamilton ninth in his 400th race."
+      },
+      {
+        "fact": "Lewis Hamilton finished ninth in his 400th race at the Sao Paulo Grand Prix.",
+        "source_index": 27,
+        "excerpt": "Mercedes had needed to score only three points more than Ferrari to clinch the title, and the Italian team never threatened to prolong the fight on a treacherous track with Charles Leclerc eighth after a post-race penalty demoted him one place and Lewis Hamilton ninth in his 400th race."
+      },
+      {
+        "fact": "Lando Norris finished 14.602 seconds ahead of Max Verstappen at the Sao Paulo Grand Prix.",
+        "source_index": 27,
+        "excerpt": "Norris took the chequered flag, waved by Brazilian football forward Neymar, 14.602 seconds clear of Driver of the Day Verstappen."
+      }
+    ],
+    "source_urls": [
+      "https://www.aljazeera.com/sports/2026/11/9/lando-norris-wins-sao-palo-grand-prix-but-mercedes-seal-constructors-title?traffic_source=rss"
+    ]
+  }
+]
