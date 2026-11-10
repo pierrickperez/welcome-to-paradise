@@ -1,0 +1,76 @@
+{
+  "date": "2026-11-10",
+  "published": "2026-11-10T07:43:18.281422+01:00",
+  "title": "Global Morning Briefing — 10 November 2026",
+  "summary": "The day's international, European, business and technology news in 10 verified stories.",
+  "audio_url": "https://pierrickperez.github.io/welcome-to-paradise/episodes/2026-11-10.mp3",
+  "audio_bytes": 6985273,
+  "transcript_url": "https://pierrickperez.github.io/welcome-to-paradise/transcripts/2026-11-10.txt",
+  "sources": [
+    {
+      "source": "Guardian World",
+      "title": "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’",
+      "url": "https://www.theguardian.com/technology/2026/nov/10/australia-manadatory-reporting-openai-medicare-hack"
+    },
+    {
+      "source": "Deutsche Welle",
+      "title": "Australia to introduce mandatory AI safeguards",
+      "url": "https://www.dw.com/en/australia-to-introduce-mandatory-ai-safeguards/a-79906006?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+      "source": "BBC World",
+      "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "CNBC",
+      "title": "Nvidia’s Trump ties draw scrutiny after reports Huang was targeted by Chinese intelligence",
+      "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-china-spy-trump-lobbying.html"
+    },
+    {
+      "source": "CNBC",
+      "title": "China’s monthly imports grow at fastest pace in five years as surplus crosses $1 trillion in 2026",
+      "url": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html"
+    },
+    {
+      "source": "CNBC",
+      "title": "PepsiCo to cut about 1,000 jobs as North American business struggles",
+      "url": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html"
+    },
+    {
+      "source": "Franceinfo",
+      "title": "Emmanuel Macron estime qu'il faut \"interdire\" l'IA là où elle comporte un \"risque\" pour les enfants",
+      "url": "https://www.franceinfo.fr/politique/emmanuel-macron/emmanuel-macron-estime-qu-il-faut-interdire-l-ia-la-ou-elle-comporte-un-risque-pour-les-enfants_8275799.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "source": "NPR US",
+      "title": "California voters defeat billionaire tax proposal that divided Democrats",
+      "url": "https://www.npr.org/2026/11/09/g-s1-151625/california-billionaire-tax-referendum"
+    },
+    {
+      "source": "NBC News",
+      "title": "California voters reject new tax on billionaires in a blow to the left",
+      "url": "https://www.nbcnews.com/politics/2026-election/california-reject-billionaire-tax-ballot-measure-prop-40-rcna603382"
+    },
+    {
+      "source": "BBC World",
+      "title": "Polish unity on show in silent march to honour Krakow shooting victims",
+      "url": "https://www.bbc.co.uk/news/articles/cqkg5gm4nr4no?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "Guardian World",
+      "title": "Young people in UK hit by ‘low-gear economy’, warns Bank of England deputy",
+      "url": "https://www.theguardian.com/business/2026/nov/10/young-people-uk-economy-bank-of-england-clare-lombardelli"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Moscow summit tests Russia’s waning grip on former Soviet allies",
+      "url": "https://www.aljazeera.com/news/2026/11/10/moscow-summit-tests-russias-waning-grip-on-former-soviet-allies?traffic_source=rss"
+    },
+    {
+      "source": "BBC Business",
+      "title": "Holiday hunger bill to face final Stormont hurdle",
+      "url": "https://www.bbc.co.uk/news/articles/cmewewgvrwpqo?at_medium=RSS&at_campaign=rss"
+    }
+  ]
+}
