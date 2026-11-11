@@ -1,0 +1,391 @@
+[
+  {
+    "story": "Ukraine-Russia peace talks mediated by US in Abu Dhabi with reported de-escalation measures",
+    "narration": "Peace talks between Ukraine and Russia, mediated by the United States, began in Abu Dhabi at the Emirates Palace Mandarin Oriental hotel on November 10, 2026. These discussions mark the first meeting between the two sides since February 2026, following a pause while Washington concentrated on the conflict in Iran. Ukrainian President Volodymyr Zelensky expressed satisfaction with the change in approach by Washington during the talks. On November 11, the focus was on de-escalation measures concerning energy and the Black Sea. President Zelensky emphasised the necessity of security guarantees for Ukraine throughout the negotiations. The United States aims to broaden the negotiation format to include European representatives, with Zelensky stating that Europe should designate its representative during November 2026.",
+    "claims": [
+      {
+        "fact": "The Ukraine-Russia peace talks mediated by the US took place in Abu Dhabi, United Arab Emirates, starting on November 10, 2026.",
+        "source_index": 24,
+        "excerpt": "Les discussions entre l'Ukraine et la Russie, entamées mardi sous médiation américaine à Abou Dhabi, aux Emirats Arabes Unis, doivent se poursuivre mercredi."
+      },
+      {
+        "fact": "Ukrainian President Volodymyr Zelensky expressed satisfaction with the change in approach by Washington in the talks.",
+        "source_index": 24,
+        "excerpt": "Le président ukrainien Volodymyr Zelensky s'est dit \"satisfait\", mardi 10 novembre, du changement d'approche de Washington dans les pourparlers avec Moscou."
+      },
+      {
+        "fact": "The talks on November 11, 2026, were to focus on \"des mesures de désescalade\" (de-escalation measures) related to energy and the Black Sea.",
+        "source_index": 24,
+        "excerpt": "D'après le président ukrainien, \"des mesures de désescalade\" sont au menu des discussions de mercredi, notamment sur les questions liées à l'énergie et à la mer Noire."
+      },
+      {
+        "fact": "The negotiations were the first meeting between the belligerents since February 2026, after a pause while Washington focused on the war in Iran.",
+        "source_index": 24,
+        "excerpt": "Il s'agit de la première rencontre depuis février entre les belligérants, les négociations ayant atteint un point mort pendant que Washington se concentrait sur la guerre en Iran."
+      },
+      {
+        "fact": "Ukrainian President Zelensky insisted on the necessity of security guarantees for Ukraine during the talks.",
+        "source_index": 24,
+        "excerpt": "Selon le président ukrainien, les discussions ont abordé la question clé des territoires lors du premier round. Il a toutefois insisté sur la nécessité de garanties de sécurité pour son pays."
+      },
+      {
+        "fact": "The US aims to eventually expand the negotiation format to include European representatives, with Zelensky stating Europeans should designate a representative in November 2026.",
+        "source_index": 24,
+        "excerpt": "Le secrétaire d'Etat américain Marco Rubio a affirmé mardi que l'objectif des États-Unis était que ce format soit élargi, \"à un moment donné\", aux Européens. Sur ce point, Volodymyr Zelensky a dit que les Européens devaient désigner en novembre un représentant dans les négociations."
+      },
+      {
+        "fact": "The peace talks were held at the Emirates Palace Mandarin Oriental hotel in Abu Dhabi.",
+        "source_index": 24,
+        "excerpt": "Aujourd'hui encore, les caméras seront braquées sur l'hôtel cinq étoiles Emirates Palace Mandarin Orient d'Abou Dhabi. C'est là-bas, dans la capitale des Emirats arabes unis, que vont se poursuivre à partir de 9 heures les négociations pour la paix entre Kiev et Moscou sous médiation américaine."
+      },
+      {
+        "fact": "Ukrainian President Zelensky said Europe should choose its representative in the Ukraine-Russia peace talks during November 2026.",
+        "source_index": 84,
+        "excerpt": "Ukrainian President Volodymyr Zelensky said Europe should this month choose its representative in Ukraine-Russia peace talks."
+      }
+    ],
+    "source_urls": [
+      "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-negociations-ukraine-russie-suite-et-fin-des-pourparlers-mercredi-apres-des-changements-salues-par-volodymyr-zelensky_8277323.html#xtor=RSS-3-[lestitres]",
+      "https://www.france24.com/en/europe/20261111-live-ukraine-russia-hold-second-day-of-us-mediated-talks-in-abu-dhabi"
+    ]
+  },
+  {
+    "story": "US House blocks impeachment effort against Defense Secretary Pete Hegseth amid controversies",
+    "narration": "The House of Representatives effectively ended an effort to impeach Defense Secretary Pete Hegseth with a procedural vote on Tuesday evening. By a margin of 211 to 204, the House approved a measure to refer the impeachment resolution to a committee, effectively halting the effort for now. Republican congressman Thomas Massie of Kentucky initiated the impeachment effort and was the only Republican to vote against moving the resolution to committee. President Donald Trump praised the outcome, calling the impeachment effort a failure and describing Hegseth as a \"Great American Patriot.\" Hegseth condemned the impeachment attempt as a \"farce\" and \"sabotage,\" warning it endangered national security. Democrats are set to take control of Congress in January, which may influence future proceedings.",
+    "claims": [
+      {
+        "fact": "The House of Representatives effectively torpedoed an effort to impeach Defense Secretary Pete Hegseth with a procedural vote on Tuesday evening.",
+        "source_index": 55,
+        "excerpt": "The House of Representatives effectively torpedoed an effort to impeach Defense Secretary Pete Hegseth with a procedural vote on Tuesday evening."
+      },
+      {
+        "fact": "The House, by a 211-204 margin, approved a measure that will refer the impeachment resolution to a committee.",
+        "source_index": 55,
+        "excerpt": "The House, by a 211-204 margin, approved a measure that will refer the impeachment resolution to a committee."
+      },
+      {
+        "fact": "The procedure to impeach Pete Hegseth was killed in the House on Tuesday 10 November by conservative parliamentarians.",
+        "source_index": 16,
+        "excerpt": "Une victoire pour les républicains aux Etats-Unis. La procédure de destitution contre le ministre américain de la Défense, Pete Hegseth, a été tuée dans l'œuf mardi 10 novembre par les parlementaires conservateurs."
+      },
+      {
+        "fact": "Republican congressman Thomas Massie of Kentucky initiated the impeachment effort and was the only Republican to vote against moving the resolution to committee.",
+        "source_index": 67,
+        "excerpt": "The bid to find the cabinet secretary guilty of misconduct and ultimately remove him from office was seen as a long shot as it could have required a number of other Republicans to defy President Donald Trump. Massie was the only Republican to vote against moving the resolution to the Republican-led House Judiciary Committee on Tuesday."
+      },
+      {
+        "fact": "President Donald Trump celebrated the vote, calling the impeachment effort a failure and praising Hegseth as a 'Great American Patriot'.",
+        "source_index": 67,
+        "excerpt": "President Trump celebrated the vote in a post on Truth Social, saying the effort \"has miserably FAILED\". \"Again, Victories in Venezuela and Iran, the Best Recruitment Numbers in the History of the Military (Long waiting lists to get in!), and Spirit like rarely seen before, led to the EXONERATION of a Great American Patriot,\" Trump said, referring to Hegseth."
+      },
+      {
+        "fact": "The impeachment articles accused Hegseth of waging war in Iran for more than 90 days without congressional approval and overseeing extrajudicial killings in US campaigns against drug-smuggling boats.",
+        "source_index": 67,
+        "excerpt": "In the eight articles of impeachment formally introduced in the House on Monday, Massie said Hegseth was \"breaking the law and must be held accountable\" for fighting a war in Iran for more than 90 days without lawmakers' approval. The impeachment articles also accused Hegseth of overseeing \"extrajudicial killings\" in the US campaign against boats alleged to be carrying drugs in the Pacific Ocean and Caribbean Sea."
+      },
+      {
+        "fact": "The vote to refer the impeachment resolution to committee effectively kills the effort for now, as Democrats will take control of Congress in January.",
+        "source_index": 67,
+        "excerpt": "The move to send the measure to the panel effectively kills the effort, as there is only a short period of time left in this Congress before Democrats take control in January."
+      },
+      {
+        "fact": "Pete Hegseth called the impeachment effort a 'farce' and 'sabotage' and said it endangered national security.",
+        "source_index": 67,
+        "excerpt": "At a news conference on Tuesday, Hegseth called efforts to impeach him a political stunt by a Trump administration opponent who was \"disgruntled and defeated\". Hegseth also argued Massie's resolution endangered national security, because it communicated to US adversaries \"that the United States will actually punish its own warriors and its own civilian leadership for successfully executing lawful military operations\". \"This is not patriotism. This is sabotage,\" he said."
+      }
+    ],
+    "source_urls": [
+      "https://www.franceinfo.fr/monde/usa/la-procedure-de-destitution-contre-peter-hegseth-torpillee-par-les-republicains-au-congres-americain_8277347.html#xtor=RSS-3-[lestitres]",
+      "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
+      "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss"
+    ]
+  },
+  {
+    "story": "Germany falls behind in climate protection rankings despite global renewable energy progress",
+    "narration": "Germany has fallen to 25th place in the Climate Change Performance Index, marking its third consecutive year of decline and its worst ranking since 2019. The country received a \"medium\" overall rating, being outperformed by Brazil, Colombia, and Romania. Germany's poor showing in national climate policy is linked to current strategies pursued by Economy Minister Katherina Reiche. A European Commission report from November 9 highlighted that Germany is among nine EU nations projected to miss their 2030 emissions reduction targets. Meanwhile, solar energy accounted for 75% of global electricity demand growth last year, according to the energy think tank Ember. The top three positions on the index remain unfilled, as no country has yet met global climate goals. The G20 countries, responsible for about 80% of global CO2 emissions, continue to perform poorly in climate action rankings.",
+    "claims": [
+      {
+        "fact": "Germany has slipped down the climate action ranking for the third consecutive year, with the former green leader now being outperformed by Brazil, Columbia and Romania.",
+        "source_index": 1,
+        "excerpt": "Germany has slipped down the climate action ranking for the third consecutive year, with the former green leader now being outperformed by Brazil, Columbia and Romania."
+      },
+      {
+        "fact": "In its worst performance since 2019, the country fell to place 25 and received a \"medium\" rating overall on the yearly Climate Change Performance Index (CCPI).",
+        "source_index": 1,
+        "excerpt": "In its worst performance since 2019, the country fell to place 25 and received a \"medium\" rating overall on the yearly Climate Change Performance Index (CCPI), which assesses efforts to curb global warming in 64 countries plus the European Union."
+      },
+      {
+        "fact": "Germany's worst ever performance in the category of national climate policy is attributed to current policies being pursued by Germany's economy minister Katherina Reiche.",
+        "source_index": 1,
+        "excerpt": "Burck attributed Germany's worst ever performance in the category of national climate policy to current policies being pursued by Germany's economy minister Katherina Reiche."
+      },
+      {
+        "fact": "A European Commission report published on November 9 said Germany was one of nine EU countries set to miss 2030 emissions reductions targets.",
+        "source_index": 1,
+        "excerpt": "A European Commission report published on November 9 on the sidelines of the UN COP31 climate summit in Turkey said Germany was one of nine EU countries set to miss 2030 emissions reductions targets."
+      },
+      {
+        "fact": "Last year 75% of global electricity demand growth was met by solar energy, according to energy think tank Ember's latest global electricity review.",
+        "source_index": 1,
+        "excerpt": "That momentum is apparent in record solar energy growth. Last year 75% of global electricity demand growth was met by the green energy source, according to energy think tank Ember's latest global electricity review."
+      },
+      {
+        "fact": "The top three positions on the CCPI remained vacant again this year, as no country has yet done enough to meet global climate goals.",
+        "source_index": 1,
+        "excerpt": "The top three positions on the CCPI remained vacant again this year, as no country has yet done enough to meet global climate goals aimed at preventing worsening weather extremes and climate damage."
+      },
+      {
+        "fact": "The G20 countries, responsible for around 80% of global CO2 emissions, perform particularly poorly on the climate action ranking.",
+        "source_index": 1,
+        "excerpt": "The other G20 countries — the world's leading industrialized and emerging economies, responsible for around 80% of global CO2 emissions — also perform poorly."
+      }
+    ],
+    "source_urls": [
+      "https://www.dw.com/en/germany-slips-in-climate-protection-rankings-as-other-countries-make-gains/a-79913635?maca=en-rss-en-all-1573-xml-mrss"
+    ]
+  },
+  {
+    "story": "Alibaba announces plan to list T-Head chip unit on Hong Kong Stock Exchange",
+    "narration": "Alibaba has announced that the Hong Kong Stock Exchange will permit the company to spin off its semiconductor subsidiary, T-Head. The company plans to offer shares of T-Head to the public in Hong Kong, pending approval from both the exchange and the China Securities Regulatory Commission. Alibaba had already filed confidentially on September 11 to list T-Head on the Hong Kong Stock Exchange. However, the filing did not specify a date or the proposed size of the listing. This move marks a significant step for Alibaba as it seeks to expand its presence in the semiconductor industry through a public offering in Hong Kong.",
+    "claims": [
+      {
+        "fact": "Alibaba announced late Tuesday that the Hong Kong Stock Exchange will allow the company to spin off its semiconductor subsidiary T-Head.",
+        "source_index": 31,
+        "excerpt": "Chinese tech and e-commerce giant Alibaba announced late Tuesday that the Hong Kong Stock Exchange will allow the company to spin off its semiconductor subsidiary T-Head."
+      },
+      {
+        "fact": "Alibaba said it plans a public offering for shares of T-Head in Hong Kong, subject to approval from the exchange and the China Securities Regulatory Commission.",
+        "source_index": 31,
+        "excerpt": "To do so, Alibaba said it plans a public offering for shares of T-Head in Hong Kong, subject to approval from the exchange and the China Securities Regulatory Commission."
+      },
+      {
+        "fact": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange.",
+        "source_index": 31,
+        "excerpt": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange."
+      },
+      {
+        "fact": "The filing did not disclose a date or proposed size of a listing.",
+        "source_index": 31,
+        "excerpt": "The filing did not disclose a date or proposed size of a listing."
+      }
+    ],
+    "source_urls": [
+      "https://www.cnbc.com/2026/11/11/alibaba-pr.html"
+    ]
+  },
+  {
+    "story": "Investors shift to defensive stocks amid market volatility and US inflation concerns",
+    "narration": "Markets are in a \"state of alert,\" according to analysts monitoring a pivot from riskier tech sector bets into defensive stocks. Wall Street's tech-heavy Nasdaq Composite Index is up by around 8.7% since the start of the year as of Nov. 9 close, but gave up some of its year-to-date gains in October when it shed 5.3% over the course of the month. South Korea's Kospi index, which is heavily exposed to the semiconductor sector, lost 16.2% in October and is down more than 8% month-to-date. The MSCI World Information Technology index lost 7% in October, and has shed a further 4.6% so far this month. MSCI's indexes encompassing the consumer staples, healthcare and utilities sectors have all risen significantly over the last month. AJ Bell's analysis shows healthcare and consumer staples stocks have been the best performers after energy in the second half of 2026 so far. The IT sector has gone from being the best-performing sector in the first half of the year on a 28.4% rise, to the worst performer in the second half after tumbling more than 11%.",
+    "claims": [
+      {
+        "fact": "Markets are in a \"state of alert,\" according to analysts monitoring a pivot from riskier tech sector bets into defensive stocks.",
+        "source_index": 7,
+        "excerpt": "Markets are in a \"state of alert,\" according to analysts monitoring a pivot from riskier tech sector bets into defensive stocks."
+      },
+      {
+        "fact": "Wall Street's tech-heavy Nasdaq Composite Index is up by around 8.7% since the start of the year as of Nov. 9 close, but gave up some of its year-to-date gains in October when it shed 5.3% over the course of the month.",
+        "source_index": 7,
+        "excerpt": "Wall Street's tech-heavy Nasdaq Composite Index is up by around 8.7% since the start of the year as of Nov. 9 close, but gave up some of its year-to-date gains in October when it shed 5.3% over the course of the month."
+      },
+      {
+        "fact": "South Korea's Kospi index, which is heavily exposed to the semiconductor sector, lost 16.2% in October and is down more than 8% month-to-date.",
+        "source_index": 7,
+        "excerpt": "South Korea's Kospi index, which is heavily exposed to the semiconductor sector, lost 16.2% in October and is down more than 8% month-to-date."
+      },
+      {
+        "fact": "The MSCI World Information Technology index lost 7% in October, and has shed a further 4.6% so far this month.",
+        "source_index": 7,
+        "excerpt": "The MSCI World Information Technology index lost 7% in October, and has shed a further 4.6% so far this month."
+      },
+      {
+        "fact": "MSCI's indexes encompassing the consumer staples, healthcare and utilities sectors have all risen significantly over the last month.",
+        "source_index": 7,
+        "excerpt": "MSCI's indexes encompassing the consumer staples, healthcare and utilities sectors — widely seen as more stable assets in the equity market during times of volatility or uncertainty — have all risen significantly over the last month."
+      },
+      {
+        "fact": "AJ Bell's analysis shows healthcare and consumer staples stocks have been the best performers after energy in the second half of 2026 so far.",
+        "source_index": 7,
+        "excerpt": "AJ Bell's analysis of 11 so-called \"super-sectors\" in the S&P Global 1200 shows that, in the second half of 2026 so far, healthcare and consumer staples stocks have been the best performers after energy"
+      },
+      {
+        "fact": "The IT sector has gone from being the best-performing sector in the first half of the year on a 28.4% rise, to the worst performer in the second half after tumbling more than 11%.",
+        "source_index": 7,
+        "excerpt": "The IT sector, the data shows, has gone from being the best-performing sector in the first half of the year on a 28.4% rise, to the worst performer in the second half after tumbling more than 11%."
+      }
+    ],
+    "source_urls": [
+      "https://www.cnbc.com/2026/11/11/tech-selloff-defensive-pivot.html"
+    ]
+  },
+  {
+    "story": "South Korean bus crash injures dozens after collision with multiple vehicles near Seoul",
+    "narration": "A bus collided with 32 vehicles, including passenger cars, a truck, and four other buses in Seongnam, South Korea, on Wednesday morning, injuring 57 people. The fire department of Gyeonggi Province reported that nine of the injured are in serious condition, though none are life-threatening. The crash occurred during rush hour traffic in Seongnam, just south of Seoul. The bus driver, believed to be in his 60s, told investigators that the brakes failed. He tested negative in a breathalyser test and was hospitalised after being freed from the vehicle. Dozens of fire personnel and vehicles responded to the scene, where an emergency medical station was also established.",
+    "claims": [
+      {
+        "fact": "A bus hit dozens of passenger cars, a truck, and four other buses in Seongnam, South Korea on Wednesday morning, leaving many injured.",
+        "source_index": 69,
+        "excerpt": "A bus hit dozens of passenger cars, a truck, and four other buses in Seongnam, South Korea on Wednesday morning, leaving many injured, according to South Korean authorities."
+      },
+      {
+        "fact": "The fire department of Gyeonggi Province said 57 people were injured, with nine seriously hurt after the bus collided with 32 vehicles and then slammed into a median strip.",
+        "source_index": 69,
+        "excerpt": "The fire department of Gyeonggi Province, were Seongnam is located, said 57 people were injured, with nine seriously hurt after the bus collided with 32 vehicles and then slammed into a median strip."
+      },
+      {
+        "fact": "None of the injured were in life-threatening condition.",
+        "source_index": 69,
+        "excerpt": "None of the injured were in life-threatening condition."
+      },
+      {
+        "fact": "The driver told investigators the brakes on his bus had failed, according to a report by the Yonhap.",
+        "source_index": 69,
+        "excerpt": "The driver told investigators the brakes on his bus had failed, according to a report by the Yonhap."
+      },
+      {
+        "fact": "The man, believed to be in his 60s, tested negative in a breathalyzer test.",
+        "source_index": 69,
+        "excerpt": "The man, believed to be in his 60s, tested negative in a breathalyzer test."
+      },
+      {
+        "fact": "The bus driver was also injured and hospitalised after being freed from the vehicle.",
+        "source_index": 69,
+        "excerpt": "The bus driver was also injured and hospitalised after being freed from the vehicle, South Korea's national public broadcaster KBS reported."
+      },
+      {
+        "fact": "The crash occurred during rush hour traffic in the city of Seongnam, just south of Seoul.",
+        "source_index": 69,
+        "excerpt": "The city of Seongnam, with its population of nearly 900,000, is located just south of the capital metropolis of Seoul. The crash occurred during rush hour traffic."
+      },
+      {
+        "fact": "Dozens of fire personnel and vehicles were deployed to the scene of the crash and an emergency medical station was also set up there.",
+        "source_index": 69,
+        "excerpt": "Dozens of fire personnel and vehicles were deployed to the scene of the crash and a emergency medical station was also set up there."
+      }
+    ],
+    "source_urls": [
+      "https://www.dw.com/en/south-korea-bus-hits-32-vehicles-near-seoul-dozens-injured/a-79914074?maca=en-rss-en-all-1573-xml-mrss"
+    ]
+  },
+  {
+    "story": "France’s Corentin Horeau wins Route du Rhum Imoca category; Basile Bourgnon wins Ocean Fifty",
+    "narration": "Corentin Horeau has won the Route du Rhum in the Imoca category, finishing the race after 9 days, 17 hours, 12 minutes and 9 seconds at sea. He crossed the finish line in Guadeloupe at 6:14 AM Paris time. In the Ocean Fifty category, Basile Bourgnon claimed victory, crossing the finish line just two minutes before Horeau at 6:12 AM Paris time. Bourgnon's win marks a significant moment, coming 28 years after his father Laurent's last triumph in the race. The Route du Rhum is a solo transatlantic yacht race, attracting skilled sailors competing across different boat classes.",
+    "claims": [
+      {
+        "fact": "Corentin Horeau won the Route du Rhum in the Imoca category on November 11, 2026.",
+        "source_index": 8,
+        "excerpt": "Le navigateur Corentin Horeau (MACSF) a remporté mercredi 11 novembre la Route du Rhum dans la catégorie Imoca"
+      },
+      {
+        "fact": "Corentin Horeau finished the race after 9 days 17 hours 12 minutes and 9 seconds at sea.",
+        "source_index": 8,
+        "excerpt": "premier des monocoques à achever la prestigieuse transatlantique après 9 jours 17 heures 12 minutes et 9 secondes en mer"
+      },
+      {
+        "fact": "Corentin Horeau crossed the finish line in Guadeloupe at 6:14 AM Paris time.",
+        "source_index": 8,
+        "excerpt": "Le morbihannais de 37 ans, déjà vainqueur de la Solitaire du Figaro 2023, a passé la traversée à 1h14 à Pointe-à-Pitre (soit 6h14 à Paris)"
+      },
+      {
+        "fact": "Basile Bourgnon won the Ocean Fifty category in the Route du Rhum.",
+        "source_index": 8,
+        "excerpt": "Moins de deux minutes auparavant, le navigateur Basile Bourgnon a laissé éclater sa joie après sa victoire dans la catégorie des Ocean Fifty"
+      },
+      {
+        "fact": "Basile Bourgnon crossed the finish line in Guadeloupe at 6:12 AM Paris time.",
+        "source_index": 8,
+        "excerpt": "Agé de 24 ans, il a franchi la ligne en Guadeloupe à 1h12 (soit à 6h12 à Paris)"
+      },
+      {
+        "fact": "Basile Bourgnon finished two minutes before Corentin Horeau.",
+        "source_index": 8,
+        "excerpt": "Corentin Horeau a franchi la ligne en Guadeloupe à 6h14, heure de Paris, précédé de deux minutes par Basile Bourgnon, qui est arrivé à 6h12"
+      },
+      {
+        "fact": "Basile Bourgnon's victory comes 28 years after his father Laurent's last win in the race.",
+        "source_index": 8,
+        "excerpt": "Cette victoire survient 28 ans après la dernière victoire de son père Laurent, grande figure de la voile"
+      }
+    ],
+    "source_urls": [
+      "https://www.franceinfo.fr/sports/voile/route-du-rhum/les-navigateurs-francais-corentin-horeau-et-basile-bourgnon-remportent-la-route-du-rhum-en-imoca-et-ocean-fifty_8277284.html#xtor=RSS-3-[lestitres]"
+    ]
+  },
+  {
+    "story": "European Commission bans vague influencer terms and strengthens social media advertising transparency",
+    "narration": "The European Commission has announced new rules to regulate influencer activity online. Influencers will be required to clearly declare if their videos are subject to advertising contracts or commercial cooperation. Terms such as \"collab\", \"contenu sponsorisé\", and \"ambassadeur\" will be banned for being too vague. Additionally, influencers will no longer be allowed to sell products to minors online. These measures are part of the Commission's upcoming \"Digital Fairness Act\", set to be unveiled on Wednesday, 11 November 2026, aiming to strengthen consumer protection on digital platforms.",
+    "claims": [
+      {
+        "fact": "The European Commission bans vague influencer terms such as \"collab\", \"contenu sponsorisé\", and \"ambassadeur\".",
+        "source_index": 32,
+        "excerpt": "Pour des questions de transparence, la Commission européenne exigera désormais de tous les influenceurs de faire apparaître cette expression précise. Les termes \"collab\", \"contenu sponsorisé\" ou \"ambassadeur\" sont jugés trop flous."
+      },
+      {
+        "fact": "The European Commission requires influencers to clearly declare if their videos are subject to an advertising contract or commercial cooperation.",
+        "source_index": 32,
+        "excerpt": "Ils auront bientôt l'obligation de déclarer si les vidéos qu'ils postent font l'objet d'un contrat publicitaire ou d'une coopération commerciale."
+      },
+      {
+        "fact": "The European Commission will unveil measures on Wednesday, 11 November 2026, as part of its \"Digital Fairness Act\" to strengthen consumer protection online.",
+        "source_index": 32,
+        "excerpt": "A l'occasion de la présentation de son \"Digital Fairness Act\", visant à renforcer la protection des consommateurs en ligne, la Commission européenne va dévoiler, mercredi 11 novembre, un certain nombre de mesures."
+      },
+      {
+        "fact": "Influencers will no longer be allowed to sell products to minors online under the new European Commission rules.",
+        "source_index": 32,
+        "excerpt": "La Commission européenne souhaite aussi se montrer particulièrement vigilante envers les mineurs. Les influenceurs n'auront plus le droit de leur vendre quoi que ce soit en ligne."
+      },
+      {
+        "fact": "The European Commission's new rules aim to regulate influencer activity by requiring clear declarations of advertising or commercial collaborations in videos.",
+        "source_index": 32,
+        "excerpt": "Ce texte doit notamment encadrer l'activité des influenceurs, en les obligeant à déclarer clairement dans leurs vidéos ce qui relève d'une publicité ou d'une collaboration commerciale avec des marques."
+      }
+    ],
+    "source_urls": [
+      "https://www.franceinfo.fr/internet/reseaux-sociaux/collab-contenu-sponsorise-la-commission-europeenne-interdit-ces-termes-flous-et-renforce-la-transparence-sur-les-reseaux-sociaux_8276885.html#xtor=RSS-3-[lestitres]"
+    ]
+  },
+  {
+    "story": "UK civil service criticized as ‘tame and risk-averse’; plans announced to incentivize top performers",
+    "narration": "Antonia Romeo, the cabinet secretary, has criticised Whitehall as too \"tame, reactive and risk-averse\" and announced a \"completely new approach\" to managing civil servant performance. Speaking in a lecture, she said the new system would \"incentivise and reward brilliant delivery, valuable expertise and sticking it out to get the job done.\" Romeo aims to reduce staff churn, where officials move sideways for pay rises rather than being rewarded for staying in the same role. She is overseeing a review of the civil service organisation and code, due in the spring. After the speech, a government spokesperson said Burnham \"backs the cabinet secretary’s vision for a civil service that is fit for the future.\"",
+    "claims": [
+      {
+        "fact": "Whitehall is too “tame, reactive and risk-averse”, the cabinet secretary has said, as she set out a “completely new approach” to managing the performance of civil servants.",
+        "source_index": 36,
+        "excerpt": "Whitehall is too “tame, reactive and risk-averse”, the cabinet secretary has said, as she set out a “completely new approach” to managing the performance of civil servants."
+      },
+      {
+        "fact": "Antonia Romeo, the UK’s most senior civil servant, gave a lecture saying she would bring radical change to Whitehall as it deals with uncertainty caused by AI and global political tensions.",
+        "source_index": 36,
+        "excerpt": "With Andy Burnham and his deputy, Louise Haigh, in the audience, the UK’s most senior civil servant, Antonia Romeo, gave a lecture saying she would bring radical change to Whitehall as it deals with uncertainty caused by AI and global political tensions."
+      },
+      {
+        "fact": "Romeo said her new approach to managing performance in Whitehall would “incentivise and reward brilliant delivery, valuable expertise and sticking it out to get the job done”.",
+        "source_index": 36,
+        "excerpt": "Romeo said her new approach to managing performance in Whitehall would “incentivise and reward brilliant delivery, valuable expertise and sticking it out to get the job done”."
+      },
+      {
+        "fact": "She said she would also aim to reduce churn, which means some officials move sideways to get pay rises rather than being rewarded for staying in the same job.",
+        "source_index": 36,
+        "excerpt": "She said she would also aim to reduce churn, which means some officials move sideways to get pay rises rather than being rewarded for staying in the same job."
+      },
+      {
+        "fact": "Romeo said some of the criticisms of the civil service must be addressed, including that it was “tame and risk-averse”, “reactive, not strategic” and “siloed, not working across boundaries”.",
+        "source_index": 36,
+        "excerpt": "Romeo said some of the criticisms of the civil service must be addressed, including that it was “tame and risk-averse”, “reactive, not strategic” and “siloed, not working across boundaries”."
+      },
+      {
+        "fact": "The cabinet secretary is overseeing a review of the organisation of the civil service that is due in the spring, alongside an update to its code.",
+        "source_index": 36,
+        "excerpt": "The cabinet secretary is overseeing a review of the organisation of the civil service that is due in the spring, alongside an update to its code."
+      },
+      {
+        "fact": "After the speech, a government spokesperson said Burnham “backs the cabinet secretary’s vision for a civil service that is fit for the future”.",
+        "source_index": 36,
+        "excerpt": "After the speech, a government spokesperson said Burnham “backs the cabinet secretary’s vision for a civil service that is fit for the future”."
+      }
+    ],
+    "source_urls": [
+      "https://www.theguardian.com/politics/2026/nov/11/whitehall-tame-reactive-risk-averse-antonia-romeo-cabinet-secretary"
+    ]
+  }
+]

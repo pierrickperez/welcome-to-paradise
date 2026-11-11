@@ -1,0 +1,71 @@
+{
+  "date": "2026-11-11",
+  "published": "2026-11-11T07:48:03.189689+01:00",
+  "title": "Global Morning Briefing — 11 November 2026",
+  "summary": "The day's international, European, business and technology news in 9 verified stories.",
+  "audio_url": "https://pierrickperez.github.io/welcome-to-paradise/episodes/2026-11-11.mp3",
+  "audio_bytes": 5462126,
+  "transcript_url": "https://pierrickperez.github.io/welcome-to-paradise/transcripts/2026-11-11.txt",
+  "sources": [
+    {
+      "source": "Franceinfo",
+      "title": "Négociations Ukraine-Russie : suite et fin des pourparlers mercredi, après des \"changements\" salués par Volodymyr Zelensky",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-negociations-ukraine-russie-suite-et-fin-des-pourparlers-mercredi-apres-des-changements-salues-par-volodymyr-zelensky_8277323.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "source": "France 24",
+      "title": "Live: Ukraine, Russia hold second day of US-mediated talks in Abu Dhabi",
+      "url": "https://www.france24.com/en/europe/20261111-live-ukraine-russia-hold-second-day-of-us-mediated-talks-in-abu-dhabi"
+    },
+    {
+      "source": "Franceinfo",
+      "title": "La procédure de destitution du ministre de la Défense américain, Pete Hegseth, torpillée par les républicains au Congrès",
+      "url": "https://www.franceinfo.fr/monde/usa/la-procedure-de-destitution-contre-peter-hegseth-torpillee-par-les-republicains-au-congres-americain_8277347.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "source": "CNBC",
+      "title": "Hegseth impeachment effort torpedoed in House",
+      "url": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html"
+    },
+    {
+      "source": "BBC World",
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "Deutsche Welle",
+      "title": "Germany slips in climate protection rankings as other countries make gains",
+      "url": "https://www.dw.com/en/germany-slips-in-climate-protection-rankings-as-other-countries-make-gains/a-79913635?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+      "source": "CNBC",
+      "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
+      "url": "https://www.cnbc.com/2026/11/11/alibaba-pr.html"
+    },
+    {
+      "source": "CNBC",
+      "title": "Investors pivot to defensive stocks as markets enter a ‘state of alert’",
+      "url": "https://www.cnbc.com/2026/11/11/tech-selloff-defensive-pivot.html"
+    },
+    {
+      "source": "Deutsche Welle",
+      "title": "South Korea: Bus hits 32 vehicles near Seoul, dozens injured",
+      "url": "https://www.dw.com/en/south-korea-bus-hits-32-vehicles-near-seoul-dozens-injured/a-79914074?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+      "source": "Franceinfo",
+      "title": "Le navigateur français Corentin Horeau remporte la Route du Rhum dans la catégorie Imoca, Basile Bourgnon triomphe en Ocean Fifty",
+      "url": "https://www.franceinfo.fr/sports/voile/route-du-rhum/les-navigateurs-francais-corentin-horeau-et-basile-bourgnon-remportent-la-route-du-rhum-en-imoca-et-ocean-fifty_8277284.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "source": "Franceinfo",
+      "title": "\"Collab\", \"contenu sponsorisé\"… La Commission européenne interdit ces termes flous et renforce la transparence sur les réseaux sociaux",
+      "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/collab-contenu-sponsorise-la-commission-europeenne-interdit-ces-termes-flous-et-renforce-la-transparence-sur-les-reseaux-sociaux_8276885.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "source": "Guardian World",
+      "title": "Whitehall is too ‘tame, reactive and risk-averse’, says UK’s top civil servant",
+      "url": "https://www.theguardian.com/politics/2026/nov/11/whitehall-tame-reactive-risk-averse-antonia-romeo-cabinet-secretary"
+    }
+  ]
+}
