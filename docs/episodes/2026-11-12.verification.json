@@ -1,0 +1,461 @@
+[
+  {
+    "story": "Historic Democratic win in Mississippi Senate race with Scott Colom elected",
+    "narration": "Scott Colom has been elected as the first Black senator in Mississippi in nearly 150 years, defeating incumbent Republican Cindy Hyde-Smith. Colom secured 49.2% of the vote, narrowly surpassing Hyde-Smith's 48.7%, with a margin of 4,585 votes. This victory marks Colom as the first Black senator ever directly elected by Mississippi voters and the first to serve since 1881. He is also the first Democratic senator from Mississippi since 1989. The Associated Press projected Colom's win eight days after the election, with 99% of ballots counted. Colom claimed victory in a speech at Tougaloo College in Jackson, Mississippi. His election contributes to the Democrats holding at least 55 of the 100 Senate seats.",
+    "claims": [
+      {
+        "fact": "Scott Colom becomes the first Black senator elected in Mississippi in nearly 150 years.",
+        "source_index": 0,
+        "excerpt": "Scott Colom devient ainsi le premier sénateur noir élu dans cet État du Sud en près d'un siècle et demi."
+      },
+      {
+        "fact": "Scott Colom defeated incumbent Republican Cindy Hyde-Smith in the Mississippi Senate race.",
+        "source_index": 0,
+        "excerpt": "Le procureur de district de 43 ans a vaincu la sénatrice républicaine sortante, Cindy Hyde-Smith, à l'issue des élections de mi-mandat"
+      },
+      {
+        "fact": "Scott Colom won with 49.2% of the vote against 48.7% for Cindy Hyde-Smith, a margin of 4,585 votes.",
+        "source_index": 0,
+        "excerpt": "Le démocrate a obtenu 49,2% des voix contre 48,7% pour sa concurrente républicaine, soit seulement 4 585 voix d'écart."
+      },
+      {
+        "fact": "Scott Colom's victory contributes to the Democrats holding at least 55 of the 100 Senate seats.",
+        "source_index": 0,
+        "excerpt": "Son succès va permettre à son camp de bénéficier d'au moins 55 des 100 sièges au Sénat."
+      },
+      {
+        "fact": "Scott Colom claimed victory in a speech at Tougaloo College in Jackson, Mississippi.",
+        "source_index": 79,
+        "excerpt": "Democrat Scott Colom claimed victory in the Mississippi Senate race in remarks to supporters in Jackson, Mississippi."
+      },
+      {
+        "fact": "Scott Colom is the first Black senator ever directly elected by Mississippi voters and the first to serve since 1881.",
+        "source_index": 79,
+        "excerpt": "Colom is the first Black senator ever directly elected by the voters of Mississippi, and the first to serve since 1881."
+      },
+      {
+        "fact": "Scott Colom is the first Democratic senator from Mississippi since 1989.",
+        "source_index": 0,
+        "excerpt": "Il doit devenir le premier sénateur démocrate du Mississippi depuis 1989."
+      },
+      {
+        "fact": "Associated Press projected Scott Colom's victory eight days after the election with 99% of ballots counted.",
+        "source_index": 0,
+        "excerpt": "AP a annoncé la victoire de Scott Colom huit jours après le scrutin, en se fondant sur 99% de bulletins dépouillés."
+      }
+    ],
+    "source_urls": [
+      "https://www.franceinfo.fr/monde/usa/midterms-2018/a-l-issue-des-elections-de-mi-mandat-aux-etats-unis-exploit-des-democrates-dans-le-mississippi-qui-decrochent-un-siege-au-senat-apres-les-elections-de-mi-mandat_8278790.html#xtor=RSS-3-[lestitres]",
+      "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates"
+    ]
+  },
+  {
+    "story": "Israeli airstrike kills at least five in Gaza hospital, causing injuries and damage",
+    "narration": "An Israeli airstrike has hit a building at Nasser Hospital in southern Gaza, resulting in the deaths of at least five Palestinians and injuring over 20 others. The strike caused significant damage to the hospital's intensive care and surgical departments. The Israeli military confirmed the attack, stating it targeted a senior Hamas member and other militants who were allegedly using the hospital as a command centre for military and terrorist activities. The Gaza Civil Defence agency, which is run by Hamas, reported six fatalities and more than 20 injuries from the strike. Mahmoud Basal, a spokesperson for the Hamas-run Civil Defence, also confirmed six people were killed in the incident. The differing death toll figures reflect the ongoing conflict and the challenges in verifying information from the area.",
+    "claims": [
+      {
+        "fact": "An Israeli airstrike hit a building at Nasser Hospital in southern Gaza, killing at least five Palestinians and injuring at least 20 people.",
+        "source_index": 44,
+        "excerpt": "At least five Palestinians have been killed after an Israeli airstrike hit a building at Nasser Hospital in southern Gaza, an official from the Hamas-run Civil Defence agency has told the BBC. Eyewitnesses said that a single missile, fired from a warplane that briefly flew over the area, struck a building housing the hospital's surgical wards and intensive care units. Twenty others were injured, the civil defence spokesman said."
+      },
+      {
+        "fact": "The Israeli military says it struck a senior Hamas member and other militants who were using the hospital as a command center for military and terrorist activities.",
+        "source_index": 44,
+        "excerpt": "The Israeli military says it struck a senior Hamas member and other militants who were using the hospital \"as a command center for military and terrorist activities\"."
+      },
+      {
+        "fact": "The strike caused extensive damage to the intensive care and surgical departments of Nasser Hospital.",
+        "source_index": 44,
+        "excerpt": "Speaking to reporters in the aftermath of the strike, the director of Nasser Medical Complex said the building had been hit in a vertical strike, causing extensive damage to the intensive care and surgical departments for both men and women."
+      },
+      {
+        "fact": "The Hamas-run Civil Defence agency spokesperson Mahmoud Basal reported six people killed in the strike.",
+        "source_index": 44,
+        "excerpt": "Earlier, civil defence spokesperson Mahmoud Basal told news agency AFP that six people had been killed."
+      },
+      {
+        "fact": "The Israeli army confirmed the attack, stating it targeted a high-ranking Hamas terrorist and other militants inside the hospital.",
+        "source_index": 6,
+        "excerpt": "L'esercito israeliano ha confermato l'attacco, dichiarando di aver preso di mira \"un terrorista di alto rango di Hamas e altri terroristi dell'ala militare di Hamas\" che operavano all'interno della struttura ospedaliera."
+      },
+      {
+        "fact": "The Gaza Civil Defence agency, operating under Hamas, reported six deaths and over 20 injuries from the strike at Nasser Hospital.",
+        "source_index": 6,
+        "excerpt": "\"Il bilancio delle vittime dell'attacco israeliano all'interno del complesso medico Nasser, a ovest di Khan Yunis, nel sud di Gaza, è salito a sei\", ha dichiarato il portavoce della protezione civile, Mahmoud Bassal."
+      }
+    ],
+    "source_urls": [
+      "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+      "https://www.ansa.it/sito/notizie/topnews/2026/11/12/protezione-civile-gaza-raid-israeliano-uccide-6-persone-in-un-ospedale_dab8a727-c641-419f-ac0b-75bdabb33998.html"
+    ]
+  },
+  {
+    "story": "US envoys arrive in Russia for Ukraine peace talks with Vladimir Putin",
+    "narration": "US mediators Jared Kushner and Steve Witkoff arrived in Moscow on November 12, 2026, to meet Russian President Vladimir Putin. They were welcomed at Vnukovo Airport by Kirill Dmitriev, the Russian President's special representative. Prior to their arrival in Moscow, the envoys spent two days in the United Arab Emirates engaging in trilateral peace talks in Abu Dhabi, which resulted in an agreement on a prisoner exchange between Russia and Ukraine. Following their meeting with President Putin, Kushner and Witkoff are expected to travel to Ireland to meet Ukrainian President Volodymyr Zelenskyy.",
+    "claims": [
+      {
+        "fact": "US mediators Jared Kushner and Steve Witkoff have arrived in Moscow to meet Russian President Vladimir Putin on November 12, 2026.",
+        "source_index": 25,
+        "excerpt": "US mediators, Jared Kushner, the son-in-law of US President Donald Trump , and special envoy Steve Witkoff have arrived in Moscow, according to Russian news agencies."
+      },
+      {
+        "fact": "At Vnukovo Airport, US President's special envoys Jared Kushner and Steve Witkoff were met by Russian President's special representative Kirill Dmitriev.",
+        "source_index": 25,
+        "excerpt": "\"At Vnukovo [Airport], US President's special envoys Jared Kushner and Steve Witkoff were met by Russian President's special representative Kirill Dmitriev,\" Interfax news agency said."
+      },
+      {
+        "fact": "The US envoys had been in the United Arab Emirates for two days of trilateral peace talks before arriving in Moscow.",
+        "source_index": 25,
+        "excerpt": "The pair had been in the United Arab Emirates over the past two days for trilateral peace talks."
+      },
+      {
+        "fact": "After meeting with Putin, Kushner and Witkoff are expected to travel to Ireland to meet Ukrainian President Volodymyr Zelenskyy.",
+        "source_index": 25,
+        "excerpt": "After meeting with Russian President Vladimir Putin, Kushner and Witkoff are expected to make their way to Ireland, where they are due to meet Ukrainian President Volodymyr Zelenskyy."
+      },
+      {
+        "fact": "The two days of talks in Abu Dhabi resulted in an agreement on a prisoner exchange between Russia and Ukraine.",
+        "source_index": 25,
+        "excerpt": "One of the positives is we agreed that we're going to have the biggest humanitarian release of prisoners, which we're going to finalize the numbers tomorrow,\" Kushner said after the Abu Dhabi talks ended."
+      },
+      {
+        "fact": "The US envoys arrived in Moscow on November 12, 2026, under rainy conditions and were welcomed by Kirill Dmitriev, who posted a video on X.",
+        "source_index": 32,
+        "excerpt": "C'est sous une pluie battante que les émissaires américains Steve Witkoff et Jared Kushner ont tout à l'heure posé le pied sur le tarmac de l'aéroport international Vnoukovo à Moscou. Ils ont été accueilli par l'envoyé présidentiel russe Kirill Dmitriev, qui a posté une vidéo sur X."
+      },
+      {
+        "fact": "The US envoys will meet Vladimir Putin in Moscow and then travel to Dublin to meet Ukrainian President Volodymyr Zelenskyy on November 12, 2026.",
+        "source_index": 32,
+        "excerpt": "Après deux journées de pourparlers à Abou Dhabi, les émissaires américains Jared Kushner et Steve Witkoff doivent rencontrer aujourd'hui Vladimir Poutine à Moscou, puis Volodymyr Zelensky à Dublin."
+      }
+    ],
+    "source_urls": [
+      "https://www.dw.com/en/ukraine-peace-talks-us-envoys-arrive-in-russia-to-meet-with-putin/live-79925580?maca=en-rss-en-all-1573-xml-mrss",
+      "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-les-emissaires-americains-sont-arrives-en-russie-pour-une-rencontre-avec-vladimir-poutine_8278706.html#xtor=RSS-3-[lestitres]"
+    ]
+  },
+  {
+    "story": "Partial building collapse in New York City kills at least two and injures many",
+    "narration": "At least two people have died and seventeen others were injured, including seven children, in the partial collapse of a three-storey building in Brooklyn, New York City. The incident occurred around 4pm local time on Wednesday near a construction excavation site. Four of the injured children are reported to be seriously hurt. Firefighters and emergency responders are conducting a challenging search-and-rescue operation amid dangerous debris and unstable cavities beneath the surface. The building, constructed in 1930 according to city records, partially gave way, complicating rescue efforts. Authorities continue to work at the scene to locate and assist any remaining victims.",
+    "claims": [
+      {
+        "fact": "At least two people died in the partial collapse of a three-storey building in New York City on November 11, 2026.",
+        "source_index": 16,
+        "excerpt": "L'effondrement d'un immeuble de trois étages a fait au moins deux morts et 17 blessés mercredi 11 novembre à New York près d'un chantier, ont annoncé les autorités de la ville."
+      },
+      {
+        "fact": "Seventeen people were injured in the collapse, including seven children, four of whom were seriously injured.",
+        "source_index": 16,
+        "excerpt": "Dix-sept autres personnes parmi lesquelles sept enfants ont été blessées, quatre d'entre eux grièvement."
+      },
+      {
+        "fact": "The collapse occurred near a construction excavation site in Brooklyn, New York City.",
+        "source_index": 67,
+        "excerpt": "At least two people have died and more than 17 others are injured after a building in New York City collapsed into an open construction site, officials have said."
+      },
+      {
+        "fact": "The collapse happened around 16:00 local time (21:00 GMT) on Wednesday, November 11, 2026.",
+        "source_index": 67,
+        "excerpt": "Authorities are yet to determine what caused the sudden collapse at about 16:00 local time (21:00 GMT) on Wednesday."
+      },
+      {
+        "fact": "Firefighters and emergency responders have been conducting a dangerous and ongoing search-and-rescue operation at the site.",
+        "source_index": 67,
+        "excerpt": "The rescue mission has been described as \"extremely dangerous\" by New York City Fire Department (FDNY) Commissioner Lillian Bonsignore."
+      },
+      {
+        "fact": "The building that collapsed was built in 1930, according to city records.",
+        "source_index": 67,
+        "excerpt": "The Brooklyn building was built in 1930, city records show, according to the BBC's US partner CBS News."
+      },
+      {
+        "fact": "The site presents dangerous debris and cavities under the surface, complicating rescue efforts.",
+        "source_index": 16,
+        "excerpt": "D'après le maire de New York, Zohran Mamdani, le site présente \"des décombres difficiles à parcourir et des cavités dangereuses sous la surface\"."
+      }
+    ],
+    "source_urls": [
+      "https://www.franceinfo.fr/monde/usa/un-immeuble-s-effondre-a-new-york-au-moins-deux-morts-et-17-blesses-selon-un-bilan-provisoire_8278736.html#xtor=RSS-3-[lestitres]",
+      "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss"
+    ]
+  },
+  {
+    "story": "Gas bills to rise about 5% amid ongoing Middle East turmoil",
+    "narration": "Gas customers in Jersey will face a rise in their bills of about 5% from 1 December 2026, Island Energy has announced. The increase will affect both households and businesses. The company said the rise reflects higher wholesale gas and liquefied petroleum gas costs, caused by disruption to exports and shipping routes in the Middle East following the conflict with Iran. Island Energy's chief executive, Graeme Millar, acknowledged that any price increase is unwelcome, especially during winter. He added that securing fuel at lower prices in advance had limited the impact of wholesale cost increases but could not fully protect customers from sustained rises. Island Energy also encouraged customers concerned about paying their gas bills to contact its customer team to discuss available support.",
+    "claims": [
+      {
+        "fact": "Gas customers in Jersey will see their bills increase by about 5% from 1 December 2026.",
+        "source_index": 36,
+        "excerpt": "Gas customers in Jersey will see their bills increase by about 5% from 1 December after Island Energy announced a rise in tariffs for households and businesses."
+      },
+      {
+        "fact": "Island Energy announced a rise in tariffs for households and businesses from 1 December 2026.",
+        "source_index": 36,
+        "excerpt": "The company said its mains gas, mini bulk tank and cylinder tariffs would increase by 1p per kilowatt hour (kWh) for all domestic and commercial customers from 1 December 2026."
+      },
+      {
+        "fact": "The increase reflected higher wholesale gas and liquefied petroleum gas costs amid disruption to exports and shipping routes in the Middle East after the conflict with Iran.",
+        "source_index": 36,
+        "excerpt": "It said the increase reflected higher wholesale gas and liquefied petroleum gas costs amid disruption to exports and shipping routes in the Middle East after the conflict with Iran."
+      },
+      {
+        "fact": "Chief executive Graeme Millar acknowledged that any price increase is unwelcome, particularly during winter.",
+        "source_index": 36,
+        "excerpt": "Chief executive Graeme Millar said: \"We recognise that any price increase is unwelcome, particularly during winter.\""
+      },
+      {
+        "fact": "Securing fuel at lower prices in advance had limited the impact of wholesale cost increases on customers, but could not fully protect them from sustained increases.",
+        "source_index": 36,
+        "excerpt": "Securing fuel at lower prices in advance had limited the impact of wholesale cost increases on customers, Millar said. However, the energy boss added: \"It cannot fully protect customers from sustained increases in the cost of fuel and bringing it to Jersey.\""
+      },
+      {
+        "fact": "Island Energy said customers concerned about paying their gas bills could contact its customer team to discuss what support might be available.",
+        "source_index": 36,
+        "excerpt": "Island Energy said customers concerned about paying their gas bills could contact its customer team to discuss what support might be available."
+      }
+    ],
+    "source_urls": [
+      "https://www.bbc.co.uk/news/articles/ckregdvr2y3go?at_medium=RSS&at_campaign=rss"
+    ]
+  },
+  {
+    "story": "India approves $340 million 'Yuge Yugeen Bharat Museum' in Delhi with world's largest display area",
+    "narration": "India's cabinet has approved plans to develop the Yuge Yugeen Bharat Museum, which will showcase the journey of India's civilisation. The museum will cover nearly 178,509 square metres and is expected to welcome around 10 million visitors annually. The first gallery, themed around adornment, is set to open to the public next year, with additional galleries to follow gradually. The government has identified approximately 1.8 million objects for potential display, sourced from national and state museums, as well as archaeological and private collections.",
+    "claims": [
+      {
+        "fact": "India's cabinet has passed plans to develop the 'Yuge Yugeen Bharat Museum' showcasing India's civilization journey",
+        "source_index": 17,
+        "excerpt": "India's cabinet has passed plans to develop the 'Yuge Yugeen Bharat Museum' showcasing India's civilization journey"
+      },
+      {
+        "fact": "The first gallery on the theme of \"adornment\" will open its doors to the public next year, with more galleries gradually opening after that",
+        "source_index": 17,
+        "excerpt": "the first gallery on the theme of \"adornment\" will open its doors to the public next year, with more galleries gradually opening after that."
+      },
+      {
+        "fact": "The museum will encompass an area of nearly 178,509 square meters with the ability to welcome some 10 million visitors a year",
+        "source_index": 17,
+        "excerpt": "the museum will encompass an area of nearly 178,509 square meters with the ability to welcome some 10 million visitors a year."
+      },
+      {
+        "fact": "The government has identified some 1.8 million objects for possible display from national and state museums, alongside archaeological and private collections",
+        "source_index": 17,
+        "excerpt": "the government having identified some 1.8 million objects for possible display from national and state museums, alongside archaeological and private collections."
+      }
+    ],
+    "source_urls": [
+      "https://www.dw.com/en/india-news-modi-government-approves-340-million-museum-in-delhi/live-79925477?maca=en-rss-en-all-1573-xml-mrss"
+    ]
+  },
+  {
+    "story": "Scientists map one of the world's last wild ecosystems to understand biodiversity loss",
+    "narration": "Scientists are mapping two remote coral atolls in the Pacific Ocean to support local and global conservation efforts. Bikar and Bokak, which became the Marshall Islands' first national marine sanctuaries in 2025, are being studied to establish a comprehensive ecological baseline across the 48,000-square-kilometre site, from sky to land and sea. The atolls lie around 116 and 385 kilometres from the nearest inhabited atoll. Researchers found some of the most intact ecosystems remaining in the region, with 15 breeding or likely breeding seabird species, over 260 reef fish species, and open-water predators such as sharks, jacks, and wahoo. Nesting green sea turtles were also observed at Bikar. The project aims to understand what has been lost elsewhere and to track future climate-driven changes.",
+    "claims": [
+      {
+        "fact": "Scientists are mapping one of the world’s last wild ecosystems to help us ‘understand what we have lost elsewhere’.",
+        "source_index": 41,
+        "excerpt": "Scientists are mapping one of the world’s last wild ecosystems to help us ‘understand what we have lost elsewhere’."
+      },
+      {
+        "fact": "Two remote coral atolls in the Pacific Ocean are being studied to support local and global conservation efforts.",
+        "source_index": 41,
+        "excerpt": "Two remote coral atolls in the Pacific Ocean are being studied to support local and global conservation efforts."
+      },
+      {
+        "fact": "Bikar and Bokak became the Marshall Islands’ first national marine sanctuaries in 2025.",
+        "source_index": 41,
+        "excerpt": "Bikar and Bokak became the Marshall Islands’ first national marine sanctuaries in 2025."
+      },
+      {
+        "fact": "Scientists have been working to establish a comprehensive ecological baseline for the 48,000-square-kilometre site, from sky to land and sea.",
+        "source_index": 41,
+        "excerpt": "Since then, scientists have been working to establish a comprehensive ecological baseline for the 48,000-square-kilometre site, from sky to land and sea."
+      },
+      {
+        "fact": "The atolls lie around 116 and 385 kilometres from the nearest inhabited atoll, respectively.",
+        "source_index": 41,
+        "excerpt": "their findings matter far beyond the remote atolls, which lie around 116 and 385 kilometres from the nearest inhabited atoll, respectively."
+      },
+      {
+        "fact": "Scientists found “some of the most intact ecosystems remaining in the region” – and perhaps the world.",
+        "source_index": 41,
+        "excerpt": "What they found were “some of the most intact ecosystems remaining in the region” – and perhaps the world."
+      },
+      {
+        "fact": "Across both atolls, they found 15 breeding or likely breeding seabird species and more than 260 kinds of reef fish, as well as open-water predators including sharks, jacks and wahoo.",
+        "source_index": 41,
+        "excerpt": "Across both atolls, they found 15 breeding or likely breeding seabird species and more than 260 kinds of reef fish, as well as open-water predators including sharks, jacks and wahoo."
+      },
+      {
+        "fact": "Nesting green sea turtles were also observed at Bikar.",
+        "source_index": 41,
+        "excerpt": "Nesting green sea turtles were also observed at Bikar."
+      },
+      {
+        "fact": "The project highlights the importance of assessing ecosystems in their entirety to conserve their integrity and track future climate-driven change.",
+        "source_index": 41,
+        "excerpt": "The project also highlights the importance of assessing ecosystems in their entirety in order to conserve their integrity and track future climate-driven change, the researchers say"
+      }
+    ],
+    "source_urls": [
+      "https://www.euronews.com/2026/11/12/treasures-for-the-entire-planet-scientists-map-life-in-one-of-the-worlds-last-wild-ecosyst"
+    ]
+  },
+  {
+    "story": "SS United States ocean liner sunk off Florida coast to become world's largest artificial reef",
+    "narration": "The SS United States has been sunk off the coast of Okaloosa County, Florida, to become the world's largest artificial reef. The ship was deliberately sunk on Wednesday, November 12, 2026, after a sinking process lasting about five hours. Rather than using explosives, plugs in the hull were removed to allow water to fill the vessel naturally. Okaloosa County purchased the SS United States in 2024 for $1 million with the intention of converting it into an artificial reef. The ship now rests approximately 20 nautical miles from the beaches of Destin, Florida. It is expected to become a popular diving destination and provide habitat for marine life such as red snapper, grouper, amberjack, mackerel, and tuna. The SS United States was launched in 1951 and was once the fastest ocean liner in the world, holding a transatlantic speed record.",
+    "claims": [
+      {
+        "fact": "The SS United States was sunk off the coast of Okaloosa County, Florida, to become the world's largest artificial reef.",
+        "source_index": 42,
+        "excerpt": "After decades spent rusting, and facing the scrap heap, its minders settled on a deal to turn the vessel into what's expected to be the world's largest artificial reef off the coast of Okaloosa County, Fla."
+      },
+      {
+        "fact": "The ship was sunk on Wednesday, November 12, 2026, after a sinking process lasting about five hours.",
+        "source_index": 42,
+        "excerpt": "On Wednesday, it sank in five hours."
+      },
+      {
+        "fact": "The ship was sunk without explosives by removing plugs in the hull to allow water to fill it naturally.",
+        "source_index": 42,
+        "excerpt": "Crews removed plugs in the ship's hull, allowing it to fill with water without the use of explosives."
+      },
+      {
+        "fact": "Okaloosa County purchased the SS United States in 2024 for $1 million to convert it into an artificial reef.",
+        "source_index": 83,
+        "excerpt": "In 2024, Florida’s Okaloosa county purchased the ship for $1m, with plans to transform it into the world’s largest artificial reef."
+      },
+      {
+        "fact": "The ship was sunk about 20 nautical miles from the beaches of Destin, Florida.",
+        "source_index": 42,
+        "excerpt": "and the ship itself was placed just over 20 nautical miles from the city of Destin's beaches."
+      },
+      {
+        "fact": "The SS United States will become a popular diving destination and habitat for marine life including red snapper, grouper, amberjack, mackerel, and tuna.",
+        "source_index": 83,
+        "excerpt": "Officials expect the structure to provide a new habitat for a variety of marine life, including red snapper, grouper, amberjack, mackerel and tuna."
+      },
+      {
+        "fact": "The SS United States was launched in 1951/1952 and was once the fastest ocean liner in the world, setting a transatlantic speed record.",
+        "source_index": 83,
+        "excerpt": "The nearly 1,000ft American-made vessel, once the fastest ocean liner in the world, was launched in 1952 and made history by setting a transatlantic speed record during its maiden voyage."
+      }
+    ],
+    "source_urls": [
+      "https://www.npr.org/2026/11/11/nx-s1-6030853/ss-united-states-artificial-reef-sinking",
+      "https://www.theguardian.com/us-news/2026/nov/11/ss-united-states-sinks-florida-reef"
+    ]
+  },
+  {
+    "story": "Alternative investments surpass traditional assets in portfolios of world's super-rich",
+    "narration": "Alternative investments now make up 60% of single-family office portfolios, surpassing traditional assets for the first time, according to BNY Wealth. Traditional assets accounted for 41% of allocations, the report found. JPMorgan Asset Management's private wealth alternative assets in Asia-Pacific surged 40% over the past year, said Dan Watkins, the firm's regional chief executive officer. Net inflows into open-ended infrastructure funds rose 30% year on year through the first quarter of 2026, according to PitchBook data cited by UBS. This shift reflects investor concerns over concentrated equity markets, geopolitical uncertainty, and doubts about stocks and bonds' protective roles. However, a Citi survey showed public equities recorded the strongest net increase in allocations, indicating wealthy investors are adding alternatives rather than abandoning traditional markets.",
+    "claims": [
+      {
+        "fact": "Alternative investments now account for 60% of single-family office portfolios, surpassing traditional assets for the first time, according to BNY Wealth.",
+        "source_index": 15,
+        "excerpt": "Alternative investments now account for 60% of single-family office portfolios, surpassing traditional assets for the first time, according to BNY Wealth."
+      },
+      {
+        "fact": "Traditional assets accounted for 41% of allocations, the report found.",
+        "source_index": 15,
+        "excerpt": "Traditional assets accounted for 41% of allocations, the report found."
+      },
+      {
+        "fact": "JPMorgan Asset Management's private wealth alternative assets in Asia-Pacific surged 40% over the past 12 months, according to Dan Watkins, the firm's regional chief executive officer.",
+        "source_index": 15,
+        "excerpt": "JPMorgan Asset Management's private wealth alternative assets in Asia-Pacific surged 40% over the past 12 months, according to Dan Watkins, the firm's regional chief executive officer"
+      },
+      {
+        "fact": "Net inflows into open-ended infrastructure funds rose 30% year on year in the 12 months through the first quarter of 2026, according to PitchBook data cited by UBS.",
+        "source_index": 15,
+        "excerpt": "Net inflows into open-ended infrastructure funds rose 30% year on year in the 12 months through the first quarter of 2026, according to PitchBook data cited by UBS."
+      },
+      {
+        "fact": "The shift comes as investors grapple with increasingly concentrated equity markets, geopolitical uncertainty and concerns that stocks and bonds may not provide the same protection against market downturns as they once did.",
+        "source_index": 15,
+        "excerpt": "The shift comes as investors grapple with increasingly concentrated equity markets, geopolitical uncertainty and concerns that stocks and bonds may not provide the same protection against market downturns as they once did, experts said."
+      },
+      {
+        "fact": "The Citi survey, however, also showed public equities recorded the strongest net increase in allocations, suggesting wealthy investors are adding alternatives rather than abandoning traditional markets.",
+        "source_index": 15,
+        "excerpt": "The Citi survey, however, also showed public equities recorded the strongest net increase in allocations, suggesting wealthy investors are adding alternatives rather than abandoning traditional markets."
+      }
+    ],
+    "source_urls": [
+      "https://www.cnbc.com/2026/11/12/rich-wealth-alternative-assets-.html"
+    ]
+  },
+  {
+    "story": "European Political Community summit convenes in Dublin amid mixed views on its usefulness",
+    "narration": "The European Political Community summit gathered over 50 leaders in Dublin on November 12, 2026. Despite the large attendance, insiders do not widely regard the summit as useful, with some hoping it will end after French President Emmanuel Macron leaves office. Meanwhile, an informal European Council meeting is also taking place in Dublin on Friday, attracting more enthusiasm from leaders. Key agenda items at the European Council meeting include deciding who should represent Europe in future Ukraine peace talks, as well as discussions on artificial intelligence and cybersecurity.",
+    "claims": [
+      {
+        "fact": "The European Political Community summit convened in Dublin on November 12, 2026, with over 50 leaders attending.",
+        "source_index": 65,
+        "excerpt": "Over 50 leaders are descending on Dublin today for the European Political Community summit — but it’s not a popular one."
+      },
+      {
+        "fact": "The European Political Community summit is not widely regarded as useful by insiders, with some hoping it will end after French President Emmanuel Macron leaves office.",
+        "source_index": 65,
+        "excerpt": "Zoya Sheftalovich and Kathryn Carlson discuss why insiders don’t find the forum particularly useful, and some even hope it will end once French President Emmanuel Macron — who spearheaded the initiative — leaves office."
+      },
+      {
+        "fact": "An informal European Council meeting is also taking place in Dublin on Friday, which leaders are more eager to attend than the European Political Community summit.",
+        "source_index": 65,
+        "excerpt": "One meeting leaders are more eager to attend, however, is Friday’s informal European Council, also taking place in Dublin."
+      },
+      {
+        "fact": "Key agenda items at the European Council meeting include who should represent Europe in future Ukraine peace talks and discussions on AI and cybersecurity.",
+        "source_index": 65,
+        "excerpt": "High on the agenda is the thorny question of who should represent Europe in future Ukraine peace talks, as Ukrainian President Volodymyr Zelenskyy ups the pressure with a November deadline. Plus, AI will be a crucial topic: from Europe’s place in the global AI race to cybersecurity concerns."
+      }
+    ],
+    "source_urls": [
+      "https://www.politico.eu/podcast/brussels-playbook-podcast/the-summit-europe-loves-to-hate/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    ]
+  },
+  {
+    "story": "Bolivia arrests former judge suspected of drug trafficking in US-backed crackdown",
+    "narration": "Bolivian authorities arrested Aldo Quezada, a former senior judge, at his home in Santa Cruz, eastern Bolivia, on suspicion of drug trafficking and criminal association. Quezada resigned last month as chief justice of the Santa Cruz departmental court after being named to a US visa restrictions list for alleged links to drug trafficking. He is among several senior Bolivian judicial officials arrested since September on suspicion of links to drug cartels. These arrests are part of a US-backed crackdown against officials involved in suspected cartel activity in Latin America. Bolivia's conservative President Rodrigo Paz assumed office on November 8, 2025, and has sought closer ties to the US. Paz has signed Bolivia up to US President Donald Trump's \"Shield of the Americas,\" a new US-backed security alliance for the Americas.",
+    "claims": [
+      {
+        "fact": "Bolivian authorities arrested a former senior judge on suspicion of drug trafficking.",
+        "source_index": 35,
+        "excerpt": "Bolivian authorities say they have arrested a former senior judge on suspicion of drug trafficking, as part of a US-backed crackdown against officials involved in suspected cartel activity in Latin America."
+      },
+      {
+        "fact": "Aldo Quezada was arrested at his home in Santa Cruz in eastern Bolivia on Wednesday on suspicion of drug trafficking and criminal association.",
+        "source_index": 35,
+        "excerpt": "Prosecutor Marcelo Inchausti told reporters that Aldo Quezada was arrested at his home in Santa Cruz in eastern Bolivia on Wednesday on suspicion of drug trafficking and criminal association."
+      },
+      {
+        "fact": "Quezada had resigned last month as chief justice of the Santa Cruz departmental court after being named to a US visa restrictions list for alleged links to drug trafficking.",
+        "source_index": 35,
+        "excerpt": "Quezada had resigned last month as chief justice of the Santa Cruz departmental court after being named to a US visa restrictions list for alleged links to drug trafficking."
+      },
+      {
+        "fact": "Quezada is one of a number of senior Bolivian judicial officials arrested since September on suspicion of links to drug cartels.",
+        "source_index": 35,
+        "excerpt": "Quezada is one of a number of senior Bolivian judicial officials to have been arrested since September on suspicion of having links to drug cartels, including former Attorney General Roger Mariaca."
+      },
+      {
+        "fact": "The arrests are part of a US-backed crackdown against officials involved in suspected cartel activity in Latin America.",
+        "source_index": 35,
+        "excerpt": "Bolivian authorities say they have arrested a former senior judge on suspicion of drug trafficking, as part of a US-backed crackdown against officials involved in suspected cartel activity in Latin America."
+      },
+      {
+        "fact": "Bolivia’s conservative President Rodrigo Paz assumed office on November 8, 2025, and has sought closer ties to the US.",
+        "source_index": 35,
+        "excerpt": "Bolivia’s conservative President Rodrigo Paz assumed office on November 8, 2025, ending nearly 20 years of Movement for Socialism (MAS) governance, and has sought closer ties to the US."
+      },
+      {
+        "fact": "Paz has signed Bolivia up to US President Donald Trump’s “Shield of the Americas”, a new US-backed security alliance for the Americas.",
+        "source_index": 35,
+        "excerpt": "Paz has signed his country up to US President Donald Trump’s “Shield of the Americas”, a new US-backed security alliance for the Americas."
+      }
+    ],
+    "source_urls": [
+      "https://www.aljazeera.com/news/2026/11/12/bolivia-arrests-former-judge-on-suspicion-of-drug-trafficking?traffic_source=rss"
+    ]
+  }
+]
