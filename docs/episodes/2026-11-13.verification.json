@@ -1,0 +1,416 @@
+[
+  {
+    "story": "Global Microsoft outage affecting Outlook, Teams, and 365 services with ongoing recovery efforts",
+    "narration": "Microsoft experienced a widespread outage starting shortly before 6 p.m. British Summer Time on Thursday, continuing into Friday, affecting users globally. Services impacted included Outlook, Teams, SharePoint, and Copilot, among other Microsoft 365 offerings. The outage affected Microsoft products in 74 countries and territories, spanning the Americas, parts of Europe, Asia, and Africa, according to Downdetector. Microsoft acknowledged that users may have been unable to connect to multiple Microsoft 365 services and did not provide a timeline for restoring full service. Initially, the company attributed the issue to elevated load across multiple regions, later clarifying that the problem stemmed from several servers being unexpectedly unavailable, which strained the remaining infrastructure and caused some servers to fail automated health checks. Microsoft executive Charles Lamanna confirmed that the outage was not due to a cybersecurity breach. The disruption has been described as a disaster for the Australian business sector, with financial losses estimated in the billions of dollars.",
+    "claims": [
+      {
+        "fact": "Microsoft suffered a widespread outage on Thursday and Friday that impacted users around the world.",
+        "source_index": 7,
+        "excerpt": "Microsoft suffered a widespread outage on Thursday and Friday that impacted users around the world."
+      },
+      {
+        "fact": "The outage began shortly before 1 p.m. ET on Thursday and continued into Friday, with Outlook and Teams, along with multiple Microsoft 365 services such as Sharepoint and Copilot, affected.",
+        "source_index": 7,
+        "excerpt": "The outage began shortly before 1 p.m. ET on Thursday and continued into Friday, with Outlook and Teams, along with multiple Microsoft 365 services such as Sharepoint and Copilot, affected."
+      },
+      {
+        "fact": "According to the site of tracking outages Downdetector, the outage affected Microsoft products in 74 countries and territories, across the Americas, as well as some regions of Europe, Asia and Africa.",
+        "source_index": 16,
+        "excerpt": "Selon le site de suivi des pannes Downdetector, la panne a touché les produits Microsoft dans 74 pays et territoires, dans l'ensemble des Amériques, ainsi que dans certaines régions d'Europe, d'Asie et d'Afrique."
+      },
+      {
+        "fact": "Microsoft said \"Users may be unable to connect to multiple Microsoft 365 services,\" including Outlook on either web or desktop, and did not give a timeline for restoring service.",
+        "source_index": 7,
+        "excerpt": "In an update just before 6:20 a.m. in London (1:20 a.m. ET), Microsoft said \"Users may be unable to connect to multiple Microsoft 365 services,\" including Outlook on either web or desktop, and did not give a timeline for restoring service."
+      },
+      {
+        "fact": "Microsoft initially said infrastructure \"elevated load across multiple regions\" was responsible for the connectivity problems.",
+        "source_index": 7,
+        "excerpt": "Microsoft initially said infrastructure \"elevated load across multiple regions\" was responsible for the connectivity problems."
+      },
+      {
+        "fact": "The company later determined that the elevated load was caused by a \"number of servers being unexpectedly unavailable; straining the remaining infrastructure\" and that some servers were failing automated health checks.",
+        "source_index": 7,
+        "excerpt": "The company later determined that the elevated load was caused by a \"number of servers being unexpectedly unavailable; straining the remaining infrastructure\" and that some servers were failing automated health checks."
+      },
+      {
+        "fact": "Microsoft executive Charles Lamanna has confirmed the outage was not caused by a cybersecurity breach.",
+        "source_index": 28,
+        "excerpt": "Microsoft executive Charles Lamanna has confirmed the outage was not caused by a cybersecurity breach."
+      },
+      {
+        "fact": "The Microsoft outage is being described as a disaster for the Australian business sector, with costs running into billions of dollars.",
+        "source_index": 28,
+        "excerpt": "The Microsoft outage is being described as a disaster for the Australian business sector, with costs running into billions of dollars."
+      }
+    ],
+    "source_urls": [
+      "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+      "https://www.franceinfo.fr/internet/microsoft/une-panne-mondiale-touche-la-messagerie-outlook-de-microsoft-les-mesures-pour-la-resoudre-ne-fonctionnent-pas-comme-prevu_8280422.html#xtor=RSS-3-[lestitres]",
+      "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news"
+    ]
+  },
+  {
+    "story": "EU leaders' first AI summit overshadowed by dispute over Ukraine peace talks representation",
+    "narration": "EU leaders met in Dublin on Friday for their first discussion on artificial intelligence, marking a new focus at the summit. However, the meeting was overshadowed by a dispute over who should represent Europe in peace talks concerning Ukraine. European Council President António Costa introduced the AI topic at the informal summit. Meanwhile, Italian Prime Minister Giorgia Meloni expressed concerns in a letter to Costa, warning that multiple EU formats in Ukraine negotiations could undermine the EU's credibility and called for a clear mandate. Luxembourg’s Prime Minister Luc Frieden suggested that Costa would be the natural choice as the EU's common representative in the talks. Ukrainian President Volodymyr Zelenskyy urged European leaders to decide on their representative by the end of the month. German Chancellor Friedrich Merz defended the existing E3 format, involving Germany, France, and the UK, as a proven approach for security guarantees in peace negotiations with Russia.",
+    "claims": [
+      {
+        "fact": "EU leaders met in Dublin on Friday for their first AI discussion.",
+        "source_index": 9,
+        "excerpt": "EU leaders meet in Dublin on Friday for their first AI discussion, with Mistral’s Arthur Mensch and Nobel laureate Geoffrey Hinton as guests."
+      },
+      {
+        "fact": "The summit was overshadowed by a dispute over who should represent Europe in Ukraine peace talks.",
+        "source_index": 9,
+        "excerpt": "But the row over who should speak for Europe in Ukraine peace talks is set to dominate."
+      },
+      {
+        "fact": "European Council President António Costa put AI on the leaders’ agenda for the first time at an informal summit in Dublin on Friday.",
+        "source_index": 9,
+        "excerpt": "European Council President António Costa has put AI on the leaders’ agenda for the first time, at an informal summit in Dublin on Friday."
+      },
+      {
+        "fact": "Italian Prime Minister Giorgia Meloni wrote to Costa warning that multiple EU formats in Ukraine talks made the EU 'less credible' and called for a clear mandate.",
+        "source_index": 9,
+        "excerpt": "Ukraine reached the agenda after Italian Prime Minister Giorgia Meloni wrote to Costa warning that the multiple formats in which the EU is engaging in the talks made it “less credible”. She called for a clear mandate to take part in the negotiations."
+      },
+      {
+        "fact": "Luxembourg’s Prime Minister Luc Frieden said Costa would be the natural choice as common EU representative in Ukraine peace talks.",
+        "source_index": 9,
+        "excerpt": "Luxembourg’s Prime Minister Luc Frieden told reporters on Thursday that Costa would be the natural choice as common EU representative."
+      },
+      {
+        "fact": "Ukrainian President Volodymyr Zelenskyy urged Europeans to decide who will represent them at the negotiating table by the end of the month.",
+        "source_index": 9,
+        "excerpt": "The matter is pressing because Ukrainian President Volodymyr Zelenskyy has urged Europeans to decide who will represent them at the negotiating table by the end of the month."
+      },
+      {
+        "fact": "German Chancellor Friedrich Merz defended the E3 format (Germany, France, UK) as a tried-and-tested format for security guarantees in peace talks with Russia.",
+        "source_index": 9,
+        "excerpt": "German Chancellor Friedrich Merz, meanwhile, defended the E3 format, in which Germany, France and the UK are committed to providing the security guarantees needed to enforce any peace agreement with Russia."
+      }
+    ],
+    "source_urls": [
+      "https://www.euronews.com/2026/11/13/ukraine-envoy-row-hijacks-eu-leaders-first-ai-summit"
+    ]
+  },
+  {
+    "story": "US disrupts North Korean $400 million crypto scam using fake video meetings and deepfakes",
+    "narration": "The US Federal Bureau of Investigation has seized cloud infrastructure used by North Korean hackers involved in a video-call scam called FaceStealer, which has stolen over $400 million in cryptocurrency over the past 18 months. The scam involves hackers sending meeting invitations from accounts previously compromised, then playing prerecorded clips of earlier victims to impersonate trusted contacts. The FBI reports that the hackers are now using AI-generated deepfakes of well-known cryptocurrency figures. More than 900 victims, primarily working in crypto and internet-related fields, have fallen prey to the scheme, with an increasing focus on open-source software developers. Under a federal warrant, the FBI has seized over 900 webcam videos of victims. The agency links FaceStealer to a hacking group known as Sapphire Sleet or UNC1069.",
+    "claims": [
+      {
+        "fact": "The US has seized cloud infrastructure used by North Korean hackers in a video-call scam that has stolen more than $400 million in cryptocurrency over 18 months.",
+        "source_index": 65,
+        "excerpt": "The United States Justice Department said Thursday it had seized cloud infrastructure used by North Korean hackers in a video-call scam that has stolen more than $400 million (€361 million) in cryptocurrency over 18 months."
+      },
+      {
+        "fact": "The Federal Bureau of Investigation calls the scam \"FaceStealer.\"",
+        "source_index": 65,
+        "excerpt": "The Federal Bureau of Investigation calls the scam \"FaceStealer.\""
+      },
+      {
+        "fact": "Hackers sent meeting invitations from accounts taken over from earlier victims and played prerecorded clips of previous victims to simulate trusted contacts.",
+        "source_index": 65,
+        "excerpt": "According to the Justice Department, hackers sent meeting invitations from accounts taken over from earlier victims. Once a target joins, the hackers record their webcam video and play a prerecorded clip of a previous victim the target knows, so trusted contacts appear to be present."
+      },
+      {
+        "fact": "The FBI says hackers are also starting to use AI-generated deepfakes of well-known crypto figures.",
+        "source_index": 65,
+        "excerpt": "The FBI says hackers are also starting to use AI-generated deepfakes of well-known crypto figures."
+      },
+      {
+        "fact": "More than 900 victims have fallen prey to the FaceStealer scheme in the last 18 months.",
+        "source_index": 75,
+        "excerpt": "More than 900 victims have fallen prey to the scheme, which the FBI refers to as FaceStealer, in the last 18 months, according to the bureau."
+      },
+      {
+        "fact": "Most targets work in crypto and other internet-related fields, with hackers increasingly going after open-source software developers.",
+        "source_index": 65,
+        "excerpt": "Most targets work in crypto and other internet-related fields, and the hackers are increasingly going after open-source software developers, apparently to enable supply-chain attacks, the department said."
+      },
+      {
+        "fact": "Under a federal warrant, the FBI seized more than 900 webcam videos of victims.",
+        "source_index": 65,
+        "excerpt": "Under a federal warrant, the FBI seized more than 900 webcam videos of victims."
+      },
+      {
+        "fact": "The FBI ties FaceStealer to a hacking cluster known as Sapphire Sleet or UNC1069.",
+        "source_index": 65,
+        "excerpt": "The FBI ties FaceStealer to a hacking cluster known as Sapphire Sleet or UNC1069."
+      }
+    ],
+    "source_urls": [
+      "https://www.dw.com/en/us-disrupts-north-korea-s-400-million-crypto-scam-fbi-says/a-79935957?maca=en-rss-en-all-1573-xml-mrss",
+      "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss"
+    ]
+  },
+  {
+    "story": "EU seals migration deal with Nigeria amid debate over funding and concessions",
+    "narration": "The European Union has reached a migration agreement with Nigeria in Abuja, aiming to establish rapid and effective procedures for returning Nigerians residing illegally in EU countries. Under the deal, Nigeria has agreed to readmit its nationals who have no right to stay in Europe. Nigerian media report that EU officials have pledged nearly €100 million in additional funding to support migration management and security cooperation. The EU Commission emphasises that the agreement is not a transactional exchange of concessions. This deal builds on the EU's existing commitment of €731 million in grant funding to Nigeria for the period 2021 to 2027. However, the agreement still requires approval from EU member states and the European Parliament before it can be implemented.",
+    "claims": [
+      {
+        "fact": "The EU sealed a migration deal with Nigeria in Abuja on 2026-11-11.",
+        "source_index": 33,
+        "excerpt": "Details of the EU's “milestone” migration deal with Nigeria remain unclear, two days after it was signed in Abuja by EU Commissioner Magnus Brunner and Nigeria's Foreign Affairs Minister, Bianca Odumegwu-Ojukwu."
+      },
+      {
+        "fact": "Nigeria agreed to readmit its nationals residing illegally in European countries.",
+        "source_index": 33,
+        "excerpt": "After a decade of negotiations, Nigeria agreed on Tuesday to readmit its nationals residing illegally in European countries, as the EU seeks to speed up the return of irregular migrants."
+      },
+      {
+        "fact": "The agreement establishes “rapid and effective procedures” for returning Nigerians who have no right to stay in an EU country.",
+        "source_index": 33,
+        "excerpt": "The agreement establishes “rapid and effective procedures” for returning Nigerians who have no right to stay in an EU country, a pressing issue for the bloc, since only one in three irregular migrants is actually sent back."
+      },
+      {
+        "fact": "Nigerian media reported that EU officials pledged almost €100 million in additional funding for migration management and security cooperation.",
+        "source_index": 33,
+        "excerpt": "According to local press, the EU pledged almost €100 million in additional funding for migration management and security cooperation."
+      },
+      {
+        "fact": "The EU Commission insists the deal is not “a transactional exchange of concessions.”",
+        "source_index": 33,
+        "excerpt": "The Commission maintains that the agreement is not “a transactional exchange of concessions.”"
+      },
+      {
+        "fact": "The EU has already committed €731 million in grant funding to Nigeria for 2021-2027.",
+        "source_index": 33,
+        "excerpt": "The EU has already committed €731 million in grant funding to Nigeria for 2021-2027."
+      },
+      {
+        "fact": "The agreement still needs approval from EU member states and the European Parliament.",
+        "source_index": 33,
+        "excerpt": "The agreement still needs approval from EU member states and the European Parliament."
+      }
+    ],
+    "source_urls": [
+      "https://www.euronews.com/2026/11/13/the-eu-sealed-a-migration-deal-with-nigeria-but-what-did-abuja-get-in-return"
+    ]
+  },
+  {
+    "story": "French public sector unions to meet Prime Minister over salary demands amid social crisis",
+    "narration": "French public sector unions met with Prime Minister Sébastien Lecornu at Matignon on the morning of November 13, 2026, to demand better salaries. The meeting began at 9:30 AM and was seen as a last chance following unsuccessful talks at Bercy earlier in the week. Unions are calling for salary increases because the recent minimum wage rise does not apply to public sector workers. They also oppose the government's decision to freeze the value of the public sector pay index point for the fourth consecutive year. A public sector strike is planned for November 17, 2026, involving all unions except CFDT. In a letter to the unions, the Prime Minister stated the meeting aims to prioritise concrete measures to improve conditions for public agents, especially those on the lowest incomes.",
+    "claims": [
+      {
+        "fact": "French public sector unions met with Prime Minister Sébastien Lecornu on the morning of November 13, 2026, at Matignon to demand better salaries.",
+        "source_index": 8,
+        "excerpt": "Les syndicats sont reçus à Matignon vendredi matin, quelques jours après un coup de pouce au smic qui ne les concerne pas et avant une grève annoncée dans la fonction publique le 17 novembre."
+      },
+      {
+        "fact": "The meeting with the Prime Minister started at 9:30 AM on November 13, 2026.",
+        "source_index": 8,
+        "excerpt": "Les organisations représentatives sont reçus vendredi 13 novembre, à partir de 9h30, par le Premier ministre, Sébastien Lecornu."
+      },
+      {
+        "fact": "The unions are demanding salary increases because the recent minimum wage increase does not concern public sector workers.",
+        "source_index": 8,
+        "excerpt": "quelques jours après un coup de pouce au smic qui ne les concerne pas et avant une grève annoncée dans la fonction publique le 17 novembre."
+      },
+      {
+        "fact": "The government has frozen the value of the public sector pay index point for the fourth consecutive year, which unions find unacceptable.",
+        "source_index": 8,
+        "excerpt": "l'exécutif avait exclu une augmentation générale et annoncé le gel pour une quatrième année consécutive de la valeur du point d'indice sur la base duquel est calculée la rémunération de base des agents publics."
+      },
+      {
+        "fact": "A public sector strike is planned for November 17, 2026, called by all unions except CFDT.",
+        "source_index": 8,
+        "excerpt": "Après la grève du 29 septembre, puis celle du 5 novembre, toutes les organisations syndicales, sauf la CFDT, ont appelé à la grève le 17 novembre."
+      },
+      {
+        "fact": "The meeting is seen as a last chance after unsuccessful talks at Bercy earlier in the week.",
+        "source_index": 8,
+        "excerpt": "Après de premières réunions infructueuses à Bercy cette semaine, où le gouvernement n'a pas donné satisfaction à la majorité des syndicats, le rendez-vous à Matignon prend des allures de dernière chance."
+      },
+      {
+        "fact": "The Prime Minister's letter to the unions states the meeting aims to prioritize concrete measures to improve the situation of public agents, especially those with the lowest incomes.",
+        "source_index": 8,
+        "excerpt": "Cette rencontre doit notamment permettre \"d'examiner en priorité les mesures concrètes\" susceptibles d'améliorer la situation des agents publics, \"en portant une attention particulière aux agents aux revenus les plus modestes\", selon un courrier du Premier ministre aux syndicats consulté par l'AFP."
+      }
+    ],
+    "source_urls": [
+      "https://www.franceinfo.fr/economie/pouvoir-achat/direct-crise-sociale-les-syndicats-de-fonctionnaires-recu-vendredi-matin-par-le-premier-ministre-pour-reclamer-de-meilleurs-salaires_8280482.html#xtor=RSS-3-[lestitres]"
+    ]
+  },
+  {
+    "story": "Generali reports strong nine-month financial results with 12% profit increase",
+    "narration": "Generali has reported a strong financial performance in the first nine months of the year, with gross premiums rising to 76.5 billion euros, an increase of 4.5%. The operating result saw a significant rise to 6.446 billion euros, up 8.5%, while the normalized net profit grew by 12% to 3.678 billion euros. The net result also increased by 11.9%, reaching 3.597 billion euros. Additionally, net life insurance inflows remained robust at 11.7 billion euros, marking a 13.6% rise. Cristiano Borean, Generali's Chief Financial Officer, expressed \"great confidence in the possibility of exceeding all the objectives of our strategic plan.\" These figures highlight the company's solid growth and positive outlook for the remainder of the year.",
+    "claims": [
+      {
+        "fact": "Generali nei primi nove mesi ha registrato premi lordi in crescita a 76,5 miliardi (+4,5%)",
+        "source_index": 6,
+        "excerpt": "Generali nei primi nove mesi ha\nregistrato premi lordi in crescita  a 76,5 miliardi (+4,5%)"
+      },
+      {
+        "fact": "Il risultato operativo è in deciso aumento a 6.446 milioni (+8,5%)",
+        "source_index": 6,
+        "excerpt": "Il risultato operativo è in deciso aumento a 6.446 milioni\n(+8,5%)"
+      },
+      {
+        "fact": "l'utile netto normalizzato è in forte crescita a  3.678 milioni (+12%)",
+        "source_index": 6,
+        "excerpt": "l'utile netto normalizzato è in forte crescita a  3.678\nmilioni (+12%)"
+      },
+      {
+        "fact": "Il risultato netto aumenta a 3.597 milioni (+11,9%)",
+        "source_index": 6,
+        "excerpt": "Il risultato netto aumenta a 3.597 milioni (+11,9%)."
+      },
+      {
+        "fact": "La raccolta netta Vita si conferma forte a 11,7 miliardi (+13,6%)",
+        "source_index": 6,
+        "excerpt": "La raccolta\nnetta Vita si conferma forte a 11,7 miliardi (+13,6%)"
+      },
+      {
+        "fact": "Il cfo di Generali, Cristiano Borean, esprime \"grande fiducia nella possibilità di superare tutti gli obiettivi del nostro piano strategico\"",
+        "source_index": 6,
+        "excerpt": "\"Gli eccellenti risultati dei primi nove mesi riflettono\nl'efficace implementazione del nostro piano strategico e\nconfermano la forte crescita del Gruppo, sostenuta da tutti i\nsegmenti di business.\". Lo afferma il cfo di Generali, Cristiano\nBorean, esprimendo \"grande fiducia nella possibilità di superare\ntutti gli obiettivi del nostro piano strategico\"."
+      }
+    ],
+    "source_urls": [
+      "https://www.ansa.it/sito/notizie/topnews/2026/11/13/generali-nei-nove-mesi-765-miliardi-di-premi-e-36-miliardi-di-utile-12_f0d3537b-c61c-4679-a80b-1c0885ac116b.html"
+    ]
+  },
+  {
+    "story": "Victoria 2026 election sees Labor and Greens clash over preference deals risking key seats",
+    "narration": "The Greens have decided not to direct preferences to Labor in 15 electorates across Victoria in response to Labor running an open ticket in the inner Melbourne seat of Prahran. The Greens will only recommend voters place the Greens first and One Nation last in these electorates, which include Albert Park, Ashwood, Bellarine, Bendigo East, Bendigo West, Essendon, Euroa, Gippsland East, Mildura, Mornington, Point Cook, Polwarth, South Barwon, Tarneit, and Werribee. Labor had hoped to rely on Greens preferences to regain Prahran, currently held by the Liberals with a slim 1.3 per cent margin after the Greens lost it in a 2025 byelection. Labor is concerned this move could impact their chances in several key seats ahead of the Victorian election on 28 November 2026.",
+    "claims": [
+      {
+        "fact": "The Greens have retaliated against Labor’s decision to run an open ticket in a key inner-city seat by refusing to direct preferences to the party in 15 electorates across the state at this month’s Victorian election.",
+        "source_index": 44,
+        "excerpt": "The Greens have retaliated against Labor’s decision to run an open ticket in a key inner-city seat by refusing to direct preferences to the party in 15 electorates across the state at this month’s Victorian election."
+      },
+      {
+        "fact": "The Greens confirmed they would only be directing voters to number the Greens one and One Nation last across 15 electorates.",
+        "source_index": 44,
+        "excerpt": "On Friday, the Greens confirmed they would only be directing voters to number the Greens one and One Nation last across 15 electorates."
+      },
+      {
+        "fact": "Labor’s decision on Tuesday to run an open ticket in the inner Melbourne seat of Prahran, where the Greens had been counting on Labor preferences to win it back.",
+        "source_index": 44,
+        "excerpt": "The decision follows Labor’s decision on Tuesday to run an open ticket in the inner Melbourne seat of Prahran, where the Greens had been counting on Labor preferences to win it back."
+      },
+      {
+        "fact": "Prahran has been held by the Liberals on a tiny 1.3 per cent margin – after the Greens lost it at a byelection in 2025.",
+        "source_index": 44,
+        "excerpt": "It has been held by the Liberals on a tiny 1.3 per cent margin – after the Greens lost it at a byelection in 2025."
+      },
+      {
+        "fact": "The Greens will be putting One Nation last in every single electorate across Victoria.",
+        "source_index": 44,
+        "excerpt": "“The Greens will be putting One Nation last in every single electorate across Victoria. We always encourage people to vote in line with their values,” their spokesperson said."
+      },
+      {
+        "fact": "The 15 electorates where the Greens will issue these how-to-vote cards are: Albert Park, Ashwood, Bellarine, Bendigo East, Bendigo West, Essendon, Euroa, Gippsland East, Mildura, Mornington, Point Cook, Polwarth, South Barwon, Tarneit, Werribee.",
+        "source_index": 44,
+        "excerpt": "The 15 electorates where the Greens will issue these how-to-vote cards are: Albert Park, Ashwood, Bellarine, Bendigo East, Bendigo West, Essendon, Euroa, Gippsland East, Mildura, Mornington, Point Cook, Polwarth, South Barwon, Tarneit, Werribee."
+      },
+      {
+        "fact": "Labor fears the decision will particularly hurt their chances in Albert Park, Ashwood, Bellarine, the two Bendigo seats vacated by former premier Jacinta Allan and speaker Maree Edwards, and South Barwon.",
+        "source_index": 44,
+        "excerpt": "Labor fears the decision will particularly hurt their chances in Albert Park, Ashwood, Bellarine, the two Bendigo seats vacated by former premier Jacinta Allan and speaker Maree Edwards, and South Barwon."
+      },
+      {
+        "fact": "The Victorian election is scheduled for 28 November 2026.",
+        "source_index": 44,
+        "excerpt": "The move has sparked a war of words between the two parties, with each accusing the other of striking a “dodgy deal” that could help the Liberals and One Nation get elected on 28 November."
+      }
+    ],
+    "source_urls": [
+      "https://www.theguardian.com/australia-news/2026/nov/13/victoria-state-election-2026-labor-greens-preference-deals-seats"
+    ]
+  },
+  {
+    "story": "England football captain Harry Kane breaks caps record as team qualifies for Nations League knockouts",
+    "narration": "England secured a 2-1 victory over Croatia at Wembley, booking their place in the Nations League quarterfinals. Harry Kane celebrated his record-breaking 126th England cap by scoring a penalty, marking his 92nd goal for the national team. This achievement moves Kane ahead of former goalkeeper Peter Shilton in appearances. The match also featured a pre-game tribute to Kane, with a giant banner displaying his image and the words \"England’s Finest.\" Shilton and Football Association patron Prince William took part in the presentation honouring the captain. Goals from Morgan Rogers and Kane helped England maintain second place in Group A3 behind Spain, confirming their progression to the last eight in March.",
+    "claims": [
+      {
+        "fact": "Harry Kane celebrated his record-breaking 126th England cap with a goal from the penalty spot as England beat Croatia 2-1 on Thursday to book a place in the Nations League quarterfinals.",
+        "source_index": 11,
+        "excerpt": "Harry Kane celebrated his record-breaking 126th England cap with a goal from the penalty spot as England beat Croatia 2-1 on Thursday to book a place in the Nations League quarterfinals."
+      },
+      {
+        "fact": "Goals from Morgan Rogers and captain Kane kept England second in Group A3 behind Spain, confirming their place in the Nations League last eight in March.",
+        "source_index": 11,
+        "excerpt": "But goals from Morgan Rogers and captain Kane kept England second in Group A3 behind Spain, confirming their place in the Nations League last eight in March."
+      },
+      {
+        "fact": "Ballon d’Or winner Kane won his 126th cap when the game kicked off, taking him clear of his tie with former goalkeeper Peter Shilton.",
+        "source_index": 11,
+        "excerpt": "Ballon d’Or winner Kane won his 126th cap when the game kicked off, taking him clear of his tie with former goalkeeper Peter Shilton."
+      },
+      {
+        "fact": "Kane made no mistake, drilling home for a record-extending 92nd England goal.",
+        "source_index": 11,
+        "excerpt": "Kane made no mistake, drilling home for a record-extending 92nd England goal."
+      },
+      {
+        "fact": "England beat Croatia 2-1 on Thursday at Wembley.",
+        "source_index": 11,
+        "excerpt": "Slaven Bilic’s team were determined to avoid another embarrassment after their 7-0 mauling by England in Rijeka last month and looked much more solid from the kickoff at Wembley."
+      },
+      {
+        "fact": "A giant banner was raised before kickoff with a picture of the 33-year-old and the words “England’s Finest”.",
+        "source_index": 11,
+        "excerpt": "A giant banner was raised before kickoff with a picture of the 33-year-old and the words “England’s Finest”."
+      },
+      {
+        "fact": "Shilton was part of a pre-match presentation to honour the Three Lions skipper, along with Football Association patron Prince William.",
+        "source_index": 11,
+        "excerpt": "Shilton was part of a pre-match presentation to honour the Three Lions skipper, along with Football Association patron Prince William."
+      }
+    ],
+    "source_urls": [
+      "https://www.aljazeera.com/sports/2026/11/13/harry-kane-england-appearance-record-126-croatia-nations-league-quarterfinals?traffic_source=rss"
+    ]
+  },
+  {
+    "story": "Cerebras beats quarterly revenue estimates and announces new Microsoft deal, shares surge 17%",
+    "narration": "Cerebras Systems reported better-than-expected earnings and raised its quarterly guidance, causing its stock to surge 17% in after-hours trading. The company posted adjusted earnings per share of 12 cents, beating the anticipated loss of 14 cents, with core revenue reaching $230.9 million, above the expected $214.7 million. Executives announced a new partnership with Microsoft, signed in October, with revenue from the deal expected to begin in the first quarter of 2027. Cerebras forecasts a core gross margin of 47% to 49% and revenue between $310 million and $330 million for the fourth quarter, anticipating revenue to triple to approximately $2.85 billion in 2027.",
+    "claims": [
+      {
+        "fact": "Cerebras Systems reported better-than-expected results and quarterly guidance in its earnings report on Thursday, and touted a new deal with Microsoft.",
+        "source_index": 47,
+        "excerpt": "Cerebras Systems reported better-than-expected results and quarterly guidance in its earnings report on Thursday, and touted a new deal with Microsoft."
+      },
+      {
+        "fact": "The stock soared 17% in extended trading.",
+        "source_index": 47,
+        "excerpt": "The stock soared 17% in extended trading."
+      },
+      {
+        "fact": "Earnings per share: 12 cents adjusted vs. loss of 14 cents expected",
+        "source_index": 47,
+        "excerpt": "Earnings per share: 12 cents adjusted vs. loss of 14 cents expected"
+      },
+      {
+        "fact": "Core revenue: $230.9 million vs. $214.7 million expected",
+        "source_index": 47,
+        "excerpt": "Core revenue: $230.9 million vs. $214.7 million expected"
+      },
+      {
+        "fact": "Executives will announce a new relationship with Microsoft, one of the world's top cloud providers, on a conference call with analysts, Feldman said.",
+        "source_index": 47,
+        "excerpt": "Executives will announce a new relationship with Microsoft, one of the world's top cloud providers, on a conference call with analysts, Feldman said."
+      },
+      {
+        "fact": "Microsoft signed the deal in October and revenue begins to show up in Q1 '27.",
+        "source_index": 47,
+        "excerpt": "\"We believe revenue begins to show up in Q1 '27,\" Feldman said in the interview, adding that Microsoft signed the deal in October."
+      },
+      {
+        "fact": "For the fourth quarter, Cerebras expects a core gross margin of 47% to 49%, with $310 million to $330 million in revenue.",
+        "source_index": 47,
+        "excerpt": "For the fourth quarter, Cerebras expects a core gross margin of 47% to 49%, with $310 million to $330 million in revenue."
+      },
+      {
+        "fact": "Cerebras said it expects revenue to triple in 2027, implying about $2.85 billion in revenue.",
+        "source_index": 47,
+        "excerpt": "Cerebras said it expects revenue to triple in 2027. That implies about $2.85 billion in revenue."
+      }
+    ],
+    "source_urls": [
+      "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html"
+    ]
+  }
+]

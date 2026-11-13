@@ -1,0 +1,71 @@
+{
+  "date": "2026-11-13",
+  "published": "2026-11-13T07:48:29.214416+01:00",
+  "title": "Global Morning Briefing — 13 November 2026",
+  "summary": "The day's international, European, business and technology news in 9 verified stories.",
+  "audio_url": "https://pierrickperez.github.io/welcome-to-paradise/episodes/2026-11-13.mp3",
+  "audio_bytes": 6169313,
+  "transcript_url": "https://pierrickperez.github.io/welcome-to-paradise/transcripts/2026-11-13.txt",
+  "sources": [
+    {
+      "source": "CNBC",
+      "title": "Widespread Microsoft outage takes down Outlook and other 365 services",
+      "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html"
+    },
+    {
+      "source": "Franceinfo",
+      "title": "Une panne mondiale touche la messagerie Outlook de Microsoft, les mesures pour la résoudre ne fonctionnent \"pas comme prévu\"",
+      "url": "https://www.franceinfo.fr/internet/microsoft/une-panne-mondiale-touche-la-messagerie-outlook-de-microsoft-les-mesures-pour-la-resoudre-ne-fonctionnent-pas-comme-prevu_8280422.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "source": "Guardian Business",
+      "title": "Microsoft outage live: Microsoft scrambling for new ways to fix global outage after initial attempts fail to restore Outlook services",
+      "url": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news"
+    },
+    {
+      "source": "Euronews",
+      "title": "Ukraine envoy row hijacks EU leaders’ first AI summit",
+      "url": "https://www.euronews.com/2026/11/13/ukraine-envoy-row-hijacks-eu-leaders-first-ai-summit"
+    },
+    {
+      "source": "Deutsche Welle",
+      "title": "US disrupts North Korea's $400 million crypto scam, FBI says",
+      "url": "https://www.dw.com/en/us-disrupts-north-korea-s-400-million-crypto-scam-fbi-says/a-79935957?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+      "source": "BBC World",
+      "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+      "url": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "Euronews",
+      "title": "The EU sealed a migration deal with Nigeria. But what did Abuja get in return?",
+      "url": "https://www.euronews.com/2026/11/13/the-eu-sealed-a-migration-deal-with-nigeria-but-what-did-abuja-get-in-return"
+    },
+    {
+      "source": "Franceinfo",
+      "title": "Crise sociale : les syndicats de fonctionnaires reçus vendredi matin par le Premier ministre pour réclamer de meilleurs salaires",
+      "url": "https://www.franceinfo.fr/economie/pouvoir-achat/direct-crise-sociale-les-syndicats-de-fonctionnaires-recu-vendredi-matin-par-le-premier-ministre-pour-reclamer-de-meilleurs-salaires_8280482.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "source": "ANSA",
+      "title": "Generali, nei nove mesi 76,5 miliardi di premi e 3,6 miliardi di utile (+12%)",
+      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/13/generali-nei-nove-mesi-765-miliardi-di-premi-e-36-miliardi-di-utile-12_f0d3537b-c61c-4679-a80b-1c0885ac116b.html"
+    },
+    {
+      "source": "Guardian World",
+      "title": "Victoria election 2026: Labor and Greens trade accusations of ‘dodgy deals’ as preference fight puts key seats at risk",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/13/victoria-state-election-2026-labor-greens-preference-deals-seats"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Harry Kane breaks caps record as England reach Nations League knockouts",
+      "url": "https://www.aljazeera.com/sports/2026/11/13/harry-kane-england-appearance-record-126-croatia-nations-league-quarterfinals?traffic_source=rss"
+    },
+    {
+      "source": "CNBC",
+      "title": "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal",
+      "url": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html"
+    }
+  ]
+}
