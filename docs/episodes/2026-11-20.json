@@ -1,0 +1,116 @@
+{
+  "date": "2026-11-20",
+  "published": "2026-11-20T07:52:22.601574+01:00",
+  "title": "Global Morning Briefing — 20 November 2026",
+  "summary": "The day's international, European, business and technology news in 14 verified stories.",
+  "audio_url": "https://pierrickperez.github.io/welcome-to-paradise/episodes/2026-11-20.mp3",
+  "audio_bytes": 7734465,
+  "transcript_url": "https://pierrickperez.github.io/welcome-to-paradise/transcripts/2026-11-20.txt",
+  "sources": [
+    {
+      "source": "France 24",
+      "title": "Live: Deadly Russian attacks damage two bridges in Kyiv, mayor says",
+      "url": "https://www.france24.com/en/europe/20261120-live-deadly-russian-attacks-damage-two-bridges-in-kyiv-mayor-says"
+    },
+    {
+      "source": "ANSA",
+      "title": "Sindaco Kiev, 'colpiti ponti cittadini, traffico interrotto'",
+      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/20/sindaco-kiev-colpiti-ponti-cittadini-traffico-interrotto_8dab0e86-24c4-4921-9d24-1d9877343e71.html"
+    },
+    {
+      "source": "Franceinfo",
+      "title": "Trois personnes sont mortes à Kiev après des frappes russes sur l'Ukraine",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/trois-personnes-sont-mortes-a-kiev-apres-des-frappes-russes-sur-l-ukraine_8291687.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "source": "Euronews",
+      "title": "Hungary to drop veto on Ukraine’s remaining EU accession clusters",
+      "url": "https://www.euronews.com/2026/11/20/hungary-to-drop-veto-on-ukraines-remaining-eu-accession-clusters"
+    },
+    {
+      "source": "NPR World",
+      "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
+      "url": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Tears of joy, prayers for return home: Rohingya react to genocide ruling",
+      "url": "https://www.aljazeera.com/news/2026/11/20/tears-of-joy-prayers-for-return-home-rohingya-react-to-genocide-ruling?traffic_source=rss"
+    },
+    {
+      "source": "France 24",
+      "title": "FIFA: Infantino, Tashima and Diallo enter presidential race",
+      "url": "https://www.france24.com/en/tv-shows/sports/20261120-fifa-infantino-tashima-and-diallo-enter-presidential-race"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Tashima says Balogun red card row at World Cup prompted FIFA presidency bid",
+      "url": "https://www.aljazeera.com/sports/2026/11/20/kozo-tashima-japan-fifa-president-election-balogun-red-card-world-cup-infantino?traffic_source=rss"
+    },
+    {
+      "source": "Deutsche Welle",
+      "title": "Germany news: Lufthansa to cut 1,000 jobs, reports say",
+      "url": "https://www.dw.com/en/germany-news-lufthansa-to-cut-1-000-jobs-reports-say/live-79998529?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+      "source": "Deutsche Welle",
+      "title": "White House replaces cyber security chief after tech outages",
+      "url": "https://www.dw.com/en/white-house-replaces-cyber-security-chief-after-tech-outages/a-79998531?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+      "source": "NBC News",
+      "title": "White House national cyber director is leaving the administration after series of tech outages",
+      "url": "https://www.nbcnews.com/politics/white-house/national-cyber-director-sean-cairncross-leaving-kirsten-davies-replaci-rcna610329"
+    },
+    {
+      "source": "NBC News",
+      "title": "Senate passes bill simplifying permitting rules to build in America, sending it to House",
+      "url": "https://www.nbcnews.com/politics/congress/senate-passes-sweeping-bill-simplifying-permitting-rules-build-america-rcna610196"
+    },
+    {
+      "source": "CNBC",
+      "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
+      "url": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html"
+    },
+    {
+      "source": "BBC World",
+      "title": "UK and EU to agree youth mobility scheme, BBC understands",
+      "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "Euronews",
+      "title": "Are we making progress on climate action? 23 encouraging signs from COP31",
+      "url": "https://www.euronews.com/2026/11/20/are-we-making-progress-on-climate-action-23-encouraging-signs-from-cop31"
+    },
+    {
+      "source": "France 24",
+      "title": "Czechs protest en masse against 'concentration of power in one hand' and growing control over media",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20261120-czechs-protest-en-masse-against-concentration-of-power-in-one-hand-and-growing-control-over-media"
+    },
+    {
+      "source": "Politico Europe",
+      "title": "5 takeaways from the Spanish election debate",
+      "url": "https://www.politico.eu/article/spain-election-debate-5-takeaways-pedro-sanchez-alberto-nunez-feijoo/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+      "source": "Franceinfo",
+      "title": "Présidentielle 2027 : Dominique de Villepin en route vers une candidature à l'Elysée",
+      "url": "https://www.franceinfo.fr/elections/direct-presidentielle-dominique-de-villepin-en-route-vers-une-candidature-a-la-presidentielle-suivez-la-prise-de-parole-de-l-ancien-premier-ministre_8291558.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "source": "BBC Business",
+      "title": "GTA 6 breaks records as estimated sales top $2.3bn",
+      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "CNBC",
+      "title": "‘More than just a game’: How GTA VI’s blockbuster launch fuels a booming content economy",
+      "url": "https://www.cnbc.com/2026/11/20/gta-vi-launch-streaming-content-economy.html"
+    },
+    {
+      "source": "CNBC",
+      "title": "AI is changing software engineering — and some developers miss the struggle",
+      "url": "https://www.cnbc.com/2026/11/20/ai-coding-tools-software-engineers.html"
+    }
+  ]
+}

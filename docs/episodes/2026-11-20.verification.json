@@ -1,0 +1,570 @@
+[
+  {
+    "story": "Russian attacks damage Kyiv bridges, killing three amid Ukraine conflict escalation",
+    "narration": "Russian attacks on Kyiv have resulted in the deaths of three people and caused damage to two bridges in the Ukrainian capital. This fresh wave of missile and drone strikes follows a vow of \"painful\" retaliation by Russian President Vladimir Putin, after Ukraine damaged the Crimea bridge earlier this week. In response to the attacks and resulting traffic difficulties between the two banks of Kyiv, the city's mayor, Vitaliy Klitschko, has urged residents to avoid using private cars to travel into the city unless absolutely necessary. President Putin has warned that Russia will respond to Ukrainian strikes on the Crimea bridge with \"even more painful\" attacks.",
+    "claims": [
+      {
+        "fact": "Russian attacks on Kyiv killed three people and damaged two bridges in the Ukrainian capital.",
+        "source_index": 0,
+        "excerpt": "Russian attacks on Kyiv killed three people and damaged two bridges in the Ukrainian capital, city authorities said on Friday."
+      },
+      {
+        "fact": "The fresh wave of missile and drone attacks came after Russian President Vladimir Putin vowed a \"painful\" retaliation after Ukraine this week damaged the Crimea bridge.",
+        "source_index": 0,
+        "excerpt": "The fresh wave of missile and drone attacks came after Russian President Vladimir Putin vowed a \"painful\" retaliation after Ukraine this week damaged the Crimea bridge."
+      },
+      {
+        "fact": "The mayor of Kyiv, Vitaliy Klitschko, requested residents to avoid using private cars to travel into the city unless strictly necessary due to traffic difficulties between the two banks of the capital.",
+        "source_index": 14,
+        "excerpt": "\"A causa delle difficoltà di traffico tra le due sponde della capitale, chiedo ai residenti di evitare di utilizzare l'auto privata per recarsi in città, se non strettamente necessario\" scrive ancora il sindaco di Kiev."
+      },
+      {
+        "fact": "Russian President Vladimir Putin warned that Russia would retaliate to Ukrainian strikes on the Crimea bridge with \"even more painful\" attacks.",
+        "source_index": 40,
+        "excerpt": "Le président russe, Vladimir Poutine, avait averti jeudi que la Russie répliquerait aux frappes ukrainiennes contre le pont de Crimée mercredi, promettant des représailles \"encore plus douloureuses que ce que le régime de Kiev a infligé au pont\"."
+      }
+    ],
+    "source_urls": [
+      "https://www.france24.com/en/europe/20261120-live-deadly-russian-attacks-damage-two-bridges-in-kyiv-mayor-says",
+      "https://www.ansa.it/sito/notizie/topnews/2026/11/20/sindaco-kiev-colpiti-ponti-cittadini-traffico-interrotto_8dab0e86-24c4-4921-9d24-1d9877343e71.html",
+      "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/trois-personnes-sont-mortes-a-kiev-apres-des-frappes-russes-sur-l-ukraine_8291687.html#xtor=RSS-3-[lestitres]"
+    ]
+  },
+  {
+    "story": "Hungary to lift veto on Ukraine’s remaining EU accession clusters, enabling full membership talks",
+    "narration": "Hungary is set to lift its objections to Ukraine’s last two EU accession negotiating clusters at a meeting of EU ambassadors on Friday. This move will end Budapest’s long-standing veto that has delayed Ukraine’s and Moldova’s EU membership bids. The decision follows an agreement reached last month between Kyiv and Budapest concerning the rights of the ethnic Hungarian minority in western Ukraine, which was subsequently approved by the Ukrainian parliament. Once Hungary confirms the lifting of its veto, Ukraine and Moldova will be able to open all remaining negotiating clusters, including sensitive areas such as environment and agriculture. This development comes after the first bilateral meeting between Hungarian and Ukrainian President Volodymyr Zelenskyy on 16 October in Brussels, signalling a warming of relations between the two countries.",
+    "claims": [
+      {
+        "fact": "Hungary is set to lift its objections to Ukraine’s last two EU accession clusters on Friday.",
+        "source_index": 33,
+        "excerpt": "Hungary is set to lift its objections to Ukraine’s last two EU accession clusters on Friday, diplomats say, allowing Kyiv and Moldova to start negotiating on every aspect of EU membership."
+      },
+      {
+        "fact": "Hungary is set to drop its veto on opening Ukraine’s final two EU accession negotiating clusters at a meeting of EU ambassadors on Friday.",
+        "source_index": 33,
+        "excerpt": "Hungary is set to drop its veto on opening Ukraine’s final two EU accession negotiating clusters at a meeting of EU ambassadors on Friday, two diplomatic sources have told Euronews."
+      },
+      {
+        "fact": "Budapest has long held up Ukraine’s accession bid by blocking the opening of negotiating clusters, also stalling Moldova’s membership bid.",
+        "source_index": 33,
+        "excerpt": "Budapest has long held up Ukraine’s accession bid by blocking the opening of negotiating clusters. Its veto has also stalled Moldova’s membership bid, which remains linked to Kyiv’s."
+      },
+      {
+        "fact": "Last month, Kyiv and Budapest reached an agreement on the rights of the ethnic Hungarian minority in western Ukraine, which the Ukrainian parliament subsequently passed.",
+        "source_index": 33,
+        "excerpt": "Last month, Kyiv and Budapest reached an agreement on the rights of the ethnic Hungarian minority in western Ukraine, which the Ukrainian parliament subsequently passed."
+      },
+      {
+        "fact": "Once Hungary confirms on Friday that it is lifting the veto, Ukraine and Moldova are due to open all negotiating clusters, including sensitive chapters on environment and agriculture.",
+        "source_index": 33,
+        "excerpt": "Once Hungary confirms on Friday that it is lifting the veto, Ukraine and Moldova are due to open all negotiating clusters, including some of the most sensitive chapters, on the environment and agriculture."
+      },
+      {
+        "fact": "Magyar and Ukrainian President Volodymyr Zelenskyy held their first bilateral meeting on 16 October in Brussels, marking a warming of relations.",
+        "source_index": 33,
+        "excerpt": "Magyar and Ukrainian President Volodymyr Zelenskyy held their first bilateral meeting on the margins of the last European Council summit in Brussels on 16 October, marking another step in the warming of the relations between the two neighbours."
+      }
+    ],
+    "source_urls": [
+      "https://www.euronews.com/2026/11/20/hungary-to-drop-veto-on-ukraines-remaining-eu-accession-clusters"
+    ]
+  },
+  {
+    "story": "International Court of Justice rules Myanmar committed genocide against Rohingya",
+    "narration": "The International Court of Justice has ruled that Myanmar committed genocide against its Rohingya minority. The court found that Myanmar security forces acted with genocidal intent during military operations in northern Rakhine state in 2017. It estimated that about 10,000 Rohingya were killed, including up to 2,109 children under the age of five. The case was brought by Gambia under the 1948 Genocide Convention, despite the country not being directly affected by the violence. The ICJ ruling requires Myanmar to investigate and prosecute those suspected of involvement in the crimes and to provide restitution and compensation. This decision recognises the atrocities committed against the Rohingya after years of denial and has brought relief, emotion, and renewed hope to Rohingya refugees who have spent nearly a decade waiting for justice.",
+    "claims": [
+      {
+        "fact": "The International Court of Justice ruled that Myanmar committed genocide against its Rohingya minority.",
+        "source_index": 89,
+        "excerpt": "The United Nations' top court ruled Thursday that Myanmar committed genocide against its Rohingya minority, the first time in the court's 80-year history that it has held a state responsible for the crime."
+      },
+      {
+        "fact": "The court found that Myanmar security forces \"acted with genocidal intent\" during military operations in northern Rakhine state in 2017.",
+        "source_index": 89,
+        "excerpt": "Judges of the International Court of Justice voted 9-6 that the military's 2017 crackdown was carried out with intent to destroy the long-persecuted Muslim minority."
+      },
+      {
+        "fact": "The court estimated that about 10,000 Rohingya were killed and cited estimates that up to 2,109 Rohingya children younger than 5 died.",
+        "source_index": 89,
+        "excerpt": "The court estimated that about 10,000 Rohingya were killed. It cited estimates that up to 2,109 Rohingya children younger than 5 died, and found the violence was systematic, including the burning of all or parts of 392 villages."
+      },
+      {
+        "fact": "The ruling was brought by Gambia under the 1948 Genocide Convention.",
+        "source_index": 89,
+        "excerpt": "Brought by Gambia under the 1948 Genocide Convention, the ruling will have repercussions far beyond Myanmar, according to a legal expert."
+      },
+      {
+        "fact": "The ICJ ruling found Myanmar must take steps to investigate and prosecute those suspected of involvement in the crimes and provide restitution and compensation.",
+        "source_index": 89,
+        "excerpt": "However, Myanmar must take steps to investigate people suspected of involvement in the crimes and prosecute them if warranted, said the court. It also found Myanmar must provide restitution and compensation, with the amount to be set in future proceedings."
+      },
+      {
+        "fact": "The ICJ ruling recognized the atrocities committed against the Rohingya after years of denial and found more than 10,000 people had been killed.",
+        "source_index": 35,
+        "excerpt": "On Thursday, the ICJ found Myanmar responsible for genocide against the Rohingya during brutal military operations in 2017, in which the court found more than 10,000 people had been killed."
+      },
+      {
+        "fact": "The Gambia acted as a party to the 1948 Genocide Convention and brought the case before the ICJ despite not being directly affected by the violence.",
+        "source_index": 35,
+        "excerpt": "The small West African nation was not directly affected by the violence against the Rohingya. Still, it acted as a party to the 1948 Genocide Convention, under which all member states have an obligation to prevent and address genocide."
+      },
+      {
+        "fact": "The ICJ ruling brought relief, emotion, and renewed hope to Rohingya refugees who have spent nearly a decade waiting for justice.",
+        "source_index": 35,
+        "excerpt": "For refugees who have spent nearly a decade waiting for justice, the ruling brought a wave of relief, emotion and renewed hope."
+      }
+    ],
+    "source_urls": [
+      "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
+      "https://www.aljazeera.com/news/2026/11/20/tears-of-joy-prayers-for-return-home-rohingya-react-to-genocide-ruling?traffic_source=rss"
+    ]
+  },
+  {
+    "story": "FIFA presidential race heats up with Infantino, Tashima, and Diallo officially entering",
+    "narration": "Three candidates have officially submitted their bids for the FIFA presidency: Gianni Infantino, Philippe Diallo, and Kohzo Tashima. The election is scheduled for March 18, 2027, in Rabat, Morocco. Gianni Infantino, who has been in office for 11 years, is seeking a fourth consecutive term. Philippe Diallo, supported by UEFA, announced his challenge on Monday and is contesting Infantino's leadership. Infantino retains the backing of the Asian and African confederations. Kohzo Tashima entered the race in response to the handling of Folarin Balogun’s red card at the 2026 World Cup. Tashima has expressed willingness to coordinate with Diallo to avoid splitting the vote opposing Infantino.",
+    "claims": [
+      {
+        "fact": "Three candidates have officially submitted their bids for the FIFA presidency: Gianni Infantino, Philippe Diallo, and Kohzo Tashima.",
+        "source_index": 24,
+        "excerpt": "Three candidates have officially submitted their bids for the FIFA presidency. Gianni Infantino, who has been in office for 11 years, is seeking a fourth consecutive term. Backed by UEFA, French Football Federation president Philippe Diallo wants to offer an alternative to Infantino’s leadership. He will face Japan’s Kohzo Tashima, honorary president of the Japan Football Association."
+      },
+      {
+        "fact": "The FIFA presidential election will take place on March 18, 2027 in Rabat, Morocco.",
+        "source_index": 24,
+        "excerpt": "The election will take place on March 18, 2027 in Rabat, Morocco."
+      },
+      {
+        "fact": "Gianni Infantino has been in office for 11 years and is seeking a fourth consecutive term as FIFA president.",
+        "source_index": 24,
+        "excerpt": "Gianni Infantino, who has been in office for 11 years, is seeking a fourth consecutive term."
+      },
+      {
+        "fact": "Philippe Diallo, backed by UEFA, is challenging Infantino for the FIFA presidency.",
+        "source_index": 24,
+        "excerpt": "Backed by UEFA, French Football Federation president Philippe Diallo wants to offer an alternative to Infantino’s leadership."
+      },
+      {
+        "fact": "Tashima decided to run for FIFA president due to the handling of Folarin Balogun’s red card at the 2026 World Cup.",
+        "source_index": 11,
+        "excerpt": "Japanese football official Kozo Tashima said on Friday that the handling of Folarin Balogun’s red card at the 2026 World Cup was what prompted him to run for FIFA president against Gianni Infantino."
+      },
+      {
+        "fact": "Philippe Diallo announced his challenge on Monday with the backing of UEFA, while Infantino has the support of Asia and Africa’s confederations.",
+        "source_index": 11,
+        "excerpt": "French Football Federation President Philippe Diallo also announced a challenge on Monday with the backing of European governing body UEFA. Infantino has the support of Asia and Africa’s confederations."
+      },
+      {
+        "fact": "Tashima is open to coordinating with Diallo to avoid splitting the anti-Infantino vote.",
+        "source_index": 11,
+        "excerpt": "Diallo said at a news conference on Tuesday that he would reach out to Tashima to “unite forces”. Tashima said he was open to the idea of coordinating with the Frenchman’s team to avoid splitting the anti-Infantino vote."
+      }
+    ],
+    "source_urls": [
+      "https://www.france24.com/en/tv-shows/sports/20261120-fifa-infantino-tashima-and-diallo-enter-presidential-race",
+      "https://www.aljazeera.com/sports/2026/11/20/kozo-tashima-japan-fifa-president-election-balogun-red-card-world-cup-infantino?traffic_source=rss"
+    ]
+  },
+  {
+    "story": "Germany’s Lufthansa announces 1,000 job cuts amid profitability struggles",
+    "narration": "Lufthansa plans to cut 1,000 jobs at its airport hubs in Frankfurt and Munich, according to a letter signed by CEO Jens Ritter and four other managers. The airline cited financial struggles as the reason behind the planned cuts. Lufthansa has operated at a €180 million loss in the first nine months of this year and is now in its third consecutive year of unprofitability. Rising fuel costs, driven by the ongoing US-Israeli war with Iran, have further complicated the airline's financial outlook.",
+    "claims": [
+      {
+        "fact": "Lufthansa plans to cut 1,000 jobs at its airport hubs in Frankfurt and Munich.",
+        "source_index": 1,
+        "excerpt": "German flagship airline Lufthansa plans to cut 1,000 jobs at its airport hubs in Frankfurt and Munich, according to a company letter seen by German news agency DPA and news outlets."
+      },
+      {
+        "fact": "The letter announcing the job cuts was signed by Lufthansa Airlines CEO Jens Ritter and four other managers.",
+        "source_index": 1,
+        "excerpt": "The letter was reportedly signed by Lufthansa Airlines CEO Jens Ritter and four other managers."
+      },
+      {
+        "fact": "Lufthansa said financial struggles were the reason behind the planned cuts.",
+        "source_index": 1,
+        "excerpt": "In the letter seen by news agencies, Lufthansa said financial struggles were the reason behind the planned cuts."
+      },
+      {
+        "fact": "Lufthansa operated at a €180 million ($197 million) loss in the first nine months of this year.",
+        "source_index": 1,
+        "excerpt": "\"Lufthansa is currently not competitive in terms of its cost structure, efficiency and productivity,\" the letter said, while pointing out that the company operated at a €180 million ($197 million) loss in the first nine months of this year."
+      },
+      {
+        "fact": "Lufthansa Airlines is now in its third straight year of being unprofitable.",
+        "source_index": 1,
+        "excerpt": "In addition, Lufthansa Airlines is now in its third straight year of being unprofitable."
+      },
+      {
+        "fact": "Lufthansa has faced rising fuel costs spurred by the US-Israeli war with Iran, complicating its financial outlook.",
+        "source_index": 1,
+        "excerpt": "In regards to this year, Lufthansa has faced rising fuel costs spurred by the US-Israeli war with Iran, further complicating its financial outlook."
+      }
+    ],
+    "source_urls": [
+      "https://www.dw.com/en/germany-news-lufthansa-to-cut-1-000-jobs-reports-say/live-79998529?maca=en-rss-en-all-1573-xml-mrss"
+    ]
+  },
+  {
+    "story": "White House national cyber director Sean Cairncross to leave after tech outages",
+    "narration": "Sean Cairncross is exiting his post as White House national cyber director after a series of technology-related outages in the United States over the past week. These outages affected both private companies and government agencies. Top US officials have sought to assure the public that there was no evidence of a cyberattack related to the outages. Cairncross has served as head of the Office of the National Cyber Director since August 2025. He was nominated by President Trump in 2025 and confirmed by the Senate to serve as his top adviser on cybersecurity and data protection policy. Cairncross has also been directly involved with the White House's deliberations over AI policy.",
+    "claims": [
+      {
+        "fact": "Sean Cairncross is exiting his post as White House national cyber director after a series of technology-related outages in the United States over the week.",
+        "source_index": 61,
+        "excerpt": "Sean Cairncross is exiting his post as White House national cyber director after a series of technology-related outages in the United States over the week led to disruptions in air travel, banking and national security networks."
+      },
+      {
+        "fact": "Sean Cairncross has served as head of the Office of the National Cyber Director since August 2025.",
+        "source_index": 66,
+        "excerpt": "Cairncross has served as head of the Office of the National Cyber Director since August 2025."
+      },
+      {
+        "fact": "The tech outages affected both private companies and government agencies over the past week.",
+        "source_index": 66,
+        "excerpt": "Cairncross is leaving his post after a series of tech outages affected both private companies and government agencies over the past week."
+      },
+      {
+        "fact": "Top US officials have sought to assure people that there was no evidence of a cyberattack related to the outages.",
+        "source_index": 61,
+        "excerpt": "Top US officials have since sought to assure people in the country that there was no evidence of a cyberattack."
+      },
+      {
+        "fact": "Sean Cairncross was nominated by President Trump in 2025 and confirmed by the Senate to serve as his top adviser on cybersecurity and data protection policy.",
+        "source_index": 61,
+        "excerpt": "In 2025, Trump nominated Cairncross to serve as his top adviser on cybersecurity and data protection policy. He was subsequently confirmed to the post by the Senate."
+      },
+      {
+        "fact": "Sean Cairncross has been directly involved with the White House’s deliberations over AI policy.",
+        "source_index": 66,
+        "excerpt": "He has been directly involved with the White House’s deliberations over AI policy, including after Commerce Secretary Howard Lutnick directed Anthropic to take down its two most powerful AI systems over the summer due to national security concerns."
+      }
+    ],
+    "source_urls": [
+      "https://www.dw.com/en/white-house-replaces-cyber-security-chief-after-tech-outages/a-79998531?maca=en-rss-en-all-1573-xml-mrss",
+      "https://www.nbcnews.com/politics/white-house/national-cyber-director-sean-cairncross-leaving-kirsten-davies-replaci-rcna610329"
+    ]
+  },
+  {
+    "story": "US Senate passes bill to simplify permitting rules for energy and infrastructure projects",
+    "narration": "The Senate voted 62-33 on Thursday night to pass the Bipartisan American Affordability and Jobs Act, a sweeping bill to simplify and overhaul permitting rules for energy and infrastructure projects. The legislation was crafted by Senators Shelley Moore Capito, Sheldon Whitehouse, Mike Lee, and Martin Heinrich. It aims to revise and speed up environmental reviews by imposing tighter deadlines, accelerate electricity transmission, restrict federal agencies' power to revoke existing permits, and reduce chokepoints in project approvals. The bill would require new data centers of 20 megawatts or more to pay the full incremental cost of the infrastructure built to serve them. The bill now heads to the House, where Republican leadership is expected to attempt to pass it, and President Donald Trump supports the deal.",
+    "claims": [
+      {
+        "fact": "The Senate voted 62-33 on Thursday night to pass a sweeping bill to simplify and overhaul permitting rules for energy and infrastructure projects.",
+        "source_index": 34,
+        "excerpt": "The Senate voted 62-33 on Thursday night to pass a sweeping bill to simplify and overhaul permitting rules for energy and infrastructure projects."
+      },
+      {
+        "fact": "The bill, called the Bipartisan American Affordability and Jobs Act, was crafted by an unusual coalition of Sens. Shelley Moore Capito, R-W.Va.; Sheldon Whitehouse, D-R.I.; Mike Lee, R-Utah; and Martin Heinrich, D-N.M.",
+        "source_index": 34,
+        "excerpt": "The bill, called the Bipartisan American Affordability and Jobs Act, was crafted by an unusual coalition of Sens. Shelley Moore Capito, R-W.Va.; Sheldon Whitehouse, D-R.I.; Mike Lee, R-Utah; and Martin Heinrich, D-N.M."
+      },
+      {
+        "fact": "The bill's Senate passage is a key step to it becoming law, but it would also need to clear the House before heading to President Donald Trump's desk.",
+        "source_index": 47,
+        "excerpt": "The bill's Senate passage is a key step to it becoming law, but it would also need to clear the House before heading to President Donald Trump's desk."
+      },
+      {
+        "fact": "The legislation would revise and speed up environmental reviews with tighter deadlines; accelerate electricity transmission; restrict the power of federal agencies to revoke existing permits; and reduce chokepoints for approving and completing projects.",
+        "source_index": 34,
+        "excerpt": "The legislation would revise and speed up environmental reviews with tighter deadlines; accelerate electricity transmission; restrict the power of federal agencies to revoke existing permits; and reduce chokepoints for approving and completing projects."
+      },
+      {
+        "fact": "The bill would require new data centers of 20 megawatts or more to pay the full incremental cost of the infrastructure built to serve them.",
+        "source_index": 34,
+        "excerpt": "In an attempt to alleviate Americans’ concerns about data centers, the bill would require “new data centers of 20 megawatts or more to pay the full incremental cost of the infrastructure built to serve them,” according to the Bipartisan Policy Center."
+      },
+      {
+        "fact": "The bill is projected to lower energy costs for consumers while weakening some environmental laws to speed up the permitting process.",
+        "source_index": 47,
+        "excerpt": "The bill, known as the Bipartisan American Affordability and Jobs Act of 2026, is projected to lower energy costs for consumers while weakening some environmental laws to speed up the permitting process."
+      },
+      {
+        "fact": "The bill now heads to the House, where Republican leadership is expected to attempt to pass it, and President Donald Trump supports the deal.",
+        "source_index": 47,
+        "excerpt": "The bill now heads to the House, where Republican leadership is expected to attempt to pass it. Trump also supports the deal."
+      }
+    ],
+    "source_urls": [
+      "https://www.nbcnews.com/politics/congress/senate-passes-sweeping-bill-simplifying-permitting-rules-build-america-rcna610196",
+      "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html"
+    ]
+  },
+  {
+    "story": "UK and EU expected to agree on youth mobility scheme and new trade deals at summit",
+    "narration": "Up to 100,000 young people from the EU will be allowed to travel, work and study in the UK each year under a new youth mobility scheme expected to be agreed at the UK-EU summit in Brussels on Friday. The scheme will also permit the same number of young Britons to enter Europe. Negotiators are also seeking agreements on food trade rules and carbon emissions pricing during the summit. An agreement on trade could remove checks and paperwork for food exporters to the EU, potentially adding £5 billion to the economy and reducing food prices. The UK government's request to limit numbers in the youth mobility scheme has been a sticking point in talks. If a deal is reached, legislation will be introduced to Parliament next week to implement the changes.",
+    "claims": [
+      {
+        "fact": "Up to 100,000 young people from the EU would be allowed to travel, work and study in the UK per year under a new youth mobility scheme set to be agreed on Friday.",
+        "source_index": 75,
+        "excerpt": "Up to 100,000 young people from the EU would be allowed to travel, work and study in the UK per year under a new youth mobility scheme set to be agreed on Friday, the BBC understands."
+      },
+      {
+        "fact": "The same number of young Britons would be allowed into Europe under the scheme, expected to be approved at the UK-EU summit in Brussels.",
+        "source_index": 75,
+        "excerpt": "The same number of young Britons would be allowed into Europe under the scheme, expected to be approved at the UK-EU summit in Brussels."
+      },
+      {
+        "fact": "The UK-EU summit where the youth mobility scheme and new trade deals are expected to be agreed is taking place on Friday in Brussels.",
+        "source_index": 75,
+        "excerpt": "The same number of young Britons would be allowed into Europe under the scheme, expected to be approved at the UK-EU summit in Brussels."
+      },
+      {
+        "fact": "Negotiators are seeking agreements on food trade rules and carbon emissions pricing alongside the youth mobility scheme.",
+        "source_index": 75,
+        "excerpt": "The prime minister has said a \"Channel action plan\" on immigration could also be struck, while negotiators are seeking agreements on food trade rules and carbon emissions pricing."
+      },
+      {
+        "fact": "An agreement on trade could remove checks and paperwork faced by food companies exporting to the EU, potentially adding £5bn to the economy and cutting food prices.",
+        "source_index": 75,
+        "excerpt": "An agreement on trade could remove checks and paperwork faced by food companies exporting to the EU. The government argues this could add £5bn to the economy and cut food prices."
+      },
+      {
+        "fact": "The UK government's request to limit numbers in the youth mobility scheme has been a sticking point in negotiations ahead of the summit.",
+        "source_index": 75,
+        "excerpt": "The UK's request to limit numbers has proved to be a sticking point in negotiation ahead of the summit, along with the EU's request that EU students should pay the same tuition fees at UK universities as domestic students."
+      },
+      {
+        "fact": "If a deal is secured at the summit, the government would introduce legislation to Parliament next week to implement changes.",
+        "source_index": 75,
+        "excerpt": "The prime minister's spokesman has said if a deal were secured, the government would introduce legislation to Parliament next week to implement changes."
+      }
+    ],
+    "source_urls": [
+      "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss"
+    ]
+  },
+  {
+    "story": "COP31 climate summit shows progress with new alliances and funding commitments",
+    "narration": "COP31 in Türkiye saw the launch of the ‘35 by 35’ pledge, aiming to increase the share of global energy demand met by electricity to 35% by 2035. The Asian Development Bank is leading efforts to raise about €1 billion to protect 14 Pacific island countries from rising seas and extreme weather. Four governments pledged over €180 million to the Global Environment Facility for environmental protection and climate adaptation. Canada committed up to €6.5 million to the Climate Risk and Early Warning Systems initiative. The UN-backed Global Fund for Coral Reefs announced more than €27 million for conservation in 22 developing countries. Signatories of the Paris Agreement began the second Global Stocktake, assessing progress towards climate goals. The UNEP’s methane leak monitoring system has prevented an estimated 125,000 tonnes of methane emissions since June. Finland published a national roadmap affirming its commitment to the Taskforce on Access to Climate Finance, following France, Germany, and the Netherlands.",
+    "claims": [
+      {
+        "fact": "COP31 was held in Türkiye, which unveiled its ‘35 by 35’ pledge aiming to raise the share of global energy demand met by electricity to 35% by 2035.",
+        "source_index": 17,
+        "excerpt": "Host country Türkiye unveiled its ‘35 by 35’ pledge, which aims to raise the share of global energy demand met by electricity from around 23 per cent today to 35 per cent by 2035."
+      },
+      {
+        "fact": "The Asian Development Bank is leading a programme to raise about €1 billion to protect 14 Pacific island countries from rising seas and extreme weather.",
+        "source_index": 17,
+        "excerpt": "The Asian Development Bank spearheaded a programme that aims to raise about €1 billion to protect 14 Pacific island countries from rising seas and extreme weather."
+      },
+      {
+        "fact": "Four governments pledged more than €180 million to Global Environment Facility funds supporting environmental protection and climate adaptation.",
+        "source_index": 17,
+        "excerpt": "Four governments – Belgium, Denmark, Germany and South Korea – pledged more than €180 million to Global Environment Facility funds supporting environmental protection and climate adaptation."
+      },
+      {
+        "fact": "Canada announced up to €6.5 million for the Climate Risk and Early Warning Systems initiative.",
+        "source_index": 17,
+        "excerpt": "Canada announced up to €6.5 million for the Climate Risk and Early Warning Systems initiative, which helps vulnerable countries prepare for extreme weather."
+      },
+      {
+        "fact": "The UN-backed Global Fund for Coral Reefs announced more than €27 million for reef conservation projects in 22 developing countries.",
+        "source_index": 17,
+        "excerpt": "The UN-backed Global Fund for Coral Reefs announced more than €27 million for reef conservation projects in 22 developing countries, including Mexico, Belize, Guatemala, Honduras, Indonesia, the Philippines and Tanzania."
+      },
+      {
+        "fact": "Signatories of the Paris Agreement kicked off the second Global Stocktake, a two-year assessment of global progress towards meeting the agreement’s climate goals.",
+        "source_index": 17,
+        "excerpt": "Despite tense talks throughout the conference, signatories of the Paris Agreement kicked off the second Global Stocktake, a two-year assessment of global progress towards meeting the agreement’s climate goals."
+      },
+      {
+        "fact": "The UNEP’s satellite-based methane leak monitoring system helped stop five major methane leaks since June, preventing an estimated 125,000 tonnes of methane from reaching the atmosphere.",
+        "source_index": 17,
+        "excerpt": "The UNEP revealed that its satellite-based monitoring system has helped stop five major methane leaks in Canada, Iraq, Kazakhstan and Mexico since June, preventing an estimated 125,000 tonnes of methane from reaching the atmosphere."
+      },
+      {
+        "fact": "During COP31, Finland published a national roadmap affirming its commitment to TAFF, following France, Germany and the Netherlands.",
+        "source_index": 17,
+        "excerpt": "During COP31, Finland affirmed its commitment to TAFF by publishing a national roadmap, following in the footsteps of France, Germany and the Netherlands."
+      }
+    ],
+    "source_urls": [
+      "https://www.euronews.com/2026/11/20/are-we-making-progress-on-climate-action-23-encouraging-signs-from-cop31"
+    ]
+  },
+  {
+    "story": "Czech Republic protests mass against media control and concentration of power",
+    "narration": "Large demonstrations have taken place across the Czech Republic opposing Prime Minister Andrej Babiš's proposed changes to the funding model of public broadcasters. Mikuláš Minář, Chair of the Million Moments for Democracy movement, spoke about the protests, warning that the country risks following Hungary and Slovakia in democratic backsliding. These protests coincided with commemorations marking the anniversary of the 1989 Velvet Revolution. The Million Moments for Democracy movement emphasises that it is a civil movement and does not intend to participate in elections as a political party.",
+    "claims": [
+      {
+        "fact": "Large demonstrations took place in the Czech Republic challenging Prime Minister Andrej Babiš's plans to change the funding model of public broadcasters.",
+        "source_index": 56,
+        "excerpt": "As large demonstrations in the Czech Republic challenge Prime Minister Andrej Babiš's plans to change the funding model of public broadcasters"
+      },
+      {
+        "fact": "Mikuláš Minář is the Chair of the Million Moments for Democracy movement and spoke about the protests.",
+        "source_index": 56,
+        "excerpt": "Mikuláš Minář, Chair of the Million Moments for Democracy movement, joins François Picard from Prague for Spotlight"
+      },
+      {
+        "fact": "The protests warn that the Czech Republic risks following Hungary and Slovakia in democratic backsliding.",
+        "source_index": 56,
+        "excerpt": "warning that his country risks following Hungary and Slovakia in democratic backsliding. \"We are really afraid that the Czech Republic is following the Orbánian Hungarian way, (Fico's) Slovakian way,\" he says."
+      },
+      {
+        "fact": "The protests occurred as the Czech people mark the anniversary of the 1989 Velvet Revolution with commemorations.",
+        "source_index": 56,
+        "excerpt": "As the Czech people mark the anniversary of the 1989 Velvet Revolution with commemorations, Minář recalls the importance of the freedoms gained after the fall of communism."
+      },
+      {
+        "fact": "The Million Moments for Democracy movement does not aspire to run in elections as a political party but is a civil movement.",
+        "source_index": 56,
+        "excerpt": "We don't aspire to run in elections as a political party. We are a civil movement."
+      }
+    ],
+    "source_urls": [
+      "https://www.france24.com/en/tv-shows/spotlight/20261120-czechs-protest-en-masse-against-concentration-of-power-in-one-hand-and-growing-control-over-media"
+    ]
+  },
+  {
+    "story": "Spain election debate highlights clash over corruption, migration, and economy",
+    "narration": "Ahead of a general election that may bring a right-wing government supported by the far-right Vox party, Spain's two main leaders clashed over migration, corruption, the economy, and public services. Prime Minister Sánchez accused his conservative opponent of being out of step with Europe by embracing Vox. In response, Feijóo urged Sánchez to concentrate less on international affairs and more on addressing the problems facing Spaniards at home. The debate highlighted the sharp divisions as the country prepares to vote.",
+    "claims": [
+      {
+        "fact": "The debate took place ahead of a general election that could usher in a right-wing government backed by the far-right Vox party.",
+        "source_index": 77,
+        "excerpt": "making a final pitch to voters ahead of a general election that could usher in a right-wing government backed by the far-right Vox party."
+      },
+      {
+        "fact": "The two leaders clashed over migration, corruption, the economy and public services.",
+        "source_index": 77,
+        "excerpt": "The personal animosity between Sánchez and Feijóo was evident during the showdown as the two leaders clashed over migration, corruption, the economy and public services."
+      },
+      {
+        "fact": "Sánchez accused the conservative of being out of step with Europe by embracing Vox.",
+        "source_index": 77,
+        "excerpt": "and Sánchez accused the conservative of being out of step with Europe by embracing Vox."
+      },
+      {
+        "fact": "Feijóo urged Sánchez to focus less on international affairs and more on the problems facing Spaniards at home.",
+        "source_index": 77,
+        "excerpt": "while Feijóo urged him to focus less on international affairs and more on the problems facing Spaniards at home."
+      }
+    ],
+    "source_urls": [
+      "https://www.politico.eu/article/spain-election-debate-5-takeaways-pedro-sanchez-alberto-nunez-feijoo/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    ]
+  },
+  {
+    "story": "France’s Dominique de Villepin announces presidential candidacy for 2027 election",
+    "narration": "Dominique de Villepin has announced his intention to run in the 2027 presidential election. The president of the movement La France humaniste made the announcement during a press conference at the Maison de l'Amérique latine in Paris on November 20, 2026. Following the conference, he planned to visit Valmondois in the Val-d'Oise. The mayor of Valmondois is Laurent de Gaulle, a descendant of General de Gaulle, who is known to be a political model for Dominique de Villepin.",
+    "claims": [
+      {
+        "fact": "Dominique de Villepin announced his intentions for the 2027 presidential election on November 20, 2026.",
+        "source_index": 16,
+        "excerpt": "L'ancien Premier ministre de Jacques Chirac a convoqué les journalistes vendredi 20 novembre, à 11 heures, pour une conférence de presse à la Maison de l'Amérique latine à Paris. Il va dévoiler ses intentions pour l'élection présidentielle."
+      },
+      {
+        "fact": "Dominique de Villepin is president of the movement La France humaniste.",
+        "source_index": 16,
+        "excerpt": "Le président du mouvement La France humaniste, qui peut s'adresser aussi bien à un électorat de gauche qu'au peuple de droite va tenter de se frayer un chemin parmi les nombreuses candidatures à l'Elysée."
+      },
+      {
+        "fact": "Dominique de Villepin held his press conference at the Maison de l'Amérique latine in Paris.",
+        "source_index": 16,
+        "excerpt": "L'ancien Premier ministre de Jacques Chirac a convoqué les journalistes vendredi 20 novembre, à 11 heures, pour une conférence de presse à la Maison de l'Amérique latine à Paris."
+      },
+      {
+        "fact": "After the press conference, Dominique de Villepin planned to go to Valmondois in the Val-d'Oise.",
+        "source_index": 16,
+        "excerpt": "Après cette conférence de presse, Dominique de Villepin se rendra à Valmondois, dans le Val-d'Oise."
+      },
+      {
+        "fact": "The mayor of Valmondois is Laurent de Gaulle, a descendant of General de Gaulle, who is a political model for Dominique de Villepin.",
+        "source_index": 16,
+        "excerpt": "Son maire n'est autre que Laurent de Gaulle, descendant du général, modèle politique du candidat de La France humaniste à la présidentielle."
+      }
+    ],
+    "source_urls": [
+      "https://www.franceinfo.fr/elections/direct-presidentielle-dominique-de-villepin-en-route-vers-une-candidature-a-la-presidentielle-suivez-la-prise-de-parole-de-l-ancien-premier-ministre_8291558.html#xtor=RSS-3-[lestitres]"
+    ]
+  },
+  {
+    "story": "GTA VI breaks entertainment sales records with estimated $2.3 billion revenue",
+    "narration": "Grand Theft Auto 6 has become the biggest entertainment launch in history, with pre-orders and first-day sales exceeding 24.5 million units and generating approximately $2.36 billion, according to analytics platform Sensor Tower. Around three quarters of sales were for PlayStation 5, with the remainder on Xbox. The game, which reportedly cost over $1 billion to develop, saw about 19.1 million copies sold by Thursday morning, representing $1.84 billion in sales. Its midnight release prompted many gamers to stay up all night, and Virgin Media O2 recorded its highest evening traffic as players downloaded the 212GB game file.",
+    "claims": [
+      {
+        "fact": "Grand Theft Auto 6 is estimated to have become the biggest entertainment launch in history following the blockbuster video game's debut on Thursday, after a 13-year wait.",
+        "source_index": 83,
+        "excerpt": "Grand Theft Auto 6 is estimated to have become the biggest entertainment launch in history following the blockbuster video game's debut on Thursday, after a 13-year wait."
+      },
+      {
+        "fact": "The highly anticipated open-world action-adventure saw pre-orders and first day sales total more than 24.5 million units, raking in about $2.36bn (£1.8bn), according to analytics platform Sensor Tower.",
+        "source_index": 83,
+        "excerpt": "The highly anticipated open-world action-adventure saw pre-orders and first day sales total more than 24.5 million units, raking in about $2.36bn (£1.8bn), according to analytics platform Sensor Tower."
+      },
+      {
+        "fact": "Around three quarters of the game's sales have been for the PlayStation 5 and the balance on Xbox, Sensor Tower said.",
+        "source_index": 83,
+        "excerpt": "Around three quarters of the game's sales have been for the PlayStation 5 and the balance on Xbox, Sensor Tower said."
+      },
+      {
+        "fact": "GTA 6 is estimated to have cost more than $1bn to develop, which would make it the most expensive video game in history.",
+        "source_index": 83,
+        "excerpt": "GTA 6 is estimated to have cost more than $1bn to develop, which would make it the most expensive video game in history."
+      },
+      {
+        "fact": "GTA VI has delivered a blockbuster debut, with about 19.1 million copies sold — including preorders — by Thursday morning, representing roughly $1.84 billion in sales, according to Sensor Tower.",
+        "source_index": 7,
+        "excerpt": "GTA VI has delivered a blockbuster debut, with about 19.1 million copies sold — including preorders — by Thursday morning, representing roughly $1.84 billion in sales, according to Sensor Tower."
+      },
+      {
+        "fact": "The release of GTA 6 at midnight on Thursday across various time zones saw many gamers stay up through the night, while some took the following day off to play.",
+        "source_index": 83,
+        "excerpt": "The release of GTA 6 at midnight on Thursday across various time zones saw many gamers stay up through the night, while some took the following day off to play."
+      },
+      {
+        "fact": "Its launch broke Virgin Media O2's evening traffic record as people rushed to install GTA 6's huge 212GB file on consoles.",
+        "source_index": 83,
+        "excerpt": "Its launch broke Virgin Media O2's evening traffic record as people rushed to install GTA 6's huge 212GB file on consoles."
+      }
+    ],
+    "source_urls": [
+      "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/11/20/gta-vi-launch-streaming-content-economy.html"
+    ]
+  },
+  {
+    "story": "AI advances in software engineering raise concerns over loss of developer creativity",
+    "narration": "A 2026 Stack Overflow survey found that 83% of software developers use at least one AI tool. Gemma Rodgers, a UK-based developer, said AI has sped up software engineering and is now part of daily work for every engineer she knows. Rodgers added that the joy of overcoming challenges has diminished somewhat. James Broadhead, CTO of Taktile, noted engineers can now create ten prototypes in an afternoon instead of three weeks. Joshua Wöhle of Mindstone said AI is creating \"100X engineers.\" Chris Sees of Hoxton Mix described AI as a capable junior engineer needing supervision. Rodgers believes challenge remains essential for accomplishment.",
+    "claims": [
+      {
+        "fact": "In a 2026 Stack Overflow survey, 83% of software developer respondents said they use at least one AI tool.",
+        "source_index": 23,
+        "excerpt": "In a 2026 Stack Overflow survey, 83% of software developer respondents said they use at least one AI tool."
+      },
+      {
+        "fact": "Gemma Rodgers, a software developer based in the U.K., said AI tools have accelerated the pace of software engineering and are now part of the daily work of every software engineer she knows.",
+        "source_index": 23,
+        "excerpt": "Rodgers, a software developer based in the U.K., told CNBC. But the arrival of artificial intelligence has accelerated the pace, with AI tools now part of the daily work of every software engineer she knows."
+      },
+      {
+        "fact": "Rodgers said, \"The sense of joy and fun that I used to experience by having a challenge and then having to work that out, it's been removed somewhat.\"",
+        "source_index": 23,
+        "excerpt": "\"The sense of joy and fun that I used to experience by having a challenge and then having to work that out, it's been removed somewhat,\" she said."
+      },
+      {
+        "fact": "James Broadhead, CTO of AI decision-making company Taktile, said engineers who might previously have spent three weeks building a prototype can now generate 10 in an afternoon.",
+        "source_index": 23,
+        "excerpt": "James Broadhead, chief technology officer of AI decision-making company Taktile, told CNBC that engineers who might previously have spent three weeks building a prototype can now generate 10 in an afternoon."
+      },
+      {
+        "fact": "Joshua Wöhle, CEO of London-based AI training company Mindstone, said AI is widening the productivity gap to produce \"100X engineers.\"",
+        "source_index": 23,
+        "excerpt": "Now, AI is widening that gap even further to produce \"100X engineers.\""
+      },
+      {
+        "fact": "Chris Sees, a software engineer and CEO of London-based Hoxton Mix, said AI gives developers more time to tackle interesting problems and acts like a capable junior engineer needing supervision.",
+        "source_index": 23,
+        "excerpt": "Chris Sees, a software engineer of more than 20 years and CEO of London-based virtual office company Hoxton Mix, told CNBC that AI gives developers more time to tackle interesting problems. He views AI as a capable junior engineer that still needs supervision."
+      },
+      {
+        "fact": "Rodgers believes friction and discomfort in problem-solving are vital parts of the human experience and that challenge is necessary for accomplishment.",
+        "source_index": 23,
+        "excerpt": "\"As humans, we need to feel accomplished in something and part of accomplishment requires challenge,\" she said. \"Unless we are able to work that through in so many different aspects of life, then you never get the full force of the good feeling on the other side.\""
+      }
+    ],
+    "source_urls": [
+      "https://www.cnbc.com/2026/11/20/ai-coding-tools-software-engineers.html"
+    ]
+  }
+]
