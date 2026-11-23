@@ -1,0 +1,409 @@
+[
+  {
+    "story": "Russian air strikes kill at least 15 people across Kyiv region, Ukraine says",
+    "narration": "Russian air strikes killed at least 15 people across the Kyiv region on 23 November 2026. An overnight strike on Dymer, about 45 kilometres north of Kyiv, hit a five-storey building, killing at least 11 people. Among the dead were a teenager and a woman in her forties, with rescuers still searching for 11 people, including two children. In Vyshneve, a Russian strike on a supermarket resulted in three deaths and 15 injuries, including three children. Additionally, a strike on a private home in Bila Tserkva killed one person and caused the building to catch fire. Rescuers managed to pull a 79-year-old woman and a child alive from the rubble in Dymer. Kyiv regional governor Tymur Tkachenko confirmed the death toll in Dymer had risen to 11.",
+    "claims": [
+      {
+        "fact": "Russian air strikes killed at least 15 people across Kyiv region on 23 November 2026.",
+        "source_index": 25,
+        "excerpt": "Rescuers in Ukraine raced to find residents on Monday trapped under the rubble of a block of flats that partially collapsed in a Russian strike, after attacks on the Kyiv region killed at least 15 people."
+      },
+      {
+        "fact": "An overnight strike on Dymer, around 45 kilometres north of Kyiv, hit a five-storey building, killing at least 11 people.",
+        "source_index": 25,
+        "excerpt": "An overnight strike on Dymer, around 45 kilometres north of the Ukrainian capital, hit a five-storey building, killing at least 11 people, according to Kyiv regional official Tymur Tkachenko."
+      },
+      {
+        "fact": "The dead included a teenager and a woman in her forties, and rescuers were searching for 11 people including two children.",
+        "source_index": 25,
+        "excerpt": "Ukraine's State Emergency Service said earlier on Telegram that the dead included a teenager and a woman in her forties. It said earlier that rescuers were searching for 11 people, including two children, who were \"not responding or cannot be reached\"."
+      },
+      {
+        "fact": "A Russian strike on a supermarket in Vyshneve killed three people and wounded 15, including three children.",
+        "source_index": 25,
+        "excerpt": "A Russian strike on a supermarket killed three other people and wounded 15, including three children, in Vyshneve, mayor Illya Dikov wrote on Facebook."
+      },
+      {
+        "fact": "A strike on a private home in Bila Tserkva killed one person and set the building ablaze.",
+        "source_index": 25,
+        "excerpt": "A strike on a private home in Bila Tserkva killed one more person and set the building ablaze, he added."
+      },
+      {
+        "fact": "Rescuers pulled out a 79-year-old woman and a child alive from the rubble in Dymer.",
+        "source_index": 25,
+        "excerpt": "Rescuers had managed to pull out people from the rubble including a 79-year-old woman and a child, Tkachenko said."
+      },
+      {
+        "fact": "The Kyiv regional governor Tymur Tkachenko confirmed the death toll had risen to 11 in Dymer.",
+        "source_index": 25,
+        "excerpt": "Rescuers recovered the body of another person from beneath the rubble,\" Tkachenko wrote on Telegram, confirming the death toll had risen to 11."
+      }
+    ],
+    "source_urls": [
+      "https://www.euronews.com/2026/11/23/russian-air-strikes-kill-at-least-15-people-across-kyiv-region-ukraine-says"
+    ]
+  },
+  {
+    "story": "Emmanuel Macron considers introducing a 'golden rule' budgetary policy amid rising debt and interest rates",
+    "narration": "French President Emmanuel Macron is considering adopting a 'golden rule' budgetary system to address rising debt and interest rates. According to franceinfo, a source close to the Élysée revealed this plan on Monday, November 23, 2026. Macron told Le Figaro that if financial volatility continues until January, exploring a 'golden rule' similar to that of 2011 could be a viable option. France's national debt currently stands at 3,600 billion euros. Implementing this budgetary policy would require convening the French Congress, including the National Assembly and Senate, and securing a three-fifths majority vote. The proposal has received support from the National Rally, Edouard Philippe, and Gabriel Attal, while the left remains opposed. The 'golden rule' aims to prevent a financial crisis by imposing stricter fiscal discipline amid economic uncertainty.",
+    "claims": [
+      {
+        "fact": "Emmanuel Macron envisages adopting a 'golden rule' budgetary system to prevent a financial crisis amid rising debt and interest rates.",
+        "source_index": 0,
+        "excerpt": "Selon les informations de franceinfo, Emmanuel Macron envisage d'adopter ce système pour repousser le risque d'une crise financière alors que la France a atteint 3 600 milliards d'euros de dette et que les taux d'intérêt augmentent."
+      },
+      {
+        "fact": "On Monday, November 23, 2026, franceinfo learned from a source close to the Élysée that Emmanuel Macron is considering instituting a 'golden rule' budgetary policy.",
+        "source_index": 0,
+        "excerpt": "Emmanuel Macron réfléchit à instaurer une \"règle d'or\" budgétaire, a appris, lundi 23 novembre, franceinfo de source proche de l'Élysée"
+      },
+      {
+        "fact": "France's national debt has reached 3,600 billion euros as of the time of the report.",
+        "source_index": 0,
+        "excerpt": "alors que la France a atteint 3 600 milliards d'euros de dette"
+      },
+      {
+        "fact": "Emmanuel Macron mentioned to Le Figaro that if volatility continues until January, exploring a 'golden rule' like that of 2011 could be an idea.",
+        "source_index": 0,
+        "excerpt": "Le président de la République a confié au Figaro, lundi, qu'il réfléchissait bien à faire inscrire dans la Constitution une règle d'or budgétaire : \"S'il y a encore de la volatilité d'ici janvier, réfléchir à une règle d'or du type de celle de 2011 peut être une idée à explorer.\""
+      },
+      {
+        "fact": "To establish the 'golden rule', the French Congress (National Assembly and Senate) must be convened and a three-fifths majority of votes obtained.",
+        "source_index": 0,
+        "excerpt": "Pour instaurer cette \"règle d'or\", il va falloir convoquer le Congrès, c'est-à-dire l'Assemblée nationale et le Sénat, et obtenir la majorité des trois cinquièmes des suffrages exprimés."
+      },
+      {
+        "fact": "The National Rally, Edouard Philippe, and Gabriel Attal are favorable to the 'golden rule' budgetary policy, unlike the left.",
+        "source_index": 0,
+        "excerpt": "Le Rassemblement national s'est déjà dit favorable à une \"règle d'or\" budgétaire, tout comme Edouard Philippe et Gabriel Attal, ce qui n'est pas le cas de la gauche."
+      }
+    ],
+    "source_urls": [
+      "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/emmanuel-macron-reflechit-a-instaurer-une-regle-d-or-budgetaire_8273864.html#xtor=RSS-3-[lestitres]"
+    ]
+  },
+  {
+    "story": "North Korea's leader emphasizes sovereignty after declining Trump’s offer for talks",
+    "narration": "North Korean leader Kim Jong-un has announced his country's intention to expand its foreign relations while safeguarding national sovereignty, according to state media. Kim made the remarks during a ceremony to receive credentials from newly appointed ambassadors, including Russia's, a role traditionally performed by a senior official rather than the leader himself. The Korean Central News Agency reported that Pyongyang aims to develop foreign relations based on independence, peace, and friendship, with a focus on defending sovereignty and security. This event followed US President Donald Trump's unsuccessful attempts to arrange a meeting with Kim during his recent visit to China for the Asia-Pacific Economic Cooperation summit. Kim also commented on the current global situation, describing it as an unstable security crisis accompanied by political and economic chaos, without providing further details. Experts suggest Kim's direct involvement in the diplomatic ceremony indicates a shift in North Korea's diplomatic approach, as noted by Professor Lim Eul-chul of Kyungnam University.",
+    "claims": [
+      {
+        "fact": "North Korean leader Kim Jong-un said his country would seek to expand its foreign relations while safeguarding its sovereignty, state media reported on Monday, days after rebuffing US President Donald Trump's push to meet.",
+        "source_index": 1,
+        "excerpt": "North Korean leader Kim Jong-un said his country would seek to expand its foreign relations while safeguarding its sovereignty, state media reported on Monday, days after rebuffing US President Donald Trump's push to meet."
+      },
+      {
+        "fact": "Kim made the remarks at a ceremony to receive credentials from newly appointed ambassadors, including Russia's, in a rare departure from protocol, as the task has traditionally been performed by a senior official rather than Kim himself.",
+        "source_index": 1,
+        "excerpt": "Kim made the remarks at a ceremony to receive credentials from newly appointed ambassadors, including Russia's, in a rare departure from protocol, as the task has traditionally been performed by a senior official rather than Kim himself."
+      },
+      {
+        "fact": "Pyongyang's diplomatic goal is to \"expand and develop foreign relations under the ideals of independence, peace and friendship on the principle of defending the national sovereignty and security\", Kim said, according to the official Korean Central News Agency (KCNA).",
+        "source_index": 1,
+        "excerpt": "Pyongyang's diplomatic goal is to \"expand and develop foreign relations under the ideals of independence, peace and friendship on the principle of defending the national sovereignty and security\", Kim said, according to the official Korean Central News Agency (KCNA)."
+      },
+      {
+        "fact": "The ceremony followed Trump's unsuccessful attempts to arrange a meeting with Kim during his visit to China for the Asia-Pacific Economic Cooperation (APEC) summit last week.",
+        "source_index": 1,
+        "excerpt": "The ceremony followed Trump's unsuccessful attempts to arrange a meeting with Kim during his visit to China for the Asia-Pacific Economic Cooperation (APEC) summit last week."
+      },
+      {
+        "fact": "Trump left Asia on Thursday after a landmark summit with the Chinese and Russian presidents, without meeting Kim, as Trump had suggested he might.",
+        "source_index": 1,
+        "excerpt": "Trump left Asia on Thursday after a landmark summit with the Chinese and Russian presidents, without meeting Kim, as Trump had suggested he might."
+      },
+      {
+        "fact": "\"The world is now witnessing an unstable security crisis and political and economic chaos round the globe,\" Kim said at the ceremony, without elaborating.",
+        "source_index": 1,
+        "excerpt": "\"The world is now witnessing an unstable security crisis and political and economic chaos round the globe,\" Kim said at the ceremony, without elaborating."
+      },
+      {
+        "fact": "\"The present international situation is bringing about a significant change in our understanding of national sovereignty and security,\" he added.",
+        "source_index": 1,
+        "excerpt": "\"The present international situation is bringing about a significant change in our understanding of national sovereignty and security,\" he added."
+      },
+      {
+        "fact": "Kim's attendance at the diplomatic ceremony, while ignoring Trump's outreach, signals a \"shift\" in North Korea's diplomatic approach, Lim Eul-chul, a professor at Kyungnam University's Institute for Far Eastern Studies, told the AFP news agency.",
+        "source_index": 1,
+        "excerpt": "Kim's attendance at the diplomatic ceremony, while ignoring Trump's outreach, signals a \"shift\" in North Korea's diplomatic approach, Lim Eul-chul, a professor at Kyungnam University's Institute for Far Eastern Studies, told the AFP news agency."
+      }
+    ],
+    "source_urls": [
+      "https://www.euronews.com/2026/11/23/north-koreas-leader-highlights-sovereignty-after-rebuffing-trump-offer-for-talks"
+    ]
+  },
+  {
+    "story": "Longest-ever UN climate talks end with no deal amid deep geopolitical divisions",
+    "narration": "The UN COP31 climate talks in Antalya, Turkey, have concluded as the longest UN climate conference in history, ending without a major new deal. The final agreement notably omitted any direct mention of fossil fuels, a point deemed unacceptable by the EU, Pacific island nations, and others. Many poorer countries expressed dissatisfaction over the lack of clear financial commitments from wealthier nations to support adaptation to climate impacts. UN Secretary General Antonio Guterres voiced deep disappointment, criticizing powerful fossil fuel interests for obstructing progress. Australian Prime Minister Anthony Albanese, co-host of the talks, cited difficult geopolitical times as a factor in the outcome. Meanwhile, the COP31 president highlighted that over 80 countries supported Turkey's goal to increase electricity's share of global energy use to 35% by 2035.",
+    "claims": [
+      {
+        "fact": "The UN COP31 climate talks in Turkey became the longest UN climate conference in history, ending with no major new deal.",
+        "source_index": 67,
+        "excerpt": "Negotiations were due to finish on Friday but ran late into Sunday in search of common ground, becoming the longest UN climate conference in history."
+      },
+      {
+        "fact": "The final deal at COP31 failed to directly mention fossil fuels, which was unacceptable to the EU, Pacific island nations, and others.",
+        "source_index": 67,
+        "excerpt": "But the final deal proved unacceptable to the EU, Pacific island nations and others because it failed to directly mention fossil fuels, the main cause of global warming."
+      },
+      {
+        "fact": "Many poorer countries objected to the absence of clear financial commitments from richer nations to help them adapt to climate impacts.",
+        "source_index": 67,
+        "excerpt": "Meanwhile, many poorer countries objected to the absence of any clear financial commitments from richer nations to help them adapt to the impacts of rising temperatures."
+      },
+      {
+        "fact": "UN Secretary General Antonio Guterres said he was \"deeply disappointed\" and criticized \"powerful fossil fuel interests\" for blocking climate action.",
+        "source_index": 67,
+        "excerpt": "UN Secretary General Antonio Guterres, in his last COP before he steps down, said he was \"deeply disappointed\". He took aim at what he called \"powerful fossil fuel interests\" who he said were taking \"a page from Big Tobacco's playbook: distorting the science, delaying policy, blocking action, and piling up huge profits while people everywhere pay the price\"."
+      },
+      {
+        "fact": "Australian Prime Minister Anthony Albanese, co-host of COP31, attributed the failure to \"difficult geopolitical times.\"",
+        "source_index": 67,
+        "excerpt": "Australian Prime Minister Anthony Albanese, whose country co-hosted the talks, attributed the failure to \"difficult geopolitical times\"."
+      },
+      {
+        "fact": "The COP31 talks were held in Antalya, Turkey, with Australia leading the official negotiations.",
+        "source_index": 67,
+        "excerpt": "While talks were hosted in Antalya in Turkey, Australia led the official negotiations - creating what some observers described as a chaotic dynamic."
+      },
+      {
+        "fact": "The COP31 president said more than 80 countries backed Turkey's target to increase the share of global energy use met by electricity to 35% by 2035.",
+        "source_index": 67,
+        "excerpt": "The COP31 president also said more than 80 countries backed Turkey's target to increase the share of global energy use met by electricity to 35% by 2035."
+      }
+    ],
+    "source_urls": [
+      "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
+    ]
+  },
+  {
+    "story": "Tata Steel to acquire $1.67 billion stake in India’s largest steel pipe maker; shares fall nearly 5%",
+    "narration": "Tata Steel is set to acquire a 26.4% stake in APL Apollo, India's largest structural steel pipe and tube maker, for 155.1 billion rupees, equivalent to 1.67 billion US dollars. The deal will increase Tata Steel's downstream integration from 35% to around 53%, according to a stock exchange filing. Following the announcement, Tata Steel shares fell nearly 5%, while APL Apollo shares dropped over 10% in early trading. Tata Steel will purchase shares from existing APL Apollo shareholders at 2,100 rupees per share and plans an open offer for an additional 26% stake at 2,301.40 rupees per share. If successful, Tata Steel would hold a controlling 52.38% stake. Tata Steel's CEO, T V Narendran, described the acquisition as creating a \"downstream powerhouse\" for the growing Indian market.",
+    "claims": [
+      {
+        "fact": "Tata Steel will buy a 26.4% stake in India's largest structural steel pipe and tube maker, APL Apollo, for 155.1 billion rupees ($1.67 billion).",
+        "source_index": 23,
+        "excerpt": "Tata Steel, one of the world's leading steel producers, on Monday said it will buy a 26.4% stake in India's largest structural steel pipe and tube maker, APL Apollo, for 155.1 billion rupees ($1.67 billion)."
+      },
+      {
+        "fact": "Shares of Tata Steel were nearly 5% lower on Monday, while APL Apollo shares tanked over 10% in early trade.",
+        "source_index": 23,
+        "excerpt": "Shares of Tata Steel were nearly 5% lower on Monday, while APL Apollo shares tanked over 10% in early trade."
+      },
+      {
+        "fact": "The acquisition will boost Tata Steel's downstream integration to around 53% from 35%, the company said in a stock exchange filing.",
+        "source_index": 23,
+        "excerpt": "The acquisition will boost Tata Steel's downstream integration to around 53% from 35%, the company said in a stock exchange filing."
+      },
+      {
+        "fact": "APL Apollo said after the deal it plans to more than double the downstream capacity to 15.5 million tons from the current 7.5 million tons.",
+        "source_index": 23,
+        "excerpt": "APL Apollo said after the deal it plans to more than double the downstream capacity to 15.5 million tons from the current 7.5 million tons, making it a leading global downstream steel firm."
+      },
+      {
+        "fact": "Tata Steel will acquire a stake from existing shareholders of APL Apollo for 2,100 rupees per share and will also make an open offer to acquire an additional 26% stake for 2,301.40 rupees a piece.",
+        "source_index": 23,
+        "excerpt": "Tata Steel will acquire a stake from existing shareholders of APL Apollo for 2,100 rupees per share and will also make an open offer to acquire an additional 26% stake for 2,301.40 rupees a piece."
+      },
+      {
+        "fact": "If the open offer is successful, Tata Steel would get a controlling stake of 52.38% in APL Apollo.",
+        "source_index": 23,
+        "excerpt": "If the open offer is successful, Tata Steel would get a controlling stake of 52.38% in APL Apollo."
+      },
+      {
+        "fact": "The acquisition of APL Apollo would \"create a downstream powerhouse for the future\" that will serve the growing Indian market, T V Narendran, chief executive and managing director of Tata Steel, said in the release.",
+        "source_index": 23,
+        "excerpt": "The acquisition of APL Apollo would \"create a downstream powerhouse for the future\" that will serve the growing Indian market, T V Narendran, chief executive and managing director of Tata Steel, said in the release."
+      },
+      {
+        "fact": "Tata Steel, which has an annual crude steel capacity of over 35 million tons per annum, is one of the world's most geographically diversified steel producers with presence across India, Europe and Thailand.",
+        "source_index": 23,
+        "excerpt": "Tata Steel, which has an annual crude steel capacity of over 35 million tons per annum, is one of the world's most geographically diversified steel producers with presence across India, Europe and Thailand."
+      }
+    ],
+    "source_urls": [
+      "https://www.cnbc.com/2026/11/23/tata-steel-acquisition-deal-apl-india.html"
+    ]
+  },
+  {
+    "story": "Syria-EU talks progress with migration and repatriation as key issues",
+    "narration": "Officials from Syria and the European Union are negotiating a deal to normalise relations after a 15-year suspension. The agreement aims to establish a framework for trade, political dialogue, and closer cooperation. Brussels is primarily focused on the repatriation of Syrians, with over a million having fled to Europe during the Syrian war from 2011 to 2024. In January, the EU announced a two-year funding package of 620 million euros for Syria. Several European countries are considering reopening embassies or missions in Syria. Since the fall of the Assad government, around one million Syrians have returned home, mainly from neighbouring countries such as Lebanon, Turkiye, and Jordan. However, some European diplomats have expressed concern that the deal may prioritise repatriation over human rights and other critical issues, according to Al Jazeera.",
+    "claims": [
+      {
+        "fact": "Officials from Syria and the European Union are working on a deal to normalise relations after a 15-year suspension.",
+        "source_index": 11,
+        "excerpt": "Officials from Syria and the European Union are working on a deal to normalise relations after a 15-year suspension."
+      },
+      {
+        "fact": "The aim is to give Europe and Syria a framework for trade, political dialogue and closer cooperation as soon as possible.",
+        "source_index": 11,
+        "excerpt": "“The aim is to give Europe and Syria a framework for trade, political dialogue and closer cooperation as soon as possible,” Kaja Kallas, vice president of the European Commission, said in a statement on November 16."
+      },
+      {
+        "fact": "Brussels is largely focused on the repatriation of Syrians, with more than a million fleeing to Europe during the Syrian war between 2011 and 2024.",
+        "source_index": 11,
+        "excerpt": "Brussels is largely focused on the repatriation of Syrians, with more than a million fleeing to Europe during the Syrian war between 2011 and 2024."
+      },
+      {
+        "fact": "In January, Brussels announced a two-year funding package of 620 million euros ($680m) for Syria.",
+        "source_index": 11,
+        "excerpt": "In January, Brussels announced a two-year funding package of 620 million euros ($680m) for Syria and in May the EU held its first high-level political dialogue with Syria, which aimed to revive bilateral relations."
+      },
+      {
+        "fact": "Many European nations have been exploring reopening embassies or missions in Syria.",
+        "source_index": 11,
+        "excerpt": "Many European nations have been exploring reopening embassies or missions in Syria, diplomats told Al Jazeera, while Syrian and EU officials continue talks on normalisation and sanctions removal."
+      },
+      {
+        "fact": "Since the fall of the Assad government, about one million Syrians have returned home, most from neighbouring countries such as Lebanon, Turkiye and Jordan.",
+        "source_index": 11,
+        "excerpt": "Since the fall of the Assad government, about one million Syrians have returned home, most from neighbouring countries such as Lebanon, Turkiye and Jordan."
+      },
+      {
+        "fact": "Current and former European diplomats told Al Jazeera they were concerned that Europe would overly focus on repatriation in any deal with Syria, leaving human rights and other important issues by the wayside.",
+        "source_index": 11,
+        "excerpt": "Current and former European diplomats told Al Jazeera they were concerned that Europe would overly focus on repatriation in any deal with Syria, leaving human rights and other important issues by the wayside."
+      }
+    ],
+    "source_urls": [
+      "https://www.aljazeera.com/features/2026/11/23/as-syria-eu-talks-progress-diplomats-fear-focus-will-be-on-repatriation?traffic_source=rss"
+    ]
+  },
+  {
+    "story": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+    "narration": "Democrats have secured at least 258 seats in the midterm elections, compared to at least 173 seats held by Republicans. This marks the largest Democratic majority since 1992, when the party also won 258 seats. In North Carolina, Democrat Chuck Hubbard unseated Republican Representative Virginia Foxx in the 5th Congressional District, winning by 330 votes with 99% of the count complete. Foxx has represented the district since 2005. Notably, in 2024, former President Trump won this district by nearly 18 percentage points. Four House races remain undecided following the midterms.",
+    "claims": [
+      {
+        "fact": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+        "source_index": 83,
+        "excerpt": "The party has now won at least 258 House seats in the midterms compared to Republicans, who hold at least 173 seats, with four races still yet to be called."
+      },
+      {
+        "fact": "Democrat Chuck Hubbard unseated Republican Representative Virginia Foxx in North Carolina.",
+        "source_index": 83,
+        "excerpt": "The Democratic Party has won the largest majority in the US House of Representatives since 1992, after Democrat Chuck Hubbard unseated Republican Representative Virginia Foxx in North Carolina."
+      },
+      {
+        "fact": "Hubbard beat Foxx by 330 votes with 99% counted.",
+        "source_index": 83,
+        "excerpt": "The race was called on Sunday, with Hubbard beating Foxx by 330 votes with 99% counted."
+      },
+      {
+        "fact": "This is the largest Democratic majority since 1992, when the party also won 258 seats.",
+        "source_index": 74,
+        "excerpt": "It’s the largest House majority that any party has held this century, according to the Office of the House Historian. It’s also the largest Democratic majority since 1992, when the party also won 258 seats."
+      },
+      {
+        "fact": "Foxx has represented North Carolina's 5th Congressional District since 2005.",
+        "source_index": 83,
+        "excerpt": "Sunday's result came after Foxx, who has represented North Carolina's 5th Congressional District since 2005, requested a recount."
+      },
+      {
+        "fact": "In 2024, Trump won Foxx’s district by almost 18 percentage points.",
+        "source_index": 74,
+        "excerpt": "In 2024, Trump won Foxx’s district by almost 18 percentage points, per an NBC News Decision Desk analysis."
+      },
+      {
+        "fact": "Four House races are still yet to be called after the midterms.",
+        "source_index": 83,
+        "excerpt": "The party has now won at least 258 House seats in the midterms compared to Republicans, who hold at least 173 seats, with four races still yet to be called."
+      }
+    ],
+    "source_urls": [
+      "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+      "https://www.nbcnews.com/news/us-news/weekend-rundown-november-22-rcna610436"
+    ]
+  },
+  {
+    "story": "Andy Burnham maintains ambition for closer UK-EU links despite speculation of slowdown",
+    "narration": "Andy Burnham has confirmed he is not delaying plans to strengthen the UK's ties with the European Union. The Prime Minister recently promised to present options for the UK's long-term relationship with the EU, including the possibility of rejoining, later this year. Burnham described ongoing discussions with the EU as a period of \"brainstorming\" ideas, with a timeline spanning several months. Government officials have emphasised there is no backtracking following a \"really positive\" summit, instead aiming to allow the new deal to demonstrate its benefits. On Monday, Burnham will visit a Morrisons branch to highlight efforts in youth employment and promote the deal's impact on food price checks. He is also expected to brief the Commons on the summit and deal, where opposition parties, especially Reform UK, are anticipated to respond critically.",
+    "claims": [
+      {
+        "fact": "Andy Burnham is not backtracking or delaying his ambitions to create even closer links with the EU.",
+        "source_index": 28,
+        "excerpt": "Andy Burnham is not backtracking or delaying his ambitions to create even closer links with the EU in the wake of a landmark summit in Brussels, the Guardian has been told, after signs of an apparent slowdown in the timetable."
+      },
+      {
+        "fact": "The prime minister has promised to set out options for the UK’s long-term relationship with the EU, including the possibility of rejoining, saying last week that these would be outlined later in the year.",
+        "source_index": 28,
+        "excerpt": "The prime minister has promised to set out options for the UK’s long-term relationship with the EU, including the possibility of rejoining, saying last week that these would be outlined later in the year."
+      },
+      {
+        "fact": "Burnham talked about “brainstorming” ideas with the EU for what comes next, with a timetable given of some months.",
+        "source_index": 28,
+        "excerpt": "But speaking at Friday’s UK-EU summit after finalising a deal on reducing food and drink checks, emissions trading and a mutual youth mobility scheme, Burnham talked instead about “brainstorming” ideas with the EU for what comes next, with a timetable given of some months."
+      },
+      {
+        "fact": "Government officials said there is no backtracking or pumping the brakes on the closer UK-EU links agenda after a “really positive” summit.",
+        "source_index": 28,
+        "excerpt": "But after Ed Miliband, the foreign secretary, talked warmly on Sunday about the benefits of more integration, government officials said this was still the aim after a “really positive” summit in which the EU side, they said, promised to be as helpful as possible with whatever comes next. “There is no backtracking or pumping the brakes,” one said."
+      },
+      {
+        "fact": "The government just wants to let this deal breathe a bit, and point to the benefits.",
+        "source_index": 28,
+        "excerpt": "“There is no backtracking or pumping the brakes,” one said. “The government just wants to let this deal breathe a bit, and point to the benefits.”"
+      },
+      {
+        "fact": "Burnham will visit a branch of Morrisons on Monday to see efforts in employing young people and to promote the deal on food checks lowering retail prices.",
+        "source_index": 28,
+        "excerpt": "Burnham will seek to keep up the initiative from the summit with a visit on Monday to a branch of Morrisons, in part to see the supermarket chain’s efforts in employing young people, but also to push home his message that the deal on food checks will lower retail prices."
+      },
+      {
+        "fact": "On Monday, Burnham is expected to brief the Commons on the summit and deal, where he will face a hostile reception from opposition parties, particularly Reform UK.",
+        "source_index": 28,
+        "excerpt": "Also on Monday the prime minister is expected to brief the Commons on the summit and deal, where he will face a hostile reception from opposition parties, particularly Reform UK."
+      }
+    ],
+    "source_urls": [
+      "https://www.theguardian.com/politics/2026/nov/23/andy-burnham-not-backtracking-creating-closer-links-eu-officials-say"
+    ]
+  },
+  {
+    "story": "Income inequality in the EU fell slightly in 2025 but disparities remain wide",
+    "narration": "Income inequality in the European Union fell slightly in 2025, reaching its lowest level since 2010. The EU's Gini coefficient decreased to 29.2 from 29.4 in 2024, compared with an average of 30.2 over the previous 15 years. Bulgaria recorded the highest income inequality in the EU at 37.7, while Slovakia had the lowest at 23.0. Among 34 European countries, Turkey had the highest inequality with a Gini coefficient of 43.9. Romania's coefficient was 27.3, significantly below its 15-year average of 33.7. Hungary saw the largest rise, with a coefficient of 29.5, above its average of 27.6.",
+    "claims": [
+      {
+        "fact": "Income inequality in the EU fell slightly in 2025 to its lowest level in the current series, which begins in 2010.",
+        "source_index": 41,
+        "excerpt": "In 2025, income inequality in the EU fell to its lowest level in the current series, which begins in 2010."
+      },
+      {
+        "fact": "The EU’s Gini coefficient fell slightly to 29.2 in 2025, down from 29.4 in 2024.",
+        "source_index": 41,
+        "excerpt": "In 2025, the EU’s Gini coefficient fell slightly to 29.2, down from 29.4 in 2024."
+      },
+      {
+        "fact": "Bulgaria has the highest income inequality in the EU at 37.7 in 2025.",
+        "source_index": 41,
+        "excerpt": "Bulgaria has the highest income inequality in the EU at 37.7, while the EU average is 29.2."
+      },
+      {
+        "fact": "Turkey has the highest income inequality among 34 European countries covered, with a Gini coefficient of 43.9 in 2025.",
+        "source_index": 41,
+        "excerpt": "According to Eurostat, the Gini coefficient ranges from 23.0 in Slovakia to 43.9 in Turkey across the 34 European countries covered, using the latest available figures."
+      },
+      {
+        "fact": "Slovakia has the lowest income inequality with a Gini coefficient of 23.0 in 2025.",
+        "source_index": 41,
+        "excerpt": "Slovakia has the lowest income inequality, with a Gini coefficient of 23.0."
+      },
+      {
+        "fact": "The EU average Gini coefficient was 29.2 in 2025, compared with an average of 30.2 over the previous 15 years.",
+        "source_index": 41,
+        "excerpt": "The EU’s Gini coefficient was 29.2 in 2025, compared with an average of 30.2 over the previous 15 years."
+      },
+      {
+        "fact": "Romania’s Gini coefficient was 27.3 in 2025, 6.4 points below its average of 33.7.",
+        "source_index": 41,
+        "excerpt": "Romania is furthest below its past average. Its Gini coefficient was 27.3 in 2025, 6.4 points below its average (33.7)."
+      },
+      {
+        "fact": "Income inequality rose most in Hungary, with a Gini coefficient of 29.5 in 2025, 1.9 points above its average of 27.6.",
+        "source_index": 41,
+        "excerpt": "Inequality rose most in Hungary. Its Gini coefficient was 29.5 in 2025, 1.9 points above its average of 27.6."
+      }
+    ],
+    "source_urls": [
+      "https://www.euronews.com/2026/11/23/income-inequality-across-europe-where-is-it-highest-and-how-is-it-changing"
+    ]
+  }
+]
