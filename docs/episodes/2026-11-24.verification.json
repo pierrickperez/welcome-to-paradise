@@ -1,0 +1,429 @@
+[
+  {
+    "story": "Jensen Huang returns as Nvidia CEO amid corporate governance scrutiny and market rally",
+    "narration": "Jensen Huang has returned as CEO of Nvidia after resigning less than two weeks ago. His comeback has sparked renewed scrutiny of the company's corporate governance and its dependence on its founder. On the day of Huang's return, Nvidia shares surged nearly 32%, boosting the company's market value by close to $1 trillion in a single session. Former US President Donald Trump publicly supported Huang's return, describing him as \"a Great Patriot and National Treasure.\" Huang is scheduled to face a public Senate hearing on US export controls on 3 December 2026. The recent leadership changes have highlighted vulnerabilities in Nvidia's board oversight and succession planning. Analysts have suggested that the company needs to strengthen its corporate governance, improve succession planning, and appoint more experienced board members to ensure stability and long-term growth.",
+    "claims": [
+      {
+        "fact": "Jensen Huang returned as Nvidia CEO on 2026-11-24 after resigning less than two weeks earlier.",
+        "source_index": 49,
+        "excerpt": "Nvidia's board voted unanimously on Monday to reinstate Huang as chief executive, president and board director, less than two weeks after he resigned over revelations of extramarital affairs"
+      },
+      {
+        "fact": "Jensen Huang's return has brought renewed scrutiny to Nvidia's corporate governance and reliance on its founder.",
+        "source_index": 7,
+        "excerpt": "Jensen Huang's return as Nvidia CEO may have eased concerns over the chipmaker's leadership, but it has also brought renewed scrutiny to the company's corporate governance and its reliance on its founder."
+      },
+      {
+        "fact": "Nvidia shares jumped nearly 32% on the day of Huang's return, adding close to $1 trillion in market value in a single session.",
+        "source_index": 49,
+        "excerpt": "Nvidia shares jumped nearly 32% on Monday, marking the company's best day since May 2003 and adding close to $1 trillion in market value in a single session."
+      },
+      {
+        "fact": "Donald Trump publicly supported Jensen Huang's return as Nvidia CEO and called him 'a Great Patriot and National Treasure.'",
+        "source_index": 49,
+        "excerpt": "\"The Country needs Jensen's leadership at NVIDIA in order to ensure the Success and Prosperity of not only the Company, but the American Economy,\" Trump wrote on Truth Social, calling Huang \"a Great Patriot and National Treasure\"."
+      },
+      {
+        "fact": "Jensen Huang faces a public Senate hearing on US export controls scheduled for 3 December 2026.",
+        "source_index": 49,
+        "excerpt": "Huang faces a public Senate hearing on US export controls on 3 December."
+      },
+      {
+        "fact": "Jensen Huang's departure and return exposed vulnerabilities in Nvidia's board oversight and succession planning.",
+        "source_index": 7,
+        "excerpt": "Huang's abrupt departure and unexpected reinstatement exposed a deeper vulnerability at the heart of Nvidia, industry experts told CNBC, raising questions about board oversight and succession planning."
+      },
+      {
+        "fact": "Analysts suggest Nvidia needs to improve corporate governance, succession planning, and add experienced board members.",
+        "source_index": 7,
+        "excerpt": "He suggested Nvidia add more experience to its board by bringing in individuals who have run large companies and take a more formal approach to developing potential successors to Huang."
+      }
+    ],
+    "source_urls": [
+      "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html",
+      "https://www.euronews.com/2026/11/24/jensen-huang-is-back-at-nvidia-what-does-it-mean-for-europes-ai-stocks"
+    ]
+  },
+  {
+    "story": "German public opinion shifts towards restraint in foreign policy and neutrality between US and China",
+    "narration": "A growing number of Germans now oppose providing military aid to Ukraine, according to recent survey data. The majority of respondents believe Germany should maintain a neutral stance between the US and China. Nearly half, 48%, support a more restrained approach to international affairs, marking a five percentage point increase from last year. Concerns about global stability are high, with 65% fearing further military conflicts worldwide. Additionally, 77% of those surveyed want Germany to prioritise diplomacy over military action. Support for greater international engagement has declined, with only 40% in favour, down from 48% in 2025. Regional differences are notable, as support for neutrality stands at 92% in eastern Germany compared to 81% in the west. These figures suggest a significant shift in public opinion towards caution and diplomatic solutions in Germany's foreign policy.",
+    "claims": [
+      {
+        "fact": "A growing number of Germans now oppose providing military aid to Ukraine.",
+        "source_index": 41,
+        "excerpt": "In September 2026, only 46% of respondents supported continued military assistance, compared to 59% in the previous year's survey. Currently, a narrow majority of 53% want to halt weapons deliveries altogether."
+      },
+      {
+        "fact": "The majority believes that Germany should take a neutral position between the US and China.",
+        "source_index": 41,
+        "excerpt": "As the US and China are increasingly seen as rivals on the global stage, 83% of respondents believe that Germany should remain neutral. Only 15% would side with the US."
+      },
+      {
+        "fact": "48% believe that Germany should adopt a more restrained approach to international affairs — a five percentage point increase from last year.",
+        "source_index": 41,
+        "excerpt": "Meanwhile, 48% believe that Germany should adopt a more restrained approach to international affairs — a five percentage point increase from last year."
+      },
+      {
+        "fact": "65% of respondents said they fear further military conflicts around the world.",
+        "source_index": 41,
+        "excerpt": "In the foundation's latest poll on public attitudes on German foreign policy, 65% of respondents said they fear further military conflicts around the world."
+      },
+      {
+        "fact": "77% of respondents want Germany to focus primarily on diplomacy rather than military action.",
+        "source_index": 41,
+        "excerpt": "Meanwhile, 77% of respondents want Germany to focus primarily on diplomacy rather than military action."
+      },
+      {
+        "fact": "Only 40% of respondents now favor greater international engagement, down from 48% in 2025.",
+        "source_index": 41,
+        "excerpt": "Only 40% of respondents now favor greater international engagement, down from 48% in 2025."
+      },
+      {
+        "fact": "Support for neutrality is at 92% in eastern Germany, compared to 81% in the west.",
+        "source_index": 41,
+        "excerpt": "In eastern Germany, support for neutrality is at 92%, compared to 81% in the west."
+      }
+    ],
+    "source_urls": [
+      "https://www.dw.com/en/weapons-war-and-wavering-trust-germans-want-to-see-more-restraint-in-foreign-policy/a-80026254?maca=en-rss-en-all-1573-xml-mrss"
+    ]
+  },
+  {
+    "story": "Bangladesh's ex-PM Sheikh Hasina announces return date amid political developments",
+    "narration": "Bangladesh's former prime minister Sheikh Hasina has announced plans to return home on 16 December, more than two years after a popular uprising forced her from power. Hasina, who has lived in exile in Delhi since August 2024, has requested the Bangladeshi government to arrange her flight back to Dhaka, according to her spokesperson. Last year, a Bangladeshi court sentenced her to death in absentia for crimes against humanity related to a deadly crackdown on student-led protests that ended her 15-year rule, charges she denies. The state minister for foreign affairs, Humayun Kabir, dismissed the possibility of her returning on her own terms, stating she will be brought back in handcuffs. Hasina fled to India on 5 August 2024 amid mass protests and after crowds stormed her official residence. The UN estimates that up to 1,400 people were killed during the unrest. Her spokesperson accused Bangladeshi authorities of forcing her into exile in violation of the constitution. The chosen return date coincides with Bangladesh's Victory Day, marking the end of its 1971 war of independence.",
+    "claims": [
+      {
+        "fact": "Bangladesh's former prime minister Sheikh Hasina has said she plans to return home on 16 December, more than two years after a popular uprising forced her from power.",
+        "source_index": 12,
+        "excerpt": "Bangladesh's former prime minister Sheikh Hasina has said she plans to return home on 16 December, more than two years after a popular uprising forced her from power."
+      },
+      {
+        "fact": "Hasina, who has lived in exile in Delhi since August 2024, has asked the Bangladeshi government to fly her back to Dhaka, her spokesperson said.",
+        "source_index": 12,
+        "excerpt": "Hasina, who has lived in exile in Delhi since August 2024, has asked the Bangladeshi government to fly her back to Dhaka, her spokesperson said."
+      },
+      {
+        "fact": "Last year, a Bangladeshi court sentenced her to death in absentia for crimes against humanity over a deadly crackdown on student-led protests that ended her 15-year rule. She denies the charges.",
+        "source_index": 12,
+        "excerpt": "Last year, a Bangladeshi court sentenced her to death in absentia for crimes against humanity over a deadly crackdown on student-led protests that ended her 15-year rule. She denies the charges."
+      },
+      {
+        "fact": "Bangladesh's state minister for foreign affairs Humayun Kabir dismissed the prospect of Hasina returning on her own terms, saying she will be brought back in handcuffs.",
+        "source_index": 12,
+        "excerpt": "\"Sheikh Hasina will not be able to return to the country as an ordinary commercial passenger; she will be brought back in handcuffs,\" he told a press briefing on Tuesday."
+      },
+      {
+        "fact": "Hasina fled to India on 5 August 2024 as tens of thousands of protesters descended on Dhaka, and crowds stormed her official residence.",
+        "source_index": 12,
+        "excerpt": "Hasina fled to India on 5 August 2024 as tens of thousands of protesters descended on Dhaka, and crowds stormed her official residence."
+      },
+      {
+        "fact": "The UN estimates that up to 1,400 people were killed during the unrest that led to Hasina's ouster.",
+        "source_index": 12,
+        "excerpt": "The UN estimates that up to 1,400 people were killed during the unrest."
+      },
+      {
+        "fact": "Hasina's spokesperson Syed Mozammel Ali accused Bangladeshi authorities of forcing her into exile in violation of the country's constitution.",
+        "source_index": 12,
+        "excerpt": "On Tuesday, Hasina's spokesperson Syed Mozammel Ali accused Bangladeshi authorities of forcing her into exile in violation of the country's constitution."
+      },
+      {
+        "fact": "The choice of 16 December for Hasina's return is significant as Bangladesh celebrates Victory Day on that date, marking the end of its 1971 war of independence.",
+        "source_index": 12,
+        "excerpt": "The choice of date is significant. Bangladesh celebrates Victory Day on 16 December, marking the end of its 1971 war of independence from Pakistan."
+      }
+    ],
+    "source_urls": [
+      "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo?at_medium=RSS&at_campaign=rss"
+    ]
+  },
+  {
+    "story": "France's Prime Minister Sébastien Lecornu seeks parliamentary compromise on budget without deficit cuts",
+    "narration": "Sébastien Lecornu has sent a letter to parliamentarians proposing five themes of compromise on the 2027 budget. This move comes as the Prime Minister aims to reach a budget agreement without exceeding the government's deficit target of 5%. Earlier in November, the budget project was unanimously rejected by deputies and is now under examination by the Senate. The proposals seek to address concerns raised during the initial rejection and facilitate a consensus on the budget moving forward.",
+    "claims": [
+      {
+        "fact": "Sébastien Lecornu sent a letter to parliamentarians on November 23 proposing five themes of compromise on the 2027 budget.",
+        "source_index": 0,
+        "excerpt": "Sébastien Lecornu a proposé, dans un courrier envoyé aux parlementaires lundi 23 novembre et consulté par franceinfo, cinq thèmes de compromis sur le budget 2027"
+      },
+      {
+        "fact": "The Prime Minister seeks a budget compromise without exceeding the government's deficit target of 5%.",
+        "source_index": 0,
+        "excerpt": "à condition de ne pas dépasser la cible gouvernementale d'un déficit de 5%. \"L'absence de majorité absolue nous oblige à trouver une voie de passage\", écrit-il."
+      },
+      {
+        "fact": "The budget project was unanimously rejected by deputies in early November and is currently examined by the Senate.",
+        "source_index": 0,
+        "excerpt": "Rejeté début novembre à l'unanimité par les députés, le projet de budget de l'Etat est actuellement examiné par le Sénat."
+      }
+    ],
+    "source_urls": [
+      "https://www.franceinfo.fr/economie/budget/sebastien-lecornu-tend-la-main-aux-parlementaires-pour-un-compromis-sur-le-budget-sans-toucher-au-deficit_8297160.html#xtor=RSS-3-[lestitres]"
+    ]
+  },
+  {
+    "story": "EU migration pact achieves only 1,283 asylum relocations in first year, falling short of targets",
+    "narration": "Only 1,283 asylum seekers will be relocated between EU countries in 2026, the first year of the bloc's new migration rules. This number is a small fraction of the 669,000 people who applied for asylum in the EU in 2025. The Pact on Migration and Asylum's principle of \"mandatory solidarity\" has met resistance from most member states, which have repeatedly watered down the relocation mechanism. While the European Commission initially proposed relocating 30,000 asylum seekers from Italy, Spain, Greece, and Cyprus, only 562 have been transferred so far, all from Cyprus to Lithuania, Romania, Bulgaria, and France. A diplomat said further flights from Cyprus are scheduled before the end of the year, bringing the total to 1,283. In December 2025, EU interior ministers agreed on 21,000 relocations \"or other solidarity efforts\" and €420 million in financial contributions, scaling back the Commission's original proposal. Hungary and Slovakia refused to contribute anything, in an apparent breach of the mandatory solidarity principle that the Commission has yet to sanction. Cyprus is therefore the only frontline country from which asylum seekers have actually been relocated under the scheme.",
+    "claims": [
+      {
+        "fact": "Only 1,283 asylum seekers will be relocated between EU countries in 2026, the first year of the bloc's new migration rules.",
+        "source_index": 25,
+        "excerpt": "Only 1,283 asylum seekers will be relocated between EU countries in 2026, the first year of the bloc's new migration rules, Euronews has learned from EU and diplomatic sources."
+      },
+      {
+        "fact": "The Pact on Migration and Asylum's principle of \"mandatory solidarity\" has met resistance from most member states, which have repeatedly watered down the relocation mechanism.",
+        "source_index": 25,
+        "excerpt": "The Pact on Migration and Asylum's principle of \"mandatory solidarity\" has met resistance from most member states, which have repeatedly watered down the relocation mechanism, using a range of tactics to minimise their commitments to frontline countries."
+      },
+      {
+        "fact": "While the European Commission initially proposed relocating 30,000 asylum seekers from Italy, Spain, Greece and Cyprus, only 562 have been transferred so far, all from Cyprus to Lithuania, Romania, Bulgaria and France.",
+        "source_index": 25,
+        "excerpt": "While the European Commission initially proposed relocating 30,000 asylum seekers from Italy, Spain, Greece and Cyprus, only 562 have been transferred so far, all from Cyprus to Lithuania, Romania, Bulgaria and France."
+      },
+      {
+        "fact": "A diplomat said further flights from Cyprus are scheduled before the end of the year, bringing the total to 1,283.",
+        "source_index": 25,
+        "excerpt": "A diplomat said further flights from Cyprus are scheduled before the end of the year, bringing the total to 1,283."
+      },
+      {
+        "fact": "That is a tiny fraction of the 669,000 people who applied for asylum in the EU in 2025.",
+        "source_index": 25,
+        "excerpt": "That is a tiny fraction of the 669,000 people who applied for asylum in the EU in 2025."
+      },
+      {
+        "fact": "In December 2025, EU interior ministers agreed on 21,000 relocations \"or other solidarity efforts\" and €420 million in financial contributions, scaling back the Commission's original proposal.",
+        "source_index": 25,
+        "excerpt": "In December 2025, EU interior ministers agreed on 21,000 relocations \"or other solidarity efforts\" and €420 million in financial contributions, scaling back the Commission's original proposal."
+      },
+      {
+        "fact": "Hungary and Slovakia refused to contribute anything, in an apparent breach of the mandatory solidarity principle that the Commission has yet to sanction.",
+        "source_index": 25,
+        "excerpt": "Hungary and Slovakia refused to contribute anything, in an apparent breach of the mandatory solidarity principle that the Commission has yet to sanction."
+      },
+      {
+        "fact": "Cyprus is therefore the only frontline country from which asylum seekers have actually been relocated under the scheme.",
+        "source_index": 25,
+        "excerpt": "Cyprus is therefore the only frontline country from which asylum seekers have actually been relocated under the scheme."
+      }
+    ],
+    "source_urls": [
+      "https://www.euronews.com/2026/11/24/exclusive-eu-migration-pact-delivers-just-1283-asylum-relocations-in-first-year"
+    ]
+  },
+  {
+    "story": "Meta launches Muse AI assistant in UK to automate Christmas shopping amid reported glitches",
+    "narration": "Meta is launching its Muse AI assistant in the UK, encouraging users to try it on their apps and in stores. Muse has been popular in the US, ranking first and second on Google and Apple’s free app stores, with millions of downloads. The assistant can be used as a standalone app or within Meta’s WhatsApp messaging platform. Meta has partnered with British businesses including Marks & Spencer, Currys, Sainsbury’s and easyJet to help Muse navigate their websites. Reuters recently reported concerns from Meta employees about Muse’s performance, such as incorrect message reminders and random bank account balances appearing in messages. Meta said internal testing is crucial for safety and privacy, and most issues reported were due to a bug that has now been fixed.",
+    "claims": [
+      {
+        "fact": "Meta is launching its Muse AI assistant in the UK and is encouraging users to let it loose on their apps – and the high street.",
+        "source_index": 28,
+        "excerpt": "Mark Zuckerberg’s Meta is launching its Muse AI assistant in the UK and is encouraging users to let it loose on their apps – and the high street."
+      },
+      {
+        "fact": "Muse has been a hit in the US and is ranked first and second respectively on Google and Apple’s free app store, having been downloaded millions of times.",
+        "source_index": 28,
+        "excerpt": "Muse has been a hit in the US and is ranked first and second respectively on Google and Apple’s free app store, having been downloaded millions of times."
+      },
+      {
+        "fact": "Muse can be used as an app or directly within Meta’s WhatsApp messaging platform.",
+        "source_index": 28,
+        "excerpt": "Muse can be used as an app or directly within Meta’s WhatsApp messaging platform."
+      },
+      {
+        "fact": "Meta said it has signed deals with an array of British businesses – including Marks & Spencer, electrical retailer Currys, Sainsbury’s and easyJet – allowing Muse to navigate their websites more easily.",
+        "source_index": 28,
+        "excerpt": "Meta said it has signed deals with an array of British businesses – including Marks & Spencer, electrical retailer Currys, Sainsbury’s and easyJet – allowing Muse to navigate their websites more easily."
+      },
+      {
+        "fact": "Reuters reported last week that Meta employees had raised concerns about the app’s performance, including one staff member receiving a reminder to respond to a message from her sister on Signal, an encrypted messaging app.",
+        "source_index": 28,
+        "excerpt": "Reuters reported last week that Meta employees had raised concerns about the app’s performance, including one staff member receiving a reminder to respond to a message from her sister on Signal, an encrypted messaging app."
+      },
+      {
+        "fact": "In another example reported by Reuters, Muse delivered a message with random bank account balances in it.",
+        "source_index": 28,
+        "excerpt": "In another example reported by Reuters, Muse delivered a message with random bank account balances in it."
+      },
+      {
+        "fact": "Meta said internal testing is vital for product development and allows the company to implement safety and privacy protection before releasing anything publicly.",
+        "source_index": 28,
+        "excerpt": "Meta said internal testing is vital for product development and allows the company to implement safety and privacy protection before releasing anything publicly."
+      },
+      {
+        "fact": "It is understood the majority of problems flagged by Reuters related to a bug that has been fixed.",
+        "source_index": 28,
+        "excerpt": "It is understood the majority of problems flagged by Reuters related to a bug that has been fixed."
+      }
+    ],
+    "source_urls": [
+      "https://www.theguardian.com/technology/2026/nov/24/meta-launches-muse-uk-ai-agent-do-christmas-shopping"
+    ]
+  },
+  {
+    "story": "COP31 climate pact collapses as EU, UK and small nations reject deal lacking fossil fuel phase-out",
+    "narration": "COP31 concluded on Sunday without reaching a climate agreement after 44 hours of overtime following two weeks of negotiations. The final draft pact, proposed by co-hosts Türkiye and Australia, was rejected by the EU, the UK, and many small Pacific island states because it made no mention of fossil fuels. The draft did not include the 'transition away from fossil fuels' or TAFF, a key agreement from COP28 in Dubai. Additionally, a target of around €110 billion annually for climate adaptation finance by 2035 was removed. Oil-producing nations, led by Saudi Arabia, opposed explicit references to coal, oil, and gas. Over 130 countries demanded the final agreement reaffirm the commitment to transition away from fossil fuels. Ethiopia will host COP32 next year, facing similar unresolved issues.",
+    "claims": [
+      {
+        "fact": "COP31 ended on Sunday without a climate agreement after 44 hours of overtime on top of two weeks of negotiations.",
+        "source_index": 1,
+        "excerpt": "After 44 hours of overtime on top of two weeks of negotiations, COP31 ended on Sunday without a climate agreement."
+      },
+      {
+        "fact": "The EU, the UK and many small Pacific island states rejected a final draft pact that made no mention of fossil fuels.",
+        "source_index": 1,
+        "excerpt": "The so-called Antalya Pact failed after several countries, including the EU, the UK and many small Pacific island states, rejected a final draft that made no mention of fossil fuels – the leading cause of climate change."
+      },
+      {
+        "fact": "The pact proposed by co-hosts Türkiye and Australia did not refer to the 'transition away from fossil fuels', or TAFF, the landmark agreement reached at COP28 in Dubai.",
+        "source_index": 1,
+        "excerpt": "In fact, the pact proposed by co-hosts Türkiye and Australia did not even refer to the “transition away from fossil fuels”, or TAFF, the landmark agreement reached at COP28 in Dubai."
+      },
+      {
+        "fact": "A target of roughly €110 billion a year in climate adaptation finance by 2035 disappeared from the final draft.",
+        "source_index": 1,
+        "excerpt": "In the end, although developing nations asked for more money to protect themselves against worsening floods, droughts and other disasters, a target of roughly €110 billion a year in climate adaptation finance by 2035 disappeared from the final draft."
+      },
+      {
+        "fact": "Oil-producing nations, led by Saudi Arabia, opposed explicit references to coal, oil and gas in the pact.",
+        "source_index": 1,
+        "excerpt": "Oil-producing nations, led by Saudi Arabia, began to dig in their heels in opposition to explicit references to coal, oil and gas."
+      },
+      {
+        "fact": "More than 130 countries demanded that the final agreement reaffirm the commitment to transition away from fossil fuels made at COP28.",
+        "source_index": 1,
+        "excerpt": "More than 130 countries had demanded that the final agreement reaffirm the commitment to transition away from fossil fuels made at COP28."
+      },
+      {
+        "fact": "Ethiopia will host COP32 next year and will face many of the same unresolved disputes again.",
+        "source_index": 1,
+        "excerpt": "The breakdown in talks means that Ethiopia, which will host COP32 next year, will face many of the same unresolved disputes all over again."
+      }
+    ],
+    "source_urls": [
+      "https://www.euronews.com/2026/11/24/is-no-deal-better-than-a-bad-deal-why-some-see-hope-in-cop31s-collapse"
+    ]
+  },
+  {
+    "story": "AI adoption grows in Asia-Pacific businesses despite challenges in measuring returns",
+    "narration": "Businesses across the Asia-Pacific region report that their investments in artificial intelligence are paying off, with the technology helping boost productivity and revenue. A survey of 9,750 business leaders across ten markets—Australia, Indonesia, Japan, Malaysia, New Zealand, the Philippines, Singapore, South Korea, Thailand, and Vietnam—found that 58% of those using AI said their investments had already surpassed initial costs. However, only 12% expressed strong confidence in accurately measuring their return on investment. AI adoption is growing across all surveyed markets, with Australia leading at 61%, followed by Singapore at 59% and South Korea at 58%. Despite this growth, 48% of respondents identified a shortage of AI and digital skills as a significant barrier to further adoption. To address these challenges, the Asian Development Bank and South Korea have established a $20 million fund to support developing economies in adopting AI and improving digital infrastructure.",
+    "claims": [
+      {
+        "fact": "Businesses across Asia-Pacific say their investments in artificial intelligence are paying off, with the technology helping boost productivity and revenue.",
+        "source_index": 15,
+        "excerpt": "Businesses across Asia-Pacific say their investments in artificial intelligence are paying off, with the technology helping boost productivity and revenue."
+      },
+      {
+        "fact": "Some 58% of businesses using AI said their investments had already surpassed their initial costs, yet just 12% were very confident in their ability to accurately measure their return on investment.",
+        "source_index": 15,
+        "excerpt": "Some 58% of businesses using AI said their investments had already surpassed their initial costs, yet just 12% were very confident in their ability to accurately measure their return on investment, according to research conducted by Strand Partners for Amazon Web Services."
+      },
+      {
+        "fact": "The survey included 9,750 business leaders across 10 Asia-Pacific markets: Australia, Indonesia, Japan, Malaysia, New Zealand, the Philippines, Singapore, South Korea, Thailand and Vietnam.",
+        "source_index": 15,
+        "excerpt": "The survey included 9,750 business leaders across 10 Asia-Pacific markets: Australia, Indonesia, Japan, Malaysia, New Zealand, the Philippines, Singapore, South Korea, Thailand and Vietnam."
+      },
+      {
+        "fact": "AI adoption continued to expand across Asia-Pacific, with all 10 markets surveyed recording increases from the previous year.",
+        "source_index": 15,
+        "excerpt": "AI adoption continued to expand across Asia-Pacific, with all 10 markets surveyed recording increases from the previous year."
+      },
+      {
+        "fact": "Australia led the group with an adoption rate of 61%, followed by Singapore at 59% and South Korea at 58%.",
+        "source_index": 15,
+        "excerpt": "Australia led the group with an adoption rate of 61%, followed by Singapore at 59% and South Korea at 58%."
+      },
+      {
+        "fact": "A shortage of AI and digital skills remains a key barrier, cited by 48% of respondents as an obstacle to adoption or expansion.",
+        "source_index": 15,
+        "excerpt": "Still, businesses face significant obstacles to scaling AI investments. A shortage of AI and digital skills remains a key barrier, cited by 48% of respondents as an obstacle to adoption or expansion."
+      },
+      {
+        "fact": "The Asian Development Bank and South Korea established a $20 million fund to help developing economies adopt AI and address gaps in digital skills and infrastructure.",
+        "source_index": 15,
+        "excerpt": "The Asian Development Bank and South Korea established a $20 million fund to help developing economies adopt Al and address gaps in digital skills and infrastructure, according to an announcement by the bank earlier this month."
+      }
+    ],
+    "source_urls": [
+      "https://www.cnbc.com/2026/11/24/aws-asia-gains-roi.html"
+    ]
+  },
+  {
+    "story": "Australian government proposes whistleblower protections amid cricket ball tampering scandal",
+    "narration": "Draft laws proposed by the Coalition and the Greens aim to protect whistleblowers reporting corruption or misconduct in sports. The government's bill, introduced to parliament in August, is currently in the Senate and expected to be voted on this week. Under the draft legislation, whistleblowers would be protected if they provide information in good faith to law enforcement, a sporting body, or Sport Integrity Australia. The bill also introduces new offences criminalising behaviours like the manipulation of sporting events. Greens leader David Shoebridge has urged Labor to establish a dedicated whistleblower protection scheme for sport. Notably, Australian cricketers Steve Smith, David Warner, and Cameron Bancroft faced significant bans following the ball-tampering scandal.",
+    "claims": [
+      {
+        "fact": "Whistleblowers coming forward to report corruption or misconduct in sports would be protected under draft laws put forward by the Coalition and the Greens.",
+        "source_index": 20,
+        "excerpt": "Whistleblowers coming forward to report corruption or misconduct in sports would be protected under draft laws put forward by the Coalition and the Greens, in response to the fallout of the Australian cricket ball tampering scandal."
+      },
+      {
+        "fact": "The government’s bill, first introduced to parliament in August, is in the Senate and is expected to be voted on this week.",
+        "source_index": 20,
+        "excerpt": "The government’s bill, first introduced to parliament in August, well before Khawaja’s claims were published, is in the Senate and is expected to be voted on this week."
+      },
+      {
+        "fact": "The Greens leader, David Shoebridge, has called on Labor to establish a dedicated whistleblower protection scheme for sport.",
+        "source_index": 20,
+        "excerpt": "The Greens leader, David Shoebridge, has called on Labor to establish a dedicated whistleblower protection scheme for sport."
+      },
+      {
+        "fact": "A whistleblower would qualify for protection if information is communicated to law enforcement, a sporting body, or Sport Integrity Australia and was provided in “good faith”.",
+        "source_index": 20,
+        "excerpt": "A whistleblower would qualify for protection if information is communicated to law enforcement, a sporting body, or Sport Integrity Australia and was provided in “good faith”."
+      },
+      {
+        "fact": "The government’s national sport integrity offences draft legislation introduces new offences to criminalise certain behaviours, such as the manipulation of a sporting event.",
+        "source_index": 20,
+        "excerpt": "The government’s national sport integrity offences draft legislation introduces new offences to criminalise certain behaviours, such as the manipulation of a sporting event."
+      },
+      {
+        "fact": "Australian cricketers Steve Smith, David Warner and Cameron Bancroft were given significant bans as a result of the ball-tampering scandal.",
+        "source_index": 20,
+        "excerpt": "Australian cricketers Steve Smith, David Warner and Cameron Bancroft were given significant bans as a result of the ball-tampering scandal."
+      }
+    ],
+    "source_urls": [
+      "https://www.theguardian.com/australia-news/2026/nov/24/sports-whistleblowers-protected-proposed-laws-australian-cricket-ball-tampering-sandpapergate-ntwnfb"
+    ]
+  },
+  {
+    "story": "India faces warnings of deepening authoritarianism under Modi amid human rights concerns",
+    "narration": "A new report by Human Rights Watch concludes that Prime Minister Modi's Hindu nationalist government has systematically weakened institutions meant to protect human rights and democratic freedoms. The 95-page report, titled 'So What's This Democracy We're Talking About?: Modi's Authoritarian Playbook in India,' finds that the right-wing Bharatiya Janata Party-led (BJP) government is undermining parliamentary procedures, suppressing opposition, and weaponizing investigative agencies for political ends. The report also claims that the Election Commission of India and the Supreme Court, both independent bodies, failed to uphold fundamental freedoms, citing the elimination of millions of voter names from India's electoral rolls in a controversial exercise. Separately, Saurav Das, one of the co-conveners of India's political pressure group Cockroach Janta Party (CJP), said he was prevented from leaving New Delhi to deliver talks about the movement in the UK after immigration officers told him his passport had been \"flagged.\" In another incident, a man who was called into a police station for counselling over a family dispute allegedly pulled out a knife and went on a stabbing spree, injuring nine police officers in New Delhi.",
+    "claims": [
+      {
+        "fact": "Prime Minister Modi's Hindu nationalist government has \"systematically weakened\" institutions meant to protect human rights and democratic freedoms, a scathing new report by Human Rights Watch concluded.",
+        "source_index": 69,
+        "excerpt": "Prime Minister Modi's Hindu nationalist government has \"systematically weakened\" institutions meant to protect human rights and democratic freedoms, a scathing new report by Human Rights Watch concluded."
+      },
+      {
+        "fact": "In a 95-page report titled 'So What's This Democracy We're Talking About?: Modi's Authoritarian Playbook in India,' the watchdog found that the right-wing Bharatiya Janata Party-led (BJP) government is undermining parliamentary procedures, suppressing opposition and weaponzing investigative agencies for political ends.",
+        "source_index": 69,
+        "excerpt": "In a 95-page report titled 'So What's This Democracy We're Talking About?: Modi's Authoritarian Playbook in India,' the watchdog found that the right-wing Bharatiya Janata Party-led (BJP) government is undermining parliamentary procedures, suppressing opposition and weaponzing investigative agencies for political ends."
+      },
+      {
+        "fact": "The report further claimed the Election Commission of India and the Supreme Court — both independent bodies — failed to uphold fundamental freedoms, pointing to the elimination of millions of voter names from India's electoral rolls in a controversial exercise.",
+        "source_index": 69,
+        "excerpt": "The report further claimed the Election Commission of India and the Supreme Court — both independent bodies — failed to uphold fundamental freedoms, pointing to the elimination of millions of voter names from India's electoral rolls in a controversial exercise."
+      },
+      {
+        "fact": "Saurav Das, one of the co-conveners of India's political pressure group Cockroach Janta Party (CJP), said he was prevented from leaving New Delhi to deliver talks about the movement in the UK.",
+        "source_index": 69,
+        "excerpt": "Saurav Das, one of the co-conveners of India's political pressure group Cockroach Janta Party (CJP), said he was prevented from leaving New Delhi to deliver talks about the movement in the UK."
+      },
+      {
+        "fact": "Saurav Das said he was supposed to board a flight on Tuesday at 01:00 local time but was told by immigration officers that his passport had been \"flagged\".",
+        "source_index": 59,
+        "excerpt": "Saurav Das said he was supposed to board a flight on Tuesday at 01:00 local time (19:30 GMT on Monday) but was told by immigration officers that his passport had been \"flagged\"."
+      },
+      {
+        "fact": "A man who was called into a police station for counselling over a family dispute allegedly pulled out a knife and went on a stabbing spree, injuring nine police officers in New Delhi.",
+        "source_index": 69,
+        "excerpt": "A man who was called into a police station for counselling over a family dispute allegedly pulled out a knife and went on a stabbing spree, Indian media reported Tuesday. The 30-year-old reportedly walked into the station enraged that a complaint had been filed against him. When a police officer attempted to pacify him, he allegedly took out a knife and stabbed the officer, Indian Express reported. The man is then said to have gone on a stabbing spree inside the police station, injuring five officers before stealing a scooter to escape. After a police chase, he allegedly stabbed four more personnel before authorities were able to restrain him."
+      }
+    ],
+    "source_urls": [
+      "https://www.dw.com/en/india-report-warns-of-deepening-authoritarianism-under-modi/live-80027405?maca=en-rss-en-all-1573-xml-mrss",
+      "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss"
+    ]
+  }
+]
