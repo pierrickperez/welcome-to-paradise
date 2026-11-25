@@ -1,0 +1,455 @@
+[
+  {
+    "story": "US jury convicts Huawei of fraud and trade secret theft in criminal trial",
+    "narration": "Huawei has been convicted in New York on multiple federal criminal charges, including fraud, U.S. sanctions violations, and conspiracy to steal trade secrets. A federal jury found Huawei and three of its subsidiaries guilty of several offenses, such as bank and wire fraud and conspiracy to commit money laundering. The trial, which lasted about three months, involved Huawei Technologies and its subsidiaries. These charges were first made public in 2019, shortly after the arrest of Huawei's Chief Financial Officer, Meng Wanzhou, in Canada. Sentencing for Huawei and its subsidiaries is scheduled for September 14, 2027.",
+    "claims": [
+      {
+        "fact": "Huawei was convicted in New York on multiple federal criminal charges including fraud, U.S. sanctions violations, and conspiracy to steal trade secrets.",
+        "source_index": 47,
+        "excerpt": "Chinese technology giant Huawei was convicted Tuesday in New York on multiple federal criminal charges, including fraud, U.S. sanctions violations and conspiracy to steal trade secrets, following a three-month trial, according to the U.S. Department of Justice."
+      },
+      {
+        "fact": "A federal jury found Huawei and three of its subsidiaries guilty of multiple offenses including bank and wire fraud and conspiracy to commit money laundering.",
+        "source_index": 47,
+        "excerpt": "A federal jury found Huawei and three of its subsidiaries guilty of multiple offenses, including bank and wire fraud and conspiracy to commit money laundering, the Justice Department said in a statement."
+      },
+      {
+        "fact": "The sentencing for Huawei and its subsidiaries is scheduled for September 14, 2027.",
+        "source_index": 47,
+        "excerpt": "Huawei and its subsidiaries face potential financial penalties, including fines, forfeiture and restitution, with sentencing scheduled for Sept. 14, 2027, according to the Justice Department."
+      },
+      {
+        "fact": "The trial lasted about three months and involved Huawei Technologies and three of its subsidiaries.",
+        "source_index": 6,
+        "excerpt": "Il processo, durato circa tre mesi, ha riguardato anche le attività di Huawei in Iran e i rapporti con istituti bancari statunitensi. La sentenza ha riguardato Huawei Technologies e tre sue controllate."
+      },
+      {
+        "fact": "The charges against Huawei were first publicly disclosed in 2019, shortly after the arrest of CFO Meng Wanzhou in Canada.",
+        "source_index": 47,
+        "excerpt": "U.S. prosecutors first publicly disclosed criminal charges against Huawei in January 2019, a month after the company's chief financial officer, Meng Wanzhou, was arrested in Canada."
+      }
+    ],
+    "source_urls": [
+      "https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html",
+      "https://www.ansa.it/sito/notizie/topnews/2026/11/25/huawei-la-condanna-usa-e-senza-fondamento-giuridico-o-fattuale_6461d14e-4a84-4935-a1b2-37c6fd16ae7e.html"
+    ]
+  },
+  {
+    "story": "Ukraine claims attack on Russian ships in Benghazi kills two Libyan soldiers",
+    "narration": "Two Libyan soldiers have died from injuries sustained during a Ukrainian attack on Russian ships in Benghazi on 22 November 2026. The attack targeted the naval base of Benghazi and was described as a criminal attack by the eastern Libyan authorities. Ukrainian President Volodymyr Zelensky claimed responsibility for the attacks conducted near Benghazi on Sunday. According to Kiev, during the operation a corvette sank and a cargo ship was hit. Ukraine used seven domestically made maritime drones in the operation. The eastern Libyan authorities confirmed the deaths and condemned the attack as a treacherous Ukrainian aggression against the port of Benghazi. Ukraine's Foreign Minister Andrii Sybiha stated that Ukraine respects Libya's sovereignty and that the attack aimed to counter Russian aggression, not to harm Libya or its people.",
+    "claims": [
+      {
+        "fact": "Two Libyan soldiers died from injuries sustained during a Ukrainian attack on Russian ships in Benghazi on 22 November 2026.",
+        "source_index": 56,
+        "excerpt": "Deux militaires libyens ont succombé à leurs blessures, après les attaques revendiquées par l'Ukraine contre des navires russes à Benghazi, en Libye, le 22 novembre, ont annoncé les autorités de l'Est libyen, mercredi 25 novembre."
+      },
+      {
+        "fact": "The attack targeted the naval base of Benghazi and was described as a criminal attack by the eastern Libyan authorities.",
+        "source_index": 56,
+        "excerpt": "Ils sont \"tombés en martyrs des suites des blessures subies dans l'exercice de leur devoir national lors de l'attaque criminelle visant la base navale de Benghazi\", a-t-il ajouté."
+      },
+      {
+        "fact": "Ukrainian President Volodymyr Zelensky claimed responsibility for the attacks conducted on Sunday near Benghazi.",
+        "source_index": 56,
+        "excerpt": "Le président ukrainien, Volodymyr Zelensky, a revendiqué les attaques menées dimanche près de Benghazi"
+      },
+      {
+        "fact": "According to Kiev, during the operation a corvette sank and a cargo ship was hit.",
+        "source_index": 56,
+        "excerpt": "lors desquelles une corvette a coulé et un cargo a été touché selon Kiev."
+      },
+      {
+        "fact": "Ukraine used seven domestically made maritime drones in the operation.",
+        "source_index": 56,
+        "excerpt": "D'après lui, l'armée ukrainienne a utilisé sept drones maritimes de fabrication ukrainienne dans une \"opération exemplaire en réponse à la guerre russe\"."
+      },
+      {
+        "fact": "The eastern Libyan authorities confirmed the deaths and condemned the attack as a treacherous Ukrainian aggression against the port of Benghazi.",
+        "source_index": 65,
+        "excerpt": "The head of the eastern administration, Oussama Hamad, said the two men had died \"as a result of their injuries during the treacherous Ukrainian aggression against the port of Benghazi.\""
+      },
+      {
+        "fact": "Ukraine's Foreign Minister Andrii Sybiha stated that Ukraine respects Libya's sovereignty and that the attack aimed to counter Russian aggression, not to harm Libya or its people.",
+        "source_index": 65,
+        "excerpt": "\"Ukraine respects the sovereignty and territorial integrity of Libya. We emphasize that Ukraine's actions are aimed at countering Russian armed aggression and are not intended ‌to harm Libya or its people.\""
+      }
+    ],
+    "source_urls": [
+      "https://www.franceinfo.fr/monde/afrique/libye/deux-militaires-libyens-ont-succombe-a-leurs-blessures-apres-l-attaque-de-navires-russes-en-libye_8298696.html#xtor=RSS-3-[lestitres]",
+      "https://www.dw.com/en/libya-2-dead-after-ukrainian-attack-on-russian-warship-in-benghazi/a-80042348?maca=en-rss-en-all-1573-xml-mrss"
+    ]
+  },
+  {
+    "story": "China launches Shenzhou-24 mission to Tiangong space station with first foreign astronaut from Pakistan",
+    "narration": "China launched the Shenzhou-24 spacecraft with a Pakistani astronaut on board, marking the first time a foreign national has flown to its Tiangong space station. The spacecraft lifted off at 8:18 am local time (0018 GMT) on 25 November 2026, a Wednesday morning, from the Jiuquan launch center in the Gobi Desert using a Long March-2F rocket. The crew includes Tang Hongbo, Wu Yi, and Pakistani pilot Muhammad Zeeshan Ali, the first foreigner to fly on a Chinese crewed mission. The China Manned Space Agency described the launch as a \"complete success\" after the capsule separated from the rocket about ten minutes later and entered orbit. During the mission, the crew will conduct more than 90 scientific experiments and technology tests. Muhammad Zeeshan Ali, aged 40, is on a short-term mission and will return to Earth aboard Shenzhou-23 after completing an experiment involving photosynthetic cyanobacteria.",
+    "claims": [
+      {
+        "fact": "China launched the Shenzhou-24 spacecraft with a Pakistani astronaut on board, the first time a foreign national has flown to its Tiangong space station.",
+        "source_index": 33,
+        "excerpt": "China has launched the Shenzhou 24 spacecraft with a Pakistani astronaut on board, the first time a foreign national has flown to its Tiangong space station."
+      },
+      {
+        "fact": "The Shenzhou-24 spacecraft lifted off on a Long March-2F rocket at 8:18 am local time (0018 GMT) from the Jiuquan launch center in the Gobi Desert.",
+        "source_index": 85,
+        "excerpt": "The Shenzhou-24 spacecraft lifted off on a Long March-2F rocket at 8:18 am local time (0018 GMT) from the Jiuquan launch center in the Gobi Desert."
+      },
+      {
+        "fact": "The crew includes Tang Hongbo, Wu Yi, and Pakistani pilot Muhammad Zeeshan Ali, the first foreigner to fly on a Chinese crewed mission.",
+        "source_index": 85,
+        "excerpt": "Tang Hongbo is making his third trip to space. CCTV said he will become the first astronaut to board Tiangong three times. Wu Yi is on his first flight, as is Pakistani pilot Muhammad Zeeshan Ali, the first foreigner to fly on a Chinese crewed mission."
+      },
+      {
+        "fact": "The crew will carry out more than 90 scientific experiments and technology tests during the mission.",
+        "source_index": 33,
+        "excerpt": "The crew will carry out more than 90 scientific experiments and technology tests. according to China's state media reports."
+      },
+      {
+        "fact": "Muhammad Zeeshan Ali, 40, is on a short-term mission and will return to Earth aboard Shenzhou 23 after running an experiment on photosynthetic cyanobacteria.",
+        "source_index": 33,
+        "excerpt": "Ali, who is on a short-term mission, will run an experiment on photosynthetic cyanobacteria before returning to Earth aboard Shenzhou 23."
+      },
+      {
+        "fact": "The launch was called a \"complete success\" by the China Manned Space Agency after the capsule separated from the rocket about 10 minutes later and entered orbit.",
+        "source_index": 85,
+        "excerpt": "The China Manned Space Agency reported that the capsule separated from the rocket about 10 minutes later and entered orbit, and called the launch a \"complete success\"."
+      },
+      {
+        "fact": "The launch took place on 25 November 2026, with the crew lifting off on Wednesday morning.",
+        "source_index": 33,
+        "excerpt": "Muhammad Zeeshan Ali, 40, lifted off on Wednesday morning with Chinese crewmates Tang Hongbo, 51, and Wu Yi, 39, from the Jiuquan Satellite Launch Center in northwest China."
+      }
+    ],
+    "source_urls": [
+      "https://www.dw.com/en/china-launches-shenzhou-24-to-tiangong-station/a-80042281?maca=en-rss-en-all-1573-xml-mrss",
+      "https://www.euronews.com/2026/11/25/china-sends-first-foreign-astronaut-to-its-space-station-as-pakistani-joins-shenzhou-24-cr"
+    ]
+  },
+  {
+    "story": "UK warns companies of potential Russian sabotage threat in unusual public announcement",
+    "narration": "Britain’s Defence Ministry and MI5 have issued a warning to companies supporting Ukraine’s military, cautioning they may face sabotage attempts from Russia. The Ministry of Defence and the National Protective Security Authority stated that organisations involved in military procurement or supplying equipment to Ukraine could be targeted. The sabotage is said to involve proxy actors using low-sophistication methods such as arson. Russia’s embassy in London denied these claims, asserting that Russia has no plans or intentions to attack the UK. Last year, three British men were convicted for an arson attack on a warehouse storing Starlink satellite equipment bound for Ukraine, an act prosecutors linked to Russian military intelligence. The Ministry of Defence is holding closed-door security briefings with critical infrastructure and defence leaders, with Security Minister Dan Jarvis highlighting the seriousness of recent sabotage attempts across Europe.",
+    "claims": [
+      {
+        "fact": "Britain’s Defence Ministry and the country’s security service, known as MI5, are warning companies that support Ukraine’s military that they may face attempted sabotage from Russia.",
+        "source_index": 19,
+        "excerpt": "Britain’s Defence Ministry and the country’s security service, known as MI5, are warning companies that support Ukraine’s military that they may face attempted sabotage from Russia."
+      },
+      {
+        "fact": "The Ministry of Defence and the National Protective Security Authority said in an unusual public announcement on Tuesday: “If your organisation supports military procurement or supplies equipment to Ukraine’s armed forces, it could be a target.”",
+        "source_index": 19,
+        "excerpt": "If your organisation supports military procurement or supplies equipment to Ukraine’s armed forces, it could be a target,” the Ministry of Defence and the National Protective Security Authority said in an unusual public announcement on Tuesday."
+      },
+      {
+        "fact": "The warning described the sabotage activity as typically involving proxy actors using low-sophistication methods such as arson.",
+        "source_index": 19,
+        "excerpt": "This activity is typically characterised by the use of proxy actors employing low-sophistication sabotage methodologies, such as arson,” the warning said, urging companies to take action against security threats posed by what they described as operatives acting for Russia."
+      },
+      {
+        "fact": "Russia’s embassy in London denied the claims and said: “Russia has no plans, reasons or intentions to attack the UK.”",
+        "source_index": 19,
+        "excerpt": "Russia’s embassy in London denied such claims in a statement and said: “Russia has no plans, reasons or intentions to attack the UK.”"
+      },
+      {
+        "fact": "Last year, three British men were convicted for an arson attack on a warehouse storing Starlink satellite equipment bound for Ukraine, which prosecutors said was carried out by Russian military intelligence agents.",
+        "source_index": 19,
+        "excerpt": "Last year, three British men were convicted for an arson attack on a warehouse storing Starlink satellite equipment bound for Ukraine, which prosecutors said was carried out by Russian military intelligence agents."
+      },
+      {
+        "fact": "Britain’s Ministry of Defence said it was holding closed-door security briefings with leaders from the critical national infrastructure and defence sectors over the next two days to advise on security.",
+        "source_index": 19,
+        "excerpt": "Britain’s Ministry of Defence said it was holding closed-door security briefings with leaders from the critical national infrastructure and defence sectors over the next two days to advise on security."
+      },
+      {
+        "fact": "Security Minister Dan Jarvis said: “Recent sabotage attempts right across Europe demonstrate the seriousness of the threats we face.”",
+        "source_index": 19,
+        "excerpt": "Recent sabotage attempts right across Europe demonstrate the seriousness of the threats we face,” Security Minister Dan Jarvis said."
+      }
+    ],
+    "source_urls": [
+      "https://www.aljazeera.com/news/2026/11/25/uk-warns-companies-of-potential-russian-sabotage-threat?traffic_source=rss"
+    ]
+  },
+  {
+    "story": "Gambia holds presidential election amid economic hardship and calls for reform",
+    "narration": "The Gambia held a presidential election on December 5, 2026, with eight candidates contesting, including incumbent President Adama Barrow, who sought a third term. The country faces significant challenges, including an overall unemployment rate of 8.3 percent in 2025, with youth unemployment at 11.5 percent among those aged 15 to 35. Businesses have been severely affected by frequent electricity outages, with power cuts lasting up to 19 hours or more between August and October 2026. Independent sources reported that 1,603 Gambians died attempting irregular migration in 2024, and 893 in 2025, most at sea. Additionally, a special tribunal to prosecute alleged crimes committed under former President Jammeh is expected to begin hearings early in 2027.",
+    "claims": [
+      {
+        "fact": "The Gambia held a presidential election on December 5, 2026, with eight candidates including incumbent President Adama Barrow seeking a third term.",
+        "source_index": 11,
+        "excerpt": "Her experience reflects the pressures facing households and businesses as President Adama Barrow seeks a third term. He is one of eight candidates in the December 5 election, according to the Independent Electoral Commission."
+      },
+      {
+        "fact": "Unemployment in The Gambia was 8.3 percent overall in 2025, with youth unemployment (ages 15 to 35) at 11.5 percent.",
+        "source_index": 11,
+        "excerpt": "The 2025 Gambia Labour Force Survey puts overall unemployment at 8.3 percent, up from 7.6 percent in 2022–23. Among people aged 15 to 35, unemployment stands at 11.5 percent."
+      },
+      {
+        "fact": "Frequent electricity outages have severely disrupted businesses, with power cuts sometimes lasting 19 hours or longer between August and October 2026.",
+        "source_index": 11,
+        "excerpt": "Between August and October, she said, power cuts sometimes lasted 19 hours or longer."
+      },
+      {
+        "fact": "Independent sources reported that 1,603 Gambians died attempting irregular migration in 2024 and 893 in 2025, most at sea.",
+        "source_index": 11,
+        "excerpt": "In his end-of-mission statement, he said independent sources had reported that 1,603 Gambians died attempting irregular migration in 2024 and 893 in 2025, most of them at sea."
+      },
+      {
+        "fact": "A special tribunal to prosecute alleged crimes committed under former President Jammeh is expected to begin hearings early in 2027.",
+        "source_index": 11,
+        "excerpt": "A special tribunal to prosecute alleged crimes committed under Jammeh is expected to begin hearings early next year, Jome said."
+      }
+    ],
+    "source_urls": [
+      "https://www.aljazeera.com/news/2026/11/25/the-gambia-election-can-the-next-president-deliver-on-a-decade-of-promise?traffic_source=rss"
+    ]
+  },
+  {
+    "story": "Nvidia CEO Jensen Huang returns to company, apologizes and vows improvement amid investigation",
+    "narration": "Nvidia CEO Jensen Huang made a triumphant return to the semiconductor giant in an all-hands meeting Tuesday morning, apologizing to staff for his conduct during his previous stint at the company’s helm and vowing to do better this time around. The AI hardware leader resigned from the company on Nov. 12 amid mounting scrutiny about alleged romantic relationships with subordinates and Alice Huang, a former executive at Singaporean cloud computing company Megaspeed. Less than a week later, Nvidia’s board announced that Huang would return to the company — backed by input from senior levels of the United States government that essentially guaranteed Mr. Huang’s reinstatement poses no national security risk. Huang reportedly apologized to Nvidia employees on Tuesday, the day after returning to the company as chief executive, saying he made terrible mistakes and is now in therapy for 90 minutes per day. The company's board reinstated Huang on Monday in a shock U-turn. Harvey Jones, chairman of Nvidia's board, said Huang's return was in the best interests of stockholders, employees, partners, and customers. On Monday, former President Donald Trump said he spoke to the company's directors and convinced them to bring back Huang.",
+    "claims": [
+      {
+        "fact": "Nvidia CEO Jensen Huang made a triumphant return to the semiconductor giant in an all-hands meeting Tuesday morning, apologizing to staff for his conduct during his previous stint at the company’s helm and vowing to do better this time around.",
+        "source_index": 26,
+        "excerpt": "Nvidia CEO Jensen Huang made a triumphant return to the semiconductor giant in an all-hands meeting Tuesday morning, apologizing to staff for his conduct during his previous stint at the company’s helm and vowing to do better this time around."
+      },
+      {
+        "fact": "The AI hardware leader resigned from the company on Nov. 12 amid mounting scrutiny about alleged romantic relationships with subordinates and Alice Huang, a former executive at Singaporean cloud computing company Megaspeed.",
+        "source_index": 26,
+        "excerpt": "The AI hardware leader resigned from the company on Nov. 12 amid mounting scrutiny about alleged romantic relationships with subordinates and Alice Huang, a former executive at Singaporean cloud computing company Megaspeed."
+      },
+      {
+        "fact": "Less than a week later, Nvidia’s board announced that Huang would return to the company — backed by “input from senior levels of the United States government” that essentially guaranteed “Mr. Huang’s reinstatement poses no national security risk.”",
+        "source_index": 26,
+        "excerpt": "Less than a week later, Nvidia’s board announced that Huang would return to the company — backed by “input from senior levels of the United States government” that essentially guaranteed “Mr. Huang’s reinstatement poses no national security risk.”"
+      },
+      {
+        "fact": "Huang reportedly apologised to Nvidia employees on Tuesday, the day after returning to the company as chief executive, saying he made \"terrible mistakes\" and is now in therapy for 90 minutes per day.",
+        "source_index": 67,
+        "excerpt": "Huang reportedly apologised to Nvidia employees on Tuesday, the day after returning to the company as chief executive, saying he made \"terrible mistakes\" and is now in therapy for 90 minutes per day."
+      },
+      {
+        "fact": "The company's board reinstated Huang on Monday in a shock U-turn. Harvey Jones, chairman of Nvidia's board, said Huang's return was in the \"best interests of our stockholders, employees, partners and customers\".",
+        "source_index": 67,
+        "excerpt": "The company's board reinstated Huang on Monday in a shock U-turn. Harvey Jones, chairman of Nvidia's board, said Huang's return was in the \"best interests of our stockholders, employees, partners and customers\"."
+      },
+      {
+        "fact": "The board said it had received input from senior levels of the US government and was confident that Huang's reinstatement posed no national security risk.",
+        "source_index": 67,
+        "excerpt": "The board said it had received input from senior levels of the US government and was confident that Huang's reinstatement posed no national security risk."
+      },
+      {
+        "fact": "On Monday, Trump said he spoke to the company's directors and convinced them to bring back Huang.",
+        "source_index": 67,
+        "excerpt": "On Monday, Trump said he spoke to the company's directors and convinced them to bring back Huang."
+      }
+    ],
+    "source_urls": [
+      "https://www.nbcnews.com/business/business-news/jensen-huang-says-s-thankful-second-chance-nvidia-employee-meeting-rcna611235",
+      "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss"
+    ]
+  },
+  {
+    "story": "Senegal awarded 2025 AFCON title by Court of Arbitration for Sport; Morocco to challenge verdict",
+    "narration": "Senegal has been officially declared the 2025 Africa Cup of Nations champion following a ruling by the Court of Arbitration for Sport. However, the Moroccan Football Federation has announced it will challenge the verdict. Morocco is contesting the CAS decision, citing irregularities in the proceedings. The dispute centres on the awarding of the 2025 AFCON title, with both nations seeking recognition as champions.",
+    "claims": [
+      {
+        "fact": "Senegal is officially the 2025 AFCON champion.",
+        "source_index": 60,
+        "excerpt": "The Court of Arbitration for Sport has handed down its ruling: Senegal is officially the 2025 AFCON champion."
+      },
+      {
+        "fact": "The Moroccan Football Federation has announced that it will challenge the verdict.",
+        "source_index": 60,
+        "excerpt": "The Moroccan Football Federation has announced that it will challenge the verdict, citing irregularities in the proceedings."
+      },
+      {
+        "fact": "The Court of Arbitration for Sport handed down its ruling on the 2025 AFCON title.",
+        "source_index": 60,
+        "excerpt": "The Court of Arbitration for Sport has handed down its ruling: Senegal is officially the 2025 AFCON champion."
+      },
+      {
+        "fact": "Morocco is challenging the CAS verdict citing irregularities in the proceedings.",
+        "source_index": 60,
+        "excerpt": "The Moroccan Football Federation has announced that it will challenge the verdict, citing irregularities in the proceedings."
+      }
+    ],
+    "source_urls": [
+      "https://www.france24.com/en/tv-shows/sports/20261125-2025-afcon-cas-gives-title-to-senegal-as-morocco-vows-to-challenge-verdict"
+    ]
+  },
+  {
+    "story": "Australia’s inflation rate jumps to 4.9%, raising economic concerns",
+    "narration": "Australia's inflation rate rose to 4.9% in the year to October, up from 4.3%, according to the Australian Bureau of Statistics. The increase was driven by surging fuel costs, which climbed 6.3% in October and are about 33% higher over the year, and the end of electricity rebates, with prices 25% higher than a year ago. Building costs inflation also accelerated to 5.1%, while childcare, hairdressing, and insurance prices all rose by more than 5%. The Reserve Bank's preferred trimmed mean inflation measure increased to 3.8%, exceeding expectations. Despite this, the Reserve Bank of Australia is unlikely to raise interest rates at its December meeting. Economists anticipate inflation pressures will ease through 2027 as this year's shocks subside.",
+    "claims": [
+      {
+        "fact": "Australia's inflation rate surged to 4.9% in the year to October, up from 4.3%.",
+        "source_index": 63,
+        "excerpt": "Jim Chalmers has declared “a very serious moment for our economy”, after inflation surged to 4.9% in the year to October, from 4.3%, amid fears Australia could tip into recession next year."
+      },
+      {
+        "fact": "The Australian Bureau of Statistics said surging fuel costs and the end of electricity rebates drove the larger-than-expected lift in consumer prices.",
+        "source_index": 63,
+        "excerpt": "the Australian Bureau of Statistics on Wednesday said the “temporary shocks” of surging fuel costs and the end of electricity rebates drove the larger-than-expected lift in consumer prices."
+      },
+      {
+        "fact": "Fuel costs climbed by 6.3% in October, to be about 33% higher over the year.",
+        "source_index": 63,
+        "excerpt": "The latest ABS figures showed fuel costs climbed by 6.3% in October, to be about 33% higher over the year."
+      },
+      {
+        "fact": "Electricity prices were 25% higher than a year before, reflecting the end of government power bill subsidies.",
+        "source_index": 63,
+        "excerpt": "Electricity prices were 25% higher than a year before, reflecting the end of government power bill subsidies."
+      },
+      {
+        "fact": "The Reserve Bank’s preferred trimmed mean measure of inflation lifted to 3.8%, higher than the expected 3.6%.",
+        "source_index": 63,
+        "excerpt": "The Reserve Bank’s preferred trimmed mean measure of inflation – which takes out the most volatile prices – lifted to 3.8%. Economists had expected it to stay at 3.6%."
+      },
+      {
+        "fact": "Building costs inflation accelerated to 5.1% in the year to October, up from 4.7%.",
+        "source_index": 63,
+        "excerpt": "Building costs inflation accelerated to 5.1% in the year to October, from 4.7%, as project home builders passed on higher labour and material prices on to their customers."
+      },
+      {
+        "fact": "Childcare, hairdressing and insurance prices all climbed by more than 5% through the year.",
+        "source_index": 63,
+        "excerpt": "Childcare, hairdressing and insurance prices all climbed by more than 5% through the year."
+      },
+      {
+        "fact": "The Reserve Bank of Australia is unlikely to deliver a sixth interest rate hike at its next board meeting on 7-8 December.",
+        "source_index": 63,
+        "excerpt": "Despite evidence of the ongoing inflationary threat, analysts said the RBA would not be tempted to deliver a sixth interest rate hike at its next board meeting on 7-8 December."
+      },
+      {
+        "fact": "Economists expect inflation pressures to ease through 2027 as the shocks of this year ebb away.",
+        "source_index": 63,
+        "excerpt": "Economists remained confident that price pressures have peaked, and would ease through 2027 as the shocks of this year ebb away."
+      }
+    ],
+    "source_urls": [
+      "https://www.theguardian.com/business/2026/nov/25/inflation-rate-australia-october-figures"
+    ]
+  },
+  {
+    "story": "China-linked battery projects likely to receive UK funding despite security concerns",
+    "narration": "A number of battery projects linked to China are set to receive UK state subsidies despite growing concerns about foreign interference risks to Europe's energy systems. Ofgem, Great Britain's energy regulator, published a provisional shortlist in June for a new long-duration energy storage scheme. Eleven projects using low-cost lithium-ion batteries, some backed by developers relying on Chinese manufacturers, made the 16-strong shortlist. One developer, Field Energy, sources batteries from Envision Energy, linked to the Chinese Communist Party. A UK government spokesperson said energy security remains a priority, with investments subject to strict national security scrutiny.",
+    "claims": [
+      {
+        "fact": "A string of battery projects linked to China are expected to be granted UK state subsidies despite deepening fears over the risk of foreign interference they could pose to Europe’s energy systems.",
+        "source_index": 28,
+        "excerpt": "A string of battery projects linked to China are expected to be granted UK state subsidies despite deepening fears over the risk of foreign interference they could pose to Europe’s energy systems."
+      },
+      {
+        "fact": "Ofgem, Great Britain’s energy regulator, published a provisional shortlist for a new “long duration” energy storage scheme in June.",
+        "source_index": 28,
+        "excerpt": "Ofgem, Great Britain’s energy regulator, published a provisional shortlist for a new “long duration” energy storage scheme in June."
+      },
+      {
+        "fact": "The low cost of lithium-ion batteries meant 11 projects were able to outcompete homegrown renewable energy storage technologies to make Ofgem’s 16-strong shortlist in line for financial support.",
+        "source_index": 28,
+        "excerpt": "The low cost of lithium-ion batteries meant 11 projects were able to outcompete homegrown renewable energy storage technologies to make Ofgem’s 16-strong shortlist in line for financial support."
+      },
+      {
+        "fact": "The shortlisted projects include some backed by developers that routinely rely on Chinese battery makers, one of which was recently the subject of an “ethical hack” by a German cybersecurity company that claimed to have accessed hundreds of thousands of solar installations across Europe.",
+        "source_index": 28,
+        "excerpt": "The shortlisted projects include some backed by developers that routinely rely on Chinese battery makers, one of which was recently the subject of an “ethical hack” by a German cybersecurity company that claimed to have accessed hundreds of thousands of solar installations across Europe."
+      },
+      {
+        "fact": "Ofgem is expected to confirm the final projects selected for financial support in the coming weeks.",
+        "source_index": 28,
+        "excerpt": "The energy watchdog is expected to confirm the final projects selected for financial support in the coming weeks."
+      },
+      {
+        "fact": "Ofgem’s assessment criteria for its new battery support scheme have not adequately considered the security and economic benefits of backing British storage technologies over cheaper Chinese imports.",
+        "source_index": 28,
+        "excerpt": "senior industry sources have said that the regulator’s assessment criteria for its new battery support scheme have not adequately considered the security and economic benefits of backing British storage technologies over cheaper Chinese imports."
+      },
+      {
+        "fact": "Field Energy is behind five projects on the shortlist and has typically sourced its battery technology from Envision Energy, one of six companies closely linked to the Chinese Communist party according to US senators.",
+        "source_index": 28,
+        "excerpt": "Field Energy is behind five projects on the shortlist and has typically sourced its battery technology from Envision Energy, one of six companies closely linked to the Chinese Communist party according to US senators."
+      },
+      {
+        "fact": "Statera had three projects shortlisted, including one pumped hydro power project and two lithium-ion batteries, and in the past sourced batteries from Envision, as well as the Chinese solar and battery maker Sungrow.",
+        "source_index": 28,
+        "excerpt": "Statera had three projects shortlisted, including one pumped hydro power project and two lithium-ion batteries, and in the past sourced batteries from Envision, as well as the Chinese solar and battery maker Sungrow."
+      },
+      {
+        "fact": "A UK government spokesperson said: “The security of our energy system is our priority and we are taking action to build secure and resilient battery supply chains and reduce vulnerabilities, while investment in the UK’s energy sector is subject to the highest levels of national security scrutiny.”",
+        "source_index": 28,
+        "excerpt": "A UK government spokesperson said: “The security of our energy system is our priority and we are taking action to build secure and resilient battery supply chains and reduce vulnerabilities, while investment in the UK’s energy sector is subject to the highest levels of national security scrutiny.”"
+      }
+    ],
+    "source_urls": [
+      "https://www.theguardian.com/business/2026/nov/25/china-battery-projects-uk-funding-security-warnings"
+    ]
+  },
+  {
+    "story": "Xiamen Airlines to purchase 50 Boeing jets in $7.4 billion deal",
+    "narration": "Xiamen Airlines has agreed to purchase 50 Boeing 737-8 aircraft, with a combined catalogue price of approximately $7.4 billion. The planes are scheduled for delivery in batches between 2031 and 2034. China Southern, which owns a 55% stake in Xiamen Airlines, stated that the purchase will support the airline's planned relocation to the new Xiamen Xiang'an International Airport and the expansion of its route network. The transaction remains subject to shareholder and relevant Chinese government approvals.",
+    "claims": [
+      {
+        "fact": "Xiamen Airlines had agreed to purchase 50 Boeing 737-8 aircraft with a combined catalog price of approximately $7.4 billion.",
+        "source_index": 31,
+        "excerpt": "China Southern Airlines said in a filing late Tuesday that its subsidiary Xiamen Airlines had agreed to purchase 50 Boeing 737-8 aircraft with a combined catalog price of approximately $7.4 billion."
+      },
+      {
+        "fact": "The aircraft are scheduled to be delivered in batches between 2031 and 2034.",
+        "source_index": 31,
+        "excerpt": "The aircraft are scheduled to be delivered in batches between 2031 and 2034, with the purchase financed through a combination of internal funds and external financing, the filing showed."
+      },
+      {
+        "fact": "China Southern owns a 55% stake in Xiamen Airlines.",
+        "source_index": 31,
+        "excerpt": "China Southern, which owns a 55% stake in Xiamen Airlines, said the actual purchase price would be lower than the combined list price because of discounts offered by Boeing."
+      },
+      {
+        "fact": "The transaction remains subject to shareholder and relevant Chinese government approvals.",
+        "source_index": 31,
+        "excerpt": "The transaction remains subject to shareholder and relevant Chinese government approvals."
+      },
+      {
+        "fact": "China Southern said the purchase would support Xiamen Airlines' planned relocation to the new Xiamen Xiang'an International Airport and the expansion of its route network.",
+        "source_index": 31,
+        "excerpt": "China Southern said the purchase would support Xiamen Airlines' planned relocation to the new Xiamen Xiang'an International Airport and the expansion of its route network."
+      }
+    ],
+    "source_urls": [
+      "https://www.cnbc.com/2026/11/25/china-xiamen-boeing-deal.html"
+    ]
+  },
+  {
+    "story": "Nearly six decades after killing, Canadian authorities identify suspect in cold case",
+    "narration": "Canadian authorities have identified Michael Joseph Moore as responsible for the 1968 death of 16-year-old Jacqueline Dunleavy. Dunleavy was last seen on the evening of January 9, 1968, leaving her job at a variety store in London, Ontario. She was found dead at a school 90 minutes later, with a head injury and strangulation as the cause of death. Moore, who was 25 at the time, had moved to Canada from Ireland in 1967. Officials say if Moore were alive today, he would have been arrested and charged in connection with Dunleavy's death.",
+    "claims": [
+      {
+        "fact": "Canadian authorities identified Michael Joseph Moore as the man responsible for the 1968 death of Jacqueline “Jacky” Dunleavy, 16.",
+        "source_index": 58,
+        "excerpt": "Michael Joseph Moore, who died in 2018, was responsible for the 1968 death of Jacqueline “Jacky” Dunleavy, 16, according to the London Police Service in Ontario."
+      },
+      {
+        "fact": "Jacqueline Dunleavy was last seen on the evening of January 9, 1968, leaving her job at a variety store in London, Ontario.",
+        "source_index": 58,
+        "excerpt": "The high school sophomore was last seen on the evening of Jan. 9, 1968, leaving her job at a variety store in London, roughly 120 miles northeast of Detroit."
+      },
+      {
+        "fact": "Dunleavy was found dead at a school 90 minutes after she was last seen, with a head injury and cause of death determined to be strangulation.",
+        "source_index": 58,
+        "excerpt": "Dunleavy was found dead at a school 90 minutes later, the police service said. She had a head injury, according to the authorities, and her cause of death was determined to be strangulation."
+      },
+      {
+        "fact": "Moore was 25 years old at the time of Dunleavy’s death and had moved to Canada from Ireland in 1967.",
+        "source_index": 58,
+        "excerpt": "Moore, who was 25 at the time, had moved to Canada from Ireland in 1967, authorities said."
+      },
+      {
+        "fact": "If Moore were alive today, he would have been arrested and charged in connection with Dunleavy’s death.",
+        "source_index": 58,
+        "excerpt": "If Moore was alive today, the agency said in a statement, he would have been arrested and charged in connection with the teen’s death."
+      }
+    ],
+    "source_urls": [
+      "https://www.nbcnews.com/world/canada/nearly-6-decades-teen-was-killed-leaving-job-canada-authorities-know-rcna611227"
+    ]
+  }
+]
