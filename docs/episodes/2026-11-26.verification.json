@@ -1,0 +1,458 @@
+[
+  {
+    "story": "EU leaders meet in Brussels to resolve future budget and Ukraine aid",
+    "narration": "EU leaders met in Brussels for an extraordinary summit to discuss the future budget for the 27 member states and aid to Ukraine. The initial budget proposal for 2028 to 2034 was set at 2,000 billion euros but has been revised down several times, with the latest version cutting over 200 billion euros. Included in the budget is an additional 100 billion euros in aid for Ukraine, which remains a key point in the discussions. German Chancellor Friedrich Merz has threatened to veto the budget unless all member states agree to participate in financing Ukraine. Meanwhile, the European Commission has proposed a 45 billion euro support loan, backed by joint debt, to assist Ukraine's economy and armed forces. The summit aims to reach consensus on these financial matters amid ongoing challenges in the region.",
+    "claims": [
+      {
+        "fact": "The EU leaders met in Brussels on 26 and 27 November 2026 for an extraordinary summit to advance on the future budget of the 27 and aid to Ukraine.",
+        "source_index": 8,
+        "excerpt": "Les chefs d'Etat et de gouvernement des Vingt-Sept se retrouvent à Bruxelles, jeudi 26 et vendredi 27 novembre, pour un sommet extraordinaire censé débloquer les très âpres discussions sur le futur budget de l'Union européenne."
+      },
+      {
+        "fact": "The initial EU budget proposal was set at 2,000 billion euros for seven years (2028-2034) but has been revised down several times, with the latest version cutting more than 200 billion euros.",
+        "source_index": 8,
+        "excerpt": "Fixé au départ à 2 000 milliards d'euros pour sept ans (2028-2034), il a déjà été revu plusieurs fois à la baisse, la dernière version présentée samedi intégrant un coup de rabot de plus de 200 milliards d'euros."
+      },
+      {
+        "fact": "The EU budget includes 100 billion euros additional aid for Ukraine, which is linked to the budget discussions.",
+        "source_index": 8,
+        "excerpt": "L'Ukraine est liée aux discussions sur le budget européen car celui-ci inclut 100 milliards d'euros supplémentaires pour Kiev."
+      },
+      {
+        "fact": "German Chancellor Friedrich Merz has threatened to veto the EU budget if all 27 member states do not participate in financing Ukraine.",
+        "source_index": 61,
+        "excerpt": "Their request has enraged German Chancellor Friedrich Merz, who has threatened to veto the budget if support for Ukraine is not agreed by all 27 member states."
+      },
+      {
+        "fact": "The European Commission proposed a 45 billion euro support loan backed by joint debt to help Ukraine's economy and armed forces.",
+        "source_index": 61,
+        "excerpt": "The European Commission has tabled a €45 billion support loan backed by joint debt to keep the country's economy afloat and its armed forces in the fight."
+      }
+    ],
+    "source_urls": [
+      "https://www.franceinfo.fr/monde/europe/union-europeenne/direct-sommet-europeen-les-dirigeants-de-l-ue-reunis-a-bruxelles-pour-avancer-sur-le-futur-budget-des-27-et-l-aide-a-l-ukraine_8300823.html#xtor=RSS-3-[lestitres]",
+      "https://www.euronews.com/2026/11/26/eu-budget-and-ukraine-aid-headed-for-collision-at-turbulent-summit"
+    ]
+  },
+  {
+    "story": "North Korea's Kim Jong Un calls for nuclear arsenal expansion and wider use of tactical nuclear weapons",
+    "narration": "North Korean leader Kim Jong Un has called for strengthening the country's nuclear arsenal and expanding the use of tactical nuclear weapons across multiple domains. His remarks came after a working visit to facilities involved in nuclear material production and weapons research. Kim linked the development of these weapons to North Korea sharing a border with what he described as its \"most dangerous, hostile state,\" an apparent reference to South Korea. He reiterated that North Korea's status as a nuclear-armed state is irreversible, dismissing \"denuclearization rhetoric\" and stating that its nuclear status \"will never change.\" Kim also accused the United States of encouraging neighbouring allies to acquire nuclear-powered submarines and pursue nuclear sharing and joint use of nuclear weapons. During his visit, Kim toured two nuclear material production plants, including one newly opened and another being expanded, as well as a nuclear-powered equipment production base and a nuclear research institute. He emphasised the urgent deployment of low-yield battlefield nuclear weapons across multiple domains, citing the border danger with South Korea.",
+    "claims": [
+      {
+        "fact": "Kim Jong Un called for bolstering the country's nuclear arsenal and expanding the use of tactical nuclear weapons across multiple domains.",
+        "source_index": 15,
+        "excerpt": "North Korean leader Kim Jong Un called for bolstering the country's nuclear arsenal and expanding the use of tactical nuclear weapons across multiple domains, state media reported Thursday"
+      },
+      {
+        "fact": "Kim's comments followed a working visit Wednesday to facilities involved in nuclear material production and weapons research.",
+        "source_index": 15,
+        "excerpt": "Kim's comments followed a working visit Wednesday to facilities involved in nuclear material production and weapons research, according to the Korean Central News Agency."
+      },
+      {
+        "fact": "Kim directly linked the development of those weapons to North Korea \"sharing a border with its most dangerous, hostile state,\" an apparent reference to South Korea.",
+        "source_index": 15,
+        "excerpt": "Kim directly linked the development of those weapons to North Korea \"sharing a border with its most dangerous, hostile state,\" an apparent reference to South Korea."
+      },
+      {
+        "fact": "Kim reiterated that North Korea's status as a nuclear-armed state was irreversible, dismissing \"denuclearization rhetoric\" and saying its nuclear status \"will never change.\"",
+        "source_index": 15,
+        "excerpt": "Kim reiterated that North Korea's status as a nuclear-armed state was irreversible, dismissing \"denuclearization rhetoric\" and saying its nuclear status \"will never change.\""
+      },
+      {
+        "fact": "Kim accused the U.S. of encouraging neighboring allies to acquire nuclear-powered submarines, pursuing nuclear sharing and the joint use of nuclear weapons.",
+        "source_index": 15,
+        "excerpt": "Citing what he portrayed as growing threats from Washington and its allies, Kim accused the U.S. of encouraging neighboring allies to acquire nuclear-powered submarines, pursuing nuclear sharing and the joint use of nuclear weapons."
+      },
+      {
+        "fact": "Kim visited two nuclear material production plants on Wednesday, one newly opened and the other being expanded, and toured a nuclear-powered equipment production base and a nuclear research institute.",
+        "source_index": 41,
+        "excerpt": "According to the state media, Kim visited two nuclear material production plants on Wednesday, one newly opened and the other being expanded. He also toured a nuclear-powered equipment production base and a nuclear research institute."
+      },
+      {
+        "fact": "Kim called for the urgent deployment of low-yield battlefield nuclear weapons across multiple domains, citing the danger on the border with South Korea.",
+        "source_index": 41,
+        "excerpt": "He also called for the urgent deployment of low-yield battlefield nuclear weapons across multiple domains, citing the danger on the border with South Korea."
+      },
+      {
+        "fact": "Kim said North Korea's production capacity for nuclear material is being steadily expanded and tactical weapons should be used in different areas and for different missions.",
+        "source_index": 73,
+        "excerpt": "Kim said North Korea's production capacity for nuclear material is being steadily expanded. He said tactical weapons should be used in different areas and for different missions, citing the danger from a hostile state on his border"
+      }
+    ],
+    "source_urls": [
+      "https://www.cnbc.com/2026/11/26/north-korea-kim-nuclear-weapons-expansion.html",
+      "https://www.euronews.com/2026/11/26/north-koreas-kim-vows-to-build-more-nuclear-weapons-after-ignoring-trumps-overture",
+      "https://www.dw.com/en/kim-jong-un-tours-nuclear-material-sites-urges-wider-use-of-tactical-nuclear-weapons/a-80055887?maca=en-rss-en-all-1573-xml-mrss"
+    ]
+  },
+  {
+    "story": "US announces new tariffs on multiple countries including China, Brazil condemns the move",
+    "narration": "The United States has announced a new set of tariffs affecting many of its major trading partners, including China, the European Union, and 12 other jurisdictions. China faces the highest tariff rate of up to 40%, followed by Vietnam at up to 35%, with others subject to rates of 20% or 25%. Brazil has strongly condemned the US tariff proposals, describing them as unacceptable and a unilateral action within ongoing bilateral negotiations. Brazilian President Luiz Inacio Lula da Silva's office expressed particular concern over higher import taxes on raw and refined sugar, as well as a new 10% tariff on aircraft, which impacts the Brazilian manufacturer Embraer. The Brazilian government has not ruled out reciprocal measures in response to the tariffs. These new US tariffs could come into effect as early as January and may increase costs for US carriers purchasing Embraer jets, especially amid rising jet fuel prices.",
+    "claims": [
+      {
+        "fact": "The US has announced a fresh raft of tariffs hitting many of the country's biggest trading partners including China, the European Union, and 12 other jurisdictions.",
+        "source_index": 63,
+        "excerpt": "The US has announced a fresh raft of tariffs as President Donald Trump pushes ahead with his signature trade policy. The new taxes charged on imports to America are set to hit many of the country's biggest trading partners - China, the European Union and 12 other jurisdictions, including Japan, South Korea and Taiwan."
+      },
+      {
+        "fact": "China is facing the highest tariff rate of up to 40%, followed by Vietnam at up to 35%, with others facing either 20% or 25%.",
+        "source_index": 63,
+        "excerpt": "China is facing the highest tariff rate of up to 40%, followed by Vietnam at up to 35%, with others facing either 20% or 25%."
+      },
+      {
+        "fact": "Brazilian President Luiz Inacio Lula da Silva's office said Brazil will not yield to such threats and condemned the US tariff proposals as unacceptable.",
+        "source_index": 63,
+        "excerpt": "\"Brazil will not yield to such threats,\" President Luiz Inacio Lula da Silva's office said."
+      },
+      {
+        "fact": "Brazil's government stated the unilateral US tariff decision is an unacceptable action within the ongoing bilateral negotiating process and expressed outrage at the new tariffs.",
+        "source_index": 20,
+        "excerpt": "Brazil’s government said on Wednesday: “Brazil will not yield to this type of threat”, adding in its statement that the “unilateral decision constitutes an unacceptable action within the framework of the ongoing bilateral negotiating process”."
+      },
+      {
+        "fact": "Brazil voiced particular indignation at US proposals for higher import taxes on raw and refined sugar and a new 10% tariff on aircraft, affecting Embraer.",
+        "source_index": 20,
+        "excerpt": "It voiced particular indignation at US proposals for higher import taxes for raw and refined sugar and a new 10% tariff on aircraft, a change that would hit Embraer, Brazil’s largest aircraft maker."
+      },
+      {
+        "fact": "Brazilian President Lula's office said Brazil was not ruling out reciprocal measures in response to the US tariffs.",
+        "source_index": 51,
+        "excerpt": "Brazil was not ruling out “reciprocal measures”, Lula’s office said in a statement on Wednesday after the US proposed a 10 percent tariff on finished aircraft made by Brazilian planemaker Embraer."
+      },
+      {
+        "fact": "The new US tariffs could take effect as early as January and may raise the price US carriers pay for Embraer jets amid rising jet fuel prices.",
+        "source_index": 51,
+        "excerpt": "The tariffs, which could take effect as early as January, could raise the price US carriers pay for Embraer jets at a time when they are already grappling with a surge in jet fuel prices due to the US war on Iran."
+      }
+    ],
+    "source_urls": [
+      "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+      "https://www.aljazeera.com/news/2026/11/26/brazil-blasts-unacceptable-new-us-tariff-proposals?traffic_source=rss"
+    ]
+  },
+  {
+    "story": "Judge blocks FCC's early review of ABC broadcast licenses, citing free speech concerns",
+    "narration": "A federal judge has blocked the Trump administration from moving to review all local broadcast licenses held by ABC. U.S. District Court Judge Loren AliKhan issued a preliminary injunction on Wednesday blocking the FCC's early review of ABC licenses. The FCC began an early license review of ABC stations in April 2026, despite licenses not expiring until 2028. ABC and its corporate parent, the Walt Disney Co., serve six of the 10 largest markets in the U.S., including New York, Los Angeles, and Houston. The FCC cited concerns around ABC's diversity, equity, and inclusion efforts as the reason behind the early license renewal. Judge AliKhan wrote that the FCC chair appeared to have taken 'marching orders' from President Trump's rhetoric and stated that early license renewal proceedings create a risk sufficient to chill a broadcaster of ordinary firmness. ABC alleged that Trump and FCC Chair Brendan Carr made comments intended to chill their protected speech, escalating since the 2024 presidential election. ABC hailed the ruling as 'an important victory for the First Amendment.'",
+    "claims": [
+      {
+        "fact": "A federal judge has blocked the Trump administration from moving to review all local broadcast licenses held by ABC.",
+        "source_index": 18,
+        "excerpt": "A federal judge has blocked President Trump and his administration from taking action to challenge the ABC television network's broadcast licenses, finding it to be an unconstitutional punishment for satire, commentary and news coverage that Trump doesn't like."
+      },
+      {
+        "fact": "U.S. District Court Judge Loren AliKhan issued a preliminary injunction on Wednesday blocking the FCC's early review of ABC licenses.",
+        "source_index": 18,
+        "excerpt": "In her preliminary injunction filed Wednesday, U.S. District Court Judge Loren AliKhan found that the federal agency's early reviews represented retaliation for speech the Trump administration resented."
+      },
+      {
+        "fact": "ABC and its corporate parent, the Walt Disney Co., serve six of the 10 largest markets in the U.S., including New York, Los Angeles, and Houston.",
+        "source_index": 18,
+        "excerpt": "ABC and its corporate parent, the Walt Disney Co., serve six of the 10 largest markets in the U.S., including New York, Los Angeles, and Houston."
+      },
+      {
+        "fact": "The FCC began an early license review of ABC stations in April 2026, despite licenses not expiring until 2028.",
+        "source_index": 69,
+        "excerpt": "In April, FCC Chairman Brendan Carr ordered an early license review for eight ABC stations, even though their licenses were not set to expire until 2028."
+      },
+      {
+        "fact": "Judge AliKhan wrote that the FCC chair appeared to have taken 'marching orders' from President Trump's rhetoric.",
+        "source_index": 69,
+        "excerpt": "On Wednesday, US District Judge Loren AliKhan said the FCC chair appeared to have taken \"marching orders\" from Trump's rhetoric."
+      },
+      {
+        "fact": "The judge stated that early license renewal proceedings create a risk sufficient to chill a broadcaster of ordinary firmness.",
+        "source_index": 55,
+        "excerpt": "\"Given the extreme, indeed existential, nature of the possible penalty Plaintiffs face—loss of their broadcast licenses—the court concludes that early license renewal proceedings create a risk sufficient to chill a broadcaster of ordinary firmness.\""
+      },
+      {
+        "fact": "The FCC cited concerns around ABC's diversity, equity and inclusion efforts as the reason behind the early license renewal.",
+        "source_index": 55,
+        "excerpt": "The government agency cited concerns around ABC's diversity, equity and inclusion efforts as the reason behind the start of the early renewal — years ahead of their scheduled expiration."
+      },
+      {
+        "fact": "ABC alleged that Trump and FCC Chair Brendan Carr made comments intended to chill their protected speech, escalating since the 2024 presidential election.",
+        "source_index": 55,
+        "excerpt": "ABC had alleged that Trump and Carr have been making comments \"intended to chill their protected speech,\" and that such comments have escalated since the 2024 presidential election."
+      },
+      {
+        "fact": "ABC hailed the ruling as 'an important victory for the First Amendment.'",
+        "source_index": 18,
+        "excerpt": "ABC hailed the ruling in a statement as \"an important victory for the First Amendment.\""
+      }
+    ],
+    "source_urls": [
+      "https://www.npr.org/2026/11/26/nx-s1-6000576/fcc-disney-abc-first-amendment-trump-brendan-carr",
+      "https://www.dw.com/en/us-court-blocks-regulator-s-early-review-of-abc-s-broadcast-licenses/a-80056181?maca=en-rss-en-all-1573-xml-mrss",
+      "https://www.cnbc.com/2026/11/26/fcc-disney-abc-stations-judge-block.html"
+    ]
+  },
+  {
+    "story": "Iraqi court to sentence 20 French nationals for Islamic State membership",
+    "narration": "An Iraqi court is set to deliver verdicts on Thursday for 20 French nationals accused of joining the Islamic State. These men are part of a group of 47 French citizens who have been on trial in Iraq since September, having been transferred from Syria last year. The court has already sentenced 15 individuals to life imprisonment and one to 15 years in prison. Among those awaiting verdicts is Adrian Guihal, who has been linked to the 2016 Nice attack. During their hearings, most suspects pleaded guilty and expressed regret over their involvement with the group. Iraq is prosecuting them under its anti-terrorism law, which applies to those who joined IS, regardless of whether their activities took place in Iraq or Syria. In February, Iraq received over 5,700 IS detainees from more than 60 countries, transferred by the United States from Syria.",
+    "claims": [
+      {
+        "fact": "An Iraqi court is due to issue verdicts on Thursday for 20 French nationals accused of joining the Islamic State.",
+        "source_index": 24,
+        "excerpt": "An Iraqi court is due to issue verdicts on Thursday for 20 French nationals accused of joining the Islamic State, including a suspect linked to the 2016 Nice attack, as Baghdad steps up prosecutions of thousands of alleged jihadists transferred from Syria."
+      },
+      {
+        "fact": "The 20 men awaiting verdicts are among 47 French citizens being tried in Iraq since September after they were brought from Syria last year.",
+        "source_index": 24,
+        "excerpt": "The 20 men awaiting verdicts on Thursday are among 47 French citizens being tried in Iraq since September after they were brought from Syria last year."
+      },
+      {
+        "fact": "The court had already sentenced 15 of the group to life imprisonment, while one person received a 15-year prison term.",
+        "source_index": 24,
+        "excerpt": "The court had already sentenced 15 of the group to life imprisonment, while one person received a 15-year prison term."
+      },
+      {
+        "fact": "Among those awaiting verdicts is Adrian Guihal, linked to the 2016 Nice attack.",
+        "source_index": 24,
+        "excerpt": "Among those awaiting verdicts are Adrian Guihal, known as the person who voiced the IS claim for the 2016 Nice attack when a driver rammed a truck into Bastille Day crowds, killing 86 people."
+      },
+      {
+        "fact": "During their hearings, most of the suspects pleaded guilty and expressed regret over joining the group.",
+        "source_index": 24,
+        "excerpt": "During their hearings, most of the suspects pleaded guilty, and all expressed regret over joining the group, with some asking to be repatriated to France."
+      },
+      {
+        "fact": "Iraq is prosecuting the suspects under its anti-terrorism law for joining IS, regardless of whether they operated in Iraq or Syria.",
+        "source_index": 24,
+        "excerpt": "However Iraq is prosecuting them under its anti-terrorism law for joining IS, regardless of whether they operated in Iraq or Syria."
+      },
+      {
+        "fact": "In February, Iraq received more than 5,700 IS detainees from over 60 countries after the United States transferred them from Syria.",
+        "source_index": 24,
+        "excerpt": "In February, Iraq also received more than 5,700 IS detainees from over 60 countries after the United States transferred them from Syria, following years of detention in Kurdish prisons."
+      }
+    ],
+    "source_urls": [
+      "https://www.france24.com/en/middle-east/20261126-iraqi-court-to-sentence-20-french-nationals-for-is-group-membership"
+    ]
+  },
+  {
+    "story": "China circumvents US chip sanctions using Southeast Asia offshore computing capacity",
+    "narration": "Since February 2025, over €510 billion has been invested in AI infrastructure across Malaysia, reflecting the country's growing role in the sector. By the end of 2026, around 24% of China's total computing power was sourced remotely from overseas data centres, with three-quarters located in Southeast Asia. Chinese firms rent access to US chips installed in Malaysian systems to develop AI models abroad. Alibaba Cloud operates six data centres in Malaysia, the latest opening in November 2026. In mid-2025, the US threatened a 25% tariff on Malaysian imports to prevent circumvention of chip export controls. In November 2026, the US Bureau of Industry and Security introduced new rules to stop foreign actors from using advanced computing power based on US technology.",
+    "claims": [
+      {
+        "fact": "Since February 2025, some €510 billion ($559 billion) have been invested into AI infrastructure across Malaysia.",
+        "source_index": 1,
+        "excerpt": "Some €510 billion ($559 billion) have been invested into AI infrastructure across Malaysia since February 2025."
+      },
+      {
+        "fact": "By the end of 2026, about 24% of China's total computing power came from remote access to overseas data centers, three-quarters of which were in Southeast Asia.",
+        "source_index": 1,
+        "excerpt": "It estimated that by the end of the year about 24% of China's total computing power came from remote access to overseas data centers, three-quarters of which were in Southeast Asia."
+      },
+      {
+        "fact": "Chinese companies rent access to US chips installed in systems in Malaysia to develop their AI models from abroad.",
+        "source_index": 1,
+        "excerpt": "They can thus rent access to US chips that have been installed in systems in Malaysia, for example, and develop their AI models from abroad."
+      },
+      {
+        "fact": "Alibaba Cloud operates six data centers in Malaysia, with the most recent opening on November 19, 2026.",
+        "source_index": 1,
+        "excerpt": "The Chinese giant Alibaba Cloud currently operates six data centers in Malaysia — three in Johor and three in the greater Kuala Lumpur region, with the most recent one opening on November 19."
+      },
+      {
+        "fact": "In mid-2025, the US threatened to impose an additional 25% tariff on Malaysia imports to prevent circumvention of export controls on chips.",
+        "source_index": 1,
+        "excerpt": "In mid-2025, the US threatened to impose an additional 25% tariff on Malaysia imports \"to prevent circumvention of export controls on chips,\" according to the Chinese consulting firm Equal Ocean."
+      },
+      {
+        "fact": "On November 2026, the US Bureau of Industry and Security issued new rules to prevent foreign actors from leveraging advanced computing power based on US technology.",
+        "source_index": 1,
+        "excerpt": "On the same day that US President Donald Trump met with his Chinese counterpart Xi Jinping at the APEC meeting in Shenzhen, China last week, the Bureau of Industry and Security, an agency of the US Department of Commerce, issued new rules with regard to remote access to advanced AI chips and servers."
+      }
+    ],
+    "source_urls": [
+      "https://www.dw.com/en/how-chinese-companies-circumvent-chips-sanctions-in-southeast-asia/a-80041002?maca=en-rss-en-all-1573-xml-mrss"
+    ]
+  },
+  {
+    "story": "UK to invest £9.5m in Ukrainian windfarm to support war-hit energy infrastructure",
+    "narration": "Britain is set to invest £9.5 million in constructing a 200 megawatt windfarm to support Ukraine's energy reserves. The project, capable of powering 300,000 Ukrainian households, will be built and operated by Elementum Energy, a UK-registered company with offices in London, Kyiv, and Odesa. This initiative forms part of the UK government's broader commitment, which has already provided over £770 million to rebuild Ukraine's power system. Ed Miliband stated that the investment aims to deliver significant new renewable energy generation, enhance Ukraine's energy independence, and aid its recovery. The announcement comes amid ongoing Russian strikes on Ukraine's energy infrastructure, including a recent attack on a thermal power plant near Odesa.",
+    "claims": [
+      {
+        "fact": "Britain will invest £9.5m to build a 200 megawatt windfarm in an undisclosed location to bolster Ukraine’s energy reserves.",
+        "source_index": 52,
+        "excerpt": "Ed Miliband, the UK foreign secretary, said Britain would invest £9.5m to build a 200 megawatt windfarm in an undisclosed location to bolster Ukraine’s energy reserves as its war with Russia approaches the five-year mark."
+      },
+      {
+        "fact": "The windfarm project is capable of powering 300,000 Ukrainian households.",
+        "source_index": 52,
+        "excerpt": "Britain will add to its multimillion pound investments in rebuilding Ukraine’s energy system by funding a windfarm project capable of powering 300,000 Ukrainian households."
+      },
+      {
+        "fact": "The UK government has offered more than £770m to rebuild Ukraine’s power system.",
+        "source_index": 52,
+        "excerpt": "The UK government has offered more than £770m to rebuild Ukraine’s power system, which has included emergency support and long-term investments in renewables and nuclear generation to cut the country’s reliance on gas."
+      },
+      {
+        "fact": "The new windfarm is expected to be built and operated by Elementum Energy, a company registered in the UK with offices in London, Kyiv and Odesa.",
+        "source_index": 52,
+        "excerpt": "The new windfarm is expected to be built and operated by Elementum Energy, a company registered in the UK with offices in London, Kyiv and Odesa."
+      },
+      {
+        "fact": "Ed Miliband said the investment would help deliver major new renewable generation, strengthen Ukraine’s energy independence and support its recovery.",
+        "source_index": 52,
+        "excerpt": "Miliband said the money would help deliver “major new renewable generation, strengthen Ukraine’s energy independence and support its recovery, while deepening the economic partnership between our two countries”."
+      },
+      {
+        "fact": "The announcement came as Russia’s strikes on Ukraine’s energy system continue, including a recent attack on a thermal power plant near Odesa.",
+        "source_index": 52,
+        "excerpt": "He set out the plans to help rebuild Ukraine’s electricity infrastructure within days of Moscow’s renewed attacks on the country’s energy system. On Wednesday, Russian strikes on a thermal power plant near Odesa in the south-west of Ukraine led to power, heating and water supply outages in parts of the city."
+      }
+    ],
+    "source_urls": [
+      "https://www.theguardian.com/business/2026/nov/26/uk-to-invest-95m-in-ukraine-windfarm-war-hit-energy-system"
+    ]
+  },
+  {
+    "story": "France's health expenditure ranks fourth in Europe, representing 11% of GDP",
+    "narration": "Health expenditure data for 2024 reveals that in France, nearly 90% of medical costs are covered by Social Security and complementary health insurance, with households contributing around 10%. This out-of-pocket spending is notably lower than the European average of 16%. The figures include both public spending by Social Security and private spending by complementary health insurance, mutuals, and households. Despite this, France has fewer than four doctors per thousand inhabitants, which is less than Italy's six and Greece's slightly more than six. These statistics provide insight into the structure of healthcare financing and medical staffing across Europe.",
+    "claims": [
+      {
+        "fact": "The data on health expenditure is from the year 2024, the latest year with reliable and validated data.",
+        "source_index": 40,
+        "excerpt": "L’Organisation de coopération et de développement économique donne les chiffres de 2024, dernière année de référence qui permet de traiter l’ensemble des données fiables, recoupées et validées."
+      },
+      {
+        "fact": "Health expenditures in France include both public spending by Social Security and private spending by complementary health insurance, mutuals, and households.",
+        "source_index": 40,
+        "excerpt": "Ce sont à la fois les dépenses publiques, prises en charge par la Sécurité sociale, et les dépenses privées, payées, elles, par les complémentaires santé, les mutuelles, les assurances et les ménages eux-mêmes avec le reste à charge sur les médicaments ou les soins."
+      },
+      {
+        "fact": "Social Security and complementary health insurance finance nearly 90% of medical expenses in France, with households paying about 10%.",
+        "source_index": 40,
+        "excerpt": "En France, la Sécurité sociale et les complémentaires santé financent près de 90% des dépenses médicales. Les ménages paient donc un reste à charge correspondant à 10% du total."
+      },
+      {
+        "fact": "The average out-of-pocket health expenditure in Europe is 16%, higher than France's 10%.",
+        "source_index": 40,
+        "excerpt": "La moyenne européenne est de 16%. Nos voisins européens doivent donc débourser plus pour se soigner."
+      },
+      {
+        "fact": "France has fewer than four doctors per thousand inhabitants, compared to six in Italy and slightly more than six in Greece.",
+        "source_index": 40,
+        "excerpt": "Selon l’Organisation de coopération et de développement économique, la pénurie de médecins reste importante en France : on y compte moins de quatre praticiens pour mille habitants, contre six en Italie et un peu plus de six en Grèce."
+      }
+    ],
+    "source_urls": [
+      "https://www.franceinfo.fr/replay-radio/le-brief-eco/la-france-quatrieme-en-europe-en-matiere-de-depenses-de-sante_8278487.html#xtor=RSS-3-[lestitres]"
+    ]
+  },
+  {
+    "story": "SpaceX and Elon Musk pledge to donate shares to active Trump Accounts",
+    "narration": "SpaceX has announced it will donate one share of its class A stock to every active Trump Account, with CEO Elon Musk personally matching this gift. Musk stated the SpaceX shares will be transferred next month, while his personal shares will be transferred when his lockup expires in June next year. Previously, SpaceX Chief Operating Officer Gwynne Shotwell agreed to gift over 2 million shares to Trump Accounts, expected to be distributed in December. Trump Accounts, or 530A accounts, are available to any U.S. child under 18 with a Social Security number. Since their launch on July 4, contributions have exceeded $1 billion, with total deposits now over $9 billion.",
+    "claims": [
+      {
+        "fact": "SpaceX said it will donate one share of the company's class A stock to every active Trump Account.",
+        "source_index": 7,
+        "excerpt": "SpaceX said Wednesday it will donate one share of the company's class A stock to every active Trump Account, and CEO Elon Musk would personally match the gift."
+      },
+      {
+        "fact": "CEO Elon Musk would personally match the gift of one share of SpaceX stock to every active Trump Account.",
+        "source_index": 7,
+        "excerpt": "SpaceX said Wednesday it will donate one share of the company's class A stock to every active Trump Account, and CEO Elon Musk would personally match the gift."
+      },
+      {
+        "fact": "Musk said the share from SpaceX would be transferred next month, and his personal share would be transferred when his lockup expires in June next year.",
+        "source_index": 7,
+        "excerpt": "Musk said in a social media post on X on Thursday that the share from SpaceX would be transferred next month, without providing further details. \"The share directly from me will be transferred when my lockup expires in June next year,\" he added."
+      },
+      {
+        "fact": "SpaceX Chief Operating Officer Gwynne Shotwell had previously agreed to make a personal gift of over 2 million SpaceX shares to Trump Accounts, with eligible account holders expected to receive them in December.",
+        "source_index": 7,
+        "excerpt": "SpaceX Chief Operating Officer Gwynne Shotwell had previously agreed to make a personal gift of over 2 million SpaceX shares to Trump Accounts, with eligible account holders expected to receive them in December."
+      },
+      {
+        "fact": "Trump Accounts, also known as 530A accounts, are open to any U.S. child under 18 with a Social Security number.",
+        "source_index": 7,
+        "excerpt": "Trump Accounts, also known as 530A accounts, are open to any U.S. child under 18 with a Social Security number."
+      },
+      {
+        "fact": "Since the July 4 launch, families and friends have collectively contributed more than $1 billion to Trump Accounts, with total deposits now sitting at more than $9 billion.",
+        "source_index": 7,
+        "excerpt": "Since the July 4 launch, families and friends have collectively contributed more than $1 billion to Trump Accounts. Total deposits now sit at more than $9 billion, CNBC first reported."
+      }
+    ],
+    "source_urls": [
+      "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html"
+    ]
+  },
+  {
+    "story": "Australian senator Leah Blyth defects from Coalition to One Nation party",
+    "narration": "Leah Blyth, a Liberal senator for South Australia, has defected to One Nation, becoming the party's first upper-house member for the state. Liberal shadow minister Anne Ruston criticised Blyth's move, saying she put her own interests ahead of voters and noted Blyth was never elected but appointed to fill a casual vacancy. One Nation deputy leader Barnaby Joyce responded to claims his party is a haven for defectors. Shadow treasurer Tim Wilson described Blyth's defection as disloyal and said he learned of it through the newspapers, like everyone else.",
+    "claims": [
+      {
+        "fact": "Leah Blyth, a Liberal senator for South Australia, has defected to One Nation and will become the party’s first upper-house member for the state.",
+        "source_index": 4,
+        "excerpt": "Leah Blyth, a Liberal senator for South Australia, has defected to One Nation and will become the party’s first upper-house member for the state."
+      },
+      {
+        "fact": "The Liberal shadow minister Anne Ruston has issued a scathing statement on Blyth’s move, claiming her fellow South Australian “put her own interests ahead of” voters.",
+        "source_index": 4,
+        "excerpt": "The Liberal shadow minister Anne Ruston has issued a scathing statement on Blyth’s move, claiming her fellow South Australian “put her own interests ahead of” voters."
+      },
+      {
+        "fact": "Ruston noted Blyth was “never elected to the Senate seat she holds”, and was instead appointed by the Liberals – the party she just quit – to fill a casual vacancy, and hadn’t faced the ballot box.",
+        "source_index": 4,
+        "excerpt": "She noted Blyth was “never elected to the Senate seat she holds”, and was instead appointed by the Liberals – the party she just quit – to fill a casual vacancy, and hadn’t faced the ballot box."
+      },
+      {
+        "fact": "One Nation’s deputy leader, Barnaby Joyce, has responded to his former Nationals colleague Matt Canavan’s argument that his party is “turncoat town” by hoovering up defectors from other parties.",
+        "source_index": 4,
+        "excerpt": "One Nation’s deputy leader, Barnaby Joyce, has responded to his former Nationals colleague Matt Canavan’s argument that his party is “turncoat town” by hoovering up defectors from other parties."
+      },
+      {
+        "fact": "The shadow treasurer, Tim Wilson, says his former colleague Leah Blyth’s defection to One Nation is disloyal and blindsided Coalition MPs who branded her a “turncoat”.",
+        "source_index": 4,
+        "excerpt": "The shadow treasurer, Tim Wilson, says his former colleague Leah Blyth’s defection to One Nation is disloyal. Blyth’s move blindsided Coalition MPs who branded her a “turncoat”"
+      },
+      {
+        "fact": "Wilson says he discovered the South Australian senator’s move by reading about it “in the newspaper like everyone else”.",
+        "source_index": 4,
+        "excerpt": "Wilson says he discovered the South Australian senator’s move by reading about it “in the newspaper like everyone else”"
+      }
+    ],
+    "source_urls": [
+      "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb"
+    ]
+  },
+  {
+    "story": "South Korea central bank raises interest rates amid booming AI chip exports",
+    "narration": "South Korea’s central bank has increased its key interest rate by 0.25 percentage points to 3.25 percent. The Bank of Korea attributed the decision to strong domestic growth and inflation exceeding its 2 percent target, with the inflation rate at 2.8 percent in October. The country’s exports surged by 94 percent year-on-year in October, reaching $115.3 billion, largely due to booming AI chip exports. Reflecting this positive outlook, the Bank of Korea has raised its GDP growth forecasts to 3.9 percent for 2026 and 4.1 percent for 2027.",
+    "claims": [
+      {
+        "fact": "South Korea’s central bank raised its key interest rate by 0.25 percent to 3.25 percent on Thursday, 2026-11-26.",
+        "source_index": 27,
+        "excerpt": "The Bank of Korea (BOK) on Thursday raised its key rate by 0.25 percent to 3.25 percent, citing strong domestic growth and above-target inflation."
+      },
+      {
+        "fact": "The Bank of Korea cited strong domestic growth and above-target inflation as reasons for the rate hike.",
+        "source_index": 27,
+        "excerpt": "The Bank of Korea (BOK) on Thursday raised its key rate by 0.25 percent to 3.25 percent, citing strong domestic growth and above-target inflation."
+      },
+      {
+        "fact": "South Korea’s exports rose 94 percent year-on-year in October to reach $115.3bn, driven by booming AI chip exports.",
+        "source_index": 27,
+        "excerpt": "South Korea’s exports rose 94 percent year-on-year in October to reach $115.3bn, following an all-time monthly record of $120.9bn in September."
+      },
+      {
+        "fact": "The Bank of Korea raised its GDP growth forecasts for 2026 and 2027 to 3.9 percent and 4.1 percent respectively.",
+        "source_index": 27,
+        "excerpt": "Citing expectations of sustained growth in exports and investment, the BOK raised its gross domestic product (GDP) growth forecasts for 2026 and 2027 to 3.9 percent and 4.1 percent, respectively."
+      },
+      {
+        "fact": "South Korea’s inflation rate stood at 2.8 percent in October, above the BOK’s 2 percent target.",
+        "source_index": 27,
+        "excerpt": "South Korea’s inflation rate stood at 2.8 percent in October, above the BOK’s 2 percent target."
+      }
+    ],
+    "source_urls": [
+      "https://www.aljazeera.com/economy/2026/11/26/south-koreas-central-bank-hikes-interest-rates-raises-gdp-growth-forecast?traffic_source=rss"
+    ]
+  }
+]
